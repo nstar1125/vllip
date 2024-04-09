@@ -16,7 +16,9 @@ import numpy as np
 
 from models import factory
 from utils import to_log, set_log
-from pretrain_trainer import train_vllip
+from pretrain_trainer import train_model
+
+import warnings
 
 def start_training(cfg):
     # only multiprocessing_distributed is supported
@@ -65,8 +67,8 @@ def task_worker(gpu, ngpus_per_node, cfg):
         = factory.get_training_stuff(cfg, gpu, ngpus_per_node) #vllip, movienet_loader. movienet_sampler, cos-sim, sgd
     
     # training function
-    if cfg['model']['SSL'] == 'vllip':
-        train_func = train_vllip
+    if cfg['model']['SSL'] == 'VLLIP' or cfg['model']['SSL'] == 'SCRL':
+        train_func = train_model
     else:
         raise NotImplementedError
     
@@ -117,15 +119,15 @@ def save_checkpoint(cfg, state, is_best, filename='checkpoint.pth.tar'):
     
 def get_config():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config', type=str, default='./vllip/config/vllip_pretrain.yaml')
+    parser.add_argument('--config', type=str, default='./config/vllip_pretrain.yaml')
     args = parser.parse_args()
     cfg = yaml.safe_load(open(args.config, encoding='utf8'))
     cfg = set_log(cfg)
     shutil.copy(args.config, cfg['log']['dir'])
     return cfg
 
-
 def main():
+    warnings.filterwarnings(action='ignore')
     cfg = get_config()
     start_training(cfg)
 

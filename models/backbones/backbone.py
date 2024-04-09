@@ -13,8 +13,7 @@ from einops import rearrange
 class clip_backbone(nn.Module):
     ''' CLIP backbone before attention pooling.'''
 
-    def __init__(self, batch_size, model_name = 'RN50', visual_projs_path = './pretrain/'):
-        self.batch_size = batch_size #추가
+    def __init__(self, model_name = 'RN50', visual_projs_path = './pretrain/'):
         '''
         Args:
             model_name: availabe models = ['RN50', 'RN101', 'RN50x4', 'RN50x64']
@@ -477,7 +476,7 @@ class clip_vit(nn.Module):
         return image_features
 
 class CLIPViTFM(nn.Module):
-    def __init__(self, batch_size, model_name='ViT-B/32', size=224):
+    def __init__(self, model_name='ViT-B/32', size=224):
         super().__init__()
 
         if model_name == 'ViT-B/32':
@@ -491,7 +490,7 @@ class CLIPViTFM(nn.Module):
             self.num_heads = 16
 
         self.model, _ = clip.load(model_name)
-        self.batch_size = batch_size #추가
+
         #self.img_init_conv = nn.Conv2d(9, 3, kernel_size=1, stride=1, padding=0).to(self.device)
         #self.init_bn = nn.BatchNorm2d(3)
         #self.init_relu = nn.ReLU(True)

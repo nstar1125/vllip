@@ -1,5 +1,5 @@
 model:
-  SSL: vllip
+  SSL: VLLIP
   Positive_Selection: cluster
   cluster: True
   cluster_num: 24
@@ -10,16 +10,16 @@ model:
   fix_pred_lr: null
   SyncBatchNorm: False
   resume: 
+  type: train
 
 MoCo:
-  dim: 2048
-  k: 65536
+  dim: 1024
+  k: 32768
   m: 0.999
   t: 0.07
   mlp: True
   neighborhood_size: 8
   multi_positive: True 
-
 
 data:
   name: movienet
@@ -41,7 +41,7 @@ optim:
   bs: 256
   momentum: 0.9
   optimizer: sgd
-  lr: 0.00001
+  lr: 0.01
   lr_cos: True
   schedule: # works when lr_cos is False
     - 50

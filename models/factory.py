@@ -1,4 +1,6 @@
+import models.backbones.visual.resnet as resnet
 from models.core.VLLIP import VLLIP
+from models.core.SCRL_MoCo import SCRL
 from data.movienet_data import get_train_loader
 import torch, os
 from utils import to_log
@@ -10,34 +12,52 @@ from GroundingDINO.groundingdino.util.slconfig import SLConfig
 from GroundingDINO.groundingdino.util.utils import clean_state_dict, get_phrases_from_posmap
 
 # Segment anything
-from SAM import (
-    sam_model_registry,
-    sam_hq_model_registry,
-    SamPredictor
-)
+from mobile_sam import sam_model_registry
 
 #CLIP
 from models.backbones.backbone import CLIPViTFM
+import clip
 
 def get_model(cfg):
     model = None
-    device = "cuda"
-    dino = load_dino(cfg["model"]["dino_config_path"], cfg["model"]["dino_pretrain"], device=device)
-    sam = SamPredictor(sam_model_registry["vit_h"](checkpoint=cfg["model"]["sam_pretrain"]).to(device))
-    clip = CLIPViTFM(model_name='ViT-B/32').to(device)
     
-    assert clip is not None
+    if cfg['model']['SSL'] == 'SCRL':
+        encoder = resnet.encoder_resnet50
+        assert encoder is not None
+        
+        model = SCRL(
+            base_encoder                = encoder,
+            dim                         = cfg['MoCo']['dim'], #512, 1024, 2048
+            K                           = cfg['MoCo']['k'],  #32768 #16384 #65536
+            m                           = cfg['MoCo']['m'], 
+            T                           = cfg['MoCo']['t'], 
+            mlp                         = cfg['MoCo']['mlp'], 
+            encoder_pretrained_path     = cfg['model']['backbone_pretrain'],
+            multi_positive              = cfg['MoCo']['multi_positive'],
+            positive_selection          = cfg['model']['Positive_Selection'],
+            cluster_num                 = cfg['model']['cluster_num'],
+            soft_gamma                  = cfg['model']['soft_gamma'],
+        ) #SCRL 모델 불러오기
+    elif cfg['model']['SSL'] == 'VLLIP':
+        dino = load_dino(cfg["model"]["dino_config_path"], cfg["model"]["dino_pretrain"], device=f'cuda:{torch.cuda.current_device()}')
+        sam = sam_model_registry["vit_t"](checkpoint=cfg["model"]["sam_pretrain"]).cuda()
 
-    if cfg['model']['SSL'] == 'vllip':
-            model = VLLIP(
-                dino=dino,
-                sam=sam,
-                clip=clip
-            ) # VLLIP 모델 불러오기
+        model = VLLIP(
+                dino_path                   = dino,
+                sam_path                    = sam,
+                type                        = cfg['model']['type'], 
+                dim                         = cfg['MoCo']['dim'], 
+                K                           = cfg['MoCo']['k'], 
+                m                           = cfg['MoCo']['m'], 
+                T                           = cfg['MoCo']['t'], 
+                multi_positive              = cfg['MoCo']['multi_positive'],
+                positive_selection          = cfg['model']['Positive_Selection'],
+                cluster_num                 = cfg['model']['cluster_num'],
+                soft_gamma                  = cfg['model']['soft_gamma'],
+        ) # VLLIP 모델 불러오기
     else:
         raise NotImplementedError
     to_log(cfg, 'model init: ' + cfg['model']['SSL'], True)
-
     if cfg['model']['SyncBatchNorm']: #false
         model = torch.nn.SyncBatchNorm.convert_sync_batchnorm(model)
     to_log(cfg, 'SyncBatchNorm: on' if cfg['model']['SyncBatchNorm'] else 'SyncBatchNorm: off', True)
@@ -50,8 +70,10 @@ def get_loader(cfg):
 
 def get_criterion(cfg):
     criterion = None
-    if cfg['model']['SSL'] == 'vllip':
-        criterion = torch.nn.CosineSimilarity(dim=1) #torch.nn.CrossEntropyLoss()
+    if cfg['model']['SSL'] == 'VLLIP':
+        criterion = torch.nn.CrossEntropyLoss() #criterion = torch.nn.CosineSimilarity(dim=1)
+    elif cfg['model']['SSL'] == 'SCRL':
+        criterion = torch.nn.CrossEntropyLoss()
     else:
         raise NotImplementedError
     to_log(cfg, 'criterion init: ' + str(criterion), True)
@@ -60,7 +82,9 @@ def get_criterion(cfg):
 def get_optimizer(cfg, model):
     optimizer = None
     if cfg['optim']['optimizer'] == 'sgd':
-        if cfg['model']['SSL'] == 'vllip':
+        if cfg['model']['SSL'] == 'VLLIP':
+            optim_params = model.parameters()
+        elif cfg['model']['SSL'] == 'SCRL':
             optim_params = model.parameters()
         else:
             raise NotImplementedError
@@ -94,7 +118,7 @@ def get_training_stuff(cfg, gpu, ngpus_per_node):
         output_device=gpu, 
         find_unused_parameters=True)
     
-    criterion = get_criterion(cfg).cuda(gpu) #cosine-similar
+    criterion = get_criterion(cfg).cuda(gpu)
     optimizer = get_optimizer(cfg, model) #SGD
     cfg['optim']['start_epoch'] = 0
     resume = cfg['model']['resume'] #resume path file
