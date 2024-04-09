@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt5254414",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 30,
+        "scale": "long",
+        "movement": "static"
+      }
+    ]
+  }
+}

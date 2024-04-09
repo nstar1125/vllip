@@ -1,0 +1,6633 @@
+{
+  "imdb_id": "tt0084787",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0084787_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        3953
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0001",
+      "shot": [
+        1,
+        9
+      ],
+      "frame": [
+        3953,
+        5228
+      ],
+      "place_tag": [
+        "aircraft cockpit (inside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0002",
+      "shot": [
+        9,
+        24
+      ],
+      "frame": [
+        5228,
+        6592
+      ],
+      "place_tag": [
+        "aircraft cockpit (inside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            5630,
+            5723
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            5858,
+            5930
+          ]
+        },
+        {
+          "tag": "drive plane",
+          "frame": [
+            5858,
+            5930
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            6150,
+            6242
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            6363,
+            6412
+          ]
+        },
+        {
+          "tag": "drive plane",
+          "frame": [
+            6363,
+            6412
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0003",
+      "shot": [
+        24,
+        25
+      ],
+      "frame": [
+        6592,
+        6749
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0004",
+      "shot": [
+        25,
+        27
+      ],
+      "frame": [
+        6749,
+        6945
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0005",
+      "shot": [
+        27,
+        41
+      ],
+      "frame": [
+        6945,
+        8371
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            6948,
+            7072
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            7410,
+            7424
+          ]
+        },
+        {
+          "tag": "operate on computer",
+          "frame": [
+            7513,
+            8092
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            7513,
+            8092
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            7513,
+            8092
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0006",
+      "shot": [
+        41,
+        46
+      ],
+      "frame": [
+        8371,
+        9517
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            9436,
+            9493
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0007",
+      "shot": [
+        46,
+        49
+      ],
+      "frame": [
+        9517,
+        9887
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            9726,
+            9816
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            9861,
+            9885
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0008",
+      "shot": [
+        49,
+        51
+      ],
+      "frame": [
+        9887,
+        10427
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            9986,
+            10050
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0009",
+      "shot": [
+        51,
+        52
+      ],
+      "frame": [
+        10427,
+        10547
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0010",
+      "shot": [
+        52,
+        55
+      ],
+      "frame": [
+        10547,
+        11189
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0011",
+      "shot": [
+        55,
+        56
+      ],
+      "frame": [
+        11189,
+        11245
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0012",
+      "shot": [
+        56,
+        79
+      ],
+      "frame": [
+        11245,
+        12519
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            11388,
+            11454
+          ]
+        },
+        {
+          "tag": "get out of plane",
+          "frame": [
+            11458,
+            11494
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11845,
+            11914
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            11845,
+            11914
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            11981,
+            12018
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12075,
+            12206
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            12335,
+            12370
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0013",
+      "shot": [
+        79,
+        93
+      ],
+      "frame": [
+        12519,
+        14572
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            12522,
+            12578
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12580,
+            12669
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12805,
+            12872
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            12805,
+            12872
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            12889,
+            12925
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            12928,
+            12956
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            13246,
+            13272
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            13375,
+            13493
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            13682,
+            13738
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0014",
+      "shot": [
+        93,
+        95
+      ],
+      "frame": [
+        14572,
+        14968
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            14724,
+            14796
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0015",
+      "shot": [
+        95,
+        100
+      ],
+      "frame": [
+        14968,
+        15467
+      ],
+      "place_tag": [
+        "hospital (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0016",
+      "shot": [
+        100,
+        107
+      ],
+      "frame": [
+        15467,
+        16520
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            15470,
+            15808
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            15470,
+            15808
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            15850,
+            15870
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            15984,
+            16001
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0017",
+      "shot": [
+        107,
+        108
+      ],
+      "frame": [
+        16520,
+        16551
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0018",
+      "shot": [
+        108,
+        115
+      ],
+      "frame": [
+        16551,
+        17990
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            16659,
+            16752
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            16844,
+            16928
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            17196,
+            17269
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0019",
+      "shot": [
+        115,
+        116
+      ],
+      "frame": [
+        17990,
+        18144
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            18085,
+            18136
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0020",
+      "shot": [
+        116,
+        125
+      ],
+      "frame": [
+        18144,
+        19417
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            19197,
+            19245
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            19197,
+            19245
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0021",
+      "shot": [
+        125,
+        126
+      ],
+      "frame": [
+        19417,
+        19881
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            19627,
+            19664
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0022",
+      "shot": [
+        126,
+        130
+      ],
+      "frame": [
+        19881,
+        20692
+      ],
+      "place_tag": [
+        "aircraft cockpit (inside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive plane",
+          "frame": [
+            19939,
+            20145
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0023",
+      "shot": [
+        130,
+        131
+      ],
+      "frame": [
+        20692,
+        20817
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0024",
+      "shot": [
+        131,
+        133
+      ],
+      "frame": [
+        20817,
+        20977
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0025",
+      "shot": [
+        133,
+        138
+      ],
+      "frame": [
+        20977,
+        23268
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "forest jungle and canyon",
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            21049,
+            21180
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            21182,
+            21276
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            21418,
+            21447
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            21449,
+            21489
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0026",
+      "shot": [
+        138,
+        141
+      ],
+      "frame": [
+        23268,
+        25193
+      ],
+      "place_tag": [
+        "aircraft cockpit (inside)",
+        "corridor (inside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive plane",
+          "frame": [
+            23271,
+            23522
+          ]
+        },
+        {
+          "tag": "get out of plane",
+          "frame": [
+            24259,
+            24486
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            24478,
+            24617
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            24643,
+            24674
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            24726,
+            25191
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0027",
+      "shot": [
+        141,
+        179
+      ],
+      "frame": [
+        25193,
+        32420
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "ruins (inside)",
+        "ruins (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            25250,
+            26397
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            25250,
+            26397
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            25250,
+            26397
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            27100,
+            27481
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            28000,
+            28684
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            28726,
+            28786
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            28895,
+            29507
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            29509,
+            29607
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            29583,
+            29814
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            30294,
+            30437
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            30964,
+            31038
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0028",
+      "shot": [
+        179,
+        182
+      ],
+      "frame": [
+        32420,
+        32822
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "meeting room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0029",
+      "shot": [
+        182,
+        183
+      ],
+      "frame": [
+        32822,
+        32880
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0030",
+      "shot": [
+        183,
+        184
+      ],
+      "frame": [
+        32880,
+        33061
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0031",
+      "shot": [
+        184,
+        192
+      ],
+      "frame": [
+        33061,
+        35090
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0032",
+      "shot": [
+        192,
+        193
+      ],
+      "frame": [
+        35090,
+        35178
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0033",
+      "shot": [
+        193,
+        202
+      ],
+      "frame": [
+        35178,
+        37147
+      ],
+      "place_tag": [
+        "hospital (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            35707,
+            35731
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            35870,
+            35934
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0034",
+      "shot": [
+        202,
+        203
+      ],
+      "frame": [
+        37147,
+        37375
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0035",
+      "shot": [
+        203,
+        213
+      ],
+      "frame": [
+        37375,
+        39315
+      ],
+      "place_tag": [
+        "bedroom",
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "sleep",
+          "frame": [
+            37574,
+            37668
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            37625,
+            37959
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            37959,
+            38197
+          ]
+        },
+        {
+          "tag": "play cards",
+          "frame": [
+            38321,
+            38423
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            38321,
+            38423
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            38866,
+            38883
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            39249,
+            39313
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0036",
+      "shot": [
+        213,
+        234
+      ],
+      "frame": [
+        39315,
+        40975
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            39318,
+            39397
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0037",
+      "shot": [
+        234,
+        235
+      ],
+      "frame": [
+        40975,
+        41071
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0038",
+      "shot": [
+        235,
+        252
+      ],
+      "frame": [
+        41071,
+        41906
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0039",
+      "shot": [
+        252,
+        267
+      ],
+      "frame": [
+        41906,
+        42978
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            41909,
+            41951
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            41951,
+            42029
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            42486,
+            42595
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            42643,
+            42721
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            42841,
+            42976
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0040",
+      "shot": [
+        267,
+        270
+      ],
+      "frame": [
+        42978,
+        43489
+      ],
+      "place_tag": [
+        "kitchen and dinning area (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            43134,
+            43185
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            43212,
+            43231
+          ]
+        },
+        {
+          "tag": "press button",
+          "frame": [
+            43394,
+            43466
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0041",
+      "shot": [
+        270,
+        271
+      ],
+      "frame": [
+        43489,
+        43692
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            43515,
+            43690
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0042",
+      "shot": [
+        271,
+        272
+      ],
+      "frame": [
+        43692,
+        43814
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0043",
+      "shot": [
+        272,
+        274
+      ],
+      "frame": [
+        43814,
+        44113
+      ],
+      "place_tag": [
+        "bedroom",
+        "corridor (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0044",
+      "shot": [
+        274,
+        282
+      ],
+      "frame": [
+        44113,
+        44520
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            44116,
+            44138
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            44184,
+            44225
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            44236,
+            44270
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            44272,
+            44509
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            44272,
+            44509
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0045",
+      "shot": [
+        282,
+        303
+      ],
+      "frame": [
+        44520,
+        45700
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "shot gun",
+          "frame": [
+            45183,
+            45265
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            45336,
+            45361
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            45405,
+            45420
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            45490,
+            45541
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            45561,
+            45576
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0046",
+      "shot": [
+        303,
+        316
+      ],
+      "frame": [
+        45700,
+        46587
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            45862,
+            45882
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            45882,
+            45899
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            46237,
+            46265
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0047",
+      "shot": [
+        316,
+        325
+      ],
+      "frame": [
+        46587,
+        47557
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            46590,
+            46706
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0048",
+      "shot": [
+        325,
+        326
+      ],
+      "frame": [
+        47557,
+        47717
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0049",
+      "shot": [
+        326,
+        361
+      ],
+      "frame": [
+        47717,
+        53412
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "hospital (inside)",
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "watch screen",
+          "frame": [
+            52104,
+            52289
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            52104,
+            52289
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0050",
+      "shot": [
+        361,
+        363
+      ],
+      "frame": [
+        53412,
+        53771
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            53415,
+            53524
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            53493,
+            53625
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            53659,
+            53696
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0051",
+      "shot": [
+        363,
+        379
+      ],
+      "frame": [
+        53771,
+        57674
+      ],
+      "place_tag": [
+        "aircraft cockpit (inside)",
+        "forest jungle and canyon",
+        "ruins (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive plane",
+          "frame": [
+            54198,
+            54269
+          ]
+        },
+        {
+          "tag": "get out of plane",
+          "frame": [
+            54730,
+            54913
+          ]
+        },
+        {
+          "tag": "get out of plane",
+          "frame": [
+            54813,
+            54975
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0052",
+      "shot": [
+        379,
+        380
+      ],
+      "frame": [
+        57674,
+        57794
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0053",
+      "shot": [
+        380,
+        387
+      ],
+      "frame": [
+        57794,
+        58669
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            58045,
+            58063
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            58194,
+            58230
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            58625,
+            58667
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0054",
+      "shot": [
+        387,
+        396
+      ],
+      "frame": [
+        58669,
+        59795
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            58682,
+            58729
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            59065,
+            59132
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            59231,
+            59293
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            59625,
+            59734
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0055",
+      "shot": [
+        396,
+        404
+      ],
+      "frame": [
+        59795,
+        62245
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            59798,
+            59912
+          ]
+        },
+        {
+          "tag": "operate on computer",
+          "frame": [
+            61260,
+            62243
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            61260,
+            62243
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0056",
+      "shot": [
+        404,
+        412
+      ],
+      "frame": [
+        62245,
+        65511
+      ],
+      "place_tag": [
+        "bedroom",
+        "study room"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            62524,
+            62625
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0057",
+      "shot": [
+        412,
+        418
+      ],
+      "frame": [
+        65511,
+        66936
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            66102,
+            66317
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            66373,
+            66678
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0058",
+      "shot": [
+        418,
+        422
+      ],
+      "frame": [
+        66936,
+        67617
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0059",
+      "shot": [
+        422,
+        423
+      ],
+      "frame": [
+        67617,
+        68130
+      ],
+      "place_tag": [
+        "bedroom",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            67842,
+            67949
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            67973,
+            68114
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0060",
+      "shot": [
+        423,
+        426
+      ],
+      "frame": [
+        68130,
+        68321
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0061",
+      "shot": [
+        426,
+        443
+      ],
+      "frame": [
+        68321,
+        70496
+      ],
+      "place_tag": [
+        "bedroom",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            68435,
+            68535
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            69456,
+            69548
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0062",
+      "shot": [
+        443,
+        444
+      ],
+      "frame": [
+        70496,
+        70553
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0063",
+      "shot": [
+        444,
+        458
+      ],
+      "frame": [
+        70553,
+        72234
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            71349,
+            71488
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0064",
+      "shot": [
+        458,
+        471
+      ],
+      "frame": [
+        72234,
+        75203
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "get out of car",
+          "frame": [
+            72648,
+            72787
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            74729,
+            74794
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            75050,
+            75163
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            75168,
+            75201
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0065",
+      "shot": [
+        471,
+        475
+      ],
+      "frame": [
+        75203,
+        75490
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            75206,
+            75324
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            75469,
+            75488
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0066",
+      "shot": [
+        475,
+        477
+      ],
+      "frame": [
+        75490,
+        75781
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0067",
+      "shot": [
+        477,
+        482
+      ],
+      "frame": [
+        75781,
+        76244
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0068",
+      "shot": [
+        482,
+        506
+      ],
+      "frame": [
+        76244,
+        78743
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            76247,
+            76332
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            76539,
+            76597
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            77490,
+            77674
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            77744,
+            78086
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            78109,
+            78204
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0069",
+      "shot": [
+        506,
+        507
+      ],
+      "frame": [
+        78743,
+        79203
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            79124,
+            79172
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0070",
+      "shot": [
+        507,
+        517
+      ],
+      "frame": [
+        79203,
+        80831
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "inject",
+          "frame": [
+            79206,
+            79343
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            79512,
+            79576
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            79576,
+            79615
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            80565,
+            80671
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            80694,
+            80730
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0071",
+      "shot": [
+        517,
+        523
+      ],
+      "frame": [
+        80831,
+        82902
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            82276,
+            82366
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0072",
+      "shot": [
+        523,
+        524
+      ],
+      "frame": [
+        82902,
+        83109
+      ],
+      "place_tag": [
+        "hospital (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            82949,
+            83057
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0073",
+      "shot": [
+        524,
+        537
+      ],
+      "frame": [
+        83109,
+        85087
+      ],
+      "place_tag": [
+        "hospital (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fight",
+          "frame": [
+            84769,
+            84826
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0074",
+      "shot": [
+        537,
+        551
+      ],
+      "frame": [
+        85087,
+        87813
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            85090,
+            85233
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85330,
+            86225
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            87517,
+            87680
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0075",
+      "shot": [
+        551,
+        552
+      ],
+      "frame": [
+        87813,
+        87933
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0076",
+      "shot": [
+        552,
+        570
+      ],
+      "frame": [
+        87933,
+        90328
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            88158,
+            88285
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0077",
+      "shot": [
+        570,
+        572
+      ],
+      "frame": [
+        90328,
+        90860
+      ],
+      "place_tag": [
+        "hospital (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "inject",
+          "frame": [
+            90331,
+            90858
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0078",
+      "shot": [
+        572,
+        580
+      ],
+      "frame": [
+        90860,
+        94188
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            91242,
+            91329
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            93785,
+            93907
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            94096,
+            94186
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0079",
+      "shot": [
+        580,
+        586
+      ],
+      "frame": [
+        94188,
+        95333
+      ],
+      "place_tag": [
+        "bedroom",
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0080",
+      "shot": [
+        586,
+        594
+      ],
+      "frame": [
+        95333,
+        96520
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0081",
+      "shot": [
+        594,
+        604
+      ],
+      "frame": [
+        96520,
+        98381
+      ],
+      "place_tag": [
+        "bedroom",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            97043,
+            97079
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0082",
+      "shot": [
+        604,
+        605
+      ],
+      "frame": [
+        98381,
+        98727
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0083",
+      "shot": [
+        605,
+        612
+      ],
+      "frame": [
+        98727,
+        100080
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0084",
+      "shot": [
+        612,
+        613
+      ],
+      "frame": [
+        100080,
+        100150
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0085",
+      "shot": [
+        613,
+        616
+      ],
+      "frame": [
+        100150,
+        100621
+      ],
+      "place_tag": [
+        "bedroom",
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0086",
+      "shot": [
+        616,
+        617
+      ],
+      "frame": [
+        100621,
+        101010
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            100790,
+            100897
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            100891,
+            101008
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0087",
+      "shot": [
+        617,
+        618
+      ],
+      "frame": [
+        101010,
+        101121
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "repair things",
+          "frame": [
+            101013,
+            101119
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0088",
+      "shot": [
+        618,
+        623
+      ],
+      "frame": [
+        101121,
+        101999
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0089",
+      "shot": [
+        623,
+        641
+      ],
+      "frame": [
+        101999,
+        104717
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            102100,
+            102177
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            102203,
+            102251
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            102337,
+            102369
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            102492,
+            102563
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            103299,
+            103391
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            104181,
+            104253
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0090",
+      "shot": [
+        641,
+        642
+      ],
+      "frame": [
+        104717,
+        104785
+      ],
+      "place_tag": [
+        "yard (outside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0091",
+      "shot": [
+        642,
+        705
+      ],
+      "frame": [
+        104785,
+        110107
+      ],
+      "place_tag": [
+        "hospital (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            104788,
+            104893
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            105883,
+            106039
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            106266,
+            106440
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            107385,
+            107565
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            107606,
+            107706
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            107905,
+            108181
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            108280,
+            108345
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            108744,
+            108789
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            109041,
+            109665
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0092",
+      "shot": [
+        705,
+        718
+      ],
+      "frame": [
+        110107,
+        111857
+      ],
+      "place_tag": [
+        "hospital (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            111479,
+            111688
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0093",
+      "shot": [
+        718,
+        736
+      ],
+      "frame": [
+        111857,
+        113283
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            112516,
+            113060
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            113142,
+            113281
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0094",
+      "shot": [
+        736,
+        797
+      ],
+      "frame": [
+        113283,
+        119667
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            115376,
+            115818
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            118542,
+            118602
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0095",
+      "shot": [
+        797,
+        803
+      ],
+      "frame": [
+        119667,
+        119933
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            119670,
+            119718
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0096",
+      "shot": [
+        803,
+        837
+      ],
+      "frame": [
+        119933,
+        121083
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            119987,
+            120011
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            120124,
+            120217
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            120383,
+            121031
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            120383,
+            121031
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0097",
+      "shot": [
+        837,
+        855
+      ],
+      "frame": [
+        121083,
+        122078
+      ],
+      "place_tag": [
+        "meeting room",
+        "yard (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            121086,
+            121474
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0098",
+      "shot": [
+        855,
+        856
+      ],
+      "frame": [
+        122078,
+        122163
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0099",
+      "shot": [
+        856,
+        870
+      ],
+      "frame": [
+        122163,
+        123513
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            122367,
+            122617
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0100",
+      "shot": [
+        870,
+        881
+      ],
+      "frame": [
+        123513,
+        125399
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0101",
+      "shot": [
+        881,
+        890
+      ],
+      "frame": [
+        125399,
+        127175
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            125949,
+            126004
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0102",
+      "shot": [
+        890,
+        896
+      ],
+      "frame": [
+        127175,
+        129556
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "under ground tunnel",
+        "yard (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            129479,
+            129554
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0103",
+      "shot": [
+        896,
+        913
+      ],
+      "frame": [
+        129556,
+        131555
+      ],
+      "place_tag": [
+        "under ground tunnel",
+        "yard (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            131299,
+            131540
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0104",
+      "shot": [
+        913,
+        914
+      ],
+      "frame": [
+        131555,
+        131816
+      ],
+      "place_tag": [
+        "yard (outside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0105",
+      "shot": [
+        914,
+        915
+      ],
+      "frame": [
+        131816,
+        131901
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            131835,
+            131899
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0106",
+      "shot": [
+        915,
+        918
+      ],
+      "frame": [
+        131901,
+        132588
+      ],
+      "place_tag": [
+        "yard (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            131904,
+            132064
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            132069,
+            132220
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0107",
+      "shot": [
+        918,
+        920
+      ],
+      "frame": [
+        132588,
+        132819
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "yard (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            132636,
+            132691
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0108",
+      "shot": [
+        920,
+        936
+      ],
+      "frame": [
+        132819,
+        133596
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            132865,
+            132963
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            133039,
+            133073
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            133235,
+            133261
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0109",
+      "shot": [
+        936,
+        944
+      ],
+      "frame": [
+        133596,
+        135842
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "under ground tunnel"
+      ],
+      "action_tag": [
+        {
+          "tag": "climb stairs",
+          "frame": [
+            134064,
+            134975
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            135042,
+            135173
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            135106,
+            135250
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0110",
+      "shot": [
+        944,
+        964
+      ],
+      "frame": [
+        135842,
+        138101
+      ],
+      "place_tag": [
+        "under ground tunnel"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            137478,
+            137554
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            137680,
+            138099
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0111",
+      "shot": [
+        964,
+        993
+      ],
+      "frame": [
+        138101,
+        141533
+      ],
+      "place_tag": [
+        "under ground tunnel"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            139341,
+            139360
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            140242,
+            140285
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0112",
+      "shot": [
+        993,
+        1001
+      ],
+      "frame": [
+        141533,
+        141952
+      ],
+      "place_tag": [
+        "under ground tunnel"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0084787_0113",
+      "shot": [
+        1001,
+        1016
+      ],
+      "frame": [
+        141952,
+        146694
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            143853,
+            144521
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            146224,
+            146418
+          ]
+        }
+      ]
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0084787_0001",
+      "shot": [
+        0,
+        85
+      ],
+      "frame": [
+        3099,
+        13059
+      ],
+      "duration": [
+        129.255406,
+        544.669259
+      ],
+      "consistency": 0.9868880684631379,
+      "description": "In Antarctica, the winter months of 1982, a helicopter flies hurriedly after a husky. The man riding next to the pilot shoots a rifle and drops grenades hoping to kill the dog. The runs toward an American research base, Outpost 31, where a 12-man research crew is getting ready for the upcoming winter. The helicopter, which they see is from a Norwegian research base, flies in and lands. The Americans watch puzzled as two men that emerge from the helicopter speak frantically in their native language. One of them pulls the pin on a grenade but clumsily throws it behind him. As he frantically tries to find it in the snow, it explodes, killing him and taking the helicopter with it. The pilot (named Matias in the prequel) is shooting his rifle hysterically and talking frantically; no one can understand what he is saying and the man shoots Bennings  in his left leg. The camp leader Garry  shoots and kills the gibbering man in defense.",
+      "subtitle": [
+        {
+          "shot": 34,
+          "duration": [
+            313.18836743454,
+            328.62047503219344
+          ],
+          "sentences": [
+            "Your move: bishop to knight four.",
+            "My move: knight to rook three.",
+            "Poor baby, you're startin' to lose it, aren't you?"
+          ]
+        },
+        {
+          "shot": 37,
+          "duration": [
+            333.6254829017027,
+            343.05158105594506
+          ],
+          "sentences": [
+            "Your move: king to rook one.",
+            "My move: rook to knight six.",
+            "Checkmate. Checkmate."
+          ]
+        },
+        {
+          "shot": 38,
+          "duration": [
+            343.09328945485765,
+            345.30383459722424
+          ],
+          "sentences": [
+            "Checkmate. Checkmate."
+          ]
+        },
+        {
+          "shot": 40,
+          "duration": [
+            346.30483617112606,
+            349.0992988982687
+          ],
+          "sentences": [
+            "You cheatin' bitch."
+          ]
+        },
+        {
+          "shot": 41,
+          "duration": [
+            349.1410072971813,
+            352.5193876091
+          ],
+          "sentences": [
+            "You cheatin' bitch."
+          ]
+        },
+        {
+          "shot": 49,
+          "duration": [
+            412.37094004864787,
+            422.8814565746173
+          ],
+          "sentences": [
+            "Childs, what's he doin'?",
+            "Circling the camp.",
+            "Who is he?",
+            "Said \"Norge\" or something on the side. It's Norwegian."
+          ]
+        },
+        {
+          "shot": 50,
+          "duration": [
+            422.9231649735299,
+            434.85176706252685
+          ],
+          "sentences": [
+            "Said \"Norge\" or something on the side. It's Norwegian."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0002",
+      "shot": [
+        98,
+        192
+      ],
+      "frame": [
+        15232,
+        35089
+      ],
+      "duration": [
+        635.305874244241,
+        1463.481887244241
+      ],
+      "consistency": 0.9778991920646222,
+      "description": "Puzzled about why the Norwegians were trying to kill the dog, MacReady  the team's helicopter pilot, their doctor, Copper  and Norris , go to investigate the Norwegian base. Everyone is dead; one of them had barricaded himself in the radio room and is still sitting frozen in his chair, his wrists and throat slit in an apparent suicide. Mac and Copper explore further, finding a large and empty block of ice. Outside in the snow, along with one or two burned human bodies, Mac and Copper find the burnt and frozen corpse of a twisted creature, not man but not beast, either. They bring it back to their own base for an autopsy, but that muddies up the mystery.",
+      "subtitle": [
+        {
+          "shot": 98,
+          "duration": [
+            635.0937902418086,
+            642.6013020460724
+          ],
+          "sentences": [
+            "Oh, come on. Four stitches. Barely grazed ya.",
+            "What were they doin' flyin' that low,",
+            "shooting at a dog, at us?",
+            "Mmm, stir-crazy."
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            642.643010444985,
+            645.0620975819145
+          ],
+          "sentences": [
+            "Mmm, stir-crazy.",
+            "Cabin fever. Who knows?"
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            645.103805980827,
+            659.701745600229
+          ],
+          "sentences": [
+            "Cabin fever. Who knows?",
+            "U.S. Number 31, calling McMurdo. Come in. Over.",
+            "U.S. Number 31, calling McMurdo.",
+            "Urgent. Come in. Over.",
+            "Great."
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            659.7434539991416,
+            662.2876663328087
+          ],
+          "sentences": [
+            "Great.",
+            "Come on, come on. Nobody!"
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            662.3293747317213,
+            666.4167978251538
+          ],
+          "sentences": [
+            "Come on, come on. Nobody!",
+            "Nobody. Get a hold of somebody.",
+            "Get a hold of anybody. We gotta report this mess."
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            666.4585062240665,
+            675.3006867935327
+          ],
+          "sentences": [
+            "Get a hold of anybody. We gotta report this mess.",
+            "Look, I haven't been able to reach shit in two weeks.",
+            "I doubt if anybody's talked to anybody on this entire continent,",
+            "and you want me to reach somebody!"
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            675.3423951924453,
+            681.974030619545
+          ],
+          "sentences": [
+            "and you want me to reach somebody!"
+          ]
+        },
+        {
+          "shot": 106,
+          "duration": [
+            686.2282873086278,
+            688.981041636858
+          ],
+          "sentences": [
+            "Maybe we're at war with Norway."
+          ]
+        },
+        {
+          "shot": 107,
+          "duration": [
+            689.0227500357705,
+            690.2740020031479
+          ],
+          "sentences": [
+            "Maybe we're at war with Norway."
+          ]
+        },
+        {
+          "shot": 109,
+          "duration": [
+            692.818214336815,
+            698.5322649878381
+          ],
+          "sentences": [
+            "I was wonderin' when the El Capitan...",
+            "was gonna get a chance to use his popgun."
+          ]
+        },
+        {
+          "shot": 110,
+          "duration": [
+            698.5739733867506,
+            706.0814851910145
+          ],
+          "sentences": [
+            "was gonna get a chance to use his popgun.",
+            "How long've they been stationed there? It says here only eight weeks."
+          ]
+        },
+        {
+          "shot": 111,
+          "duration": [
+            706.123193589927,
+            714.0894977822293
+          ],
+          "sentences": [
+            "How long've they been stationed there? It says here only eight weeks.",
+            "Well, that's not long enough for guys to go bonkers. Bullshit, bwana.",
+            "Five minutes is enough to put a man over down here. Damn straight.",
+            "I mean, look at Palmer. He been the way he is since the first day."
+          ]
+        },
+        {
+          "shot": 112,
+          "duration": [
+            714.1312061811418,
+            716.9256689082845
+          ],
+          "sentences": [
+            "I mean, look at Palmer. He been the way he is since the first day."
+          ]
+        },
+        {
+          "shot": 113,
+          "duration": [
+            716.967377307197,
+            742.7431678351696
+          ],
+          "sentences": [
+            "I mean, look at Palmer. He been the way he is since the first day.",
+            "How many in their party?",
+            "They started with ten. There'd be eight others left. How do we know?",
+            "Guys as crazy as that could have done...",
+            "a lot of damage to their own before they got to us.",
+            "Nothing we can do about that. Yes there is. I wanna go up.",
+            "In this weather? Bennings?",
+            "Winds are gonna let up a tad next couple of hours.",
+            "A tad?",
+            "Can't condone it much myself,",
+            "but it is a short haul.",
+            "An hour there, an hour back."
+          ]
+        },
+        {
+          "shot": 114,
+          "duration": [
+            742.7848762340822,
+            750.292388038346
+          ],
+          "sentences": [
+            "An hour there, an hour back.",
+            "Shit, Doc, I'll give you the lift. No problem.",
+            "Forget it, Palmer. Hey, thanks for thinking about it though."
+          ]
+        },
+        {
+          "shot": 115,
+          "duration": [
+            750.3340964372586,
+            756.7154814708829
+          ],
+          "sentences": [
+            "Forget it, Palmer. Hey, thanks for thinking about it though.",
+            "Loaded with kerosene. I count 15 cans."
+          ]
+        },
+        {
+          "shot": 116,
+          "duration": [
+            756.7571898697954,
+            760.0104449849764
+          ],
+          "sentences": [
+            "Loaded with kerosene. I count 15 cans.",
+            "MacReady! Mac, get your gear on!"
+          ]
+        },
+        {
+          "shot": 117,
+          "duration": [
+            760.052153383889,
+            779.9053512662756
+          ],
+          "sentences": [
+            "MacReady! Mac, get your gear on!",
+            "Mac, it may not clear up for a week. Yeah.",
+            "We're the closest ones to 'em. It's all right by me, Doc.",
+            "I'm just lettin' you know we're takin' a chance. Quit the griping, MacReady."
+          ]
+        },
+        {
+          "shot": 118,
+          "duration": [
+            779.9470596651881,
+            784.3264415510088
+          ],
+          "sentences": [
+            "I'm just lettin' you know we're takin' a chance. Quit the griping, MacReady.",
+            "Those clouds keep movin' over the sun, we're gonna get a whiteout.",
+            "We get caught in that, you can scratch one doctor and one pilot."
+          ]
+        },
+        {
+          "shot": 119,
+          "duration": [
+            784.3681499499213,
+            786.9540706825011
+          ],
+          "sentences": [
+            "We get caught in that, you can scratch one doctor and one pilot.",
+            "This is real thin. It'll clear as soon as you get up."
+          ]
+        },
+        {
+          "shot": 120,
+          "duration": [
+            786.9957790814137,
+            789.0811990270425
+          ],
+          "sentences": [
+            "This is real thin. It'll clear as soon as you get up."
+          ]
+        },
+        {
+          "shot": 121,
+          "duration": [
+            789.1229074259551,
+            791.79224495636
+          ],
+          "sentences": [
+            "This is real thin. It'll clear as soon as you get up.",
+            "It's up to you, Mac. If you don't wanna fly, we don't fly."
+          ]
+        },
+        {
+          "shot": 122,
+          "duration": [
+            791.8339533552726,
+            798.1736299899843
+          ],
+          "sentences": [
+            "It's up to you, Mac. If you don't wanna fly, we don't fly.",
+            "You really wanna save those crazy Swedes, huh? Norwegians."
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            798.2153383888968,
+            802.5113034768923
+          ],
+          "sentences": [
+            "You really wanna save those crazy Swedes, huh? Norwegians.",
+            "Which way, Doc? Southwest.",
+            "You're gonna have to read the map."
+          ]
+        },
+        {
+          "shot": 124,
+          "duration": [
+            802.5530118758048,
+            809.8102732865932
+          ],
+          "sentences": [
+            "You're gonna have to read the map."
+          ]
+        },
+        {
+          "shot": 125,
+          "duration": [
+            809.8519816855058,
+            829.1629703820289
+          ],
+          "sentences": [
+            "Mac's really taking it up, huh?",
+            "He knows what he's doin'."
+          ]
+        },
+        {
+          "shot": 133,
+          "duration": [
+            874.9170839891258,
+            883.2170553727286
+          ],
+          "sentences": [
+            "Nauls, will you turn that crap down?",
+            "I'm trying to get some sleep. I was shot today."
+          ]
+        },
+        {
+          "shot": 134,
+          "duration": [
+            883.2587637716412,
+            896.7722850193161
+          ],
+          "sentences": [
+            "I'm trying to get some sleep. I was shot today.",
+            "Read, bwana. Will do.",
+            "#Writing's on the wall #",
+            "#Very superstitious #"
+          ]
+        },
+        {
+          "shot": 140,
+          "duration": [
+            1011.0950064386894,
+            1050.7179854056374
+          ],
+          "sentences": [
+            "Anybody there?",
+            "Hey, Sweden! They're not Swedish, Mac. They're Norwegian."
+          ]
+        },
+        {
+          "shot": 149,
+          "duration": [
+            1122.4147231363572,
+            1123.8328086993847
+          ],
+          "sentences": [
+            "Mac!"
+          ]
+        },
+        {
+          "shot": 150,
+          "duration": [
+            1123.8745170982975,
+            1126.7523966232652
+          ],
+          "sentences": [
+            "Mac!"
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            1157.8668622120476,
+            1162.9135784804694
+          ],
+          "sentences": [
+            "My God. What the hell happened here?"
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            1162.955286879382,
+            1167.6266275575906
+          ],
+          "sentences": [
+            "My God. What the hell happened here?",
+            "Come on, Doc."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            1167.6683359565031,
+            1178.1788524824726
+          ],
+          "sentences": [
+            "Come on, Doc."
+          ]
+        },
+        {
+          "shot": 161,
+          "duration": [
+            1200.4928459007012,
+            1208.3340248962656
+          ],
+          "sentences": [
+            "- Portable video unit. Anything? - It's all in Norwegian."
+          ]
+        },
+        {
+          "shot": 162,
+          "duration": [
+            1208.3757332951782,
+            1210.2109028473317
+          ],
+          "sentences": [
+            "- Portable video unit. Anything? - It's all in Norwegian."
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            1210.2526112462442,
+            1217.2179138646445
+          ],
+          "sentences": [
+            "- Portable video unit. Anything? - It's all in Norwegian.",
+            "What are you doin', Doc?"
+          ]
+        },
+        {
+          "shot": 164,
+          "duration": [
+            1217.259622263557,
+            1219.8038345972243
+          ],
+          "sentences": [
+            "What are you doin', Doc?",
+            "Could be important work. I wanna take it back."
+          ]
+        },
+        {
+          "shot": 165,
+          "duration": [
+            1219.8455429961368,
+            1222.8068393189299
+          ],
+          "sentences": [
+            "Could be important work. I wanna take it back.",
+            "Well, it's gettin' late. Let's hurry it up."
+          ]
+        },
+        {
+          "shot": 166,
+          "duration": [
+            1222.8485477178424,
+            1224.9756760623839
+          ],
+          "sentences": [
+            "Well, it's gettin' late. Let's hurry it up.",
+            "I'll check out the last few rooms."
+          ]
+        },
+        {
+          "shot": 167,
+          "duration": [
+            1225.0173844612964,
+            1230.5646015166692
+          ],
+          "sentences": [
+            "I'll check out the last few rooms."
+          ]
+        },
+        {
+          "shot": 169,
+          "duration": [
+            1243.3690799828303,
+            1246.9142938903992
+          ],
+          "sentences": [
+            "Hey, Copper, come here!"
+          ]
+        },
+        {
+          "shot": 170,
+          "duration": [
+            1246.9560022893118,
+            1260.9283159250251
+          ],
+          "sentences": [
+            "Hey, Copper, come here!"
+          ]
+        },
+        {
+          "shot": 172,
+          "duration": [
+            1288.4558592073258,
+            1293.460867076835
+          ],
+          "sentences": [
+            "Maybe they found a fossil,",
+            "the remains of some animal buried in the ice, and they chopped it out.",
+            "But where is it? Look at this."
+          ]
+        },
+        {
+          "shot": 173,
+          "duration": [
+            1293.5025754757476,
+            1294.6704106452999
+          ],
+          "sentences": [
+            "But where is it? Look at this."
+          ]
+        },
+        {
+          "shot": 174,
+          "duration": [
+            1294.7121190442124,
+            1297.2563313778796
+          ],
+          "sentences": [
+            "But where is it? Look at this."
+          ]
+        },
+        {
+          "shot": 177,
+          "duration": [
+            1309.643725854915,
+            1312.896980970096
+          ],
+          "sentences": [
+            "What is that?"
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            1312.9386893690084,
+            1352.1445843468307
+          ],
+          "sentences": [
+            "What is that?",
+            "Is that a man in there or something?",
+            "Whatever it is, they burned it up in a hurry.",
+            "Help me find a shovel, Doc."
+          ]
+        },
+        {
+          "shot": 184,
+          "duration": [
+            1378.9213764487051,
+            1386.2203462584062
+          ],
+          "sentences": [
+            "We found this.",
+            "Jesus Christ."
+          ]
+        },
+        {
+          "shot": 185,
+          "duration": [
+            1386.2620546573187,
+            1413.9981399341823
+          ],
+          "sentences": [
+            "Blair, I'd like you to start an autopsy right away."
+          ]
+        },
+        {
+          "shot": 186,
+          "duration": [
+            1414.0398483330948,
+            1423.2156960938619
+          ],
+          "sentences": [
+            "Blair, I'd like you to start an autopsy right away."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0003",
+      "shot": [
+        213,
+        337
+      ],
+      "frame": [
+        39295,
+        49893
+      ],
+      "duration": [
+        1638.9380661731293,
+        2080.9388841731293
+      ],
+      "consistency": 0.946827342749398,
+      "description": "That night, the new stray husky is locked in with the sled dogs. The other dogs soon react with fear to the new addition, growling and snarling. The new dog suddenly transforms into a hideous creature with tentacles and crab's legs and starts attacking the other dogs. The scene is discovered by Clark , who tends to the dogs and he watches, horrified. Mac hears the sounds of the thing's unworldly groan and he immediately responds by sounding the fire alarm, waking up the entire camp who converge on the dog kennel where they see the hideous dog-like creature seemingly consuming the other sled dogs. After shooting at it with their guns, the 'thing' is killed with a flamethrower. (Note: fire is apparently the only effective weapon against the alien creature which can hurt as well as kill it.) An autopsy on the thing's remains reveals its secret: the \"thing\" is an alien organism that imitates other life forms by attacking, and either digesting or dissolving them and reshaping it's image to appear in the animal or person it kills.",
+      "subtitle": [
+        {
+          "shot": 213,
+          "duration": [
+            1639.7657032479613,
+            1643.2275003577051
+          ],
+          "sentences": [
+            "Go ahead."
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            1643.2692087566177,
+            1646.1053798826729
+          ],
+          "sentences": [
+            "Go ahead. What are you waiting for?"
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            1646.1470882815854,
+            1649.1918014022035
+          ],
+          "sentences": [
+            "Go ahead. What are you waiting for?"
+          ]
+        },
+        {
+          "shot": 270,
+          "duration": [
+            1813.8565603090572,
+            1822.2816568893977
+          ],
+          "sentences": [
+            "I don't know what the hell's in there,",
+            "but it's weird and pissed off, whatever it is. Bennings, go get Childs."
+          ]
+        },
+        {
+          "shot": 271,
+          "duration": [
+            1822.3233652883102,
+            1827.3700815567322
+          ],
+          "sentences": [
+            "but it's weird and pissed off, whatever it is. Bennings, go get Childs.",
+            "What is this? What's goin' on?",
+            "Hey, Palmer, what is this? I don't know."
+          ]
+        },
+        {
+          "shot": 272,
+          "duration": [
+            1827.4117899556447,
+            1833.584632994706
+          ],
+          "sentences": [
+            "Hey, Palmer, what is this? I don't know.",
+            "Childs, Mac wants the flamethrower! Mac wants the what?",
+            "That's what he said. Now, move! Damn it."
+          ]
+        },
+        {
+          "shot": 273,
+          "duration": [
+            1833.6263413936185,
+            1839.8408928315926
+          ],
+          "sentences": [
+            "That's what he said. Now, move! Damn it."
+          ]
+        },
+        {
+          "shot": 277,
+          "duration": [
+            1846.389111460867,
+            1847.598655029332
+          ],
+          "sentences": [
+            "- Stay back. - Hey, Mac, what is it?"
+          ]
+        },
+        {
+          "shot": 278,
+          "duration": [
+            1847.6403634282444,
+            1848.683073401059
+          ],
+          "sentences": [
+            "- Stay back. - Hey, Mac, what is it?"
+          ]
+        },
+        {
+          "shot": 279,
+          "duration": [
+            1848.7247817999714,
+            1851.519244527114
+          ],
+          "sentences": [
+            "- Stay back. - Hey, Mac, what is it?"
+          ]
+        },
+        {
+          "shot": 296,
+          "duration": [
+            1896.3974817570468,
+            1897.1482329374733
+          ],
+          "sentences": [
+            "- Don't! No! - Get away! Get back! Get back!"
+          ]
+        },
+        {
+          "shot": 297,
+          "duration": [
+            1897.1899413363858,
+            1899.2753612820147
+          ],
+          "sentences": [
+            "- Don't! No! - Get away! Get back! Get back!"
+          ]
+        },
+        {
+          "shot": 298,
+          "duration": [
+            1899.3170696809273,
+            1900.9436972385176
+          ],
+          "sentences": [
+            "- Don't! No! - Get away! Get back! Get back!"
+          ]
+        },
+        {
+          "shot": 299,
+          "duration": [
+            1900.9854056374304,
+            1902.2783660037203
+          ],
+          "sentences": [
+            "- Don't! No! - Get away! Get back! Get back!"
+          ]
+        },
+        {
+          "shot": 310,
+          "duration": [
+            1926.3441121762771,
+            1930.0561596794964
+          ],
+          "sentences": [
+            "Get your ass over here!",
+            "Burn it."
+          ]
+        },
+        {
+          "shot": 311,
+          "duration": [
+            1930.097868078409,
+            1930.7652024610102
+          ],
+          "sentences": [
+            "Burn it."
+          ]
+        },
+        {
+          "shot": 312,
+          "duration": [
+            1930.806910859923,
+            1935.1028759479182
+          ],
+          "sentences": [
+            "Burn it."
+          ]
+        },
+        {
+          "shot": 313,
+          "duration": [
+            1935.144584346831,
+            1937.104879095722
+          ],
+          "sentences": [
+            "Damn it, Childs. Torch it!"
+          ]
+        },
+        {
+          "shot": 314,
+          "duration": [
+            1937.1465874946346,
+            1938.0224638717987
+          ],
+          "sentences": [
+            "Damn it, Childs. Torch it!"
+          ]
+        },
+        {
+          "shot": 330,
+          "duration": [
+            2017.727214193733,
+            2028.2377307197025
+          ],
+          "sentences": [
+            "Oh, my God.",
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 331,
+          "duration": [
+            2028.279439118615,
+            2032.1166118185722
+          ],
+          "sentences": [
+            "Oh!",
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 332,
+          "duration": [
+            2032.1583202174847,
+            2047.715553011876
+          ],
+          "sentences": [
+            "Oh!",
+            "Look. Son of a bitch. Oh."
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            2054.0552296465876,
+            2062.2717842323655
+          ],
+          "sentences": [
+            "You see, what we're talking about here...",
+            "is an organism that imitates other life-forms,",
+            "and it imitates 'em perfectly."
+          ]
+        },
+        {
+          "shot": 335,
+          "duration": [
+            2062.3134926312778,
+            2078.454643010445
+          ],
+          "sentences": [
+            "and it imitates 'em perfectly.",
+            "When this Thing attacked our dogs, it tried to digest 'em,",
+            "absorb them,",
+            "and in the process, shape its own cells to imitate them.",
+            "This, for instance... That's not dog."
+          ]
+        },
+        {
+          "shot": 336,
+          "duration": [
+            2078.4963514093574,
+            2081.7496065245386
+          ],
+          "sentences": [
+            "This, for instance... That's not dog.",
+            "It's imitation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0005",
+      "shot": [
+        404,
+        417
+      ],
+      "frame": [
+        62675,
+        66815
+      ],
+      "duration": [
+        2614.115079788811,
+        2786.722979788811
+      ],
+      "consistency": 0.9451792299193703,
+      "description": "The team decides to place the creature's remains in a storage room. The assistant biologist Fuchs  asks to speak privately with Mac; he tells Mac that he's been looking through the biologist Blair's  notes and found that Blair believes the organism's cells are still alive and active. Blair has also theorized that the alien might have imitated a thousand other lifeforms across space.",
+      "subtitle": [
+        {
+          "shot": 404,
+          "duration": [
+            2596.1392903133496,
+            2635.6788524824724
+          ],
+          "sentences": [
+            "Mac, removin' those things...",
+            "out of the lab into the storeroom.",
+            "Can you come get your stuff?",
+            "Be there in a minute, Doc."
+          ]
+        },
+        {
+          "shot": 405,
+          "duration": [
+            2635.720560881385,
+            2658.409929889827
+          ],
+          "sentences": [
+            "Through the door.",
+            "Right over here. Right over...",
+            "Sorry, Mac. You have to move your stuff ou...",
+            "Doc says we gotta lock him up. Stash him in here and lock him up."
+          ]
+        },
+        {
+          "shot": 406,
+          "duration": [
+            2658.4516382887396,
+            2676.42795822006
+          ],
+          "sentences": [
+            "Doc says we gotta lock him up. Stash him in here and lock him up.",
+            "I have to talk to you. I'm tired of talkin', Fuchs.",
+            "I just wanna get up to my shack and get drunk.",
+            "Mac, it's important. What is it?",
+            "Outside. It's 40 below outside.",
+            "In the Thiokol. Please, Mac."
+          ]
+        },
+        {
+          "shot": 408,
+          "duration": [
+            2687.10530834168,
+            2689.649520675347
+          ],
+          "sentences": [
+            "We ought to just burn these things."
+          ]
+        },
+        {
+          "shot": 409,
+          "duration": [
+            2689.69122907426,
+            2718.5951495206755
+          ],
+          "sentences": [
+            "We ought to just burn these things.",
+            "Can't burn the find of the century.",
+            "That's gonna win somebody the Nobel Prize.",
+            "You, uh, got the keys?",
+            "Get 'em from Garry. I wanna get some stuff outta here."
+          ]
+        },
+        {
+          "shot": 412,
+          "duration": [
+            2732.358921161826,
+            2752.0035770496497
+          ],
+          "sentences": [
+            "There's something wrong with Blair.",
+            "He's locked himself in his room, and he won't answer the door."
+          ]
+        },
+        {
+          "shot": 413,
+          "duration": [
+            2752.045285448562,
+            2756.8417513235086
+          ],
+          "sentences": [
+            "He's locked himself in his room, and he won't answer the door.",
+            "So I took one of his notebooks from the lab. Yeah?",
+            "Listen."
+          ]
+        },
+        {
+          "shot": 414,
+          "duration": [
+            2756.883459722421,
+            2772.857776505938
+          ],
+          "sentences": [
+            "Listen.",
+            "\"It could have imitated a million life-forms on a million planets.",
+            "\"Could change into any one of them at any time.",
+            "Now it wants life-forms on Earth. \"",
+            "It's gettin' cold in here, and I haven't slept in days.",
+            "Wait. \"It needs to be alone...",
+            "\"and in close proximity with a life-form to be absorbed."
+          ]
+        },
+        {
+          "shot": 415,
+          "duration": [
+            2772.8994849048504,
+            2779.53112033195
+          ],
+          "sentences": [
+            "\"and in close proximity with a life-form to be absorbed.",
+            "The chameleon strikes in the dark. \"",
+            "So is Blair cracking up, or what? Damn it, MacReady.",
+            "\"There is still cellular activity in these burned remains."
+          ]
+        },
+        {
+          "shot": 416,
+          "duration": [
+            2779.572828730863,
+            2786.7883817427387
+          ],
+          "sentences": [
+            "\"There is still cellular activity in these burned remains.",
+            "They're not dead yet. \""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0006",
+      "shot": [
+        396,
+        403
+      ],
+      "frame": [
+        60056,
+        62110
+      ],
+      "duration": [
+        2504.8716398019747,
+        2590.5020788019747
+      ],
+      "consistency": 0.9809091601177029,
+      "description": "That evening, Blair studies cells from this Thing, and watches them attack and replicate other kinds of cells on his computer. Typing his report into his computer, the computer replies that the possibility that one or more team members may be infected by the alien organism is 75%, and that if the alien reached civilization, the Earth's population will be infected and taken over by the alien organism exactly 27,000 hours (around 37 months) after first contact.",
+      "subtitle": [
+        {
+          "shot": 396,
+          "duration": [
+            2493.9537129775363,
+            2524.943053369581
+          ],
+          "sentences": [
+            "You buy any of this, Blair?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0007",
+      "shot": [
+        407,
+        459
+      ],
+      "frame": [
+        64342,
+        72586
+      ],
+      "duration": [
+        2683.6377332887396,
+        3027.4256582887397
+      ],
+      "consistency": 0.9086476611998515,
+      "description": "While Windows  and Bennings prepare the room to store the remains, it begins to move under the blanket it's been covered with. Windows returns to the room to find Bennings being attacked, wrapped in tentacles. Windows gets the other team members but Bennings has vanished, running out the back door. They find him in the snow, his transformation by the alien nearly complete except for his hands, which are hideously large and grotesque shapes. Mac and the team incinerates him alive and buries him in the snow.",
+      "subtitle": [
+        {
+          "shot": 408,
+          "duration": [
+            2687.10530834168,
+            2689.649520675347
+          ],
+          "sentences": [
+            "We ought to just burn these things."
+          ]
+        },
+        {
+          "shot": 409,
+          "duration": [
+            2689.69122907426,
+            2718.5951495206755
+          ],
+          "sentences": [
+            "We ought to just burn these things.",
+            "Can't burn the find of the century.",
+            "That's gonna win somebody the Nobel Prize.",
+            "You, uh, got the keys?",
+            "Get 'em from Garry. I wanna get some stuff outta here."
+          ]
+        },
+        {
+          "shot": 412,
+          "duration": [
+            2732.358921161826,
+            2752.0035770496497
+          ],
+          "sentences": [
+            "There's something wrong with Blair.",
+            "He's locked himself in his room, and he won't answer the door."
+          ]
+        },
+        {
+          "shot": 413,
+          "duration": [
+            2752.045285448562,
+            2756.8417513235086
+          ],
+          "sentences": [
+            "He's locked himself in his room, and he won't answer the door.",
+            "So I took one of his notebooks from the lab. Yeah?",
+            "Listen."
+          ]
+        },
+        {
+          "shot": 414,
+          "duration": [
+            2756.883459722421,
+            2772.857776505938
+          ],
+          "sentences": [
+            "Listen.",
+            "\"It could have imitated a million life-forms on a million planets.",
+            "\"Could change into any one of them at any time.",
+            "Now it wants life-forms on Earth. \"",
+            "It's gettin' cold in here, and I haven't slept in days.",
+            "Wait. \"It needs to be alone...",
+            "\"and in close proximity with a life-form to be absorbed."
+          ]
+        },
+        {
+          "shot": 415,
+          "duration": [
+            2772.8994849048504,
+            2779.53112033195
+          ],
+          "sentences": [
+            "\"and in close proximity with a life-form to be absorbed.",
+            "The chameleon strikes in the dark. \"",
+            "So is Blair cracking up, or what? Damn it, MacReady.",
+            "\"There is still cellular activity in these burned remains."
+          ]
+        },
+        {
+          "shot": 416,
+          "duration": [
+            2779.572828730863,
+            2786.7883817427387
+          ],
+          "sentences": [
+            "\"There is still cellular activity in these burned remains.",
+            "They're not dead yet. \""
+          ]
+        },
+        {
+          "shot": 418,
+          "duration": [
+            2791.793389612248,
+            2796.339605093719
+          ],
+          "sentences": [
+            "Let's go, Bennings. I gotta get some sleep."
+          ]
+        },
+        {
+          "shot": 420,
+          "duration": [
+            2806.683288024038,
+            2817.3606381456575
+          ],
+          "sentences": [
+            "Holy shit."
+          ]
+        },
+        {
+          "shot": 421,
+          "duration": [
+            2817.4023465445703,
+            2820.1551008728
+          ],
+          "sentences": [
+            "Holy shit."
+          ]
+        },
+        {
+          "shot": 422,
+          "duration": [
+            2820.196809271713,
+            2841.551509514952
+          ],
+          "sentences": [
+            "Go get the doc.",
+            "I'll get Garry. We'll meet in Blair's room.",
+            "It's Bennings!"
+          ]
+        },
+        {
+          "shot": 424,
+          "duration": [
+            2845.5555158105594,
+            2847.390685362713
+          ],
+          "sentences": [
+            "Bennings was right there. Mac, I swear to God. It had a hold of him."
+          ]
+        },
+        {
+          "shot": 425,
+          "duration": [
+            2847.4323937616255,
+            2849.5178137072544
+          ],
+          "sentences": [
+            "Bennings was right there. Mac, I swear to God. It had a hold of him."
+          ]
+        },
+        {
+          "shot": 426,
+          "duration": [
+            2849.559522106167,
+            2853.8554871941624
+          ],
+          "sentences": [
+            "Bennings was right there. Mac, I swear to God. It had a hold of him."
+          ]
+        },
+        {
+          "shot": 428,
+          "duration": [
+            2858.4017026756333,
+            2871.2061811417943
+          ],
+          "sentences": [
+            "Windows! Windows! Keep away from him!",
+            "Get back! Stay back!"
+          ]
+        },
+        {
+          "shot": 429,
+          "duration": [
+            2871.247889540707,
+            2874.7513950493635
+          ],
+          "sentences": [
+            "It isn't Bennings."
+          ]
+        },
+        {
+          "shot": 430,
+          "duration": [
+            2874.793103448276,
+            2885.136786378595
+          ],
+          "sentences": [
+            "It isn't Bennings."
+          ]
+        },
+        {
+          "shot": 436,
+          "duration": [
+            2905.4070682501074,
+            2915.1668335956506
+          ],
+          "sentences": [
+            "My God, what was happening to him?",
+            "If it had more time it would have looked, sounded and acted like Bennings.",
+            "I don't know what you're saying."
+          ]
+        },
+        {
+          "shot": 437,
+          "duration": [
+            2915.208541994563,
+            2920.547217055373
+          ],
+          "sentences": [
+            "I don't know what you're saying.",
+            "That was one of those Things out there trying to imitate him, Garry."
+          ]
+        },
+        {
+          "shot": 438,
+          "duration": [
+            2920.5889254542853,
+            2923.216554585778
+          ],
+          "sentences": [
+            "That was one of those Things out there trying to imitate him, Garry."
+          ]
+        },
+        {
+          "shot": 439,
+          "duration": [
+            2923.25826298469,
+            2924.5929317498926
+          ],
+          "sentences": [
+            "- Come on. - MacReady, I know Bennings. I've known him for ten years."
+          ]
+        },
+        {
+          "shot": 440,
+          "duration": [
+            2924.6346401488054,
+            2929.389397624839
+          ],
+          "sentences": [
+            "- Come on. - MacReady, I know Bennings. I've known him for ten years.",
+            "He's my friend."
+          ]
+        },
+        {
+          "shot": 441,
+          "duration": [
+            2929.431106023752,
+            2932.1004435541568
+          ],
+          "sentences": [
+            "He's my friend.",
+            "We've gotta burn the rest of'em."
+          ]
+        },
+        {
+          "shot": 442,
+          "duration": [
+            2932.142151953069,
+            2940.233581342109
+          ],
+          "sentences": [
+            "We've gotta burn the rest of'em."
+          ]
+        },
+        {
+          "shot": 447,
+          "duration": [
+            2958.7104020603806,
+            2968.0113750178853
+          ],
+          "sentences": [
+            "All right, step back."
+          ]
+        },
+        {
+          "shot": 448,
+          "duration": [
+            2968.053083416798,
+            2975.6023036199745
+          ],
+          "sentences": [
+            "All right, step back."
+          ]
+        },
+        {
+          "shot": 454,
+          "duration": [
+            2993.703748748033,
+            3005.4655172413795
+          ],
+          "sentences": [
+            "You sure that's all of'em?",
+            "We cleaned out the storehouse, the lab. There is nothin' left.",
+            "Where's Blair?"
+          ]
+        },
+        {
+          "shot": 458,
+          "duration": [
+            3012.7644870510803,
+            3051.970382028903
+          ],
+          "sentences": [
+            "I can't find Blair.",
+            "Where's everybody else?",
+            "Windows is in the radio room still trying to get through. Everyone else, in the rec room."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0009",
+      "shot": [
+        517,
+        574
+      ],
+      "frame": [
+        81294,
+        92341
+      ],
+      "duration": [
+        3390.6643835993705,
+        3851.3723135993705
+      ],
+      "consistency": 0.953505877357049,
+      "description": "The next morning, fear and paranoia circulates around the camp as nobody knows who may be the thing or who isn't. When blood plasma in the storage room is found to to be tampered with, which a scientific test that could have been used to find out who or who isn't human, Gary and two others (Dr. Copper and Clark) become suspects because of their access to the storage room. As a result they are quarantined by MacReady who takes over as the 'de facto' leader of the team to find out who may be the Thing. When a 'whiteout' storm (an Antarctic storm resembling a winter hurricane) hits the camp, they are forced to hunker down, all of them paranoid and distrustful of one another.",
+      "subtitle": [
+        {
+          "shot": 517,
+          "duration": [
+            3371.331592502504,
+            3402.98826727715
+          ],
+          "sentences": [
+            "And now the radio's gone.",
+            "And so are the choppers. We're completely cut off.",
+            "All we can do now is hole up 'til spring, wait for the rescue team.",
+            "No, we don't wait. Somebody in this camp ain't what he appears to be.",
+            "Right now that may be one or two of us. By spring, it could be all of us.",
+            "So how do we know who's human?",
+            "If I was an imitation... a perfect imitation...",
+            "how would you know if it was really me?"
+          ]
+        },
+        {
+          "shot": 519,
+          "duration": [
+            3407.993275146659,
+            3410.287237086851
+          ],
+          "sentences": [
+            "Is there some kind of test, Doc?"
+          ]
+        },
+        {
+          "shot": 520,
+          "duration": [
+            3410.3289454857636,
+            3421.5902131921594
+          ],
+          "sentences": [
+            "Well, yeah, possibly. I've been thinkin' about a blood serum test.",
+            "What's that?",
+            "We could take a sample of each person's blood, mix it with uncontaminated blood."
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            3421.6319215910717,
+            3426.261553870368
+          ],
+          "sentences": [
+            "I suppose if there's a reaction, we'd know who isn't human.",
+            "- We've got whole blood in storage. - Start working on it."
+          ]
+        },
+        {
+          "shot": 522,
+          "duration": [
+            3426.3032622692804,
+            3457.6679782515384
+          ],
+          "sentences": [
+            "- We've got whole blood in storage. - Start working on it.",
+            "Keep an eye on Clark.",
+            "He was close to that dog.",
+            "Yeah. Yeah.",
+            "Mac, we need Blair's help.",
+            "He's the only one who knows this organism. He's too far gone.",
+            "But get the rest of his notebooks. Start goin' through 'em."
+          ]
+        },
+        {
+          "shot": 523,
+          "duration": [
+            3457.7096866504507,
+            3466.3016168264417
+          ],
+          "sentences": [
+            "Garry! Hey, you guys, come here!"
+          ]
+        },
+        {
+          "shot": 524,
+          "duration": [
+            3466.3433252253544,
+            3474.8935470024326
+          ],
+          "sentences": [
+            "What? Somebody got to the blood.",
+            "What?",
+            "Where's Clark? Right here."
+          ]
+        },
+        {
+          "shot": 525,
+          "duration": [
+            3474.9352554013453,
+            3505.7577621977393
+          ],
+          "sentences": [
+            "Wait a minute. Was this broken into? The lock is undamaged.",
+            "Somebody opened it, closed it, then locked it.  Great.",
+            "Who's got access to it?",
+            "I guess I'm the only one.",
+            "And I got the only key.",
+            "Would that test have worked, Doc? I think so, yes.",
+            "Somebody else sure as hell thought so.",
+            "Well, who else could've used that key?"
+          ]
+        },
+        {
+          "shot": 526,
+          "duration": [
+            3505.799470596652,
+            3508.8024753183577
+          ],
+          "sentences": [
+            "Nobody! I just give it to Copper whenever he needs it."
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            3508.84418371727,
+            3512.72306481614
+          ],
+          "sentences": [
+            "Could anybody have gotten it from you, Doc?",
+            "I don't see how. As soon as I'm finished, I return it right away."
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            3512.764773215052,
+            3514.975318357419
+          ],
+          "sentences": [
+            "I don't see how. As soon as I'm finished, I return it right away."
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            3517.728072685649,
+            3524.0677493203607
+          ],
+          "sentences": [
+            "Great.",
+            "When was the last time you used it?  Day or so ago."
+          ]
+        },
+        {
+          "shot": 531,
+          "duration": [
+            3524.1094577192735,
+            3532.9099298898273
+          ],
+          "sentences": [
+            "I suppose somebody could have lifted it off me... Oh, come on!",
+            "That key ring of yours is always hooked to your belt."
+          ]
+        },
+        {
+          "shot": 532,
+          "duration": [
+            3532.9516382887396,
+            3534.5365574474176
+          ],
+          "sentences": [
+            "- Accusing everybody... -  Stop it! It ain't worth it!"
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            3534.57826584633,
+            3535.370725425669
+          ],
+          "sentences": [
+            "- Accusing everybody... -  Stop it! It ain't worth it!"
+          ]
+        },
+        {
+          "shot": 534,
+          "duration": [
+            3535.4124338245815,
+            3537.8732293604235
+          ],
+          "sentences": [
+            "- Accusing everybody... -  Stop it! It ain't worth it!"
+          ]
+        },
+        {
+          "shot": 535,
+          "duration": [
+            3537.914937759336,
+            3540.8345256832167
+          ],
+          "sentences": [
+            "Copper's the only one who's got any business with it.  Wait a minute!"
+          ]
+        },
+        {
+          "shot": 536,
+          "duration": [
+            3540.876234082129,
+            3548.800829875519
+          ],
+          "sentences": [
+            "You've been in here on several occasions. Doc thought of the test.",
+            "So what? Is that supposed to clear him?",
+            "Windows! Windows!"
+          ]
+        },
+        {
+          "shot": 537,
+          "duration": [
+            3548.8425382744313,
+            3554.097796537416
+          ],
+          "sentences": [
+            "Windows! Windows!"
+          ]
+        },
+        {
+          "shot": 539,
+          "duration": [
+            3562.9816855057948,
+            3574.785162398054
+          ],
+          "sentences": [
+            "Put that down!",
+            "No. I'll put this right through your head.",
+            "You guys gonna listen to Garry?",
+            "You gonna let him give the orders? He could be one of those Things."
+          ]
+        },
+        {
+          "shot": 540,
+          "duration": [
+            3574.826870796967,
+            3583.502217770783
+          ],
+          "sentences": [
+            "Windows. Wait a minute.",
+            "Just take it easy. Put the gun down.",
+            "Put it down. You don't want to hurt anybody. Right."
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            3583.5439261696956,
+            3599.2679925597367
+          ],
+          "sentences": [
+            "On the floor."
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            3599.3097009586495,
+            3605.5242523966235
+          ],
+          "sentences": [
+            "It's on the floor."
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            3605.565960795536,
+            3627.0874946344256
+          ],
+          "sentences": [
+            "I don't know about Copper,",
+            "but I give you my word, I did not go near that blood.",
+            "But I guess you'll all feel a little easier..."
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            3627.1292030333384,
+            3630.507583345257
+          ],
+          "sentences": [
+            "if somebody else was in charge."
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            3630.5492917441698,
+            3634.553298039777
+          ],
+          "sentences": [
+            "Norris, I can't see anybody objecting to you."
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            3634.5950064386893,
+            3640.6010158821005
+          ],
+          "sentences": [
+            "I'm sorry, fellas, but I'm not up to it."
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            3640.642724281013,
+            3644.3547717842325
+          ],
+          "sentences": [
+            "I'll take it. Like hell you will."
+          ]
+        },
+        {
+          "shot": 548,
+          "duration": [
+            3644.3964801831453,
+            3649.9854056374306
+          ],
+          "sentences": [
+            "It should be somebody a little more even-tempered, Childs."
+          ]
+        },
+        {
+          "shot": 550,
+          "duration": [
+            3656.9507082558307,
+            3662.4979253112033
+          ],
+          "sentences": [
+            "All right."
+          ]
+        },
+        {
+          "shot": 555,
+          "duration": [
+            3682.1008728001148,
+            3685.8546287022464
+          ],
+          "sentences": [
+            "I know I'm human."
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            3685.896337101159,
+            3694.48826727715
+          ],
+          "sentences": [
+            "And if you were all these Things, then you'd just attack me right now.",
+            "So some of you are still human."
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            3694.5299756760623,
+            3715.3424667334384
+          ],
+          "sentences": [
+            "This Thing doesn't want to show itself. It wants to hide inside an imitation.",
+            "It'll fight if it has to.",
+            "But it's vulnerable out in the open.",
+            "If it takes us over,",
+            "then it has no more enemies,",
+            "nobody left to kill it."
+          ]
+        },
+        {
+          "shot": 558,
+          "duration": [
+            3715.384175132351,
+            3731.6087423093436
+          ],
+          "sentences": [
+            "And then it's won.",
+            "There's a storm hitting us in six hours.",
+            "We're gonna find out who's who.",
+            "All right, Doc, Garry and Clark, move over there away from the others."
+          ]
+        },
+        {
+          "shot": 562,
+          "duration": [
+            3743.5373443983403,
+            3748.083559879811
+          ],
+          "sentences": [
+            "Norris, you and Childs shoot 'em up with morphine. Tie 'em down in the rec room and watch 'em."
+          ]
+        },
+        {
+          "shot": 563,
+          "duration": [
+            3748.125268278724,
+            3750.419230218916
+          ],
+          "sentences": [
+            "Fuchs, you start working on a new technique. I need Doc's help."
+          ]
+        },
+        {
+          "shot": 564,
+          "duration": [
+            3750.460938617828,
+            3753.922735727572
+          ],
+          "sentences": [
+            "You don't wanna drug me. Mac, I'm not a prisoner!"
+          ]
+        },
+        {
+          "shot": 565,
+          "duration": [
+            3753.9644441264845,
+            3755.6744884819004
+          ],
+          "sentences": [
+            "You don't wanna drug me. Mac, I'm not a prisoner!"
+          ]
+        },
+        {
+          "shot": 570,
+          "duration": [
+            3767.436256975247,
+            3784.203033338103
+          ],
+          "sentences": [
+            "Let-Let me do it. You're gonna break the needle in my arm.",
+            "No, Doc, he's doing a real fine job."
+          ]
+        },
+        {
+          "shot": 572,
+          "duration": [
+            3789.625125196738,
+            3842.0108742309344
+          ],
+          "sentences": [
+            "I'm gonna hide this tape when I'm finished.",
+            "If none of us make it, at least there'll be some kind of record.",
+            "Storm's been hitting us hard now for 48 hours.",
+            "We still have nothing to go on.",
+            "One other thing, I think it rips through your clothes...",
+            "when it takes you over.",
+            "Windows found some shredded long johns, but the name tag was missing.",
+            "They could be anybody's.",
+            "Nobody...",
+            "Nobody trusts anybody now.",
+            "And we're all very tired."
+          ]
+        },
+        {
+          "shot": 573,
+          "duration": [
+            3842.052582629847,
+            3855.2324366862213
+          ],
+          "sentences": [
+            "And we're all very tired.",
+            "Nobody trusts anybody now."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0010",
+      "shot": [
+        575,
+        612
+      ],
+      "frame": [
+        92749,
+        100088
+      ],
+      "duration": [
+        3868.4169013654314,
+        4174.491243365432
+      ],
+      "consistency": 0.9662928884120575,
+      "description": "The following evening, Fuchs, trying to do research on how the Thing can reproduce and multiply, is waylaid when one of the unseen persons infected, disables the power to the lab. In going after it, Fuchs is killed (off-camera) and his body is found outside in the snow a few hours later by Mac, Nauls and Windows. Either the Thing burned Fuchs to death, or Fuchs burned himself in a suicide to prevent him from being taken over. Mac tells Windows to return to the main building while he goes with Nauls to his shack to investigate: when he left two days before, he'd turned out the lights and they're back on.",
+      "subtitle": [
+        {
+          "shot": 576,
+          "duration": [
+            3879.9238088424668,
+            3901.5704678780944
+          ],
+          "sentences": [
+            "You come up with anything yet?",
+            "One or two ideas.",
+            "But, MacReady, I've been thinking.",
+            "If a small particle of this Thing is enough to take over an entire organism,",
+            "then everyone should prepare their own meals.",
+            "And I suggest we only eat out of cans."
+          ]
+        },
+        {
+          "shot": 577,
+          "duration": [
+            3901.6121762770067,
+            3911.4136500214627
+          ],
+          "sentences": [
+            "All right."
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            3928.430676777794,
+            3940.6095292602663
+          ],
+          "sentences": [
+            "Who's that?"
+          ]
+        },
+        {
+          "shot": 586,
+          "duration": [
+            3976.1867935326945,
+            3986.9892688510517
+          ],
+          "sentences": [
+            "Anybody see Fuchs?",
+            "Somebody blew out a fuse in the lab.",
+            "Lights were out for an hour. Anyone of us could've gotten to him."
+          ]
+        },
+        {
+          "shot": 587,
+          "duration": [
+            3987.0309772499645,
+            3992.1611103162113
+          ],
+          "sentences": [
+            "Lights were out for an hour. Anyone of us could've gotten to him.",
+            "All right, we gotta find him. Nauls, why don't you come with me and we'll look outside."
+          ]
+        },
+        {
+          "shot": 588,
+          "duration": [
+            3992.202818715124,
+            3994.496780655316
+          ],
+          "sentences": [
+            "Palmer, you and Windows check the inside."
+          ]
+        },
+        {
+          "shot": 589,
+          "duration": [
+            3994.538489054228,
+            4003.9645872084707
+          ],
+          "sentences": [
+            "I ain't goin' with Windows.",
+            "I ain't goin' with him. I'll go with Childs.",
+            "Hey, fuck you, Palmer! I ain't goin' with you!"
+          ]
+        },
+        {
+          "shot": 590,
+          "duration": [
+            4004.0062956073834,
+            4006.3836743454003
+          ],
+          "sentences": [
+            "Hey, fuck you, Palmer! I ain't goin' with you!",
+            "Who says I want you goin' with me? Cut the bullshit!"
+          ]
+        },
+        {
+          "shot": 592,
+          "duration": [
+            4009.845471455144,
+            4015.8931892974674
+          ],
+          "sentences": [
+            "Windows, you come with us. Norris, you stay here.",
+            "Any of them move, you fry 'em. You hear anything, cut loose on the sirens."
+          ]
+        },
+        {
+          "shot": 593,
+          "duration": [
+            4015.93489769638,
+            4025.6529546430106
+          ],
+          "sentences": [
+            "We all meet back here in 20 minutes regardless.",
+            "And everybody watch whoever you're with... real close."
+          ]
+        },
+        {
+          "shot": 597,
+          "duration": [
+            4045.8815281156103,
+            4054.598583488339
+          ],
+          "sentences": [
+            "Hey, Blair.",
+            "Blair, have you seen Fuchs?"
+          ]
+        },
+        {
+          "shot": 598,
+          "duration": [
+            4054.640291887252,
+            4060.7714265274003
+          ],
+          "sentences": [
+            "I don't wanna stay out here anymore. I wanna come back inside."
+          ]
+        },
+        {
+          "shot": 599,
+          "duration": [
+            4060.813134926313,
+            4068.487480326227
+          ],
+          "sentences": [
+            "I hear funny things out here.",
+            "Have you come across Fuchs? It ain't Fuchs."
+          ]
+        },
+        {
+          "shot": 601,
+          "duration": [
+            4071.1151094577194,
+            4084.503505508657
+          ],
+          "sentences": [
+            "It ain't Fuchs.",
+            "I'm not gonna harm anybody. There's nothing wrong with me.",
+            "And if there was, I'm all better now. I'd like to come back inside.",
+            "Now you've got my promise."
+          ]
+        },
+        {
+          "shot": 602,
+          "duration": [
+            4084.545213907569,
+            4090.7180569466304
+          ],
+          "sentences": [
+            "We'll see.",
+            "Wait a minute, man."
+          ]
+        },
+        {
+          "shot": 603,
+          "duration": [
+            4090.759765345543,
+            4103.272285019316
+          ],
+          "sentences": [
+            "Wait a minute, man.",
+            "I wanna come back inside, don't you understand?",
+            "I'm all right. I'm much better... and I won't harm anybody.",
+            "You gotta let me come back inside."
+          ]
+        },
+        {
+          "shot": 604,
+          "duration": [
+            4103.313993418229,
+            4117.703391043068
+          ],
+          "sentences": [
+            "You gotta let me come back inside.",
+            "Hold it!"
+          ]
+        },
+        {
+          "shot": 606,
+          "duration": [
+            4122.291314923451,
+            4128.297324366862
+          ],
+          "sentences": [
+            "Is it Fuchs?"
+          ]
+        },
+        {
+          "shot": 609,
+          "duration": [
+            4131.550579482044,
+            4146.357061096008
+          ],
+          "sentences": [
+            "Yeah.",
+            "Why would it burn him?",
+            "Flare. Maybe he tried to burn it."
+          ]
+        },
+        {
+          "shot": 610,
+          "duration": [
+            4146.398769494921,
+            4148.692731435112
+          ],
+          "sentences": [
+            "Maybe he burned himself before it could get to him."
+          ]
+        },
+        {
+          "shot": 611,
+          "duration": [
+            4148.734439834025,
+            4174.134854771784
+          ],
+          "sentences": [
+            "Maybe he burned himself before it could get to him.",
+            "Great! Now what are we gonna do?",
+            "You go inside. Tell the others we found Fuchs.",
+            "We'll be in as soon as we can. Where are we going?",
+            "Up to my shack. What the hell for?",
+            "'Cause when I left yesterday, I turned the lights off."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0011",
+      "shot": [
+        621,
+        712
+      ],
+      "frame": [
+        101673,
+        111486
+      ],
+      "duration": [
+        4240.646486094577,
+        4649.8724480945775
+      ],
+      "consistency": 0.946356306690043,
+      "description": "Some time later, Nauls returns to the camp, nearly collapsing because of the cold. He tells the others he'd found clothing with Mac's name on it in the oil drum near MacReady's shack. As they were struggling back to the main compound, Nauls cut Mac's safety line and made a break for it. Mac is locked outside and breaks the window in another storeroom to enter. He arms himself with a small bundle of dynamite and threatens to blow himself and the rest of them up if they don't back away. When Childs  and the others rebel against MacReady (and to express their suspicion that he may be the Thing), Norris collapses when he appears to have a heart attack. When Dr. Copper tries to revive him using defibrillator paddles, Norris' chest suddenly opens up into a monstrous mouth and bites off Copper's arms. MacReady uses a flamethrower to destroy the Norris/Thing, leaving only it's head, which sprouts spider-like legs and tries to crawl away before it is destroyed as well.",
+      "subtitle": [
+        {
+          "shot": 621,
+          "duration": [
+            4233.444198025469,
+            4246.332093289455
+          ],
+          "sentences": [
+            "Hey! All of you, come here!"
+          ]
+        },
+        {
+          "shot": 623,
+          "duration": [
+            4254.2149806839325,
+            4261.639075690371
+          ],
+          "sentences": [
+            "Open up! Open up this door! Open up! Open up!"
+          ]
+        },
+        {
+          "shot": 624,
+          "duration": [
+            4261.680784089283,
+            4268.10387752182
+          ],
+          "sentences": [
+            "Close that door.",
+            "Where's MacReady?"
+          ]
+        },
+        {
+          "shot": 625,
+          "duration": [
+            4268.145585920733,
+            4282.4932751466595
+          ],
+          "sentences": [
+            "I cut him loose of the line up by his shack.",
+            "Cut him loose? Yeah.",
+            "We were up checkin' around his place, I found this.",
+            "Look. It was stashed in his oil furnace."
+          ]
+        },
+        {
+          "shot": 626,
+          "duration": [
+            4282.534983545572,
+            4285.246029474889
+          ],
+          "sentences": [
+            "Wind must've dislodged it, but I don't think he saw me find it."
+          ]
+        },
+        {
+          "shot": 627,
+          "duration": [
+            4285.287737873802,
+            4291.460580912863
+          ],
+          "sentences": [
+            "Wind must've dislodged it, but I don't think he saw me find it.",
+            "I made sure I got ahead of him on the towline on the way back. I cut him loose."
+          ]
+        },
+        {
+          "shot": 628,
+          "duration": [
+            4291.502289311776,
+            4295.29775361282
+          ],
+          "sentences": [
+            "MacReady? He's one of'em.",
+            "- When do you think it got to him? - I don't know."
+          ]
+        },
+        {
+          "shot": 629,
+          "duration": [
+            4295.339462011733,
+            4299.885677493204
+          ],
+          "sentences": [
+            "- When do you think it got to him? - I don't know.",
+            "It could've been anytime, anywhere.",
+            "If it did get to him."
+          ]
+        },
+        {
+          "shot": 630,
+          "duration": [
+            4299.927385892116,
+            4303.38918300186
+          ],
+          "sentences": [
+            "If it did get to him.",
+            "Look, Childs, come on. When the lights went out. That would've been perfect."
+          ]
+        },
+        {
+          "shot": 631,
+          "duration": [
+            4303.430891400772,
+            4309.853984833309
+          ],
+          "sentences": [
+            "Look, Childs, come on. When the lights went out. That would've been perfect.",
+            "Right. You said guys were missing. Windows, where were you?",
+            "I told you to shut your mouth!"
+          ]
+        },
+        {
+          "shot": 632,
+          "duration": [
+            4309.895693232223,
+            4310.896694806124
+          ],
+          "sentences": [
+            "I told you to shut your mouth!"
+          ]
+        },
+        {
+          "shot": 633,
+          "duration": [
+            4310.938403205037,
+            4312.147946773502
+          ],
+          "sentences": [
+            "I told you to shut your mouth!",
+            "This is just what it wants! To pit us against each other."
+          ]
+        },
+        {
+          "shot": 634,
+          "duration": [
+            4312.189655172414,
+            4317.444913435399
+          ],
+          "sentences": [
+            "This is just what it wants! To pit us against each other."
+          ]
+        },
+        {
+          "shot": 635,
+          "duration": [
+            4317.486621834311,
+            4332.126269852626
+          ],
+          "sentences": [
+            "Let's open it. Hell no!",
+            "You think he's changed into one of those Things? He's had time.",
+            "Nothing human could've made it back here in this weather without a guide line.",
+            "Let's open it now. Why are you so anxious to let him in here?"
+          ]
+        },
+        {
+          "shot": 636,
+          "duration": [
+            4332.167978251538,
+            4336.046859350408
+          ],
+          "sentences": [
+            "Because it's so close. May be our best chance to blow it away. Let him freeze."
+          ]
+        },
+        {
+          "shot": 637,
+          "duration": [
+            4336.088567749321,
+            4338.883030476463
+          ],
+          "sentences": [
+            "Because it's so close. May be our best chance to blow it away. Let him freeze.",
+            "Childs, what if we're wrong about him?"
+          ]
+        },
+        {
+          "shot": 638,
+          "duration": [
+            4338.924738875376,
+            4341.802618400344
+          ],
+          "sentences": [
+            "Childs, what if we're wrong about him?",
+            "Well then, we're wrong!"
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            4341.844326799256,
+            4348.05887823723
+          ],
+          "sentences": [
+            "The supply window!",
+            "All right, all right, we got no choice now!"
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            4348.100586636143,
+            4367.536700529404
+          ],
+          "sentences": [
+            "All right, all right, we got no choice now!",
+            "Damn it! He's got the keys!",
+            "What's going on? The towline snapped.",
+            "Bullshit, Childs. He's got to know damn well I cut it!",
+            "You're a dead man, MacReady!",
+            "Or a dead whatever the hell you are!"
+          ]
+        },
+        {
+          "shot": 644,
+          "duration": [
+            4375.544713120618,
+            4384.220060094434
+          ],
+          "sentences": [
+            "Anyone messes with me and the whole camp goes.",
+            "Come on, Childs, burn me."
+          ]
+        },
+        {
+          "shot": 645,
+          "duration": [
+            4384.261768493347,
+            4393.896408642152
+          ],
+          "sentences": [
+            "Put those torches on the floor and back off."
+          ]
+        },
+        {
+          "shot": 646,
+          "duration": [
+            4393.938117041064,
+            4399.735584489913
+          ],
+          "sentences": [
+            "Back off. Way off."
+          ]
+        },
+        {
+          "shot": 649,
+          "duration": [
+            4408.91143225068,
+            4413.457647732151
+          ],
+          "sentences": [
+            "You asshole. You'd have done the same thing.",
+            "Don't argue with him."
+          ]
+        },
+        {
+          "shot": 650,
+          "duration": [
+            4413.499356131063,
+            4416.794319645157
+          ],
+          "sentences": [
+            "Don't argue with him.",
+            "Where's the rest?"
+          ]
+        },
+        {
+          "shot": 651,
+          "duration": [
+            4416.836028044069,
+            4417.753612820146
+          ],
+          "sentences": [
+            "Where's the rest?"
+          ]
+        },
+        {
+          "shot": 654,
+          "duration": [
+            4420.4646587494635,
+            4422.883745886393
+          ],
+          "sentences": [
+            "Come on, man, I mean it!"
+          ]
+        },
+        {
+          "shot": 655,
+          "duration": [
+            4422.925454285306,
+            4425.135999427673
+          ],
+          "sentences": [
+            "It's cool, MacReady, come on."
+          ]
+        },
+        {
+          "shot": 656,
+          "duration": [
+            4425.177707826585,
+            4427.68021176134
+          ],
+          "sentences": [
+            "It's cool, MacReady, come on.",
+            "Yeah. Yeah, man, just relax."
+          ]
+        },
+        {
+          "shot": 657,
+          "duration": [
+            4427.721920160252,
+            4431.9761768493345
+          ],
+          "sentences": [
+            "Yeah. Yeah, man, just relax.",
+            "Anybody touches me...  and we go."
+          ]
+        },
+        {
+          "shot": 660,
+          "duration": [
+            4442.528401774217,
+            4445.781656889398
+          ],
+          "sentences": [
+            "- He's not breathin'! - Go untie the doc."
+          ]
+        },
+        {
+          "shot": 661,
+          "duration": [
+            4445.82336528831,
+            4452.121333524109
+          ],
+          "sentences": [
+            "- He's not breathin'! - Go untie the doc.",
+            "Get him in here. And bring the others."
+          ]
+        },
+        {
+          "shot": 662,
+          "duration": [
+            4452.163041923022,
+            4454.540420661039
+          ],
+          "sentences": [
+            "Get him in here. And bring the others."
+          ]
+        },
+        {
+          "shot": 663,
+          "duration": [
+            4454.5821290599515,
+            4461.50572327944
+          ],
+          "sentences": [
+            "From now on, nobody gets outta my sight."
+          ]
+        },
+        {
+          "shot": 666,
+          "duration": [
+            4467.553441121763,
+            4471.307197023895
+          ],
+          "sentences": [
+            "Let me at him."
+          ]
+        },
+        {
+          "shot": 667,
+          "duration": [
+            4471.348905422808,
+            4475.895120904278
+          ],
+          "sentences": [
+            "So, you sweethearts were about to have a little lynching party, huh?"
+          ]
+        },
+        {
+          "shot": 668,
+          "duration": [
+            4475.936829303191,
+            4478.689583631421
+          ],
+          "sentences": [
+            "So, you sweethearts were about to have a little lynching party, huh?"
+          ]
+        },
+        {
+          "shot": 669,
+          "duration": [
+            4478.731292030334,
+            4484.111675490056
+          ],
+          "sentences": [
+            "So, you sweethearts were about to have a little lynching party, huh?",
+            "I might just have to put an end to you on general principles, Nauls."
+          ]
+        },
+        {
+          "shot": 670,
+          "duration": [
+            4484.153383888968,
+            4486.28051223351
+          ],
+          "sentences": [
+            "Did it ever occur to the jury that anybody could've gotten some of my clothes..."
+          ]
+        },
+        {
+          "shot": 671,
+          "duration": [
+            4486.322220632423,
+            4487.865431392188
+          ],
+          "sentences": [
+            "Did it ever occur to the jury that anybody could've gotten some of my clothes..."
+          ]
+        },
+        {
+          "shot": 672,
+          "duration": [
+            4487.9071397911,
+            4489.867434539991
+          ],
+          "sentences": [
+            "Did it ever occur to the jury that anybody could've gotten some of my clothes...",
+            "and stuck 'em up the furnace? We ain't buyin' that."
+          ]
+        },
+        {
+          "shot": 673,
+          "duration": [
+            4489.909142938905,
+            4492.077979682358
+          ],
+          "sentences": [
+            "and stuck 'em up the furnace? We ain't buyin' that.",
+            "Quit that bickerin' over there! Windows, wheel that defibrillator over here."
+          ]
+        },
+        {
+          "shot": 674,
+          "duration": [
+            4492.11968808127,
+            4494.955859207326
+          ],
+          "sentences": [
+            "Quit that bickerin' over there! Windows, wheel that defibrillator over here."
+          ]
+        },
+        {
+          "shot": 675,
+          "duration": [
+            4494.997567606239,
+            4497.249821147518
+          ],
+          "sentences": [
+            "Gimme those paddles!"
+          ]
+        },
+        {
+          "shot": 676,
+          "duration": [
+            4497.29152954643,
+            4499.752325082272
+          ],
+          "sentences": [
+            "You're gonna have to sleep sometime, MacReady."
+          ]
+        },
+        {
+          "shot": 677,
+          "duration": [
+            4499.794033481185,
+            4502.9221633996285
+          ],
+          "sentences": [
+            "You're gonna have to sleep sometime, MacReady.",
+            "I'm a real light sleeper, Childs."
+          ]
+        },
+        {
+          "shot": 678,
+          "duration": [
+            4502.963871798541,
+            4508.969881241952
+          ],
+          "sentences": [
+            "If anyone tries to wake me... Uh-uh."
+          ]
+        },
+        {
+          "shot": 679,
+          "duration": [
+            4509.011589640864,
+            4511.931177564745
+          ],
+          "sentences": [
+            "Clear!"
+          ]
+        },
+        {
+          "shot": 680,
+          "duration": [
+            4511.972885963657,
+            4515.976892259265
+          ],
+          "sentences": [
+            "Clear!"
+          ]
+        },
+        {
+          "shot": 682,
+          "duration": [
+            4518.7713549864075,
+            4521.440692516812
+          ],
+          "sentences": [
+            "Clear! Clear."
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            4579.874159393333,
+            4584.462083273716
+          ],
+          "sentences": [
+            "We're on fire, MacReady! We're on fire! Get back! Just wait!"
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            4592.386679067105,
+            4603.0223207898125
+          ],
+          "sentences": [
+            "All right, go!"
+          ]
+        },
+        {
+          "shot": 707,
+          "duration": [
+            4615.534840463586,
+            4626.12877378738
+          ],
+          "sentences": [
+            "Windows! Windows, get in here!"
+          ]
+        },
+        {
+          "shot": 710,
+          "duration": [
+            4640.976963800258,
+            4649.402060380598
+          ],
+          "sentences": [
+            "You gotta be fuckin' kidding."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0012",
+      "shot": [
+        739,
+        861
+      ],
+      "frame": [
+        113901,
+        122724
+      ],
+      "duration": [
+        4750.669033052941,
+        5118.606468672629
+      ],
+      "consistency": 0.976202083855292,
+      "description": "At this point, MacReady leads the others in a test to determine who is infected. He suggests that everyone give a blood sample, and then those blood samples be poked with a hot piece of wire. The theory is that each part of a Thing will try to survive independently, and therefore the blood would transform to defend itself. Clark makes another attempt on MacReady's life, he is shot and killed by him. Everyone is tied up (including the dead Clark and Copper) while the test is performed. Windows is the first to be tested, and turns out to be human; MacReady arms him with a flamethrower to torch anyone who might be a Thing. As MacReady continues the test (testing the dead bodies of Clark and Copper whom are not infected), he openly accuses Garry of being a duplicate, but instead finds that Palmer  is a Thing clone. As Palmer transforms, MacReady's flamethrower misfires and Windows hesitates to kill the Palmer-Thing, which proves to be a fatal mistake as Palmer-Thing's entire head splits open and turns into a giant mouth, which is used to crush Windows' head. MacReady manages to get his flamethrower working and sets the Palmer-Thing on fire which crashes through the wall to die in the snow. MacReady is then forced to torch Windows with the other flame thrower, since he is now infected and the Thing is coming back through him.",
+      "subtitle": [
+        {
+          "shot": 739,
+          "duration": [
+            4747.083130633853,
+            4773.359421948777
+          ],
+          "sentences": [
+            "We're gonna draw a little bit of everybody's blood...",
+            "'cause we're gonna find out who's the Thing.",
+            "Watchin'Norris in there gave me the idea that...",
+            "maybe every part of him was a whole.",
+            "Every little piece was an individual animal...",
+            "with a built-in desire to protect its own life."
+          ]
+        },
+        {
+          "shot": 740,
+          "duration": [
+            4773.401130347689,
+            4777.280011446559
+          ],
+          "sentences": [
+            "with a built-in desire to protect its own life."
+          ]
+        },
+        {
+          "shot": 741,
+          "duration": [
+            4777.321719845471,
+            4797.04979253112
+          ],
+          "sentences": [
+            "You see, when a man bleeds,",
+            "it's just tissue.",
+            "The blood from one of you Things won't obey when it's attacked.",
+            "It'll try and survive.",
+            "Crawl away from a hot needle the same."
+          ]
+        },
+        {
+          "shot": 742,
+          "duration": [
+            4797.091500930033,
+            4801.09550722564
+          ],
+          "sentences": [
+            "Crawl away from a hot needle the same."
+          ]
+        },
+        {
+          "shot": 747,
+          "duration": [
+            4811.981399341823,
+            4830.458220060094
+          ],
+          "sentences": [
+            "Now you."
+          ]
+        },
+        {
+          "shot": 749,
+          "duration": [
+            4840.343110602375,
+            4844.347116897983
+          ],
+          "sentences": [
+            "That's good."
+          ]
+        },
+        {
+          "shot": 750,
+          "duration": [
+            4844.388825296895,
+            4848.1425811990275
+          ],
+          "sentences": [
+            "That's good.",
+            "All right, move back, over there."
+          ]
+        },
+        {
+          "shot": 751,
+          "duration": [
+            4848.18428959794,
+            4850.228001144656
+          ],
+          "sentences": [
+            "All right, move back, over there."
+          ]
+        },
+        {
+          "shot": 766,
+          "duration": [
+            4891.769566461583,
+            4901.571040206039
+          ],
+          "sentences": [
+            "I guess you're okay.",
+            "All right. Put that on and watch them."
+          ]
+        },
+        {
+          "shot": 767,
+          "duration": [
+            4901.612748604951,
+            4903.823293747318
+          ],
+          "sentences": [
+            "All right. Put that on and watch them."
+          ]
+        },
+        {
+          "shot": 770,
+          "duration": [
+            4911.455930748319,
+            4916.836314208042
+          ],
+          "sentences": [
+            "Now I'll show you what I already know."
+          ]
+        },
+        {
+          "shot": 772,
+          "duration": [
+            4919.046859350408,
+            4921.549363285163
+          ],
+          "sentences": [
+            "It's a crock of shit."
+          ]
+        },
+        {
+          "shot": 773,
+          "duration": [
+            4921.591071684075,
+            4924.5940764057805
+          ],
+          "sentences": [
+            "It's a crock of shit.",
+            "Let's try the doc and Clark."
+          ]
+        },
+        {
+          "shot": 778,
+          "duration": [
+            4936.689512090428,
+            4943.9050651023035
+          ],
+          "sentences": [
+            "Now Clark."
+          ]
+        },
+        {
+          "shot": 782,
+          "duration": [
+            4952.830662469595,
+            4957.585419945629
+          ],
+          "sentences": [
+            "Then Clark was human, huh?",
+            "Which makes you a murderer, don't it?"
+          ]
+        },
+        {
+          "shot": 783,
+          "duration": [
+            4957.627128344541,
+            4964.217055372729
+          ],
+          "sentences": [
+            "Which makes you a murderer, don't it?",
+            "Palmer now."
+          ]
+        },
+        {
+          "shot": 785,
+          "duration": [
+            4966.260766919445,
+            4970.723565603091
+          ],
+          "sentences": [
+            "This is pure nonsense. It doesn't prove a thing."
+          ]
+        },
+        {
+          "shot": 786,
+          "duration": [
+            4970.765274002003,
+            4972.725568750894
+          ],
+          "sentences": [
+            "I thought you'd feel that way, Garry. You were the only one that could've got to that blood."
+          ]
+        },
+        {
+          "shot": 787,
+          "duration": [
+            4972.767277149807,
+            4975.4783230791245
+          ],
+          "sentences": [
+            "I thought you'd feel that way, Garry. You were the only one that could've got to that blood."
+          ]
+        },
+        {
+          "shot": 788,
+          "duration": [
+            4975.520031478037,
+            4978.814994992131
+          ],
+          "sentences": [
+            "We'll do you last."
+          ]
+        },
+        {
+          "shot": 791,
+          "duration": [
+            4980.858706538847,
+            4982.568750894263
+          ],
+          "sentences": [
+            "Get him away from me! MacReady, burn it!"
+          ]
+        },
+        {
+          "shot": 792,
+          "duration": [
+            4982.610459293175,
+            4985.488338818143
+          ],
+          "sentences": [
+            "Get him away from me! MacReady, burn it!",
+            "-What is it?"
+          ]
+        },
+        {
+          "shot": 793,
+          "duration": [
+            4985.530047217056,
+            4987.365216769209
+          ],
+          "sentences": [
+            "-What is it?"
+          ]
+        },
+        {
+          "shot": 800,
+          "duration": [
+            4995.915438546287,
+            4997.291815710402
+          ],
+          "sentences": [
+            "-Come on!"
+          ]
+        },
+        {
+          "shot": 801,
+          "duration": [
+            4997.333524109315,
+            5000.711904421233
+          ],
+          "sentences": [
+            "-Come on!"
+          ]
+        },
+        {
+          "shot": 805,
+          "duration": [
+            5005.216411503792,
+            5006.425955072256
+          ],
+          "sentences": [
+            "Get me outta here!"
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            5006.4676634711695,
+            5007.593790241809
+          ],
+          "sentences": [
+            "Get me outta here!"
+          ]
+        },
+        {
+          "shot": 807,
+          "duration": [
+            5007.635498640721,
+            5008.970167405924
+          ],
+          "sentences": [
+            "Get me outta here!"
+          ]
+        },
+        {
+          "shot": 811,
+          "duration": [
+            5012.014880526542,
+            5013.975175275433
+          ],
+          "sentences": [
+            "Windows, blast him!"
+          ]
+        },
+        {
+          "shot": 812,
+          "duration": [
+            5014.016883674346,
+            5016.102303619975
+          ],
+          "sentences": [
+            "Windows, blast him!"
+          ]
+        },
+        {
+          "shot": 814,
+          "duration": [
+            5016.853054800401,
+            5019.188725139506
+          ],
+          "sentences": [
+            "Get me outta here! Get me outta here!"
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            5019.230433538418,
+            5021.566103877522
+          ],
+          "sentences": [
+            "Get me outta here! Get me outta here!"
+          ]
+        },
+        {
+          "shot": 836,
+          "duration": [
+            5049.010230361998,
+            5050.136357132637
+          ],
+          "sentences": [
+            "Windows!"
+          ]
+        },
+        {
+          "shot": 837,
+          "duration": [
+            5050.17806553155,
+            5051.387609100015
+          ],
+          "sentences": [
+            "Windows!"
+          ]
+        },
+        {
+          "shot": 848,
+          "duration": [
+            5071.115681785664,
+            5073.284518529117
+          ],
+          "sentences": [
+            "Get me outta here!"
+          ]
+        },
+        {
+          "shot": 849,
+          "duration": [
+            5073.32622692803,
+            5076.120689655173
+          ],
+          "sentences": [
+            "Get me outta here!"
+          ]
+        },
+        {
+          "shot": 855,
+          "duration": [
+            5091.677922449564,
+            5095.18142795822
+          ],
+          "sentences": [
+            "MacReady, get in here! Come on, hurry up!"
+          ]
+        },
+        {
+          "shot": 856,
+          "duration": [
+            5095.223136357133,
+            5103.481399341823
+          ],
+          "sentences": [
+            "MacReady, get in here! Come on, hurry up!",
+            "He's coming back! Burn it! Burn it, for God's sake!",
+            "Hurry up, MacReady! Burn it!"
+          ]
+        },
+        {
+          "shot": 857,
+          "duration": [
+            5103.523107740736,
+            5104.89948490485
+          ],
+          "sentences": [
+            "Hurry up, MacReady! Burn it!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0084787_0014",
+      "shot": [
+        938,
+        1017
+      ],
+      "frame": [
+        134320,
+        147080
+      ],
+      "duration": [
+        5602.3018109590785,
+        6134.441692959079
+      ],
+      "consistency": 0.9881336088243032,
+      "description": "In venturing down into the basement of the camp to set TNT charges, Garry is killed by the infected Blair. Nauls disappears and is never seen again. Then, MacReady comes face-to-face with the huge, tentacle Blair/Thing, which destroys his detonator. So instead, MacReady throws a lighted stick of dynamite at it. Both the Thing and the building explode, but MacReady survives. He stumbles to a ruined shack to find Childs there. Neither of them know whether the other is the Thing, and they both sit ready to kill the other at the first sign. (MacReady is definitely not the Thing, but there is a strong possibility that Childs might have been taken over when he wandered off earlier). They take swigs of a bottle of whiskey as the camera shows a wide shot of the camp in flames. Both men, exhausted and wary of each other, sit among the burning wreckage.... waiting for the fires to go out and the winter weather to consume them. On that dark note, and with a wiry laugh from MacReady, 'The Thing' comes to a close.",
+      "subtitle": [
+        {
+          "shot": 940,
+          "duration": [
+            5642.061954499929,
+            5655.7423093432535
+          ],
+          "sentences": [
+            "The generator's gone."
+          ]
+        },
+        {
+          "shot": 941,
+          "duration": [
+            5655.784017742167,
+            5658.328230075834
+          ],
+          "sentences": [
+            "The generator's gone.",
+            "Any way we can fix it?"
+          ]
+        },
+        {
+          "shot": 942,
+          "duration": [
+            5658.369938474746,
+            5662.499069967092
+          ],
+          "sentences": [
+            "It's gone, MacReady."
+          ]
+        },
+        {
+          "shot": 943,
+          "duration": [
+            5662.540778366004,
+            5665.71061668336
+          ],
+          "sentences": [
+            "It's gone, MacReady."
+          ]
+        },
+        {
+          "shot": 944,
+          "duration": [
+            5665.752325082272,
+            5683.812061811418
+          ],
+          "sentences": [
+            "All right.",
+            "We gotta bring this whole place right down into the ice.",
+            "Garry, plant yours in the old storage room.",
+            "Nauls, down by the generator."
+          ]
+        },
+        {
+          "shot": 945,
+          "duration": [
+            5683.85377021033,
+            5685.939190155959
+          ],
+          "sentences": [
+            "Nauls, down by the generator."
+          ]
+        },
+        {
+          "shot": 953,
+          "duration": [
+            5731.568178566319,
+            5734.529474889112
+          ],
+          "sentences": [
+            "Ah, God!"
+          ]
+        },
+        {
+          "shot": 954,
+          "duration": [
+            5734.571183288024,
+            5735.697310058664
+          ],
+          "sentences": [
+            "Ah, God!"
+          ]
+        },
+        {
+          "shot": 968,
+          "duration": [
+            5802.389039919874,
+            5808.395049363286
+          ],
+          "sentences": [
+            "How's it comin' in there?"
+          ]
+        },
+        {
+          "shot": 969,
+          "duration": [
+            5808.436757762198,
+            5811.690012877379
+          ],
+          "sentences": [
+            "I said, how's it..."
+          ]
+        },
+        {
+          "shot": 999,
+          "duration": [
+            5910.9142938904,
+            5918.880598082702
+          ],
+          "sentences": [
+            "Yeah, fuck you too!"
+          ]
+        },
+        {
+          "shot": 1008,
+          "duration": [
+            5984.738159965661,
+            6018.688796680498
+          ],
+          "sentences": [
+            "You the only one who made it?",
+            "Not the only one.",
+            "Did you kill it?",
+            "Where were you, Childs?",
+            "Thought I saw Blair."
+          ]
+        },
+        {
+          "shot": 1009,
+          "duration": [
+            6018.730505079411,
+            6033.954070682501
+          ],
+          "sentences": [
+            "Thought I saw Blair.",
+            "I went out after him and got lost in the storm."
+          ]
+        },
+        {
+          "shot": 1010,
+          "duration": [
+            6033.995779081414,
+            6041.544999284591
+          ],
+          "sentences": [
+            "Fire's got the temperature up all over the camp.",
+            "Won't last long, though."
+          ]
+        },
+        {
+          "shot": 1011,
+          "duration": [
+            6041.586707683503,
+            6058.687151237659
+          ],
+          "sentences": [
+            "Won't last long, though.",
+            "Neither will we.",
+            "How will we make it?",
+            "Maybe we shouldn't.",
+            "If you're worried about me..."
+          ]
+        },
+        {
+          "shot": 1012,
+          "duration": [
+            6058.728859636572,
+            6067.070539419087
+          ],
+          "sentences": [
+            "If you're worried about me...",
+            "If we've got any surprises for each other,",
+            "I don't think we're in much shape to do anything about it."
+          ]
+        },
+        {
+          "shot": 1013,
+          "duration": [
+            6067.112247818,
+            6090.719201602518
+          ],
+          "sentences": [
+            "I don't think we're in much shape to do anything about it.",
+            "Well... what do we do?",
+            "Why don't we just...",
+            "wait here for a little while?",
+            "See what happens."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

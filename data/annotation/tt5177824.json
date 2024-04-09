@@ -1,0 +1,26 @@
+{
+  "imdb_id": "tt5177824",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 6,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 29,
+        "scale": "medium",
+        "movement": "moving"
+      },
+      {
+        "shot": 36,
+        "scale": "closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

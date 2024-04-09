@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt2692250",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 106,
+        "scale": "full",
+        "movement": "static"
+      }
+    ]
+  }
+}

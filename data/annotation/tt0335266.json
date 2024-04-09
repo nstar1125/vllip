@@ -1,0 +1,5372 @@
+{
+  "imdb_id": "tt0335266",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0335266_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        334
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0001",
+      "shot": [
+        1,
+        5
+      ],
+      "frame": [
+        334,
+        1114
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0002",
+      "shot": [
+        5,
+        6
+      ],
+      "frame": [
+        1114,
+        2016
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0003",
+      "shot": [
+        6,
+        18
+      ],
+      "frame": [
+        2016,
+        3368
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0004",
+      "shot": [
+        18,
+        19
+      ],
+      "frame": [
+        3368,
+        3591
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0005",
+      "shot": [
+        19,
+        35
+      ],
+      "frame": [
+        3591,
+        4706
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0006",
+      "shot": [
+        35,
+        36
+      ],
+      "frame": [
+        4706,
+        4906
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0007",
+      "shot": [
+        36,
+        38
+      ],
+      "frame": [
+        4906,
+        5491
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0008",
+      "shot": [
+        38,
+        40
+      ],
+      "frame": [
+        5491,
+        5812
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0009",
+      "shot": [
+        40,
+        42
+      ],
+      "frame": [
+        5812,
+        6257
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0010",
+      "shot": [
+        42,
+        46
+      ],
+      "frame": [
+        6257,
+        7650
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0011",
+      "shot": [
+        46,
+        56
+      ],
+      "frame": [
+        7650,
+        8803
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0012",
+      "shot": [
+        56,
+        57
+      ],
+      "frame": [
+        8803,
+        9047
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0013",
+      "shot": [
+        57,
+        61
+      ],
+      "frame": [
+        9047,
+        10137
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0014",
+      "shot": [
+        61,
+        63
+      ],
+      "frame": [
+        10137,
+        10943
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0015",
+      "shot": [
+        63,
+        64
+      ],
+      "frame": [
+        10943,
+        11050
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0016",
+      "shot": [
+        64,
+        65
+      ],
+      "frame": [
+        11050,
+        11219
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0017",
+      "shot": [
+        65,
+        67
+      ],
+      "frame": [
+        11219,
+        11465
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0018",
+      "shot": [
+        67,
+        68
+      ],
+      "frame": [
+        11465,
+        11544
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0019",
+      "shot": [
+        68,
+        69
+      ],
+      "frame": [
+        11544,
+        12238
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0020",
+      "shot": [
+        69,
+        75
+      ],
+      "frame": [
+        12238,
+        13473
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0021",
+      "shot": [
+        75,
+        78
+      ],
+      "frame": [
+        13473,
+        14027
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0022",
+      "shot": [
+        78,
+        105
+      ],
+      "frame": [
+        14027,
+        17246
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0023",
+      "shot": [
+        105,
+        107
+      ],
+      "frame": [
+        17246,
+        17460
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0024",
+      "shot": [
+        107,
+        108
+      ],
+      "frame": [
+        17460,
+        17615
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0025",
+      "shot": [
+        108,
+        110
+      ],
+      "frame": [
+        17615,
+        17683
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0026",
+      "shot": [
+        110,
+        114
+      ],
+      "frame": [
+        17683,
+        17956
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0027",
+      "shot": [
+        114,
+        115
+      ],
+      "frame": [
+        17956,
+        18201
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0028",
+      "shot": [
+        115,
+        123
+      ],
+      "frame": [
+        18201,
+        18886
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0029",
+      "shot": [
+        123,
+        124
+      ],
+      "frame": [
+        18886,
+        19059
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0030",
+      "shot": [
+        124,
+        127
+      ],
+      "frame": [
+        19059,
+        20715
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0031",
+      "shot": [
+        127,
+        132
+      ],
+      "frame": [
+        20715,
+        21937
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0032",
+      "shot": [
+        132,
+        142
+      ],
+      "frame": [
+        21937,
+        23142
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0033",
+      "shot": [
+        142,
+        143
+      ],
+      "frame": [
+        23142,
+        23257
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0034",
+      "shot": [
+        143,
+        144
+      ],
+      "frame": [
+        23257,
+        23535
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0035",
+      "shot": [
+        144,
+        154
+      ],
+      "frame": [
+        23535,
+        24498
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0036",
+      "shot": [
+        154,
+        170
+      ],
+      "frame": [
+        24498,
+        27083
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0037",
+      "shot": [
+        170,
+        171
+      ],
+      "frame": [
+        27083,
+        27278
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0038",
+      "shot": [
+        171,
+        180
+      ],
+      "frame": [
+        27278,
+        28090
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0039",
+      "shot": [
+        180,
+        181
+      ],
+      "frame": [
+        28090,
+        28198
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0040",
+      "shot": [
+        181,
+        196
+      ],
+      "frame": [
+        28198,
+        29150
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0041",
+      "shot": [
+        196,
+        197
+      ],
+      "frame": [
+        29150,
+        29219
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0042",
+      "shot": [
+        197,
+        226
+      ],
+      "frame": [
+        29219,
+        33941
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0043",
+      "shot": [
+        226,
+        227
+      ],
+      "frame": [
+        33941,
+        34089
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0044",
+      "shot": [
+        227,
+        249
+      ],
+      "frame": [
+        34089,
+        36012
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0045",
+      "shot": [
+        249,
+        250
+      ],
+      "frame": [
+        36012,
+        36383
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0046",
+      "shot": [
+        250,
+        254
+      ],
+      "frame": [
+        36383,
+        37324
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0047",
+      "shot": [
+        254,
+        255
+      ],
+      "frame": [
+        37324,
+        37780
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0048",
+      "shot": [
+        255,
+        275
+      ],
+      "frame": [
+        37780,
+        40539
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0049",
+      "shot": [
+        275,
+        279
+      ],
+      "frame": [
+        40539,
+        41059
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0050",
+      "shot": [
+        279,
+        282
+      ],
+      "frame": [
+        41059,
+        41842
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0051",
+      "shot": [
+        282,
+        292
+      ],
+      "frame": [
+        41842,
+        44083
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0052",
+      "shot": [
+        292,
+        293
+      ],
+      "frame": [
+        44083,
+        44232
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0053",
+      "shot": [
+        293,
+        298
+      ],
+      "frame": [
+        44232,
+        44867
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0054",
+      "shot": [
+        298,
+        303
+      ],
+      "frame": [
+        44867,
+        45270
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0055",
+      "shot": [
+        303,
+        304
+      ],
+      "frame": [
+        45270,
+        45396
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0056",
+      "shot": [
+        304,
+        321
+      ],
+      "frame": [
+        45396,
+        50056
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0057",
+      "shot": [
+        321,
+        333
+      ],
+      "frame": [
+        50056,
+        50957
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0058",
+      "shot": [
+        333,
+        347
+      ],
+      "frame": [
+        50957,
+        52651
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0059",
+      "shot": [
+        347,
+        348
+      ],
+      "frame": [
+        52651,
+        52739
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0060",
+      "shot": [
+        348,
+        350
+      ],
+      "frame": [
+        52739,
+        53390
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0061",
+      "shot": [
+        350,
+        368
+      ],
+      "frame": [
+        53390,
+        55150
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0062",
+      "shot": [
+        368,
+        386
+      ],
+      "frame": [
+        55150,
+        56927
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0063",
+      "shot": [
+        386,
+        399
+      ],
+      "frame": [
+        56927,
+        59523
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0064",
+      "shot": [
+        399,
+        400
+      ],
+      "frame": [
+        59523,
+        59654
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0065",
+      "shot": [
+        400,
+        415
+      ],
+      "frame": [
+        59654,
+        61474
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0066",
+      "shot": [
+        415,
+        431
+      ],
+      "frame": [
+        61474,
+        63319
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0067",
+      "shot": [
+        431,
+        432
+      ],
+      "frame": [
+        63319,
+        63397
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0068",
+      "shot": [
+        432,
+        446
+      ],
+      "frame": [
+        63397,
+        64565
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0069",
+      "shot": [
+        446,
+        454
+      ],
+      "frame": [
+        64565,
+        65100
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0070",
+      "shot": [
+        454,
+        457
+      ],
+      "frame": [
+        65100,
+        65275
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0071",
+      "shot": [
+        457,
+        459
+      ],
+      "frame": [
+        65275,
+        65593
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0072",
+      "shot": [
+        459,
+        471
+      ],
+      "frame": [
+        65593,
+        66331
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0073",
+      "shot": [
+        471,
+        483
+      ],
+      "frame": [
+        66331,
+        66910
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0074",
+      "shot": [
+        483,
+        490
+      ],
+      "frame": [
+        66910,
+        67582
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0075",
+      "shot": [
+        490,
+        492
+      ],
+      "frame": [
+        67582,
+        67830
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0076",
+      "shot": [
+        492,
+        496
+      ],
+      "frame": [
+        67830,
+        68085
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0077",
+      "shot": [
+        496,
+        500
+      ],
+      "frame": [
+        68085,
+        68420
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0078",
+      "shot": [
+        500,
+        501
+      ],
+      "frame": [
+        68420,
+        68460
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0079",
+      "shot": [
+        501,
+        502
+      ],
+      "frame": [
+        68460,
+        68492
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0080",
+      "shot": [
+        502,
+        503
+      ],
+      "frame": [
+        68492,
+        68574
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0081",
+      "shot": [
+        503,
+        516
+      ],
+      "frame": [
+        68574,
+        69623
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0082",
+      "shot": [
+        516,
+        552
+      ],
+      "frame": [
+        69623,
+        74341
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0083",
+      "shot": [
+        552,
+        554
+      ],
+      "frame": [
+        74341,
+        75487
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0084",
+      "shot": [
+        554,
+        567
+      ],
+      "frame": [
+        75487,
+        77069
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0085",
+      "shot": [
+        567,
+        581
+      ],
+      "frame": [
+        77069,
+        82588
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0086",
+      "shot": [
+        581,
+        582
+      ],
+      "frame": [
+        82588,
+        84291
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0087",
+      "shot": [
+        582,
+        596
+      ],
+      "frame": [
+        84291,
+        86128
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0088",
+      "shot": [
+        596,
+        607
+      ],
+      "frame": [
+        86128,
+        87737
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0089",
+      "shot": [
+        607,
+        608
+      ],
+      "frame": [
+        87737,
+        87879
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0090",
+      "shot": [
+        608,
+        610
+      ],
+      "frame": [
+        87879,
+        88197
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0091",
+      "shot": [
+        610,
+        611
+      ],
+      "frame": [
+        88197,
+        88275
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0092",
+      "shot": [
+        611,
+        612
+      ],
+      "frame": [
+        88275,
+        88435
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0093",
+      "shot": [
+        612,
+        613
+      ],
+      "frame": [
+        88435,
+        89750
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0094",
+      "shot": [
+        613,
+        615
+      ],
+      "frame": [
+        89750,
+        89947
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0095",
+      "shot": [
+        615,
+        617
+      ],
+      "frame": [
+        89947,
+        90224
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0096",
+      "shot": [
+        617,
+        618
+      ],
+      "frame": [
+        90224,
+        90327
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0097",
+      "shot": [
+        618,
+        623
+      ],
+      "frame": [
+        90327,
+        90780
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0098",
+      "shot": [
+        623,
+        624
+      ],
+      "frame": [
+        90780,
+        90881
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0099",
+      "shot": [
+        624,
+        625
+      ],
+      "frame": [
+        90881,
+        91451
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0100",
+      "shot": [
+        625,
+        635
+      ],
+      "frame": [
+        91451,
+        92890
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0101",
+      "shot": [
+        635,
+        644
+      ],
+      "frame": [
+        92890,
+        93736
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0102",
+      "shot": [
+        644,
+        645
+      ],
+      "frame": [
+        93736,
+        93805
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0103",
+      "shot": [
+        645,
+        646
+      ],
+      "frame": [
+        93805,
+        93922
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0104",
+      "shot": [
+        646,
+        647
+      ],
+      "frame": [
+        93922,
+        94160
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0105",
+      "shot": [
+        647,
+        648
+      ],
+      "frame": [
+        94160,
+        94222
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0106",
+      "shot": [
+        648,
+        649
+      ],
+      "frame": [
+        94222,
+        94384
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0107",
+      "shot": [
+        649,
+        650
+      ],
+      "frame": [
+        94384,
+        94450
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0108",
+      "shot": [
+        650,
+        651
+      ],
+      "frame": [
+        94450,
+        94567
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0109",
+      "shot": [
+        651,
+        653
+      ],
+      "frame": [
+        94567,
+        94815
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0110",
+      "shot": [
+        653,
+        657
+      ],
+      "frame": [
+        94815,
+        95365
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0111",
+      "shot": [
+        657,
+        662
+      ],
+      "frame": [
+        95365,
+        96193
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0112",
+      "shot": [
+        662,
+        663
+      ],
+      "frame": [
+        96193,
+        96228
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0113",
+      "shot": [
+        663,
+        668
+      ],
+      "frame": [
+        96228,
+        96898
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0114",
+      "shot": [
+        668,
+        699
+      ],
+      "frame": [
+        96898,
+        105702
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0115",
+      "shot": [
+        699,
+        702
+      ],
+      "frame": [
+        105702,
+        105985
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0116",
+      "shot": [
+        702,
+        707
+      ],
+      "frame": [
+        105985,
+        106284
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0117",
+      "shot": [
+        707,
+        708
+      ],
+      "frame": [
+        106284,
+        106416
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0118",
+      "shot": [
+        708,
+        710
+      ],
+      "frame": [
+        106416,
+        106634
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0119",
+      "shot": [
+        710,
+        711
+      ],
+      "frame": [
+        106634,
+        106766
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0120",
+      "shot": [
+        711,
+        712
+      ],
+      "frame": [
+        106766,
+        106835
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0121",
+      "shot": [
+        712,
+        725
+      ],
+      "frame": [
+        106835,
+        109238
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0122",
+      "shot": [
+        725,
+        726
+      ],
+      "frame": [
+        109238,
+        109837
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0123",
+      "shot": [
+        726,
+        732
+      ],
+      "frame": [
+        109837,
+        110764
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0124",
+      "shot": [
+        732,
+        733
+      ],
+      "frame": [
+        110764,
+        111024
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0125",
+      "shot": [
+        733,
+        739
+      ],
+      "frame": [
+        111024,
+        111929
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0126",
+      "shot": [
+        739,
+        740
+      ],
+      "frame": [
+        111929,
+        113785
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0127",
+      "shot": [
+        740,
+        743
+      ],
+      "frame": [
+        113785,
+        114296
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0128",
+      "shot": [
+        743,
+        748
+      ],
+      "frame": [
+        114296,
+        117267
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0129",
+      "shot": [
+        748,
+        749
+      ],
+      "frame": [
+        117267,
+        117583
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0130",
+      "shot": [
+        749,
+        755
+      ],
+      "frame": [
+        117583,
+        118181
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0131",
+      "shot": [
+        755,
+        756
+      ],
+      "frame": [
+        118181,
+        118744
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0132",
+      "shot": [
+        756,
+        763
+      ],
+      "frame": [
+        118744,
+        119560
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0133",
+      "shot": [
+        763,
+        764
+      ],
+      "frame": [
+        119560,
+        119586
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0134",
+      "shot": [
+        764,
+        765
+      ],
+      "frame": [
+        119586,
+        119708
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0135",
+      "shot": [
+        765,
+        771
+      ],
+      "frame": [
+        119708,
+        120296
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0136",
+      "shot": [
+        771,
+        772
+      ],
+      "frame": [
+        120296,
+        120710
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0137",
+      "shot": [
+        772,
+        780
+      ],
+      "frame": [
+        120710,
+        121363
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0138",
+      "shot": [
+        780,
+        794
+      ],
+      "frame": [
+        121363,
+        123594
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0139",
+      "shot": [
+        794,
+        795
+      ],
+      "frame": [
+        123594,
+        123984
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0140",
+      "shot": [
+        795,
+        812
+      ],
+      "frame": [
+        123984,
+        125691
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0141",
+      "shot": [
+        812,
+        822
+      ],
+      "frame": [
+        125691,
+        128233
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0142",
+      "shot": [
+        822,
+        823
+      ],
+      "frame": [
+        128233,
+        128288
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0143",
+      "shot": [
+        823,
+        824
+      ],
+      "frame": [
+        128288,
+        128383
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0144",
+      "shot": [
+        824,
+        825
+      ],
+      "frame": [
+        128383,
+        128441
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0145",
+      "shot": [
+        825,
+        826
+      ],
+      "frame": [
+        128441,
+        128729
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0146",
+      "shot": [
+        826,
+        827
+      ],
+      "frame": [
+        128729,
+        128944
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0147",
+      "shot": [
+        827,
+        833
+      ],
+      "frame": [
+        128944,
+        129965
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0148",
+      "shot": [
+        833,
+        834
+      ],
+      "frame": [
+        129965,
+        130422
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0149",
+      "shot": [
+        834,
+        850
+      ],
+      "frame": [
+        130422,
+        131867
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0150",
+      "shot": [
+        850,
+        852
+      ],
+      "frame": [
+        131867,
+        132147
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0151",
+      "shot": [
+        852,
+        856
+      ],
+      "frame": [
+        132147,
+        132912
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0152",
+      "shot": [
+        856,
+        857
+      ],
+      "frame": [
+        132912,
+        133002
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0153",
+      "shot": [
+        857,
+        864
+      ],
+      "frame": [
+        133002,
+        133565
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0154",
+      "shot": [
+        864,
+        888
+      ],
+      "frame": [
+        133565,
+        135816
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0155",
+      "shot": [
+        888,
+        893
+      ],
+      "frame": [
+        135816,
+        136830
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0335266_0156",
+      "shot": [
+        893,
+        901
+      ],
+      "frame": [
+        136830,
+        137997
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0335266_0000",
+      "shot": [
+        5,
+        105
+      ],
+      "frame": [
+        1581,
+        17244
+      ],
+      "duration": [
+        65.952224,
+        719.206591
+      ],
+      "consistency": 0.994329680462741,
+      "description": "Bob, a 55 year old, looking bored, oblivious, is a still famous actor who comes to Tokyo to shoot a commercial for $2 million. As soon he arrives and is greeted by a bunch of smiling overly friendly Japanese crew, he gets a fax from his wife Lydia, 45 years old, reminding him that he forgot his son's birthday. The next morning, he spots Charlotte, 25 years old, in the elevator full of expressionless Japanese people. Bob, feeling totally oblivious, shoots a whiskey commercial.",
+      "subtitle": [
+        {
+          "shot": 5,
+          "duration": [
+            46.46308333333333,
+            84.04229166666666
+          ],
+          "sentences": [
+            "~ Welcome to New Tokyo International Airport. Welcome. ~"
+          ]
+        },
+        {
+          "shot": 20,
+          "duration": [
+            150.6505,
+            153.31983333333332
+          ],
+          "sentences": [
+            "- Welcome to Tokyo. - Thank you very much.",
+            "- My name is Kawasaki. - Nice to meet you."
+          ]
+        },
+        {
+          "shot": 21,
+          "duration": [
+            153.36154166666665,
+            155.19670833333333
+          ],
+          "sentences": [
+            "- My name is Kawasaki. - Nice to meet you."
+          ]
+        },
+        {
+          "shot": 22,
+          "duration": [
+            155.23841666666667,
+            156.531375
+          ],
+          "sentences": [
+            "- My name is Kawasaki. - Nice to meet you.",
+            "- For you. - Thank you."
+          ]
+        },
+        {
+          "shot": 23,
+          "duration": [
+            156.57308333333333,
+            158.53337499999998
+          ],
+          "sentences": [
+            "- For you. - Thank you.",
+            "- And Mr. Mori from Suntory. - Hi."
+          ]
+        },
+        {
+          "shot": 24,
+          "duration": [
+            158.5750833333333,
+            159.74291666666664
+          ],
+          "sentences": [
+            "- And Mr. Mori from Suntory. - Hi.",
+            "- And Miss Shibata. - Hey, I need that."
+          ]
+        },
+        {
+          "shot": 25,
+          "duration": [
+            159.78462499999998,
+            161.20270833333333
+          ],
+          "sentences": [
+            "- And Miss Shibata. - Hey, I need that."
+          ]
+        },
+        {
+          "shot": 26,
+          "duration": [
+            161.24441666666667,
+            163.24641666666665
+          ],
+          "sentences": [
+            "- And Miss Shibata. - Hey, I need that.",
+            "And Mr. Awinami."
+          ]
+        },
+        {
+          "shot": 27,
+          "duration": [
+            163.28812499999998,
+            164.7062083333333
+          ],
+          "sentences": [
+            "And Mr. Awinami.",
+            "Nice to meet you.",
+            "All right. Thank you."
+          ]
+        },
+        {
+          "shot": 28,
+          "duration": [
+            164.74791666666667,
+            169.62779166666667
+          ],
+          "sentences": [
+            "All right. Thank you.",
+            "- And Mr. Tanaka. - Thank you. Thank you.",
+            "And we will pick you up in the morning?"
+          ]
+        },
+        {
+          "shot": 29,
+          "duration": [
+            169.6695,
+            174.549375
+          ],
+          "sentences": [
+            "And we will pick you up in the morning?",
+            "- Okay. - Okay. - See you tomorrow.",
+            "Great. Short and sweet. Very Japanese. I like that."
+          ]
+        },
+        {
+          "shot": 30,
+          "duration": [
+            174.59108333333333,
+            176.42624999999998
+          ],
+          "sentences": [
+            "Great. Short and sweet. Very Japanese. I like that.",
+            "My pleasure."
+          ]
+        },
+        {
+          "shot": 31,
+          "duration": [
+            176.4679583333333,
+            180.59708333333333
+          ],
+          "sentences": [
+            "My pleasure.",
+            "Yeah, get some sleep, will you?",
+            "We're all ... You're all really tired, I'm sure. See you tomorrow."
+          ]
+        },
+        {
+          "shot": 32,
+          "duration": [
+            180.63879166666666,
+            187.93775
+          ],
+          "sentences": [
+            "We're all ... You're all really tired, I'm sure. See you tomorrow.",
+            "- Good night. - Thank you. Thank you.",
+            "Thank you ... What's this?",
+            "Something good?"
+          ]
+        },
+        {
+          "shot": 34,
+          "duration": [
+            193.02616666666665,
+            196.23770833333333
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 36,
+          "duration": [
+            204.62108333333333,
+            215.79891666666666
+          ],
+          "sentences": [
+            "- Mr. Harris, welcome to Park Hyatt Tokyo. - Yeah.",
+            "This way, please.",
+            "Mr. Harris, pleased to welcome.",
+            "- Thank you. - Have a nice stay with us.",
+            "This way."
+          ]
+        },
+        {
+          "shot": 37,
+          "duration": [
+            215.840625,
+            228.97875
+          ],
+          "sentences": [
+            "This way.",
+            "Mr. Harris, welcome to Park Hyatt Tokyo.",
+            "- Thank you. - Enjoy your stay with us.",
+            "Thank you very much."
+          ]
+        },
+        {
+          "shot": 41,
+          "duration": [
+            251.04245833333331,
+            260.9273333333333
+          ],
+          "sentences": [
+            "\u266a I'm in your arms \u266a"
+          ]
+        },
+        {
+          "shot": 42,
+          "duration": [
+            260.96904166666667,
+            264.389125
+          ],
+          "sentences": [
+            "\u266a I'm in your arms \u266a",
+            "\u266a And you are kissing me \u266a"
+          ]
+        },
+        {
+          "shot": 43,
+          "duration": [
+            264.43083333333334,
+            269.0604583333333
+          ],
+          "sentences": [
+            "\u266a And you are kissing me \u266a",
+            "\u266a But there seems to be \u266a"
+          ]
+        },
+        {
+          "shot": 44,
+          "duration": [
+            269.1021666666666,
+            272.4388333333333
+          ],
+          "sentences": [
+            "\u266a But there seems to be \u266a"
+          ]
+        },
+        {
+          "shot": 45,
+          "duration": [
+            272.4805416666666,
+            319.02704166666666
+          ],
+          "sentences": [
+            "Finish this drink, then we'll go to a jazz club.",
+            "Yeah.",
+            "- You see that guy? - Yeah.",
+            "You know who that is?",
+            "It's not him.",
+            "It looks like him, but it's not him.",
+            "Can you believe it?",
+            "Okay, maybe it is.",
+            "He's here with us. I'm gonna go talk to him.",
+            "Shut up. Shut up.",
+            "Bob? Bob Harris? You're awesome, man!",
+            "Sunset Odds. Loved it.",
+            "- Man, that car chase, - I couldn't believe it.",
+            "Four buses ... and he took that thing and everything exploded.",
+            "- I heard he did his own driving. - I don't know.",
+            "Did you do your own driving?",
+            "- I did. - Cool.",
+            "So, what are you doing here?",
+            "Yeah.",
+            "Um ... seeing friends. Seeing friends.",
+            "- Yeah? - Great.",
+            "We're here on business.",
+            "\u266a I can see it in your eyes \u266a",
+            "Later."
+          ]
+        },
+        {
+          "shot": 46,
+          "duration": [
+            319.06874999999997,
+            324.1154583333333
+          ],
+          "sentences": [
+            "- See you, Bob. - Keep it up."
+          ]
+        },
+        {
+          "shot": 57,
+          "duration": [
+            377.33529166666665,
+            403.528125
+          ],
+          "sentences": [
+            "Are you awake?",
+            "John.",
+            "Go to sleep."
+          ]
+        },
+        {
+          "shot": 63,
+          "duration": [
+            456.41429166666666,
+            460.83537499999994
+          ],
+          "sentences": [
+            "Moshi moshi."
+          ]
+        },
+        {
+          "shot": 64,
+          "duration": [
+            460.8770833333333,
+            467.8840833333333
+          ],
+          "sentences": [
+            "Moshi moshi.",
+            "Yeah, I'm coming down.",
+            "Okay.",
+            "I gotta go to work."
+          ]
+        },
+        {
+          "shot": 65,
+          "duration": [
+            467.9257916666666,
+            471.17904166666665
+          ],
+          "sentences": [
+            "I gotta go to work.",
+            "Okay.",
+            "I love you. I'll see you later.",
+            "Okay. Bye."
+          ]
+        },
+        {
+          "shot": 66,
+          "duration": [
+            471.22074999999995,
+            478.1443333333333
+          ],
+          "sentences": [
+            "Okay. Bye."
+          ]
+        },
+        {
+          "shot": 70,
+          "duration": [
+            525.650125,
+            544.418875
+          ],
+          "sentences": [
+            "Mr. Bob-san.",
+            "Suntory whisky."
+          ]
+        },
+        {
+          "shot": 71,
+          "duration": [
+            544.4605833333333,
+            552.0514999999999
+          ],
+          "sentences": [
+            "Suntory whisky."
+          ]
+        },
+        {
+          "shot": 73,
+          "duration": [
+            556.8479583333333,
+            560.3931666666666
+          ],
+          "sentences": [
+            "Casablanca. Bogie."
+          ]
+        },
+        {
+          "shot": 74,
+          "duration": [
+            560.4348749999999,
+            561.8946666666666
+          ],
+          "sentences": [
+            "Suntory time."
+          ]
+        },
+        {
+          "shot": 75,
+          "duration": [
+            561.936375,
+            565.690125
+          ],
+          "sentences": [
+            "Suntory time.",
+            "He want you to turn, look in camera."
+          ]
+        },
+        {
+          "shot": 76,
+          "duration": [
+            565.7318333333333,
+            580.9136666666666
+          ],
+          "sentences": [
+            "He want you to turn, look in camera.",
+            "Okay?",
+            "That's all he said?",
+            "Yes.",
+            "Turn to camera.",
+            "All right, does he want me to turn from the right,",
+            "or turn from the left?"
+          ]
+        },
+        {
+          "shot": 77,
+          "duration": [
+            580.955375,
+            585.0010833333333
+          ],
+          "sentences": [
+            "or turn from the left?"
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            605.5632916666666,
+            608.6497083333333
+          ],
+          "sentences": [
+            "Passionate. Camera. Passion."
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            608.6914166666667,
+            611.8195416666666
+          ],
+          "sentences": [
+            "Passionate. Camera. Passion.",
+            "Right side and with intensity."
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            611.8612499999999,
+            616.9496666666666
+          ],
+          "sentences": [
+            "Right side and with intensity.",
+            "Okay?",
+            "Is that everything? I mean, it seemed like he said ...",
+            "quite a bit more than that."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            616.991375,
+            620.9536666666667
+          ],
+          "sentences": [
+            "quite a bit more than that.",
+            "Whisky."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            620.995375,
+            627.2099166666666
+          ],
+          "sentences": [
+            "Whisky.",
+            "Gently."
+          ]
+        },
+        {
+          "shot": 88,
+          "duration": [
+            627.251625,
+            630.3380416666666
+          ],
+          "sentences": [
+            "Gently.",
+            "Tension."
+          ]
+        },
+        {
+          "shot": 89,
+          "duration": [
+            630.37975,
+            638.6379999999999
+          ],
+          "sentences": [
+            "Tension.",
+            "Like an old friend, and into the camera.",
+            "Okay.",
+            "Whisky."
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            638.6797083333333,
+            641.5992916666667
+          ],
+          "sentences": [
+            "Whisky.",
+            "It's Suntory time! Okay?"
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            641.641,
+            643.267625
+          ],
+          "sentences": [
+            "It's Suntory time! Okay?"
+          ]
+        },
+        {
+          "shot": 92,
+          "duration": [
+            643.3093333333333,
+            645.1027916666666
+          ],
+          "sentences": [
+            "Okay."
+          ]
+        },
+        {
+          "shot": 93,
+          "duration": [
+            645.1445,
+            646.1872083333333
+          ],
+          "sentences": [
+            "Okay?"
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            646.2289166666666,
+            648.6897083333333
+          ],
+          "sentences": [
+            "Okay?",
+            "- Hey, come on! - Come on, come on, come on."
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            648.7314166666666,
+            649.9409583333332
+          ],
+          "sentences": [
+            "- Hey, come on! - Come on, come on, come on."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            649.9826666666667,
+            651.1505
+          ],
+          "sentences": [
+            "- Hey, come on! - Come on, come on, come on."
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            657.6152916666666,
+            664.6222916666666
+          ],
+          "sentences": [
+            "For relaxing times,",
+            "make it Suntory time."
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            664.664,
+            669.9192499999999
+          ],
+          "sentences": [
+            "Cut-o! Cut-o, cut-o, cut-o, cut-o, cut-o!"
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            673.3393333333332,
+            684.4754583333333
+          ],
+          "sentences": [
+            "Could you do it slower ...",
+            "and with more intensity?"
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            684.5171666666666,
+            692.692
+          ],
+          "sentences": [
+            "Suntory time."
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            695.6532916666666,
+            719.2602083333333
+          ],
+          "sentences": [
+            "For relaxing times,",
+            "make it Suntory time.",
+            "Cut-o, cut-o, cut-o, cut-o!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0335266_0001",
+      "shot": [
+        56,
+        127
+      ],
+      "frame": [
+        8805,
+        20712
+      ],
+      "duration": [
+        367.26332066666663,
+        863.8396086666667
+      ],
+      "consistency": 0.9798068428913785,
+      "description": "Charlotte is accompanying her husband John, who is 30 years old and a constantly busy photographer, who doesn't pay much attention to her. He goes to Tokyo to shoot for a few days. She feels sad, lost and alone in a luxurious hotel.",
+      "subtitle": [
+        {
+          "shot": 57,
+          "duration": [
+            377.33529166666665,
+            403.528125
+          ],
+          "sentences": [
+            "Are you awake?",
+            "John.",
+            "Go to sleep."
+          ]
+        },
+        {
+          "shot": 63,
+          "duration": [
+            456.41429166666666,
+            460.83537499999994
+          ],
+          "sentences": [
+            "Moshi moshi."
+          ]
+        },
+        {
+          "shot": 64,
+          "duration": [
+            460.8770833333333,
+            467.8840833333333
+          ],
+          "sentences": [
+            "Moshi moshi.",
+            "Yeah, I'm coming down.",
+            "Okay.",
+            "I gotta go to work."
+          ]
+        },
+        {
+          "shot": 65,
+          "duration": [
+            467.9257916666666,
+            471.17904166666665
+          ],
+          "sentences": [
+            "I gotta go to work.",
+            "Okay.",
+            "I love you. I'll see you later.",
+            "Okay. Bye."
+          ]
+        },
+        {
+          "shot": 66,
+          "duration": [
+            471.22074999999995,
+            478.1443333333333
+          ],
+          "sentences": [
+            "Okay. Bye."
+          ]
+        },
+        {
+          "shot": 70,
+          "duration": [
+            525.650125,
+            544.418875
+          ],
+          "sentences": [
+            "Mr. Bob-san.",
+            "Suntory whisky."
+          ]
+        },
+        {
+          "shot": 71,
+          "duration": [
+            544.4605833333333,
+            552.0514999999999
+          ],
+          "sentences": [
+            "Suntory whisky."
+          ]
+        },
+        {
+          "shot": 73,
+          "duration": [
+            556.8479583333333,
+            560.3931666666666
+          ],
+          "sentences": [
+            "Casablanca. Bogie."
+          ]
+        },
+        {
+          "shot": 74,
+          "duration": [
+            560.4348749999999,
+            561.8946666666666
+          ],
+          "sentences": [
+            "Suntory time."
+          ]
+        },
+        {
+          "shot": 75,
+          "duration": [
+            561.936375,
+            565.690125
+          ],
+          "sentences": [
+            "Suntory time.",
+            "He want you to turn, look in camera."
+          ]
+        },
+        {
+          "shot": 76,
+          "duration": [
+            565.7318333333333,
+            580.9136666666666
+          ],
+          "sentences": [
+            "He want you to turn, look in camera.",
+            "Okay?",
+            "That's all he said?",
+            "Yes.",
+            "Turn to camera.",
+            "All right, does he want me to turn from the right,",
+            "or turn from the left?"
+          ]
+        },
+        {
+          "shot": 77,
+          "duration": [
+            580.955375,
+            585.0010833333333
+          ],
+          "sentences": [
+            "or turn from the left?"
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            605.5632916666666,
+            608.6497083333333
+          ],
+          "sentences": [
+            "Passionate. Camera. Passion."
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            608.6914166666667,
+            611.8195416666666
+          ],
+          "sentences": [
+            "Passionate. Camera. Passion.",
+            "Right side and with intensity."
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            611.8612499999999,
+            616.9496666666666
+          ],
+          "sentences": [
+            "Right side and with intensity.",
+            "Okay?",
+            "Is that everything? I mean, it seemed like he said ...",
+            "quite a bit more than that."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            616.991375,
+            620.9536666666667
+          ],
+          "sentences": [
+            "quite a bit more than that.",
+            "Whisky."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            620.995375,
+            627.2099166666666
+          ],
+          "sentences": [
+            "Whisky.",
+            "Gently."
+          ]
+        },
+        {
+          "shot": 88,
+          "duration": [
+            627.251625,
+            630.3380416666666
+          ],
+          "sentences": [
+            "Gently.",
+            "Tension."
+          ]
+        },
+        {
+          "shot": 89,
+          "duration": [
+            630.37975,
+            638.6379999999999
+          ],
+          "sentences": [
+            "Tension.",
+            "Like an old friend, and into the camera.",
+            "Okay.",
+            "Whisky."
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            638.6797083333333,
+            641.5992916666667
+          ],
+          "sentences": [
+            "Whisky.",
+            "It's Suntory time! Okay?"
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            641.641,
+            643.267625
+          ],
+          "sentences": [
+            "It's Suntory time! Okay?"
+          ]
+        },
+        {
+          "shot": 92,
+          "duration": [
+            643.3093333333333,
+            645.1027916666666
+          ],
+          "sentences": [
+            "Okay."
+          ]
+        },
+        {
+          "shot": 93,
+          "duration": [
+            645.1445,
+            646.1872083333333
+          ],
+          "sentences": [
+            "Okay?"
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            646.2289166666666,
+            648.6897083333333
+          ],
+          "sentences": [
+            "Okay?",
+            "- Hey, come on! - Come on, come on, come on."
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            648.7314166666666,
+            649.9409583333332
+          ],
+          "sentences": [
+            "- Hey, come on! - Come on, come on, come on."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            649.9826666666667,
+            651.1505
+          ],
+          "sentences": [
+            "- Hey, come on! - Come on, come on, come on."
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            657.6152916666666,
+            664.6222916666666
+          ],
+          "sentences": [
+            "For relaxing times,",
+            "make it Suntory time."
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            664.664,
+            669.9192499999999
+          ],
+          "sentences": [
+            "Cut-o! Cut-o, cut-o, cut-o, cut-o, cut-o!"
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            673.3393333333332,
+            684.4754583333333
+          ],
+          "sentences": [
+            "Could you do it slower ...",
+            "and with more intensity?"
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            684.5171666666666,
+            692.692
+          ],
+          "sentences": [
+            "Suntory time."
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            695.6532916666666,
+            719.2602083333333
+          ],
+          "sentences": [
+            "For relaxing times,",
+            "make it Suntory time.",
+            "Cut-o, cut-o, cut-o, cut-o!"
+          ]
+        },
+        {
+          "shot": 124,
+          "duration": [
+            794.9191249999999,
+            823.9481249999999
+          ],
+          "sentences": [
+            "Hello?",
+            "Lauren?",
+            "Charlotte! Hey!",
+            "Hey.",
+            "Oh, my God. How's Tokyo?",
+            "It's great here. It's really great. Um ...",
+            "I don't know ... I went to this shrine today.",
+            "- Mmm-hmm? - And ...",
+            "there were these monks, and they were chanting.",
+            "And I didn't feel anything. You know?",
+            "And I don't know ...",
+            "I even tried ikebana, and John is using these hair products."
+          ]
+        },
+        {
+          "shot": 125,
+          "duration": [
+            823.9898333333333,
+            827.57675
+          ],
+          "sentences": [
+            "I even tried ikebana, and John is using these hair products.",
+            "I just ... I don't know who I married.",
+            "Look, can you wait a second? Just hold on. I'll be right back."
+          ]
+        },
+        {
+          "shot": 126,
+          "duration": [
+            827.6184583333333,
+            863.9464166666666
+          ],
+          "sentences": [
+            "Look, can you wait a second? Just hold on. I'll be right back.",
+            "Okay, sure.",
+            "Sorry. What were you saying?",
+            "Nothing. It's okay. I'll call you later. Okay?",
+            "Okay. Have the best time. Just call me when you get back. Okay? Bye.",
+            "- Bye. - Love you."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0335266_0003",
+      "shot": [
+        409,
+        581
+      ],
+      "frame": [
+        60475,
+        82589
+      ],
+      "duration": [
+        2522.315567,
+        3444.611125
+      ],
+      "consistency": 0.9375659575712713,
+      "description": "Charlotte invites Bob to join her and friends for a party. They all have a great time together. Their understanding of each other's feelings deepens. Charlotte reveals to him her fear of not knowing what to do with her life, he tells her about the scary and troubling parts of his marriage. After going back to his room, Bob tries to share his emotions about the party with his wife over phone, but she remains cold and talks about her daily routine.",
+      "subtitle": [
+        {
+          "shot": 409,
+          "duration": [
+            2518.057208333333,
+            2524.939083333333
+          ],
+          "sentences": [
+            "Well, that's good.",
+            "I'm going out with some friends later, if you wanna come ..."
+          ]
+        },
+        {
+          "shot": 410,
+          "duration": [
+            2524.9807916666664,
+            2534.1566249999996
+          ],
+          "sentences": [
+            "I'm going out with some friends later, if you wanna come ...",
+            "Sure.",
+            "Okay. I'll see you later.",
+            "- Okay. - See you."
+          ]
+        },
+        {
+          "shot": 414,
+          "duration": [
+            2545.167625,
+            2563.9363749999998
+          ],
+          "sentences": [
+            "Which one is burgundy?"
+          ]
+        },
+        {
+          "shot": 415,
+          "duration": [
+            2563.978083333333,
+            2571.443875
+          ],
+          "sentences": [
+            "Which one is burgundy?",
+            "Hold on!",
+            "Hold on."
+          ]
+        },
+        {
+          "shot": 416,
+          "duration": [
+            2571.485583333333,
+            2576.32375
+          ],
+          "sentences": [
+            "You really are having a midlife crisis, huh?"
+          ]
+        },
+        {
+          "shot": 417,
+          "duration": [
+            2576.365458333333,
+            2581.4121666666665
+          ],
+          "sentences": [
+            "You really are having a midlife crisis, huh?",
+            "Really? Yeah, I was afraid of that.",
+            "I kept telling myself that I just wanted to be ready in case we go to war tonight."
+          ]
+        },
+        {
+          "shot": 418,
+          "duration": [
+            2581.4538749999997,
+            2609.898958333333
+          ],
+          "sentences": [
+            "I kept telling myself that I just wanted to be ready in case we go to war tonight.",
+            "My bathroom is messier than yours.",
+            "And it's not like you're not trying.",
+            "Here, will you cut the tag out for me?",
+            "Sure.",
+            "You're too tall.",
+            "Anybody ever tell you, you may be too small?"
+          ]
+        },
+        {
+          "shot": 419,
+          "duration": [
+            2609.9406666666664,
+            2612.9436666666666
+          ],
+          "sentences": [
+            "Anybody ever tell you, you may be too small?",
+            "Whose is this?",
+            "\"A Soul's Search: Finding Your True Calling.\""
+          ]
+        },
+        {
+          "shot": 420,
+          "duration": [
+            2612.9853749999997,
+            2615.1124999999997
+          ],
+          "sentences": [
+            "\"A Soul's Search: Finding Your True Calling.\""
+          ]
+        },
+        {
+          "shot": 421,
+          "duration": [
+            2615.1542083333334,
+            2620.2009166666667
+          ],
+          "sentences": [
+            "I don't know.",
+            "- I have that. - Did it work out for you, then?"
+          ]
+        },
+        {
+          "shot": 422,
+          "duration": [
+            2620.242625,
+            2624.37175
+          ],
+          "sentences": [
+            "- I have that. - Did it work out for you, then?",
+            "Obviously."
+          ]
+        },
+        {
+          "shot": 423,
+          "duration": [
+            2624.413458333333,
+            2625.37275
+          ],
+          "sentences": [
+            "Okay."
+          ]
+        },
+        {
+          "shot": 424,
+          "duration": [
+            2625.414458333333,
+            2627.416458333333
+          ],
+          "sentences": [
+            "Okay."
+          ]
+        },
+        {
+          "shot": 425,
+          "duration": [
+            2627.4581666666663,
+            2630.7114166666665
+          ],
+          "sentences": [
+            "Okay.",
+            "Where's your shoes?"
+          ]
+        },
+        {
+          "shot": 426,
+          "duration": [
+            2630.7531249999997,
+            2632.4214583333332
+          ],
+          "sentences": [
+            "Where's your shoes?",
+            "They're over here."
+          ]
+        },
+        {
+          "shot": 427,
+          "duration": [
+            2632.4631666666664,
+            2633.5892916666667
+          ],
+          "sentences": [
+            "They're over here.",
+            "Where's your room key?"
+          ]
+        },
+        {
+          "shot": 428,
+          "duration": [
+            2633.631,
+            2635.2159166666665
+          ],
+          "sentences": [
+            "Where's your room key?",
+            "It's in my bag."
+          ]
+        },
+        {
+          "shot": 429,
+          "duration": [
+            2635.2576249999997,
+            2636.5922916666664
+          ],
+          "sentences": [
+            "And where's your bag?",
+            "It's right here."
+          ]
+        },
+        {
+          "shot": 430,
+          "duration": [
+            2636.634,
+            2640.88825
+          ],
+          "sentences": [
+            "It's right here.",
+            "- Let's go. - Wait!",
+            "There's the elevator. I gotta go.",
+            "Hey!"
+          ]
+        },
+        {
+          "shot": 431,
+          "duration": [
+            2640.929958333333,
+            2644.1414999999997
+          ],
+          "sentences": [
+            "Hey!"
+          ]
+        },
+        {
+          "shot": 432,
+          "duration": [
+            2644.1832083333334,
+            2651.2319166666666
+          ],
+          "sentences": [
+            "- Hi! How are you? - Hi, Charlie!",
+            "Bob, this is Charlie Brown."
+          ]
+        },
+        {
+          "shot": 433,
+          "duration": [
+            2651.273625,
+            2654.526875
+          ],
+          "sentences": [
+            "Bob, this is Charlie Brown.",
+            "- Hi. Nice to meet you. - How are you? - Nice to meet you."
+          ]
+        },
+        {
+          "shot": 434,
+          "duration": [
+            2654.568583333333,
+            2655.4027499999997
+          ],
+          "sentences": [
+            "- Hi. Nice to meet you. - How are you? - Nice to meet you."
+          ]
+        },
+        {
+          "shot": 435,
+          "duration": [
+            2655.444458333333,
+            2656.278625
+          ],
+          "sentences": [
+            "- Hi. Nice to meet you. - How are you? - Nice to meet you.",
+            "- This is Bambie. - How are you, Bambie?"
+          ]
+        },
+        {
+          "shot": 436,
+          "duration": [
+            2656.320333333333,
+            2659.2399166666664
+          ],
+          "sentences": [
+            "- This is Bambie. - How are you, Bambie?",
+            "His real name's Hayashi, but ...",
+            "Why do they call you Charlie Brown?"
+          ]
+        },
+        {
+          "shot": 437,
+          "duration": [
+            2659.2816249999996,
+            2663.3690416666664
+          ],
+          "sentences": [
+            "Why do they call you Charlie Brown?",
+            "Everybody say, \"He looks like Charlie Brown.\"",
+            "You know, Snoopy, man."
+          ]
+        },
+        {
+          "shot": 438,
+          "duration": [
+            2663.41075,
+            2664.3700416666666
+          ],
+          "sentences": [
+            "You know, Snoopy, man."
+          ]
+        },
+        {
+          "shot": 439,
+          "duration": [
+            2664.4117499999998,
+            2665.7464166666664
+          ],
+          "sentences": [
+            "You know, Snoopy, man.",
+            "Oh, I'll be right back."
+          ]
+        },
+        {
+          "shot": 440,
+          "duration": [
+            2665.788125,
+            2670.209208333333
+          ],
+          "sentences": [
+            "Oh, I'll be right back.",
+            "Bob, over here. These are my friends. Very beautiful."
+          ]
+        },
+        {
+          "shot": 441,
+          "duration": [
+            2670.2509166666664,
+            2681.6372916666664
+          ],
+          "sentences": [
+            "Bob, over here. These are my friends. Very beautiful.",
+            "She's \"B\", and she's Rico, and she's Myumi.",
+            "- Myumi. How are you? I'm Bob. - Oh! Bob.",
+            "Bob from United States, man.",
+            "Hi, Bob."
+          ]
+        },
+        {
+          "shot": 442,
+          "duration": [
+            2681.6789999999996,
+            2685.1407916666667
+          ],
+          "sentences": [
+            "Hi, Bob.",
+            "Maybe you'd like to sing backup for me.",
+            "This is my surfing teacher."
+          ]
+        },
+        {
+          "shot": 443,
+          "duration": [
+            2685.1825,
+            2686.850833333333
+          ],
+          "sentences": [
+            "This is my surfing teacher.",
+            "He's your surfing teacher?"
+          ]
+        },
+        {
+          "shot": 444,
+          "duration": [
+            2686.8925416666666,
+            2691.0633749999997
+          ],
+          "sentences": [
+            "He's your surfing teacher?",
+            "- Sometime, sometime. - You're a surfer?"
+          ]
+        },
+        {
+          "shot": 457,
+          "duration": [
+            2722.511458333333,
+            2727.349625
+          ],
+          "sentences": [
+            "- The emperor's house? - Cool."
+          ]
+        },
+        {
+          "shot": 458,
+          "duration": [
+            2727.391333333333,
+            2735.7329999999997
+          ],
+          "sentences": [
+            "- The emperor's house? - Cool.",
+            "- Yeah? - Yeah."
+          ]
+        },
+        {
+          "shot": 459,
+          "duration": [
+            2735.7747083333334,
+            2739.1947916666663
+          ],
+          "sentences": [
+            "- Cool! Right."
+          ]
+        },
+        {
+          "shot": 460,
+          "duration": [
+            2739.2365,
+            2743.49075
+          ],
+          "sentences": [
+            "- Cool! Right.",
+            "You don't have anything ... Do you have anything ...",
+            "- Hey. - Hey. How you doing?"
+          ]
+        },
+        {
+          "shot": 461,
+          "duration": [
+            2743.532458333333,
+            2744.99225
+          ],
+          "sentences": [
+            "- Hey. - Hey. How you doing?"
+          ]
+        },
+        {
+          "shot": 462,
+          "duration": [
+            2745.033958333333,
+            2747.9535416666663
+          ],
+          "sentences": [
+            "- Hey. - Hey. How you doing?",
+            "Good. How are you?",
+            "My Japanese is getting better.",
+            "We started speaking English."
+          ]
+        },
+        {
+          "shot": 463,
+          "duration": [
+            2747.99525,
+            2751.665583333333
+          ],
+          "sentences": [
+            "We started speaking English."
+          ]
+        },
+        {
+          "shot": 465,
+          "duration": [
+            2755.169083333333,
+            2756.8374166666663
+          ],
+          "sentences": [
+            "Charlie."
+          ]
+        },
+        {
+          "shot": 466,
+          "duration": [
+            2756.879125,
+            2758.672583333333
+          ],
+          "sentences": [
+            "Charlie."
+          ]
+        },
+        {
+          "shot": 469,
+          "duration": [
+            2761.383625,
+            2763.927833333333
+          ],
+          "sentences": [
+            "Get out, guys!"
+          ]
+        },
+        {
+          "shot": 470,
+          "duration": [
+            2763.9695416666664,
+            2766.5137499999996
+          ],
+          "sentences": [
+            "Get out, guys!",
+            "- BBs! - They sting!"
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            2766.5554583333333,
+            2769.933833333333
+          ],
+          "sentences": [
+            "- BBs! - They sting!"
+          ]
+        },
+        {
+          "shot": 475,
+          "duration": [
+            2773.6458749999997,
+            2775.02225
+          ],
+          "sentences": [
+            "Who are these guys, anyway?"
+          ]
+        },
+        {
+          "shot": 476,
+          "duration": [
+            2775.063958333333,
+            2778.1503749999997
+          ],
+          "sentences": [
+            "Who are these guys, anyway?"
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            2780.903125,
+            2783.781
+          ],
+          "sentences": [
+            "Hey, hey, hey!"
+          ]
+        },
+        {
+          "shot": 480,
+          "duration": [
+            2783.822708333333,
+            2786.8674166666665
+          ],
+          "sentences": [
+            "Hey, hey, hey!",
+            "Oh, no."
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            2786.9091249999997,
+            2788.4940416666664
+          ],
+          "sentences": [
+            "Oh, no."
+          ]
+        },
+        {
+          "shot": 488,
+          "duration": [
+            2808.0135416666662,
+            2813.1436666666664
+          ],
+          "sentences": [
+            "Hi.",
+            "Come on!"
+          ]
+        },
+        {
+          "shot": 489,
+          "duration": [
+            2813.185375,
+            2818.690875
+          ],
+          "sentences": [
+            "Come on!",
+            "Hey, guys! Over here!",
+            "Hurry up! Hurry up! Hurry up!",
+            "Wait! Our tour guide!"
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            2818.732583333333,
+            2825.5310416666666
+          ],
+          "sentences": [
+            "Wait! Our tour guide!",
+            "Hurry up!"
+          ]
+        },
+        {
+          "shot": 492,
+          "duration": [
+            2829.0762499999996,
+            2832.704875
+          ],
+          "sentences": [
+            "- Yeah? - Gorgeous.",
+            "- Gorgeous? - Blonde and black."
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            2832.746583333333,
+            2835.7912916666664
+          ],
+          "sentences": [
+            "- Gorgeous? - Blonde and black."
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            2839.711875,
+            2843.2153749999998
+          ],
+          "sentences": [
+            "Cheese. Cheese-o!",
+            "Cheese!"
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            2843.257083333333,
+            2848.8042916666664
+          ],
+          "sentences": [
+            "- Yeah, yeah. - Hi.",
+            "- Hi, I'm Hans. - Nice to meet you."
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            2848.846,
+            2850.3475
+          ],
+          "sentences": [
+            "- Hi, I'm Hans. - Nice to meet you.",
+            "- I'm Charlotte. - Nice to meet you."
+          ]
+        },
+        {
+          "shot": 499,
+          "duration": [
+            2850.389208333333,
+            2853.6424583333333
+          ],
+          "sentences": [
+            "- I'm Charlotte. - Nice to meet you.",
+            "- Hi. - Hi."
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            2853.6841666666664,
+            2855.3107916666663
+          ],
+          "sentences": [
+            "- Hi. - Hi."
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            2856.6871666666666,
+            2860.0655416666664
+          ],
+          "sentences": [
+            "- Last weekend, I went surfing. - Right."
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            2860.10725,
+            2862.3177916666664
+          ],
+          "sentences": [
+            "- Last weekend, I went surfing. - Right.",
+            "About seven people, you know; some of my friends."
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            2862.3594999999996,
+            2865.1956666666665
+          ],
+          "sentences": [
+            "About seven people, you know; some of my friends.",
+            "And we camp over there on the beach."
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            2865.2373749999997,
+            2867.906708333333
+          ],
+          "sentences": [
+            "And we camp over there on the beach."
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            2867.9484166666666,
+            2872.2026666666666
+          ],
+          "sentences": [
+            "And we camp over there on the beach.",
+            "In fact, we made a kind of ..."
+          ]
+        },
+        {
+          "shot": 507,
+          "duration": [
+            2872.2443749999998,
+            2875.038833333333
+          ],
+          "sentences": [
+            "In fact, we made a kind of ...",
+            "Wait. What kind of weed is it?"
+          ]
+        },
+        {
+          "shot": 508,
+          "duration": [
+            2875.0805416666662,
+            2877.499625
+          ],
+          "sentences": [
+            "Wait. What kind of weed is it?",
+            "I don't know.",
+            "\u266a Baby when I saw you turnin' at the end of the street \u266a"
+          ]
+        },
+        {
+          "shot": 509,
+          "duration": [
+            2877.541333333333,
+            2878.9594166666666
+          ],
+          "sentences": [
+            "\u266a Baby when I saw you turnin' at the end of the street \u266a"
+          ]
+        },
+        {
+          "shot": 510,
+          "duration": [
+            2879.001125,
+            2884.13125
+          ],
+          "sentences": [
+            "\u266a Baby when I saw you turnin' at the end of the street \u266a",
+            "\u266a I knew our time was gone \u266a"
+          ]
+        },
+        {
+          "shot": 511,
+          "duration": [
+            2884.172958333333,
+            2887.0925416666664
+          ],
+          "sentences": [
+            "\u266a I knew our time was gone \u266a",
+            "\u266a Into blank pages \u266a"
+          ]
+        },
+        {
+          "shot": 512,
+          "duration": [
+            2887.1342499999996,
+            2892.3477916666666
+          ],
+          "sentences": [
+            "\u266a Into blank pages \u266a",
+            "\u266a Just understand I was afraid to be a simple guy \u266a"
+          ]
+        },
+        {
+          "shot": 513,
+          "duration": [
+            2892.3894999999998,
+            2896.2683749999997
+          ],
+          "sentences": [
+            "\u266a Just understand I was afraid to be a simple guy \u266a",
+            "\u266a I tried my best to smile \u266a",
+            "\u266a But deep inside my heart \u266a"
+          ]
+        },
+        {
+          "shot": 514,
+          "duration": [
+            2896.3100833333333,
+            2901.1482499999997
+          ],
+          "sentences": [
+            "\u266a But deep inside my heart \u266a",
+            "\u266a I felt like the shell that a crab comes in \u266a"
+          ]
+        },
+        {
+          "shot": 515,
+          "duration": [
+            2901.189958333333,
+            2903.817583333333
+          ],
+          "sentences": [
+            "\u266a I felt like the shell that a crab comes in \u266a",
+            "\u266a I guess I couldn't live without things \u266a"
+          ]
+        },
+        {
+          "shot": 516,
+          "duration": [
+            2903.8592916666666,
+            2905.569333333333
+          ],
+          "sentences": [
+            "\u266a I guess I couldn't live without things \u266a",
+            "\u266a God save the queen \u266a"
+          ]
+        },
+        {
+          "shot": 517,
+          "duration": [
+            2905.6110416666666,
+            2906.945708333333
+          ],
+          "sentences": [
+            "\u266a God save the queen \u266a"
+          ]
+        },
+        {
+          "shot": 518,
+          "duration": [
+            2906.9874166666664,
+            2909.9904166666665
+          ],
+          "sentences": [
+            "\u266a A fascist regime \u266a"
+          ]
+        },
+        {
+          "shot": 519,
+          "duration": [
+            2910.0321249999997,
+            2912.951708333333
+          ],
+          "sentences": [
+            "\u266a A fascist regime \u266a",
+            "\u266a It made you a moron \u266a"
+          ]
+        },
+        {
+          "shot": 520,
+          "duration": [
+            2912.9934166666662,
+            2913.9527083333332
+          ],
+          "sentences": [
+            "\u266a It made you a moron \u266a"
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            2913.9944166666664,
+            2918.040125
+          ],
+          "sentences": [
+            "\u266a A potential H-bomb \u266a",
+            "\u266a God save the queen \u266a"
+          ]
+        },
+        {
+          "shot": 522,
+          "duration": [
+            2918.081833333333,
+            2922.544625
+          ],
+          "sentences": [
+            "\u266a God save the queen \u266a",
+            "\u266a She ain't no human being \u266a"
+          ]
+        },
+        {
+          "shot": 523,
+          "duration": [
+            2922.586333333333,
+            2929.5933333333332
+          ],
+          "sentences": [
+            "\u266a She ain't no human being \u266a",
+            "\u266a There's no future \u266a",
+            "\u266a In England's dreaming \u266a"
+          ]
+        },
+        {
+          "shot": 524,
+          "duration": [
+            2929.6350416666664,
+            2956.7037499999997
+          ],
+          "sentences": [
+            "\u266a In England's dreaming \u266a",
+            "\u266a As I walk through \u266a",
+            "\u266a This wicked world \u266a",
+            "\u266a Searchin' for light in the darkness \u266a",
+            "\u266a Of insanity \u266a",
+            "\u266a I ask myself \u266a",
+            "\u266a Is all hope lost? \u266a",
+            "\u266a Is there only pain \u266a",
+            "\u266a And hatred \u266a"
+          ]
+        },
+        {
+          "shot": 525,
+          "duration": [
+            2956.7454583333333,
+            2959.957
+          ],
+          "sentences": [
+            "\u266a And hatred \u266a",
+            "\u266a And misery? \u266a"
+          ]
+        },
+        {
+          "shot": 526,
+          "duration": [
+            2959.998708333333,
+            2964.086125
+          ],
+          "sentences": [
+            "\u266a And each time I feel like this inside \u266a"
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            2964.127833333333,
+            2976.3066666666664
+          ],
+          "sentences": [
+            "\u266a And each time I feel like this inside \u266a",
+            "\u266a There's one thing I want to know \u266a",
+            "\u266a What's so funny 'bout peace love and understanding? \u266a",
+            "\u266a Ohh-oh-oh-oh-ohh \u266a",
+            "\u266a What's so funny 'bout peace love and understanding? \u266a"
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            2976.3483749999996,
+            2977.6830416666667
+          ],
+          "sentences": [
+            "\u266a What's so funny 'bout peace love and understanding? \u266a"
+          ]
+        },
+        {
+          "shot": 529,
+          "duration": [
+            2977.72475,
+            2981.3116666666665
+          ],
+          "sentences": [
+            "\u266a What's so funny 'bout peace love and understanding? \u266a"
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            2981.3533749999997,
+            2984.982
+          ],
+          "sentences": [
+            "\u266a What's so funny 'bout peace love and understanding? \u266a",
+            "\u266a I'm winkin' at ya \u266a"
+          ]
+        },
+        {
+          "shot": 531,
+          "duration": [
+            2985.023708333333,
+            2986.5669166666667
+          ],
+          "sentences": [
+            "\u266a I'm winkin' at ya \u266a",
+            "\u266a Gonna make you, make you make you notice \u266a"
+          ]
+        },
+        {
+          "shot": 532,
+          "duration": [
+            2986.608625,
+            2990.1121249999997
+          ],
+          "sentences": [
+            "\u266a Gonna make you, make you make you notice \u266a"
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            2990.1538333333333,
+            2992.2392499999996
+          ],
+          "sentences": [
+            "\u266a Gonna make you, make you make you notice \u266a",
+            "\u266a Gonna use my arms \u266a"
+          ]
+        },
+        {
+          "shot": 534,
+          "duration": [
+            2992.2809583333333,
+            2994.8668749999997
+          ],
+          "sentences": [
+            "\u266a Gonna use my arms \u266a",
+            "\u266a Gonna use my legs \u266a"
+          ]
+        },
+        {
+          "shot": 535,
+          "duration": [
+            2994.908583333333,
+            3000.7060416666664
+          ],
+          "sentences": [
+            "\u266a Gonna use my legs \u266a",
+            "\u266a Gonna use my style \u266a",
+            "\u266a Gonna use my sidestep \u266a"
+          ]
+        },
+        {
+          "shot": 536,
+          "duration": [
+            3000.74775,
+            3003.041708333333
+          ],
+          "sentences": [
+            "\u266a Gonna use my sidestep \u266a",
+            "\u266a Gonna use my fingers \u266a"
+          ]
+        },
+        {
+          "shot": 537,
+          "duration": [
+            3003.0834166666664,
+            3005.9195833333333
+          ],
+          "sentences": [
+            "\u266a Gonna use my fingers \u266a",
+            "\u266a Gonna use my, my, my, my, my, my \u266a"
+          ]
+        },
+        {
+          "shot": 538,
+          "duration": [
+            3005.9612916666665,
+            3007.7130416666664
+          ],
+          "sentences": [
+            "\u266a Gonna use my, my, my, my, my, my \u266a",
+            "\u266a Imagination, oh-ohh \u266a"
+          ]
+        },
+        {
+          "shot": 539,
+          "duration": [
+            3007.7547499999996,
+            3008.7140416666666
+          ],
+          "sentences": [
+            "\u266a Imagination, oh-ohh \u266a"
+          ]
+        },
+        {
+          "shot": 540,
+          "duration": [
+            3008.75575,
+            3010.5909166666665
+          ],
+          "sentences": [
+            "\u266a Imagination, oh-ohh \u266a",
+            "\u266a 'Cause I'm \u266a"
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            3010.6326249999997,
+            3016.5134999999996
+          ],
+          "sentences": [
+            "\u266a 'Cause I'm \u266a",
+            "\u266a Gonna make you see \u266a",
+            "\u266a Nobody else here, no one like me \u266a"
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            3016.555208333333,
+            3018.3486666666663
+          ],
+          "sentences": [
+            "\u266a Nobody else here, no one like me \u266a"
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            3018.390375,
+            3019.5164999999997
+          ],
+          "sentences": [
+            "\u266a I'm special, special \u266a"
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            3019.558208333333,
+            3024.27125
+          ],
+          "sentences": [
+            "\u266a I'm special, special \u266a",
+            "\u266a So special, special \u266a"
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            3024.312958333333,
+            3028.817458333333
+          ],
+          "sentences": [
+            "\u266a So special, special \u266a",
+            "\u266a I gotta have some of your \u266a",
+            "\u266a Attention, give it to me \u266a"
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            3028.8591666666666,
+            3033.1134166666666
+          ],
+          "sentences": [
+            "\u266a Attention, give it to me \u266a",
+            "Ladies and gentlemen: \"Mr. Bob Harris\"."
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            3033.1551249999998,
+            3044.1661249999997
+          ],
+          "sentences": [
+            "Thanks. This is hard.",
+            "Oh, Jesus."
+          ]
+        },
+        {
+          "shot": 548,
+          "duration": [
+            3044.207833333333,
+            3053.675625
+          ],
+          "sentences": [
+            "\u266a I could feel at the time \u266a",
+            "\u266a There was no way of knowing \u266a",
+            "\u266a Fallen leaves in the night \u266a"
+          ]
+        },
+        {
+          "shot": 549,
+          "duration": [
+            3053.717333333333,
+            3061.8087499999997
+          ],
+          "sentences": [
+            "\u266a Fallen leaves in the night \u266a",
+            "\u266a Who can say where they're blowin'? \u266a",
+            "\u266a As free as the wind \u266a"
+          ]
+        },
+        {
+          "shot": 550,
+          "duration": [
+            3061.8504583333333,
+            3087.084
+          ],
+          "sentences": [
+            "\u266a As free as the wind \u266a",
+            "\u266a Hopefully learnin' \u266a",
+            "\u266a Why the sea on the tide \u266a",
+            "\u266a Has no way of turnin' \u266a",
+            "\u266a More than this \u266a",
+            "\u266a You know there's nothing \u266a",
+            "\u266a More than this \u266a"
+          ]
+        },
+        {
+          "shot": 551,
+          "duration": [
+            3087.125708333333,
+            3100.5975
+          ],
+          "sentences": [
+            "\u266a More than this \u266a",
+            "\u266a Tell me one thing \u266a",
+            "\u266a More than this \u266a",
+            "\u266a Ooh, there's nothing \u266a"
+          ]
+        },
+        {
+          "shot": 552,
+          "duration": [
+            3100.639208333333,
+            3130.7109166666664
+          ],
+          "sentences": [
+            "\u266a Ooh, there's nothing \u266a"
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            3155.944458333333,
+            3176.798625
+          ],
+          "sentences": [
+            "\u266a Close my eyes \u266a",
+            "\u266a Feel me now \u266a",
+            "\u266a I don't know \u266a",
+            "\u266a How you could not love me now \u266a",
+            "\u266a You will know \u266a",
+            "\u266a With her feet down to the ground \u266a"
+          ]
+        },
+        {
+          "shot": 558,
+          "duration": [
+            3176.840333333333,
+            3179.3845416666663
+          ],
+          "sentences": [
+            "\u266a With her feet down to the ground \u266a"
+          ]
+        },
+        {
+          "shot": 559,
+          "duration": [
+            3179.42625,
+            3181.344833333333
+          ],
+          "sentences": [
+            "\u266a Over there \u266a"
+          ]
+        },
+        {
+          "shot": 560,
+          "duration": [
+            3181.3865416666663,
+            3188.8106249999996
+          ],
+          "sentences": [
+            "\u266a Over there \u266a",
+            "\u266a And I want you love to know \u266a",
+            "\u266a You can't hide \u266a"
+          ]
+        },
+        {
+          "shot": 561,
+          "duration": [
+            3188.8523333333333,
+            3192.314125
+          ],
+          "sentences": [
+            "\u266a You can't hide \u266a",
+            "\u266a Oh, no \u266a"
+          ]
+        },
+        {
+          "shot": 562,
+          "duration": [
+            3192.355833333333,
+            3203.1582916666666
+          ],
+          "sentences": [
+            "\u266a Oh, no \u266a",
+            "\u266a From the way I feel \u266a"
+          ]
+        },
+        {
+          "shot": 578,
+          "duration": [
+            3320.4004166666664,
+            3396.7266666666665
+          ],
+          "sentences": [
+            "~ Hello? ~",
+            "Hey.",
+            "~ Hello, Bob. ~",
+            "Hey, you know, those carpet samples,",
+            "you were right about the burgundy.",
+            "It wasn't even close.",
+            "Blows the others away.",
+            "~ I'm glad you like it. ~",
+            "I saw a great house tonight that you would've loved,",
+            "and that burgundy would've been good in this house, really.",
+            "~ Really? ~",
+            "A guy designed his own house and built it.",
+            "~ Oh, yeah? I wish I'd seen it. ~",
+            "He's a fashion guy. All these fashion people were there.",
+            "And there were Japanese surfers there,",
+            "and the guy was playing really, really, really great music.",
+            "I should've found out what it was and brought some ...",
+            "I'll bring some back. I'll try to find out.",
+            "~ That sounds great. Can you hold on? ~",
+            "~ You have to have something for breakfast. Do you want some cereal? ~",
+            "Tell her I said she's gotta eat something.",
+            "~ I'm just trying to get her to eat something. ~",
+            "Yeah. Tell her I said she has to eat something.",
+            "~ Your dad says eat something. - No. ~",
+            "Eat. Tell her I said so.",
+            "~ She won't eat anything. Forget it. ~",
+            "~ Look, I'm glad you're having fun. ~"
+          ]
+        },
+        {
+          "shot": 579,
+          "duration": [
+            3396.7683749999997,
+            3418.7486666666664
+          ],
+          "sentences": [
+            "It's not fun. It's just ... It's just very, very different.",
+            "~ Maybe that's good. ~",
+            "~ I have to get the kids off for school, okay? ~",
+            "~ So, can I call you in a while? ~",
+            "I might not be up. It's ... it's, like, 4:00.",
+            "~ Well, you better get some sleep. You have work in the morning. ~",
+            "No, actually, they gave me tomorrow off."
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            3418.7903749999996,
+            3444.566125
+          ],
+          "sentences": [
+            "No, actually, they gave me tomorrow off.",
+            "~ That must be nice. ~",
+            "~ All right. Well, thanks for checking in. I gotta go. ~",
+            "- All right. Have a great, great night. ~ All right. ~",
+            "I mean, I guess have a great morning, huh?",
+            "~ Good night, Bob. Good night. ~",
+            "Good night.",
+            "I love you.",
+            "That was a stupid idea."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0335266_0004",
+      "shot": [
+        700,
+        794
+      ],
+      "frame": [
+        105763,
+        123590
+      ],
+      "duration": [
+        4411.220280333333,
+        5154.704831333333
+      ],
+      "consistency": 0.9316596035093683,
+      "description": "The next day, Charlotte travels to Kyoto and Bob appears as a guest in a popular but meaningless Japanese show. Still desperate about his appearance in that show, he finds himself again in the hotel bar. Charlotte is not there. The singer from a hotel approaches him and the two have a brief affair. Charlotte is disappointed about the affair the next day. They spend a terrible lunch together.",
+      "subtitle": [
+        {
+          "shot": 731,
+          "duration": [
+            4602.4728749999995,
+            4619.740124999999
+          ],
+          "sentences": [
+            "Hello?",
+            "~ Mr. Harris? ~ - Yes. ~ A fax for you. ~",
+            "Okay. Can you send it up?",
+            "Do you think you could kick it under the door for me,",
+            "slide it under the door for me, please?",
+            "~ Do you want I send it to your room? ~",
+            "Just slide it under the door, please. Thank you.",
+            "~ Thank you, Mr. Harris. ~ - Okay. All right, bye."
+          ]
+        },
+        {
+          "shot": 732,
+          "duration": [
+            4619.781833333333,
+            4630.584291666666
+          ],
+          "sentences": [
+            "~ Thank you, Mr. Harris. ~ - Okay. All right, bye."
+          ]
+        },
+        {
+          "shot": 736,
+          "duration": [
+            4654.107791666666,
+            4658.4037499999995
+          ],
+          "sentences": [
+            "Hey, Ms. Kawasaki. It's Bob Harris."
+          ]
+        },
+        {
+          "shot": 737,
+          "duration": [
+            4658.445458333333,
+            4664.284624999999
+          ],
+          "sentences": [
+            "Hey, Ms. Kawasaki. It's Bob Harris.",
+            "Yes, I would love to do his talk show.",
+            "I would."
+          ]
+        },
+        {
+          "shot": 738,
+          "duration": [
+            4664.326333333333,
+            4668.330333333333
+          ],
+          "sentences": [
+            "I would.",
+            "I would love to change my plans and stay."
+          ]
+        },
+        {
+          "shot": 739,
+          "duration": [
+            4668.3720416666665,
+            4745.741
+          ],
+          "sentences": [
+            "... American movie star ...",
+            "Ladies and gentlemen,",
+            "Mr. Bob Harris!",
+            "Come on! Da de da de, da de da dah.",
+            "Da de da dah! Whoo!",
+            "Come on, Bob. Come on, Bob.",
+            "Bobby, come on! Bobby, come on!",
+            "Nice to meet you.",
+            "He said you guys are e-mailing together.",
+            "He wants to show you his dance.",
+            "Japanese dance step. Japanese dance.",
+            "Do I ... Do I have to dance with him?",
+            "To-tung a-tung. To-tung a-tung.",
+            "Bobby, Bobby, Bobby, Bobby ... Bobby.",
+            "- Welcome, Bob. - What?",
+            "He was saying, \"Welcome, Bob.\""
+          ]
+        },
+        {
+          "shot": 740,
+          "duration": [
+            4745.782708333333,
+            4757.2525
+          ],
+          "sentences": [
+            "He was saying, \"Welcome, Bob.\""
+          ]
+        },
+        {
+          "shot": 743,
+          "duration": [
+            4767.095666666666,
+            4787.240791666666
+          ],
+          "sentences": [
+            "- Hello? ~ Bob? ~"
+          ]
+        },
+        {
+          "shot": 744,
+          "duration": [
+            4787.282499999999,
+            4812.182374999999
+          ],
+          "sentences": [
+            "- Hello? ~ Bob? ~",
+            "Hi, Lydia.",
+            "~ Is this a bad time? ~",
+            "No, it's always a good time.",
+            "~ Look, your burgundy carpet isn't in stock. ~",
+            "~ It's gonna take 12 weeks. Did you like any of the other colors? ~",
+            "Whatever you like. I'm completely lost.",
+            "~ It's just carpet. ~"
+          ]
+        },
+        {
+          "shot": 745,
+          "duration": [
+            4812.224083333333,
+            4828.281791666666
+          ],
+          "sentences": [
+            "~ It's just carpet. ~",
+            "That's not what I'm talking about.",
+            "~ What are you talking about? ~",
+            "I don't know. I just want to get healthy.",
+            "You know, I want to take better care of myself.",
+            "I would like to start eating healthier."
+          ]
+        },
+        {
+          "shot": 746,
+          "duration": [
+            4828.3234999999995,
+            4842.08725
+          ],
+          "sentences": [
+            "I would like to start eating healthier.",
+            "I don't want all that pasta.",
+            "~ What? ~",
+            "I would like to start eating, like, Japanese food.",
+            "~ Well, why don't you just stay there, and you can have it every day? ~"
+          ]
+        },
+        {
+          "shot": 747,
+          "duration": [
+            4842.128958333333,
+            4890.969416666666
+          ],
+          "sentences": [
+            "How are the kids doing?",
+            "~ They're fine. They miss their father. ~",
+            "~ But they're getting used to you not being here. ~",
+            "~ Do I need to worry about you, Bob? ~",
+            "Only if you want to.",
+            "~ Bob, I got things to do. I gotta go. ~",
+            "Okay.",
+            "~ I'll see you ... I mean, I'll talk to you later. ~",
+            "Okay.",
+            "~ Okay, bye. ~",
+            "Bye."
+          ]
+        },
+        {
+          "shot": 752,
+          "duration": [
+            4915.5356249999995,
+            4924.210958333333
+          ],
+          "sentences": [
+            "We have Matthew Smellick!",
+            "Matthew Snellick."
+          ]
+        },
+        {
+          "shot": 755,
+          "duration": [
+            4929.132541666666,
+            4952.572625
+          ],
+          "sentences": [
+            "Thank you. Thank you so much.",
+            "We'll take a really short break,",
+            "and we'll see you in a minute.",
+            "Hi. Champagne. Thanks.",
+            "Hi."
+          ]
+        },
+        {
+          "shot": 759,
+          "duration": [
+            4966.9619999999995,
+            4971.4664999999995
+          ],
+          "sentences": [
+            "\u266a Midnight at the oasis \u266a"
+          ]
+        },
+        {
+          "shot": 760,
+          "duration": [
+            4971.508208333333,
+            4975.0117083333325
+          ],
+          "sentences": [
+            "\u266a Midnight at the oasis \u266a",
+            "\u266a Send your camel to bed \u266a"
+          ]
+        },
+        {
+          "shot": 761,
+          "duration": [
+            4975.053416666667,
+            4979.015708333333
+          ],
+          "sentences": [
+            "\u266a Send your camel to bed \u266a",
+            "\u266a Shadows paintin' our faces \u266a",
+            "\u266a Traces of romance in our heads \u266a"
+          ]
+        },
+        {
+          "shot": 762,
+          "duration": [
+            4979.0574166666665,
+            4986.606624999999
+          ],
+          "sentences": [
+            "\u266a Traces of romance in our heads \u266a"
+          ]
+        },
+        {
+          "shot": 764,
+          "duration": [
+            4987.732749999999,
+            4992.779458333333
+          ],
+          "sentences": [
+            "I got it."
+          ]
+        },
+        {
+          "shot": 765,
+          "duration": [
+            4992.821166666667,
+            4995.1568333333325
+          ],
+          "sentences": [
+            "I got it."
+          ]
+        },
+        {
+          "shot": 766,
+          "duration": [
+            4995.198541666667,
+            4997.409083333333
+          ],
+          "sentences": [
+            "Have a rough night?"
+          ]
+        },
+        {
+          "shot": 767,
+          "duration": [
+            4997.450791666666,
+            4999.953291666667
+          ],
+          "sentences": [
+            "Have a rough night?"
+          ]
+        },
+        {
+          "shot": 768,
+          "duration": [
+            4999.995,
+            5003.999
+          ],
+          "sentences": [
+            "I'm going to that place, that sushi place in Daikanyama."
+          ]
+        },
+        {
+          "shot": 769,
+          "duration": [
+            5004.040708333333,
+            5005.750749999999
+          ],
+          "sentences": [
+            "I'm going to that place, that sushi place in Daikanyama.",
+            "You wanna come?",
+            "Yeah, but I can't right now."
+          ]
+        },
+        {
+          "shot": 770,
+          "duration": [
+            5005.792458333333,
+            5017.303958333333
+          ],
+          "sentences": [
+            "Yeah, but I can't right now.",
+            "\u266a Midnight at the oasis Send your camel to bed \u266a",
+            "Yeah, I guess you're busy, huh?",
+            "\u266a Shadows paintin' our faces \u266a"
+          ]
+        },
+        {
+          "shot": 771,
+          "duration": [
+            5017.345666666666,
+            5034.571208333333
+          ],
+          "sentences": [
+            "\u266a Shadows paintin' our faces \u266a",
+            "\u266a Traces of romance in our heads \u266a",
+            "Hello?",
+            "~ Hello? Bob, it's me. ~",
+            "Hello?",
+            "~ It's Lydia, your wife. ~",
+            "Oh, I'm ... I couldn't hear you."
+          ]
+        },
+        {
+          "shot": 772,
+          "duration": [
+            5034.612916666666,
+            5036.406375
+          ],
+          "sentences": [
+            "Oh, I'm ... I couldn't hear you."
+          ]
+        },
+        {
+          "shot": 773,
+          "duration": [
+            5036.448083333333,
+            5039.617916666666
+          ],
+          "sentences": [
+            "~ Do you want to talk to Zoe? ~",
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 774,
+          "duration": [
+            5039.659624999999,
+            5043.7470416666665
+          ],
+          "sentences": [
+            "Yeah.",
+            "~ Zoe, come say hello to your father. ~",
+            "~ No. ~",
+            "~ She just ran into the other room. ~"
+          ]
+        },
+        {
+          "shot": 775,
+          "duration": [
+            5043.78875,
+            5046.291249999999
+          ],
+          "sentences": [
+            "~ She just ran into the other room. ~",
+            "It's okay. It's okay."
+          ]
+        },
+        {
+          "shot": 776,
+          "duration": [
+            5046.332958333333,
+            5051.7967499999995
+          ],
+          "sentences": [
+            "It's okay. It's okay.",
+            "~ Okay. Her ballet recital is Sunday. Don't forget. ~",
+            "I didn't forget."
+          ]
+        },
+        {
+          "shot": 777,
+          "duration": [
+            5051.838458333333,
+            5053.131416666666
+          ],
+          "sentences": [
+            "I didn't forget."
+          ]
+        },
+        {
+          "shot": 778,
+          "duration": [
+            5053.173124999999,
+            5057.218833333333
+          ],
+          "sentences": [
+            "~ Well, travel safely. I'll see you soon. ~",
+            "~ Mommy! ~"
+          ]
+        },
+        {
+          "shot": 779,
+          "duration": [
+            5057.2605416666665,
+            5061.80675
+          ],
+          "sentences": [
+            "~ Mommy! ~",
+            "Okay.",
+            "~ Okay. Bye. ~",
+            "Bye."
+          ]
+        },
+        {
+          "shot": 783,
+          "duration": [
+            5072.025291666666,
+            5073.526791666666
+          ],
+          "sentences": [
+            "Well, she is closer to your age."
+          ]
+        },
+        {
+          "shot": 784,
+          "duration": [
+            5073.568499999999,
+            5075.195124999999
+          ],
+          "sentences": [
+            "Well, she is closer to your age."
+          ]
+        },
+        {
+          "shot": 785,
+          "duration": [
+            5075.236833333333,
+            5082.911166666667
+          ],
+          "sentences": [
+            "You could talk about things you have in common, like ...",
+            "growing up in the '50s."
+          ]
+        },
+        {
+          "shot": 786,
+          "duration": [
+            5082.952875,
+            5091.419666666667
+          ],
+          "sentences": [
+            "growing up in the '50s.",
+            "Maybe she liked the movies you were making in the '70s,",
+            "when you still were making movies.",
+            "Wasn't there anyone else there to lavish you with attention?"
+          ]
+        },
+        {
+          "shot": 787,
+          "duration": [
+            5091.461375,
+            5094.631208333333
+          ],
+          "sentences": [
+            "Wasn't there anyone else there to lavish you with attention?"
+          ]
+        },
+        {
+          "shot": 788,
+          "duration": [
+            5094.672916666666,
+            5110.063291666666
+          ],
+          "sentences": [
+            "I'm switching to beer. Okay?",
+            "I can't tell the difference."
+          ]
+        },
+        {
+          "shot": 789,
+          "duration": [
+            5110.105,
+            5112.524083333333
+          ],
+          "sentences": [
+            "I can't tell the difference."
+          ]
+        },
+        {
+          "shot": 790,
+          "duration": [
+            5112.565791666666,
+            5130.291833333333
+          ],
+          "sentences": [
+            "We'll have two of these, okay?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0335266_0006",
+      "shot": [
+        827,
+        892
+      ],
+      "frame": [
+        128928,
+        136596
+      ],
+      "duration": [
+        5377.399565999999,
+        5697.179504999999
+      ],
+      "consistency": 0.9592055147649519,
+      "description": "Before he leaves the next morning, he calls to see her again. They say bye without a kiss, both embarrassed, not knowing exactly how to react. She walks away. On the way to the airport, he spots her from the car. He rushes toward her. They embrace warmly. He whispers to her. They kiss gently but passionately and say goodbye. He observes the city from the car, feeling happy.",
+      "subtitle": [
+        {
+          "shot": 827,
+          "duration": [
+            5378.039333333333,
+            5398.393
+          ],
+          "sentences": [
+            "I'll be one minute.",
+            "Charlotte, I'm down in the lobby, and I'm leaving now.",
+            "I was calling ...",
+            "to see if you still have my jacket."
+          ]
+        },
+        {
+          "shot": 828,
+          "duration": [
+            5398.434708333333,
+            5403.856791666666
+          ],
+          "sentences": [
+            "If you could bring it down, but you're not there,",
+            "so this is goodbye, and ..."
+          ]
+        },
+        {
+          "shot": 829,
+          "duration": [
+            5403.898499999999,
+            5414.826083333333
+          ],
+          "sentences": [
+            "so this is goodbye, and ...",
+            "So,",
+            "I guess, goodbye and enjoy my jacket which you stole ...",
+            "from me."
+          ]
+        },
+        {
+          "shot": 833,
+          "duration": [
+            5420.623541666666,
+            5439.642541666666
+          ],
+          "sentences": [
+            "- Hello. - Hello.",
+            "How are you?",
+            "- I'm good. - How are you?",
+            "Mr. Harris, thank you for coming.",
+            "- Enjoy your trip? - I had a great time.",
+            "I had a very good time.",
+            "- Excuse me. Aren't you Bob Harris? - Yes, I am.",
+            "- I'm such a big fan. So nice to meet you. - Thank you very much. Nice to meet you."
+          ]
+        },
+        {
+          "shot": 834,
+          "duration": [
+            5439.684249999999,
+            5441.477708333333
+          ],
+          "sentences": [
+            "- I'm such a big fan. So nice to meet you. - Thank you very much. Nice to meet you."
+          ]
+        },
+        {
+          "shot": 835,
+          "duration": [
+            5441.519416666666,
+            5450.903791666667
+          ],
+          "sentences": [
+            "- I'm such a big fan. So nice to meet you. - Thank you very much. Nice to meet you.",
+            "What are you doing here in Japan?",
+            "I have to go right now.",
+            "- Excuse me one second. - Okay. Well ...",
+            "- Hi. - Hi.",
+            "- Thank you. - You're welcome."
+          ]
+        },
+        {
+          "shot": 836,
+          "duration": [
+            5450.9455,
+            5454.407291666666
+          ],
+          "sentences": [
+            "- Thank you. - You're welcome.",
+            "Thought I'd missed you."
+          ]
+        },
+        {
+          "shot": 839,
+          "duration": [
+            5458.828375,
+            5460.538416666666
+          ],
+          "sentences": [
+            "Are you going right now?"
+          ]
+        },
+        {
+          "shot": 840,
+          "duration": [
+            5460.5801249999995,
+            5464.834374999999
+          ],
+          "sentences": [
+            "Are you going right now?",
+            "Yeah. And my bodyguards are right here."
+          ]
+        },
+        {
+          "shot": 842,
+          "duration": [
+            5467.9625,
+            5473.676541666667
+          ],
+          "sentences": [
+            "All right. Aren't you gonna wish me ...",
+            "\"Have a good fright\" or something?"
+          ]
+        },
+        {
+          "shot": 843,
+          "duration": [
+            5473.71825,
+            5476.387583333333
+          ],
+          "sentences": [
+            "\"Have a good fright\" or something?",
+            "Yeah, right."
+          ]
+        },
+        {
+          "shot": 845,
+          "duration": [
+            5480.266458333333,
+            5483.478
+          ],
+          "sentences": [
+            "Okay. Well, bye."
+          ]
+        },
+        {
+          "shot": 846,
+          "duration": [
+            5483.519708333333,
+            5487.440291666666
+          ],
+          "sentences": [
+            "Okay. Well, bye.",
+            "All right.",
+            "Can I take one more picture?"
+          ]
+        },
+        {
+          "shot": 847,
+          "duration": [
+            5487.482,
+            5490.401583333333
+          ],
+          "sentences": [
+            "Can I take one more picture?",
+            "Sure."
+          ]
+        },
+        {
+          "shot": 856,
+          "duration": [
+            5543.538,
+            5547.250041666666
+          ],
+          "sentences": [
+            "Hey, hold on here. Let me out. Thank you."
+          ]
+        },
+        {
+          "shot": 857,
+          "duration": [
+            5547.291749999999,
+            5550.127916666666
+          ],
+          "sentences": [
+            "Hey, hold on here. Let me out. Thank you."
+          ]
+        },
+        {
+          "shot": 863,
+          "duration": [
+            5567.645416666666,
+            5570.731833333333
+          ],
+          "sentences": [
+            "Hey, you."
+          ]
+        },
+        {
+          "shot": 864,
+          "duration": [
+            5570.7735416666665,
+            5574.026791666666
+          ],
+          "sentences": [
+            "Hey, you."
+          ]
+        },
+        {
+          "shot": 870,
+          "duration": [
+            5595.923666666667,
+            5604.140208333333
+          ],
+          "sentences": [
+            "- Okay? - Okay."
+          ]
+        },
+        {
+          "shot": 877,
+          "duration": [
+            5626.829541666666,
+            5628.456166666666
+          ],
+          "sentences": [
+            "- Bye. - Bye."
+          ]
+        },
+        {
+          "shot": 878,
+          "duration": [
+            5628.497875,
+            5629.790833333333
+          ],
+          "sentences": [
+            "- Bye. - Bye.",
+            "Bye."
+          ]
+        },
+        {
+          "shot": 879,
+          "duration": [
+            5629.832541666667,
+            5630.958666666666
+          ],
+          "sentences": [
+            "Bye."
+          ]
+        },
+        {
+          "shot": 884,
+          "duration": [
+            5648.559583333333,
+            5652.938958333333
+          ],
+          "sentences": [
+            "\u266a Listen to the girl \u266a",
+            "\u266a As she takes on half the world \u266a"
+          ]
+        },
+        {
+          "shot": 885,
+          "duration": [
+            5652.980666666666,
+            5654.648999999999
+          ],
+          "sentences": [
+            "\u266a As she takes on half the world \u266a"
+          ]
+        },
+        {
+          "shot": 886,
+          "duration": [
+            5654.690708333333,
+            5656.984666666666
+          ],
+          "sentences": [
+            "\u266a As she takes on half the world \u266a",
+            "\u266a Moving up and so alive \u266a"
+          ]
+        },
+        {
+          "shot": 887,
+          "duration": [
+            5657.0263749999995,
+            5664.6172916666665
+          ],
+          "sentences": [
+            "\u266a Moving up and so alive \u266a",
+            "\u266a In her honey dripping \u266a",
+            "\u266a Beehive \u266a"
+          ]
+        },
+        {
+          "shot": 888,
+          "duration": [
+            5664.659,
+            5680.174499999999
+          ],
+          "sentences": [
+            "\u266a Beehive \u266a",
+            "\u266a It's good, so good \u266a",
+            "\u266a It's so good \u266a",
+            "All right.",
+            "\u266a So good \u266a"
+          ]
+        },
+        {
+          "shot": 889,
+          "duration": [
+            5680.216208333333,
+            5682.8855416666665
+          ],
+          "sentences": [
+            "\u266a Walking back to you \u266a"
+          ]
+        },
+        {
+          "shot": 890,
+          "duration": [
+            5682.92725,
+            5687.848833333333
+          ],
+          "sentences": [
+            "\u266a Is the hardest thing that \u266a",
+            "\u266a I can do \u266a"
+          ]
+        },
+        {
+          "shot": 891,
+          "duration": [
+            5687.890541666667,
+            5697.274916666666
+          ],
+          "sentences": [
+            "\u266a I can do \u266a",
+            "\u266a That I can do for you \u266a",
+            "\u266a For you \u266a"
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

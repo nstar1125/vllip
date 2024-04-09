@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt2476624",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 16,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

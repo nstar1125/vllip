@@ -1,0 +1,7648 @@
+{
+  "imdb_id": "tt0102926",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0102926_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        1288
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0001",
+      "shot": [
+        1,
+        30
+      ],
+      "frame": [
+        1288,
+        3575
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0002",
+      "shot": [
+        30,
+        31
+      ],
+      "frame": [
+        3575,
+        4389
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0003",
+      "shot": [
+        31,
+        36
+      ],
+      "frame": [
+        4389,
+        5109
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0004",
+      "shot": [
+        36,
+        39
+      ],
+      "frame": [
+        5109,
+        5397
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0005",
+      "shot": [
+        39,
+        44
+      ],
+      "frame": [
+        5397,
+        5909
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0006",
+      "shot": [
+        44,
+        46
+      ],
+      "frame": [
+        5909,
+        6368
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0007",
+      "shot": [
+        46,
+        55
+      ],
+      "frame": [
+        6368,
+        8153
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0008",
+      "shot": [
+        55,
+        84
+      ],
+      "frame": [
+        8153,
+        11854
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0009",
+      "shot": [
+        84,
+        85
+      ],
+      "frame": [
+        11854,
+        11960
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0010",
+      "shot": [
+        85,
+        91
+      ],
+      "frame": [
+        11960,
+        12865
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0011",
+      "shot": [
+        91,
+        95
+      ],
+      "frame": [
+        12865,
+        13617
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0012",
+      "shot": [
+        95,
+        105
+      ],
+      "frame": [
+        13617,
+        15600
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0013",
+      "shot": [
+        105,
+        110
+      ],
+      "frame": [
+        15600,
+        17250
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0014",
+      "shot": [
+        110,
+        176
+      ],
+      "frame": [
+        17250,
+        26583
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0015",
+      "shot": [
+        176,
+        183
+      ],
+      "frame": [
+        26583,
+        27190
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0016",
+      "shot": [
+        183,
+        190
+      ],
+      "frame": [
+        27190,
+        28541
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0017",
+      "shot": [
+        190,
+        191
+      ],
+      "frame": [
+        28541,
+        28589
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0018",
+      "shot": [
+        191,
+        192
+      ],
+      "frame": [
+        28589,
+        28687
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0019",
+      "shot": [
+        192,
+        193
+      ],
+      "frame": [
+        28687,
+        28735
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0020",
+      "shot": [
+        193,
+        195
+      ],
+      "frame": [
+        28735,
+        28905
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0021",
+      "shot": [
+        195,
+        196
+      ],
+      "frame": [
+        28905,
+        29006
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0022",
+      "shot": [
+        196,
+        199
+      ],
+      "frame": [
+        29006,
+        29160
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0023",
+      "shot": [
+        199,
+        200
+      ],
+      "frame": [
+        29160,
+        29729
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0024",
+      "shot": [
+        200,
+        201
+      ],
+      "frame": [
+        29729,
+        29789
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0025",
+      "shot": [
+        201,
+        202
+      ],
+      "frame": [
+        29789,
+        29853
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0026",
+      "shot": [
+        202,
+        217
+      ],
+      "frame": [
+        29853,
+        30354
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0027",
+      "shot": [
+        217,
+        218
+      ],
+      "frame": [
+        30354,
+        30599
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0028",
+      "shot": [
+        218,
+        226
+      ],
+      "frame": [
+        30599,
+        31038
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0029",
+      "shot": [
+        226,
+        227
+      ],
+      "frame": [
+        31038,
+        31153
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0030",
+      "shot": [
+        227,
+        237
+      ],
+      "frame": [
+        31153,
+        32538
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0031",
+      "shot": [
+        237,
+        244
+      ],
+      "frame": [
+        32538,
+        33671
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0032",
+      "shot": [
+        244,
+        245
+      ],
+      "frame": [
+        33671,
+        33974
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0033",
+      "shot": [
+        245,
+        259
+      ],
+      "frame": [
+        33974,
+        35995
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0034",
+      "shot": [
+        259,
+        274
+      ],
+      "frame": [
+        35995,
+        38813
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0035",
+      "shot": [
+        274,
+        275
+      ],
+      "frame": [
+        38813,
+        39198
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0036",
+      "shot": [
+        275,
+        304
+      ],
+      "frame": [
+        39198,
+        45518
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0037",
+      "shot": [
+        304,
+        306
+      ],
+      "frame": [
+        45518,
+        46318
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0038",
+      "shot": [
+        306,
+        315
+      ],
+      "frame": [
+        46318,
+        48015
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0039",
+      "shot": [
+        315,
+        322
+      ],
+      "frame": [
+        48015,
+        50346
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0040",
+      "shot": [
+        322,
+        323
+      ],
+      "frame": [
+        50346,
+        50472
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0041",
+      "shot": [
+        323,
+        328
+      ],
+      "frame": [
+        50472,
+        51010
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0042",
+      "shot": [
+        328,
+        329
+      ],
+      "frame": [
+        51010,
+        51429
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0043",
+      "shot": [
+        329,
+        330
+      ],
+      "frame": [
+        51429,
+        51573
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0044",
+      "shot": [
+        330,
+        345
+      ],
+      "frame": [
+        51573,
+        52818
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0045",
+      "shot": [
+        345,
+        346
+      ],
+      "frame": [
+        52818,
+        53082
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0046",
+      "shot": [
+        346,
+        348
+      ],
+      "frame": [
+        53082,
+        53125
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0047",
+      "shot": [
+        348,
+        363
+      ],
+      "frame": [
+        53125,
+        55231
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0048",
+      "shot": [
+        363,
+        364
+      ],
+      "frame": [
+        55231,
+        55608
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0049",
+      "shot": [
+        364,
+        380
+      ],
+      "frame": [
+        55608,
+        57888
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0050",
+      "shot": [
+        380,
+        385
+      ],
+      "frame": [
+        57888,
+        59215
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0051",
+      "shot": [
+        385,
+        387
+      ],
+      "frame": [
+        59215,
+        59326
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0052",
+      "shot": [
+        387,
+        435
+      ],
+      "frame": [
+        59326,
+        66280
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0053",
+      "shot": [
+        435,
+        436
+      ],
+      "frame": [
+        66280,
+        66392
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0054",
+      "shot": [
+        436,
+        437
+      ],
+      "frame": [
+        66392,
+        67011
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0055",
+      "shot": [
+        437,
+        438
+      ],
+      "frame": [
+        67011,
+        67156
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0056",
+      "shot": [
+        438,
+        439
+      ],
+      "frame": [
+        67156,
+        67591
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0057",
+      "shot": [
+        439,
+        441
+      ],
+      "frame": [
+        67591,
+        67763
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0058",
+      "shot": [
+        441,
+        442
+      ],
+      "frame": [
+        67763,
+        67906
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0059",
+      "shot": [
+        442,
+        445
+      ],
+      "frame": [
+        67906,
+        68138
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0060",
+      "shot": [
+        445,
+        458
+      ],
+      "frame": [
+        68138,
+        70170
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0061",
+      "shot": [
+        458,
+        459
+      ],
+      "frame": [
+        70170,
+        70314
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0062",
+      "shot": [
+        459,
+        460
+      ],
+      "frame": [
+        70314,
+        71544
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0063",
+      "shot": [
+        460,
+        461
+      ],
+      "frame": [
+        71544,
+        71609
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0064",
+      "shot": [
+        461,
+        463
+      ],
+      "frame": [
+        71609,
+        71771
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0065",
+      "shot": [
+        463,
+        470
+      ],
+      "frame": [
+        71771,
+        74223
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0066",
+      "shot": [
+        470,
+        474
+      ],
+      "frame": [
+        74223,
+        75108
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0067",
+      "shot": [
+        474,
+        513
+      ],
+      "frame": [
+        75108,
+        82430
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0068",
+      "shot": [
+        513,
+        533
+      ],
+      "frame": [
+        82430,
+        85600
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0069",
+      "shot": [
+        533,
+        547
+      ],
+      "frame": [
+        85600,
+        87519
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0070",
+      "shot": [
+        547,
+        548
+      ],
+      "frame": [
+        87519,
+        87613
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0071",
+      "shot": [
+        548,
+        553
+      ],
+      "frame": [
+        87613,
+        87989
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0072",
+      "shot": [
+        553,
+        555
+      ],
+      "frame": [
+        87989,
+        88253
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0073",
+      "shot": [
+        555,
+        560
+      ],
+      "frame": [
+        88253,
+        89308
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0074",
+      "shot": [
+        560,
+        602
+      ],
+      "frame": [
+        89308,
+        93251
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0075",
+      "shot": [
+        602,
+        613
+      ],
+      "frame": [
+        93251,
+        94667
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0076",
+      "shot": [
+        613,
+        703
+      ],
+      "frame": [
+        94667,
+        106138
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0077",
+      "shot": [
+        703,
+        705
+      ],
+      "frame": [
+        106138,
+        106562
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0078",
+      "shot": [
+        705,
+        706
+      ],
+      "frame": [
+        106562,
+        106794
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0079",
+      "shot": [
+        706,
+        707
+      ],
+      "frame": [
+        106794,
+        107301
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0080",
+      "shot": [
+        707,
+        742
+      ],
+      "frame": [
+        107301,
+        112787
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0081",
+      "shot": [
+        742,
+        790
+      ],
+      "frame": [
+        112787,
+        116802
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0082",
+      "shot": [
+        790,
+        818
+      ],
+      "frame": [
+        116802,
+        121738
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0083",
+      "shot": [
+        818,
+        822
+      ],
+      "frame": [
+        121738,
+        122336
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0084",
+      "shot": [
+        822,
+        825
+      ],
+      "frame": [
+        122336,
+        122474
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0085",
+      "shot": [
+        825,
+        836
+      ],
+      "frame": [
+        122474,
+        123382
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0086",
+      "shot": [
+        836,
+        840
+      ],
+      "frame": [
+        123382,
+        123996
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0087",
+      "shot": [
+        840,
+        859
+      ],
+      "frame": [
+        123996,
+        125539
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0088",
+      "shot": [
+        859,
+        865
+      ],
+      "frame": [
+        125539,
+        125890
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0089",
+      "shot": [
+        865,
+        871
+      ],
+      "frame": [
+        125890,
+        126847
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0090",
+      "shot": [
+        871,
+        874
+      ],
+      "frame": [
+        126847,
+        127432
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0091",
+      "shot": [
+        874,
+        906
+      ],
+      "frame": [
+        127432,
+        132448
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0092",
+      "shot": [
+        906,
+        907
+      ],
+      "frame": [
+        132448,
+        132553
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0093",
+      "shot": [
+        907,
+        917
+      ],
+      "frame": [
+        132553,
+        134013
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0094",
+      "shot": [
+        917,
+        918
+      ],
+      "frame": [
+        134013,
+        134186
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0095",
+      "shot": [
+        918,
+        937
+      ],
+      "frame": [
+        134186,
+        135527
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0096",
+      "shot": [
+        937,
+        961
+      ],
+      "frame": [
+        135527,
+        137542
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0097",
+      "shot": [
+        961,
+        963
+      ],
+      "frame": [
+        137542,
+        137659
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0098",
+      "shot": [
+        963,
+        965
+      ],
+      "frame": [
+        137659,
+        137927
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0099",
+      "shot": [
+        965,
+        968
+      ],
+      "frame": [
+        137927,
+        138119
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0100",
+      "shot": [
+        968,
+        969
+      ],
+      "frame": [
+        138119,
+        138734
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0101",
+      "shot": [
+        969,
+        970
+      ],
+      "frame": [
+        138734,
+        139086
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0102",
+      "shot": [
+        970,
+        971
+      ],
+      "frame": [
+        139086,
+        139143
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0103",
+      "shot": [
+        971,
+        980
+      ],
+      "frame": [
+        139143,
+        140373
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0104",
+      "shot": [
+        980,
+        981
+      ],
+      "frame": [
+        140373,
+        140485
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0105",
+      "shot": [
+        981,
+        983
+      ],
+      "frame": [
+        140485,
+        140930
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0106",
+      "shot": [
+        983,
+        984
+      ],
+      "frame": [
+        140930,
+        141030
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0107",
+      "shot": [
+        984,
+        986
+      ],
+      "frame": [
+        141030,
+        141189
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0108",
+      "shot": [
+        986,
+        987
+      ],
+      "frame": [
+        141189,
+        141250
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0109",
+      "shot": [
+        987,
+        988
+      ],
+      "frame": [
+        141250,
+        141381
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0110",
+      "shot": [
+        988,
+        989
+      ],
+      "frame": [
+        141381,
+        141424
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0111",
+      "shot": [
+        989,
+        998
+      ],
+      "frame": [
+        141424,
+        142071
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0112",
+      "shot": [
+        998,
+        999
+      ],
+      "frame": [
+        142071,
+        142171
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0113",
+      "shot": [
+        999,
+        1001
+      ],
+      "frame": [
+        142171,
+        142398
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0114",
+      "shot": [
+        1001,
+        1002
+      ],
+      "frame": [
+        142398,
+        142524
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0115",
+      "shot": [
+        1002,
+        1004
+      ],
+      "frame": [
+        142524,
+        142614
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0116",
+      "shot": [
+        1004,
+        1005
+      ],
+      "frame": [
+        142614,
+        142736
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0117",
+      "shot": [
+        1005,
+        1010
+      ],
+      "frame": [
+        142736,
+        143041
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0118",
+      "shot": [
+        1010,
+        1020
+      ],
+      "frame": [
+        143041,
+        143787
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0119",
+      "shot": [
+        1020,
+        1022
+      ],
+      "frame": [
+        143787,
+        143956
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0120",
+      "shot": [
+        1022,
+        1024
+      ],
+      "frame": [
+        143956,
+        144034
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0121",
+      "shot": [
+        1024,
+        1025
+      ],
+      "frame": [
+        144034,
+        144156
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0122",
+      "shot": [
+        1025,
+        1026
+      ],
+      "frame": [
+        144156,
+        144227
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0123",
+      "shot": [
+        1026,
+        1028
+      ],
+      "frame": [
+        144227,
+        144365
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0124",
+      "shot": [
+        1028,
+        1030
+      ],
+      "frame": [
+        144365,
+        144577
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0125",
+      "shot": [
+        1030,
+        1036
+      ],
+      "frame": [
+        144577,
+        145859
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0126",
+      "shot": [
+        1036,
+        1117
+      ],
+      "frame": [
+        145859,
+        157217
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0127",
+      "shot": [
+        1117,
+        1121
+      ],
+      "frame": [
+        157217,
+        158322
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0128",
+      "shot": [
+        1121,
+        1122
+      ],
+      "frame": [
+        158322,
+        158887
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0129",
+      "shot": [
+        1122,
+        1138
+      ],
+      "frame": [
+        158887,
+        161111
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0130",
+      "shot": [
+        1138,
+        1149
+      ],
+      "frame": [
+        161111,
+        161876
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0131",
+      "shot": [
+        1149,
+        1150
+      ],
+      "frame": [
+        161876,
+        162001
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0132",
+      "shot": [
+        1150,
+        1153
+      ],
+      "frame": [
+        162001,
+        162358
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0102926_0133",
+      "shot": [
+        1153,
+        1157
+      ],
+      "frame": [
+        162358,
+        162519
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0102926_0000",
+      "shot": [
+        0,
+        302
+      ],
+      "frame": [
+        831,
+        45275
+      ],
+      "duration": [
+        34.667467,
+        1888.323833
+      ],
+      "consistency": 0.9737849275133664,
+      "description": "Promising FBI Academy student Clarice Starling is pulled from her training at the FBI Training Facility at Quantico, Virginia by Jack Crawford of the FBI's Behavioral Science Unit, who tasks her with presenting a VICAP questionnaire to the notorious Dr. Hannibal Lecter, a brilliant forensic psychiatrist and incarcerated cannibalistic serial murderer. After learning the assignment relates to the pursuit of vicious serial killer Buffalo Bill, Starling travels to the Baltimore State Hospital for the Criminally Insane and is led by Dr. Frederick Chilton to Hannibal Lecter, a sophisticated, cultured man restrained behind thick glass panels and windowless stone walls. Although initially pleasant and courteous, Lecter grows impatient with Starling's attempts at \"dissecting\" him and viciously rebuffs her. As Starling departs, another patient flings fresh semen onto her face, enraging Lecter who calls Starling back and offers a riddle containing information about a former patient. The solved riddle leads to a rent-a-storage lot where the severed head of Benjamin Raspail is found. Starling returns to Lecter, who links Raspail to Buffalo Bill and who offers to help profile Buffalo Bill if he is transferred to a facility far from the venomous, careerist Dr. Chilton.",
+      "subtitle": [
+        {
+          "shot": 30,
+          "duration": [
+            149.10729166666667,
+            183.01616666666666
+          ],
+          "sentences": [
+            "Starling!",
+            "Starling!",
+            "Crawford wants to see you in his office.",
+            "Thank you, sir."
+          ]
+        },
+        {
+          "shot": 39,
+          "duration": [
+            225.099875,
+            231.81491666666665
+          ],
+          "sentences": [
+            "- Clarice. - Hey."
+          ]
+        },
+        {
+          "shot": 48,
+          "duration": [
+            276.60966666666667,
+            293.167875
+          ],
+          "sentences": [
+            "... so there shouldn't be any problem if you could ...",
+            "- You looking for Crawford? - Yes, sir.",
+            "He should be back in a couple minutes. Why don't you wait in his office?",
+            "- Okay. - And I think they were over in Flushing ..."
+          ]
+        },
+        {
+          "shot": 55,
+          "duration": [
+            340.0480416666666,
+            346.09574999999995
+          ],
+          "sentences": [
+            "Starling,",
+            "Clarice M. Good morning.",
+            "Good morning, Mr. Crawford."
+          ]
+        },
+        {
+          "shot": 56,
+          "duration": [
+            346.1374583333333,
+            353.93691666666666
+          ],
+          "sentences": [
+            "Good morning, Mr. Crawford.",
+            "Sorry to pull you off of the course at such short notice.",
+            "Your instructors tell me you're doing well.",
+            "- Top quarter of your class. - I hope so."
+          ]
+        },
+        {
+          "shot": 57,
+          "duration": [
+            353.97862499999997,
+            357.482125
+          ],
+          "sentences": [
+            "- Top quarter of your class. - I hope so.",
+            "They haven't posted any grades yet."
+          ]
+        },
+        {
+          "shot": 58,
+          "duration": [
+            357.5238333333333,
+            363.07104166666664
+          ],
+          "sentences": [
+            "A job's come up, and I thought about you.",
+            "Not a job, really. More of an interesting errand."
+          ]
+        },
+        {
+          "shot": 59,
+          "duration": [
+            363.11274999999995,
+            370.99562499999996
+          ],
+          "sentences": [
+            "Not a job, really. More of an interesting errand.",
+            "Sit down.",
+            "Yes, sir.",
+            "I remember you from my seminar at UVA."
+          ]
+        },
+        {
+          "shot": 60,
+          "duration": [
+            371.0373333333333,
+            376.9182083333333
+          ],
+          "sentences": [
+            "You grilled me pretty hard, as I recall,",
+            "on the Bureau's civil rights record in the Hoover years.",
+            "I gave you an \"A.\""
+          ]
+        },
+        {
+          "shot": 61,
+          "duration": [
+            376.95991666666663,
+            378.8367916666666
+          ],
+          "sentences": [
+            "I gave you an \"A.\"",
+            "A-minus, sir."
+          ]
+        },
+        {
+          "shot": 62,
+          "duration": [
+            378.8785,
+            386.761375
+          ],
+          "sentences": [
+            "Let's see. Double major, psych and criminology. Graduated magna.",
+            "Summer internships at the Reitzinger Clinic."
+          ]
+        },
+        {
+          "shot": 63,
+          "duration": [
+            386.8030833333333,
+            394.6859583333333
+          ],
+          "sentences": [
+            "Summer internships at the Reitzinger Clinic.",
+            "It says here when you graduate,",
+            "you want to come to work for me in Behavioral Science.",
+            "Yes, very much, sir. Very much."
+          ]
+        },
+        {
+          "shot": 64,
+          "duration": [
+            394.72766666666666,
+            400.73366666666664
+          ],
+          "sentences": [
+            "Yes, very much, sir. Very much.",
+            "We're interviewing all the serial killers now in custody ...",
+            "for a psycho-behavioral profile."
+          ]
+        },
+        {
+          "shot": 65,
+          "duration": [
+            400.775375,
+            406.4894166666666
+          ],
+          "sentences": [
+            "for a psycho-behavioral profile.",
+            "It could be a real help in unsolved cases.",
+            "Most of them have been happy to talk to us."
+          ]
+        },
+        {
+          "shot": 66,
+          "duration": [
+            406.531125,
+            408.61654166666665
+          ],
+          "sentences": [
+            "Most of them have been happy to talk to us.",
+            "Do you spook easily, Starling?"
+          ]
+        },
+        {
+          "shot": 67,
+          "duration": [
+            408.65824999999995,
+            411.4944166666666
+          ],
+          "sentences": [
+            "Do you spook easily, Starling?",
+            "Not yet, sir.",
+            "See, the one we want most, refuses to cooperate."
+          ]
+        },
+        {
+          "shot": 68,
+          "duration": [
+            411.53612499999997,
+            416.49941666666666
+          ],
+          "sentences": [
+            "See, the one we want most, refuses to cooperate.",
+            "I want you to go after him again today in the asylum."
+          ]
+        },
+        {
+          "shot": 69,
+          "duration": [
+            416.54112499999997,
+            418.3345833333333
+          ],
+          "sentences": [
+            "I want you to go after him again today in the asylum.",
+            "And who's the subject?"
+          ]
+        },
+        {
+          "shot": 70,
+          "duration": [
+            418.37629166666665,
+            420.545125
+          ],
+          "sentences": [
+            "And who's the subject?",
+            "The psychiatrist Hannibal Lecter."
+          ]
+        },
+        {
+          "shot": 71,
+          "duration": [
+            420.5868333333333,
+            423.0059166666666
+          ],
+          "sentences": [
+            "The psychiatrist Hannibal Lecter.",
+            "Hannibal the Cannibal."
+          ]
+        },
+        {
+          "shot": 72,
+          "duration": [
+            423.047625,
+            430.0129166666666
+          ],
+          "sentences": [
+            "I don't expect him to talk to you,",
+            "but I have to be able to say we tried."
+          ]
+        },
+        {
+          "shot": 73,
+          "duration": [
+            430.054625,
+            435.2681666666666
+          ],
+          "sentences": [
+            "but I have to be able to say we tried.",
+            "So if he won't cooperate, I want just straight reporting.",
+            "How's he look? How's his cell look?"
+          ]
+        },
+        {
+          "shot": 74,
+          "duration": [
+            435.309875,
+            438.9802083333333
+          ],
+          "sentences": [
+            "Is he sketching, drawing?",
+            "If he is, what's he sketching?"
+          ]
+        },
+        {
+          "shot": 75,
+          "duration": [
+            439.02191666666664,
+            440.77366666666666
+          ],
+          "sentences": [
+            "If he is, what's he sketching?"
+          ]
+        },
+        {
+          "shot": 76,
+          "duration": [
+            440.81537499999996,
+            450.6585416666666
+          ],
+          "sentences": [
+            "Here's a dossier on Lecter.",
+            "A copy of our questionnaire and a special ID for you."
+          ]
+        },
+        {
+          "shot": 77,
+          "duration": [
+            450.70025,
+            464.58912499999997
+          ],
+          "sentences": [
+            "A copy of our questionnaire and a special ID for you.",
+            "Have your memo on my desk by 08:00 Wednesday.",
+            "Okay.",
+            "Excuse me, sir, but why the urgency?",
+            "Lecter's been in prison for so many years now.",
+            "Is there some connection between him and Buffalo Bill maybe?"
+          ]
+        },
+        {
+          "shot": 78,
+          "duration": [
+            464.6308333333333,
+            470.1363333333333
+          ],
+          "sentences": [
+            "Is there some connection between him and Buffalo Bill maybe?",
+            "I wish there were.",
+            "- I want your full attention, Starling. - Yes, sir."
+          ]
+        },
+        {
+          "shot": 79,
+          "duration": [
+            470.1780416666666,
+            474.7659583333333
+          ],
+          "sentences": [
+            "- I want your full attention, Starling. - Yes, sir.",
+            "Be very careful with Hannibal Lecter."
+          ]
+        },
+        {
+          "shot": 80,
+          "duration": [
+            474.80766666666665,
+            479.3955833333333
+          ],
+          "sentences": [
+            "Dr. Chilton at the asylum ...",
+            "will go over all the physical procedures used with him."
+          ]
+        },
+        {
+          "shot": 81,
+          "duration": [
+            479.4372916666666,
+            485.7769583333333
+          ],
+          "sentences": [
+            "will go over all the physical procedures used with him.",
+            "Do not deviate from them for any reason whatsoever,",
+            "and you're to tell him nothing personal, Starling."
+          ]
+        },
+        {
+          "shot": 82,
+          "duration": [
+            485.8186666666666,
+            492.74224999999996
+          ],
+          "sentences": [
+            "and you're to tell him nothing personal, Starling.",
+            "Believe me, you don't want Hannibal Lecter inside your head.",
+            "Just do your job, but never forget what he is."
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            492.7839583333333,
+            494.36887499999995
+          ],
+          "sentences": [
+            "Just do your job, but never forget what he is.",
+            "And what is that?"
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            494.4105833333333,
+            498.7899583333333
+          ],
+          "sentences": [
+            "Oh, he's a monster.",
+            "A pure psychopath."
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            498.83166666666665,
+            506.08891666666665
+          ],
+          "sentences": [
+            "So rare to capture one alive.",
+            "From a research point of view, Lecter is our most prized asset."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            506.13062499999995,
+            509.5924166666666
+          ],
+          "sentences": [
+            "Well."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            509.634125,
+            515.0562083333333
+          ],
+          "sentences": [
+            "You know, we get a lot of detectives here, but I must say,",
+            "I can't ever remember one as attractive."
+          ]
+        },
+        {
+          "shot": 88,
+          "duration": [
+            515.0979166666666,
+            518.1009166666666
+          ],
+          "sentences": [
+            "Will you be in Baltimore overnight?"
+          ]
+        },
+        {
+          "shot": 89,
+          "duration": [
+            518.142625,
+            532.7405416666667
+          ],
+          "sentences": [
+            "Will you be in Baltimore overnight?",
+            "Because this can be quite a fun town if you have the right guide.",
+            "Well, I'm sure this is a great town, Dr. Chilton,",
+            "but my instructions are to talk to Dr. Lecter and report back this afternoon."
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            532.78225,
+            536.536
+          ],
+          "sentences": [
+            "I see.",
+            "Let's make this quick, then."
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            536.5777083333332,
+            547.2133333333333
+          ],
+          "sentences": [
+            "We've tried to study him, of course,",
+            "but he's much too sophisticated for the standard tests.",
+            "Oh, my, does he hate us!",
+            "He thinks I'm his nemesis."
+          ]
+        },
+        {
+          "shot": 92,
+          "duration": [
+            547.2550416666667,
+            554.8459583333333
+          ],
+          "sentences": [
+            "Crawford's very clever, isn't he? Using you.",
+            "What do you mean, sir?",
+            "A pretty young woman to turn him on."
+          ]
+        },
+        {
+          "shot": 93,
+          "duration": [
+            554.8876666666666,
+            567.1499166666666
+          ],
+          "sentences": [
+            "I don't believe Lecter's even seen a woman in eight years.",
+            "And, oh, are you ever his taste.",
+            "So to speak.",
+            "I graduated from UVA, Doctor. It is not a charm school.",
+            "Good. Then you should be able to remember the rules."
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            567.1916249999999,
+            567.9006666666667
+          ],
+          "sentences": [
+            "Good. Then you should be able to remember the rules."
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            567.942375,
+            578.4111666666666
+          ],
+          "sentences": [
+            "Good. Then you should be able to remember the rules.",
+            "Do not touch the glass. Do not approach the glass.",
+            "You pass him nothing but soft paper. No pencils or pens.",
+            "No staples or paper clips on his paper."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            578.452875,
+            579.1202083333333
+          ],
+          "sentences": [
+            "No staples or paper clips on his paper."
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            579.1619166666666,
+            588.0875
+          ],
+          "sentences": [
+            "No staples or paper clips on his paper.",
+            "Use the sliding food carrier. No exceptions.",
+            "If he attempts to pass you anything, do not accept it.",
+            "- Do you understand me? - Yes, I understand, sir."
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            588.1292083333333,
+            615.36475
+          ],
+          "sentences": [
+            "I'm going to show you why we insist on such precautions.",
+            "On the afternoon of July 8, 1981,",
+            "he complained of chest pains and was taken to the dispensary.",
+            "His mouthpiece and restraints were removed for an EKG.",
+            "When the nurse leaned over him, he did this to her.",
+            "The doctors managed to reset her jaw, more or less,",
+            "save one of her eyes.",
+            "His pulse never got above 85,",
+            "even when he ate her tongue."
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            615.4064583333333,
+            617.617
+          ],
+          "sentences": [
+            "I keep him in here."
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            617.6587083333333,
+            618.4511666666666
+          ],
+          "sentences": [
+            "I keep him in here.",
+            "Dr. Chilton."
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            618.4928749999999,
+            619.6189999999999
+          ],
+          "sentences": [
+            "Dr. Chilton."
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            619.6607083333333,
+            628.2943333333333
+          ],
+          "sentences": [
+            "If Lecter feels that you're his enemy,",
+            "then, well, maybe we'll have more luck if I go in by myself."
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            628.3360416666666,
+            642.0997916666666
+          ],
+          "sentences": [
+            "What do you think?",
+            "You might have suggested this in my office and saved me the time.",
+            "Yes, sir, but then I would have missed the pleasure of your company, sir."
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            642.1415,
+            650.6082916666667
+          ],
+          "sentences": [
+            "Yes, sir, but then I would have missed the pleasure of your company, sir.",
+            "When she's finished, bring her out."
+          ]
+        },
+        {
+          "shot": 106,
+          "duration": [
+            656.0720833333332,
+            680.4714583333333
+          ],
+          "sentences": [
+            "Hi. I'm Barney.",
+            "He told you, don't get near the glass?"
+          ]
+        },
+        {
+          "shot": 107,
+          "duration": [
+            680.5131666666666,
+            701.6592916666666
+          ],
+          "sentences": [
+            "He told you, don't get near the glass?",
+            "Yes, he did. Clarice Starling.",
+            "Nice to meet you, Clarice.",
+            "You can hang your coat up here if you like.",
+            "Thank you. I will.",
+            "He's past the others. The last cell.",
+            "You keep to the right.",
+            "I put out a chair for you.",
+            "Oh, yes. That's very good. Thank you."
+          ]
+        },
+        {
+          "shot": 108,
+          "duration": [
+            701.7009999999999,
+            708.5411666666666
+          ],
+          "sentences": [
+            "Oh, yes. That's very good. Thank you.",
+            "I'll be watching. You'll do fine."
+          ]
+        },
+        {
+          "shot": 109,
+          "duration": [
+            708.582875,
+            719.4270416666666
+          ],
+          "sentences": [
+            "Hi."
+          ]
+        },
+        {
+          "shot": 114,
+          "duration": [
+            735.7349999999999,
+            737.6952916666667
+          ],
+          "sentences": [
+            "I can smell your cunt."
+          ]
+        },
+        {
+          "shot": 115,
+          "duration": [
+            737.737,
+            739.1550833333333
+          ],
+          "sentences": [
+            "I can smell your cunt."
+          ]
+        },
+        {
+          "shot": 116,
+          "duration": [
+            739.1967916666666,
+            744.2434999999999
+          ],
+          "sentences": [
+            "I can smell your cunt."
+          ]
+        },
+        {
+          "shot": 117,
+          "duration": [
+            744.2852083333332,
+            754.2952083333333
+          ],
+          "sentences": [
+            "Good morning."
+          ]
+        },
+        {
+          "shot": 118,
+          "duration": [
+            754.3369166666666,
+            758.2574999999999
+          ],
+          "sentences": [
+            "Good morning.",
+            "Dr. Lecter, my name  is Clarice Starling. May I speak with you?"
+          ]
+        },
+        {
+          "shot": 119,
+          "duration": [
+            758.2992083333332,
+            761.3856249999999
+          ],
+          "sentences": [
+            "Dr. Lecter, my name  is Clarice Starling. May I speak with you?",
+            "You're one of Jack Crawford's, aren't you?"
+          ]
+        },
+        {
+          "shot": 120,
+          "duration": [
+            761.4273333333333,
+            763.0539583333333
+          ],
+          "sentences": [
+            "You're one of Jack Crawford's, aren't you?",
+            "I am, yes, sir."
+          ]
+        },
+        {
+          "shot": 121,
+          "duration": [
+            763.0956666666666,
+            766.0986666666666
+          ],
+          "sentences": [
+            "May I see your credentials?"
+          ]
+        },
+        {
+          "shot": 122,
+          "duration": [
+            766.140375,
+            777.52675
+          ],
+          "sentences": [
+            "May I see your credentials?",
+            "Certainly.",
+            "Closer, please."
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            777.5684583333333,
+            780.1960833333333
+          ],
+          "sentences": [
+            "Closer."
+          ]
+        },
+        {
+          "shot": 127,
+          "duration": [
+            793.54275,
+            800.5080416666666
+          ],
+          "sentences": [
+            "That expires in one week.",
+            "You're not real FBI, are you?"
+          ]
+        },
+        {
+          "shot": 128,
+          "duration": [
+            800.5497499999999,
+            803.4693333333332
+          ],
+          "sentences": [
+            "You're not real FBI, are you?",
+            "I'm still in training at the Academy."
+          ]
+        },
+        {
+          "shot": 129,
+          "duration": [
+            803.5110416666666,
+            807.55675
+          ],
+          "sentences": [
+            "Jack Crawford sent a trainee to me?"
+          ]
+        },
+        {
+          "shot": 130,
+          "duration": [
+            807.5984583333333,
+            815.2310833333332
+          ],
+          "sentences": [
+            "Yes. I'm a student.",
+            "I'm here to learn from you.",
+            "Maybe you can decide for yourself ...",
+            "whether or not I'm qualified enough to do that."
+          ]
+        },
+        {
+          "shot": 131,
+          "duration": [
+            815.2727916666666,
+            821.7792916666666
+          ],
+          "sentences": [
+            "whether or not I'm qualified enough to do that.",
+            "That is rather slippery of you, Agent Starling."
+          ]
+        },
+        {
+          "shot": 133,
+          "duration": [
+            823.9898333333333,
+            826.9928333333332
+          ],
+          "sentences": [
+            "Sit, please."
+          ]
+        },
+        {
+          "shot": 135,
+          "duration": [
+            833.4159166666666,
+            844.5103333333333
+          ],
+          "sentences": [
+            "Now, then. Tell me,",
+            "what did Miggs say to you?",
+            "Multiple Miggs in the next cell.",
+            "He hissed at you.",
+            "What did he say?"
+          ]
+        },
+        {
+          "shot": 136,
+          "duration": [
+            844.5520416666666,
+            848.848
+          ],
+          "sentences": [
+            "What did he say?",
+            "He said, \"I can smell your cunt.\""
+          ]
+        },
+        {
+          "shot": 137,
+          "duration": [
+            848.8897083333333,
+            867.6584583333333
+          ],
+          "sentences": [
+            "I see.",
+            "I myself cannot.",
+            "You use Evyan skin cream."
+          ]
+        },
+        {
+          "shot": 138,
+          "duration": [
+            867.7001666666666,
+            870.9951249999999
+          ],
+          "sentences": [
+            "And sometimes you wear L'Air du Temps,"
+          ]
+        },
+        {
+          "shot": 139,
+          "duration": [
+            871.0368333333332,
+            874.0815416666666
+          ],
+          "sentences": [
+            "but not today."
+          ]
+        },
+        {
+          "shot": 140,
+          "duration": [
+            874.12325,
+            877.9604166666666
+          ],
+          "sentences": [
+            "Did you do all these drawings, Doctor?"
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            878.002125,
+            880.5880416666666
+          ],
+          "sentences": [
+            "Did you do all these drawings, Doctor?"
+          ]
+        },
+        {
+          "shot": 142,
+          "duration": [
+            880.62975,
+            887.4282083333333
+          ],
+          "sentences": [
+            "That is the Duomo, seen from the Belvedere.",
+            "You know Florence?"
+          ]
+        },
+        {
+          "shot": 143,
+          "duration": [
+            887.4699166666666,
+            890.3894999999999
+          ],
+          "sentences": [
+            "All that detail just from memory, sir?"
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            890.4312083333333,
+            895.1859583333332
+          ],
+          "sentences": [
+            "All that detail just from memory, sir?",
+            "Memory, Agent Starling, is what I have instead of a view.",
+            "Well,"
+          ]
+        },
+        {
+          "shot": 145,
+          "duration": [
+            895.2276666666666,
+            901.9427083333333
+          ],
+          "sentences": [
+            "Well,",
+            "perhaps you'd care to lend us your view on this questionnaire, sir.",
+            "Oh, no, no, no."
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            901.9844166666666,
+            912.9954166666666
+          ],
+          "sentences": [
+            "Oh, no, no, no.",
+            "You were doing fine.",
+            "You had been courteous and receptive to courtesy.",
+            "You had established trust with the embarrassing truth about Miggs."
+          ]
+        },
+        {
+          "shot": 147,
+          "duration": [
+            913.037125,
+            917.8752916666666
+          ],
+          "sentences": [
+            "You had established trust with the embarrassing truth about Miggs.",
+            "And now this ham-handed segue into your questionnaire."
+          ]
+        },
+        {
+          "shot": 148,
+          "duration": [
+            917.9169999999999,
+            920.4612083333333
+          ],
+          "sentences": [
+            "It won't do."
+          ]
+        },
+        {
+          "shot": 149,
+          "duration": [
+            920.5029166666666,
+            924.8405833333333
+          ],
+          "sentences": [
+            "I'm only asking you to look at this, Doctor.",
+            "Either you will or you won't."
+          ]
+        },
+        {
+          "shot": 150,
+          "duration": [
+            924.8822916666666,
+            931.4304999999999
+          ],
+          "sentences": [
+            "Either you will or you won't.",
+            "Yeah.",
+            "Jack Crawford must be very busy indeed,",
+            "if he is recruiting help from the student body."
+          ]
+        },
+        {
+          "shot": 151,
+          "duration": [
+            931.4722083333332,
+            936.9777083333332
+          ],
+          "sentences": [
+            "if he is recruiting help from the student body.",
+            "Busy hunting that new one, Buffalo Bill.",
+            "What a naughty boy he is."
+          ]
+        },
+        {
+          "shot": 152,
+          "duration": [
+            937.0194166666666,
+            944.1932499999999
+          ],
+          "sentences": [
+            "Do you know why he's called Buffalo Bill?",
+            "Please tell me. The newspapers won't say."
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            944.2349583333332,
+            952.1178333333332
+          ],
+          "sentences": [
+            "Well, it started as a bad joke in Kansas City Homicide.",
+            "They said, \"This one likes to skin his humps.\""
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            952.1595416666667,
+            961.21025
+          ],
+          "sentences": [
+            "Why do you think he removes their skins,",
+            "Agent Starling?",
+            "Enthrall me with your acumen."
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            961.2519583333333,
+            966.840875
+          ],
+          "sentences": [
+            "It excites him.",
+            "Most serial killers keep some sort of trophies from their victims."
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            966.8825833333333,
+            969.7604583333333
+          ],
+          "sentences": [
+            "Most serial killers keep some sort of trophies from their victims.",
+            "I didn't.",
+            "No."
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            969.8021666666666,
+            971.6373333333332
+          ],
+          "sentences": [
+            "No.",
+            "No, you ate yours."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            971.6790416666666,
+            976.4754999999999
+          ],
+          "sentences": [
+            "No, you ate yours.",
+            "You send that through now."
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            1003.0437083333333,
+            1007.8818749999999
+          ],
+          "sentences": [
+            "Oh, Agent Starling,",
+            "you think you can dissect me with this blunt, little tool?"
+          ]
+        },
+        {
+          "shot": 164,
+          "duration": [
+            1007.9235833333332,
+            1014.0129999999999
+          ],
+          "sentences": [
+            "you think you can dissect me with this blunt, little tool?",
+            "No.",
+            "I thought that your knowledge ...",
+            "You're so ambitious, aren't you?"
+          ]
+        },
+        {
+          "shot": 165,
+          "duration": [
+            1014.0547083333332,
+            1019.6436249999999
+          ],
+          "sentences": [
+            "You know what you look like to me ...",
+            "with your good bag and your cheap shoes?",
+            "You look like a rube."
+          ]
+        },
+        {
+          "shot": 166,
+          "duration": [
+            1019.6853333333332,
+            1024.4400833333332
+          ],
+          "sentences": [
+            "You look like a rube.",
+            "A well-scrubbed, hustling rube with a little taste."
+          ]
+        },
+        {
+          "shot": 167,
+          "duration": [
+            1024.4817916666666,
+            1042.3746666666666
+          ],
+          "sentences": [
+            "Good nutrition has given you some length of bone,",
+            "but you're not more than one generation from poor white trash,",
+            "are you, Agent Starling?",
+            "And that accent you've tried so desperately to shed,",
+            "pure West Virginia.",
+            "What does your father do? Is he a coal miner?",
+            "Does he stink of the lamp?"
+          ]
+        },
+        {
+          "shot": 168,
+          "duration": [
+            1042.416375,
+            1052.6349166666666
+          ],
+          "sentences": [
+            "Does he stink of the lamp?",
+            "And, oh, how quickly the boys found you.",
+            "All those tedious, sticky fumblings in the back seats of cars,",
+            "while you could only dream of getting out, getting anywhere,"
+          ]
+        },
+        {
+          "shot": 169,
+          "duration": [
+            1052.6766249999998,
+            1056.930875
+          ],
+          "sentences": [
+            "while you could only dream of getting out, getting anywhere,",
+            "getting all the way to the FBI."
+          ]
+        },
+        {
+          "shot": 170,
+          "duration": [
+            1056.9725833333332,
+            1076.5755
+          ],
+          "sentences": [
+            "You see a lot, Doctor.",
+            "But are you strong enough to point that high-powered perception at yourself?",
+            "What about it? Why don't you ...",
+            "Why don't you look at yourself and write down what you see?",
+            "Maybe you're afraid to."
+          ]
+        },
+        {
+          "shot": 173,
+          "duration": [
+            1084.1664166666667,
+            1097.3879583333332
+          ],
+          "sentences": [
+            "A census-taker once tried to test me.",
+            "I ate his liver with some fava beans,",
+            "and a nice Chianti."
+          ]
+        },
+        {
+          "shot": 175,
+          "duration": [
+            1100.9748749999999,
+            1108.6909166666667
+          ],
+          "sentences": [
+            "You fly back to school now, little Starling.",
+            "Fly, fly, fly."
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            1122.5380833333334,
+            1127.9184583333333
+          ],
+          "sentences": [
+            "I bit my wrist so I could die."
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            1127.9601666666665,
+            1130.504375
+          ],
+          "sentences": [
+            "Look at the blood!"
+          ]
+        },
+        {
+          "shot": 180,
+          "duration": [
+            1130.5460833333332,
+            1131.2968333333333
+          ],
+          "sentences": [
+            "Look at the blood!"
+          ]
+        },
+        {
+          "shot": 181,
+          "duration": [
+            1131.3385416666665,
+            1133.0902916666666
+          ],
+          "sentences": [
+            "Gotcha!"
+          ]
+        },
+        {
+          "shot": 182,
+          "duration": [
+            1133.1319999999998,
+            1134.007875
+          ],
+          "sentences": [
+            "Miggs! You stupid fuck!"
+          ]
+        },
+        {
+          "shot": 183,
+          "duration": [
+            1134.0495833333332,
+            1135.3425416666666
+          ],
+          "sentences": [
+            "Miggs! You stupid fuck!"
+          ]
+        },
+        {
+          "shot": 184,
+          "duration": [
+            1135.3842499999998,
+            1137.261125
+          ],
+          "sentences": [
+            "Miggs! You stupid fuck!"
+          ]
+        },
+        {
+          "shot": 185,
+          "duration": [
+            1137.3028333333332,
+            1138.0952916666665
+          ],
+          "sentences": [
+            "Hannibal the Cannibal!"
+          ]
+        },
+        {
+          "shot": 186,
+          "duration": [
+            1138.137,
+            1139.6802083333332
+          ],
+          "sentences": [
+            "Hannibal the Cannibal!",
+            "Agent Starling! Come back!"
+          ]
+        },
+        {
+          "shot": 187,
+          "duration": [
+            1139.7219166666666,
+            1140.8063333333332
+          ],
+          "sentences": [
+            "Agent Starling! Come back!"
+          ]
+        },
+        {
+          "shot": 188,
+          "duration": [
+            1140.8480416666666,
+            1175.5493749999998
+          ],
+          "sentences": [
+            "Agent Starling! Come back!",
+            "Agent Starling! Agent Starling!",
+            "I would not have had that happen to you.",
+            "Discourtesy is unspeakably ugly to me.",
+            "- Then do this test for me. - No, but I will make you happy.",
+            "I'll give you a chance for what you love most.",
+            "- And what is that, Doctor? - Advancement, of course.",
+            "Now listen carefully. Look deep within yourself, Clarice Starling.",
+            "Go seek out Miss Mofet, an old patient of mine. M-o-f-e-t. Go now.",
+            "Doctor.",
+            "I don't think Miggs could manage again quite so soon,",
+            "even though he is crazy.",
+            "Go now!"
+          ]
+        },
+        {
+          "shot": 195,
+          "duration": [
+            1205.579375,
+            1209.7502083333331
+          ],
+          "sentences": [
+            "Hey, Bill."
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            1212.96175,
+            1214.1295833333334
+          ],
+          "sentences": [
+            "Hey."
+          ]
+        },
+        {
+          "shot": 198,
+          "duration": [
+            1214.1712916666665,
+            1216.1732916666665
+          ],
+          "sentences": [
+            "Hey.",
+            "- Daddy! - Hey, Clarice."
+          ]
+        },
+        {
+          "shot": 199,
+          "duration": [
+            1216.215,
+            1239.9053333333331
+          ],
+          "sentences": [
+            "- Daddy! - Hey, Clarice.",
+            "How are you?",
+            "Did you get any bad guys today, Daddy?",
+            "- No, angel, they all got away. - Aw, shoot."
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            1246.0364583333333,
+            1246.7872083333332
+          ],
+          "sentences": [
+            "FBI! Hands up! Don't move!"
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            1246.8289166666666,
+            1247.49625
+          ],
+          "sentences": [
+            "FBI! Hands up! Don't move!"
+          ]
+        },
+        {
+          "shot": 205,
+          "duration": [
+            1247.5379583333333,
+            1248.4555416666665
+          ],
+          "sentences": [
+            "FBI! Hands up! Don't move!",
+            "Turn around!"
+          ]
+        },
+        {
+          "shot": 206,
+          "duration": [
+            1248.49725,
+            1249.2479999999998
+          ],
+          "sentences": [
+            "Turn around!"
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            1249.2897083333332,
+            1250.0404583333332
+          ],
+          "sentences": [
+            "Turn around!",
+            "Hands behind your back! Thumbs up."
+          ]
+        },
+        {
+          "shot": 208,
+          "duration": [
+            1250.0821666666666,
+            1250.7495
+          ],
+          "sentences": [
+            "Hands behind your back! Thumbs up."
+          ]
+        },
+        {
+          "shot": 209,
+          "duration": [
+            1250.7912083333333,
+            1251.2917083333332
+          ],
+          "sentences": [
+            "Hands behind your back! Thumbs up."
+          ]
+        },
+        {
+          "shot": 210,
+          "duration": [
+            1251.3334166666666,
+            1252.0841666666665
+          ],
+          "sentences": [
+            "Hands behind your back! Thumbs up."
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            1255.4625416666665,
+            1256.7137916666666
+          ],
+          "sentences": [
+            "You're dead, Starling."
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            1256.7555,
+            1265.9730416666666
+          ],
+          "sentences": [
+            "You're dead, Starling.",
+            "Johnson, good job. Good entry. Good commands.",
+            "- Starling, where's your danger area? - In the corner, sir.",
+            "- Did you check the corner? - No, sir.",
+            "That's the reason you're dead."
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            1266.0147499999998,
+            1276.1915833333333
+          ],
+          "sentences": [
+            "3109.",
+            "3109.",
+            "Breaking doors or windows to enter or exit.",
+            "Rule 404 ..."
+          ]
+        },
+        {
+          "shot": 226,
+          "duration": [
+            1294.54325,
+            1299.298
+          ],
+          "sentences": [
+            "- Clarice, phone. It's the guru. - Crawford?",
+            "- Yeah. - Thanks, Ardelia."
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            1299.3397083333332,
+            1303.8859166666666
+          ],
+          "sentences": [
+            "- Starling? - Sir?",
+            "Miggs is dead."
+          ]
+        },
+        {
+          "shot": 228,
+          "duration": [
+            1303.9276249999998,
+            1308.5989583333333
+          ],
+          "sentences": [
+            "Dead? How?",
+            "The orderly heard Lecter whispering to him all afternoon, and Miggs crying."
+          ]
+        },
+        {
+          "shot": 229,
+          "duration": [
+            1308.6406666666667,
+            1314.6466666666665
+          ],
+          "sentences": [
+            "The orderly heard Lecter whispering to him all afternoon, and Miggs crying.",
+            "They found him at bed check. He'd swallowed his own tongue."
+          ]
+        },
+        {
+          "shot": 230,
+          "duration": [
+            1314.688375,
+            1317.0240416666666
+          ],
+          "sentences": [
+            "They found him at bed check. He'd swallowed his own tongue."
+          ]
+        },
+        {
+          "shot": 231,
+          "duration": [
+            1317.06575,
+            1318.7757916666665
+          ],
+          "sentences": [
+            "Starling?"
+          ]
+        },
+        {
+          "shot": 232,
+          "duration": [
+            1318.8174999999999,
+            1324.2812916666667
+          ],
+          "sentences": [
+            "Starling?",
+            "Yeah, I'm still here, sir.",
+            "I just ... I don't know how to feel about this."
+          ]
+        },
+        {
+          "shot": 233,
+          "duration": [
+            1324.3229999999999,
+            1328.2852916666666
+          ],
+          "sentences": [
+            "You don't have to feel any way about it. Lecter did it to amuse himself."
+          ]
+        },
+        {
+          "shot": 234,
+          "duration": [
+            1328.327,
+            1331.5385416666666
+          ],
+          "sentences": [
+            "You don't have to feel any way about it. Lecter did it to amuse himself.",
+            "Look, I know it got ugly today,"
+          ]
+        },
+        {
+          "shot": 235,
+          "duration": [
+            1331.58025,
+            1336.4184166666666
+          ],
+          "sentences": [
+            "Look, I know it got ugly today,",
+            "but you mentioned a name at the end. Mofet.",
+            "Any follow-up on her?"
+          ]
+        },
+        {
+          "shot": 236,
+          "duration": [
+            1336.4601249999998,
+            1357.0640416666665
+          ],
+          "sentences": [
+            "Any follow-up on her?",
+            "Well, Lecter altered or destroyed most of his patients' histories ...",
+            "prior to capture, so there's no record of anyone named Mofet.",
+            "But I thought the \"yourself\" reference ...",
+            "was too hokey for Lecter,",
+            "so I figured, he's from Baltimore, and I looked in the phone book,",
+            "and there's a \"Your Self Storage\" facility,"
+          ]
+        },
+        {
+          "shot": 237,
+          "duration": [
+            1357.10575,
+            1379.0443333333333
+          ],
+          "sentences": [
+            "and there's a \"Your Self Storage\" facility,",
+            "right outside of downtown Baltimore, sir.",
+            "Unit 31 was leased for 10 years,",
+            "prepaid in full.",
+            "The contract ...",
+            "is in the name of a Miss Hester Mofet.",
+            "So nobody's been in here since 1980?",
+            "Not to my knowledge."
+          ]
+        },
+        {
+          "shot": 238,
+          "duration": [
+            1379.0860416666665,
+            1389.0126249999998
+          ],
+          "sentences": [
+            "Privacy is a great concern to my customers.",
+            "Yes, I won't disturb anything. I promise.",
+            "I'll be out of here before you know it.",
+            "- Can I help you? - Yes, actually, you can."
+          ]
+        },
+        {
+          "shot": 239,
+          "duration": [
+            1389.0543333333333,
+            1390.8895
+          ],
+          "sentences": [
+            "- Can I help you? - Yes, actually, you can."
+          ]
+        },
+        {
+          "shot": 240,
+          "duration": [
+            1390.9312083333332,
+            1394.8517916666665
+          ],
+          "sentences": [
+            "- Can I help you? - Yes, actually, you can."
+          ]
+        },
+        {
+          "shot": 241,
+          "duration": [
+            1394.8935,
+            1397.521125
+          ],
+          "sentences": [
+            "It's stuck."
+          ]
+        },
+        {
+          "shot": 242,
+          "duration": [
+            1397.5628333333332,
+            1400.774375
+          ],
+          "sentences": [
+            "It's stuck.",
+            "We could return tomorrow with my son."
+          ]
+        },
+        {
+          "shot": 243,
+          "duration": [
+            1400.8160833333332,
+            1404.3195833333332
+          ],
+          "sentences": [
+            "We could return tomorrow with my son.",
+            "What about him?",
+            "I would ask my driver to help you, but he detests physical labor."
+          ]
+        },
+        {
+          "shot": 244,
+          "duration": [
+            1404.3612916666666,
+            1416.9572083333333
+          ],
+          "sentences": [
+            "I would ask my driver to help you, but he detests physical labor.",
+            "Great.",
+            "You just stay here. I'll be back in one minute."
+          ]
+        },
+        {
+          "shot": 249,
+          "duration": [
+            1440.8977916666665,
+            1449.7399583333333
+          ],
+          "sentences": [
+            "It's stuck.",
+            "Hand me that flashlight, sir."
+          ]
+        },
+        {
+          "shot": 250,
+          "duration": [
+            1449.7816666666665,
+            1458.2067499999998
+          ],
+          "sentences": [
+            "Hand me that flashlight, sir."
+          ]
+        },
+        {
+          "shot": 253,
+          "duration": [
+            1459.9585,
+            1472.345875
+          ],
+          "sentences": [
+            "Oh.",
+            "If this door should fall down or anything else,",
+            "this is the number for our Baltimore field office."
+          ]
+        },
+        {
+          "shot": 254,
+          "duration": [
+            1472.3875833333332,
+            1474.5147083333331
+          ],
+          "sentences": [
+            "this is the number for our Baltimore field office.",
+            "Now, they know that you're with me."
+          ]
+        },
+        {
+          "shot": 255,
+          "duration": [
+            1474.5564166666666,
+            1478.4352916666667
+          ],
+          "sentences": [
+            "Now, they know that you're with me.",
+            "You call them if anything should happen.",
+            "Yes, Miss Starling."
+          ]
+        },
+        {
+          "shot": 256,
+          "duration": [
+            1478.4769999999999,
+            1483.9407916666667
+          ],
+          "sentences": [
+            "Yes, Miss Starling."
+          ]
+        },
+        {
+          "shot": 274,
+          "duration": [
+            1618.8255416666666,
+            1634.8415416666664
+          ],
+          "sentences": [
+            "Clarice ...",
+            "- They're waiting for you. Watch yourself. - Thank you."
+          ]
+        },
+        {
+          "shot": 275,
+          "duration": [
+            1634.8832499999999,
+            1646.9786666666666
+          ],
+          "sentences": [
+            "Hester Mofet. It's an anagram, isn't it, Doctor?",
+            "Hester Mofet, \"The rest of me.\"",
+            "\"Miss The Rest Of Me,\" meaning that you rented that garage?"
+          ]
+        },
+        {
+          "shot": 276,
+          "duration": [
+            1647.0203749999998,
+            1708.2064999999998
+          ],
+          "sentences": [
+            "Thank you.",
+            "Your bleeding has stopped.",
+            "How did you ...",
+            "It's nothing.",
+            "It's just a scratch.",
+            "Dr. Lecter, whose head is in that bottle?",
+            "Why don't you ask me about Buffalo Bill?",
+            "Why, do you know something about him?",
+            "I might, if I saw the case file.",
+            "You could get that for me."
+          ]
+        },
+        {
+          "shot": 277,
+          "duration": [
+            1708.2482083333332,
+            1711.6682916666666
+          ],
+          "sentences": [
+            "You could get that for me.",
+            "Why don't we talk about Miss Mofet?",
+            "You wanted me to find him."
+          ]
+        },
+        {
+          "shot": 278,
+          "duration": [
+            1711.7099999999998,
+            1730.3119166666665
+          ],
+          "sentences": [
+            "You wanted me to find him.",
+            "His real name is Benjamin Raspail.",
+            "A former patient of mine,",
+            "whose romantic attachments ran to, shall we say, the exotic.",
+            "I did not kill him, I assure you.",
+            "Merely tucked him away very much as I found him,",
+            "after he'd missed three appointments."
+          ]
+        },
+        {
+          "shot": 279,
+          "duration": [
+            1730.353625,
+            1739.5294583333332
+          ],
+          "sentences": [
+            "If you didn't kill him, then who did, sir?",
+            "Who can say?",
+            "Best thing for him, really.",
+            "His therapy was going nowhere."
+          ]
+        },
+        {
+          "shot": 280,
+          "duration": [
+            1739.5711666666666,
+            1755.2952083333332
+          ],
+          "sentences": [
+            "His dress, makeup ...",
+            "Raspail was a transvestite?",
+            "In life? Oh, no.",
+            "Garden variety manic-depressive.",
+            "Tedious. Very tedious.",
+            "And I just think of him as a kind of experiment,"
+          ]
+        },
+        {
+          "shot": 281,
+          "duration": [
+            1755.3369166666666,
+            1762.0519583333332
+          ],
+          "sentences": [
+            "And I just think of him as a kind of experiment,",
+            "a fledgling killer's first effort at transformation.",
+            "How did you feel when you saw him, Clarice?"
+          ]
+        },
+        {
+          "shot": 282,
+          "duration": [
+            1762.0936666666666,
+            1772.4790416666665
+          ],
+          "sentences": [
+            "Scared at first, then,",
+            "exhilarated.",
+            "Jack Crawford is helping your career, isn't he?",
+            "Apparently, he likes you, and you like him, too."
+          ]
+        },
+        {
+          "shot": 283,
+          "duration": [
+            1772.52075,
+            1774.6061666666665
+          ],
+          "sentences": [
+            "Apparently, he likes you, and you like him, too.",
+            "I never thought about it."
+          ]
+        },
+        {
+          "shot": 284,
+          "duration": [
+            1774.6478749999999,
+            1776.5247499999998
+          ],
+          "sentences": [
+            "I never thought about it.",
+            "Do you think Jack Crawford wants you sexually?"
+          ]
+        },
+        {
+          "shot": 285,
+          "duration": [
+            1776.5664583333332,
+            1780.0282499999998
+          ],
+          "sentences": [
+            "Do you think Jack Crawford wants you sexually?",
+            "True, he is much older,",
+            "but do you think he visualizes scenarios, exchanges,"
+          ]
+        },
+        {
+          "shot": 286,
+          "duration": [
+            1780.0699583333333,
+            1796.8367083333333
+          ],
+          "sentences": [
+            "but do you think he visualizes scenarios, exchanges,",
+            "fucking you?",
+            "That doesn't interest me, Doctor.",
+            "Frankly, it's the sort of thing that Miggs would say.",
+            "Not anymore."
+          ]
+        },
+        {
+          "shot": 289,
+          "duration": [
+            1802.4673333333333,
+            1805.8457083333333
+          ],
+          "sentences": [
+            "Thank you, Barney."
+          ]
+        },
+        {
+          "shot": 291,
+          "duration": [
+            1808.4733333333331,
+            1817.7742916666666
+          ],
+          "sentences": [
+            "What happened to your drawings?",
+            "Punishment, you see, for Miggs.",
+            "Just like that gospel program."
+          ]
+        },
+        {
+          "shot": 292,
+          "duration": [
+            1817.8159999999998,
+            1820.9024166666666
+          ],
+          "sentences": [
+            "Just like that gospel program.",
+            "When you leave, they'll turn the volume way up."
+          ]
+        },
+        {
+          "shot": 293,
+          "duration": [
+            1820.9441249999998,
+            1824.3642083333332
+          ],
+          "sentences": [
+            "When you leave, they'll turn the volume way up.",
+            "Dr. Chilton does enjoy his petty torments."
+          ]
+        },
+        {
+          "shot": 294,
+          "duration": [
+            1824.4059166666666,
+            1827.4089166666665
+          ],
+          "sentences": [
+            "What did you mean by transformation, Doctor?"
+          ]
+        },
+        {
+          "shot": 295,
+          "duration": [
+            1827.450625,
+            1839.1706666666666
+          ],
+          "sentences": [
+            "What did you mean by transformation, Doctor?",
+            "I've been in this room for eight years now, Clarice."
+          ]
+        },
+        {
+          "shot": 296,
+          "duration": [
+            1839.2123749999998,
+            1854.5193333333332
+          ],
+          "sentences": [
+            "I've been in this room for eight years now, Clarice.",
+            "I know they will never, ever let me out while I'm alive.",
+            "What I want is a view.",
+            "I want a window where I can see a tree, or even water.",
+            "I want to be in a federal insti- tution far away from Dr. Chilton.",
+            "What did you mean by fledgling killer?"
+          ]
+        },
+        {
+          "shot": 297,
+          "duration": [
+            1854.5610416666666,
+            1859.0655416666666
+          ],
+          "sentences": [
+            "What did you mean by fledgling killer?",
+            "Are you saying that he's killed again?"
+          ]
+        },
+        {
+          "shot": 298,
+          "duration": [
+            1859.1072499999998,
+            1864.9047083333332
+          ],
+          "sentences": [
+            "Are you saying that he's killed again?",
+            "I'm offering you a psychological profile on Buffalo Bill,",
+            "based on the case evidence."
+          ]
+        },
+        {
+          "shot": 299,
+          "duration": [
+            1864.9464166666664,
+            1872.5373333333332
+          ],
+          "sentences": [
+            "I'll help you catch him, Clarice."
+          ]
+        },
+        {
+          "shot": 300,
+          "duration": [
+            1872.5790416666666,
+            1881.4629166666666
+          ],
+          "sentences": [
+            "You know who he is, don't you?"
+          ]
+        },
+        {
+          "shot": 301,
+          "duration": [
+            1881.5046249999998,
+            1888.0945416666666
+          ],
+          "sentences": [
+            "Tell me who decapitated your patient, Doctor.",
+            "All good things to those who wait."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0102926_0001",
+      "shot": [
+        315,
+        563
+      ],
+      "frame": [
+        48143,
+        89606
+      ],
+      "duration": [
+        2007.9728699999998,
+        3737.285817
+      ],
+      "consistency": 0.9565699099574254,
+      "description": "Hours and miles away, Buffalo Bill abducts Catherine Martin, the daughter of United States Senator Ruth Martin. Starling is pulled from Quantico and accompanies Crawford to West Virginia, where the body of Bill's recently-discovered victim resides, and where Starling helps perform the autopsy and extracts the chrysalis of a Death's-head Hawkmoth from the victim's throat. At Quantico, as news of Catherine Martin's abduction sweeps the country, Crawford authorizes Starling to offer Hannibal Lecter a fake deal promising a prison transfer if he provides information that helps profile Buffalo Bill and rescue Catherine Martin. Instead, Lecter begins a game of quid pro quo with Starling, offering comprehensive clues and insights about Buffalo Bill in exchange for events from Starling's traumatic childhood. Unaware to both Starling and Lecter, Dr. Frederick Chilton tapes the conversation and after revealing Starling's deal as a sham, offers to transfer Lecter in exchange for a deal of his own making. Lecter agrees and following a flight to Tennessee reveals Buffalo Bill's real name, physical description and past address to Senator Martin and her entourage of FBI agents and Justice Department officials.",
+      "subtitle": [
+        {
+          "shot": 315,
+          "duration": [
+            2002.625625,
+            2055.219833333333
+          ],
+          "sentences": [
+            "- Would you? - Sure.",
+            "- Thank you. - That's all right.",
+            "- You look kind of handicapped. - Yeah.",
+            "I got it this far. I just can't get it up in the truck.",
+            "Here. Just grab this.",
+            "Okay.",
+            "Good. Just set it down. That's good.",
+            "Get in the truck. I want to push it all the way up.",
+            "- I really appreciate this. Thank you. - All right.",
+            "- Yeah. - Thank you.",
+            "Just go all the way back.",
+            "Okay. Is this good?",
+            "Yeah, that's good.",
+            "- That's great. - Okay.",
+            "Say, are you about a size 14?",
+            "Sorry?"
+          ]
+        },
+        {
+          "shot": 317,
+          "duration": [
+            2062.1434166666663,
+            2067.1484166666664
+          ],
+          "sentences": [
+            "Good."
+          ]
+        },
+        {
+          "shot": 318,
+          "duration": [
+            2067.190125,
+            2087.9608749999998
+          ],
+          "sentences": [
+            "Oh, good. Good."
+          ]
+        },
+        {
+          "shot": 322,
+          "duration": [
+            2099.84775,
+            2105.0612916666664
+          ],
+          "sentences": [
+            "Hold!"
+          ]
+        },
+        {
+          "shot": 325,
+          "duration": [
+            2115.780333333333,
+            2118.491375
+          ],
+          "sentences": [
+            "Starling!"
+          ]
+        },
+        {
+          "shot": 326,
+          "duration": [
+            2118.5330833333333,
+            2124.4556666666667
+          ],
+          "sentences": [
+            "Outside. Let's go.",
+            "Cindy, in the ring for Starling. Let's go!"
+          ]
+        },
+        {
+          "shot": 327,
+          "duration": [
+            2124.497375,
+            2127.500375
+          ],
+          "sentences": [
+            "Cindy, in the ring for Starling. Let's go!"
+          ]
+        },
+        {
+          "shot": 328,
+          "duration": [
+            2127.5420833333333,
+            2144.9761666666664
+          ],
+          "sentences": [
+            "FBI! Hold it! Hold it right there!",
+            "Saddle up. Pack your field gear. You're moving out.",
+            "- You're going with Crawford. - Where?",
+            "Found a girl's body down in West Virginia.",
+            "Been in the water about a week. Looks like a Buffalo Bill-type situation."
+          ]
+        },
+        {
+          "shot": 331,
+          "duration": [
+            2154.7359166666665,
+            2157.572083333333
+          ],
+          "sentences": [
+            "He keeps them alive for three days. We don't know why."
+          ]
+        },
+        {
+          "shot": 332,
+          "duration": [
+            2157.6137916666667,
+            2158.6982083333332
+          ],
+          "sentences": [
+            "He keeps them alive for three days. We don't know why."
+          ]
+        },
+        {
+          "shot": 333,
+          "duration": [
+            2158.7399166666664,
+            2159.4072499999997
+          ],
+          "sentences": [
+            "He keeps them alive for three days. We don't know why."
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            2159.4489583333334,
+            2166.0805833333334
+          ],
+          "sentences": [
+            "He keeps them alive for three days. We don't know why.",
+            "There's no evidence of rape or physical abuse prior to death.",
+            "All the mutilation you see there is post-mortem."
+          ]
+        },
+        {
+          "shot": 335,
+          "duration": [
+            2166.1222916666666,
+            2168.833333333333
+          ],
+          "sentences": [
+            "All the mutilation you see there is post-mortem.",
+            "Okay, three days.",
+            "Then he shoots them, skins them, and dumps them."
+          ]
+        },
+        {
+          "shot": 336,
+          "duration": [
+            2168.8750416666667,
+            2172.2534166666665
+          ],
+          "sentences": [
+            "Then he shoots them, skins them, and dumps them."
+          ]
+        },
+        {
+          "shot": 337,
+          "duration": [
+            2172.2951249999996,
+            2175.798625
+          ],
+          "sentences": [
+            "Each body in a different river.",
+            "The water leaves us no trace evidence of any kind."
+          ]
+        },
+        {
+          "shot": 338,
+          "duration": [
+            2175.840333333333,
+            2176.5076666666664
+          ],
+          "sentences": [
+            "The water leaves us no trace evidence of any kind."
+          ]
+        },
+        {
+          "shot": 339,
+          "duration": [
+            2176.549375,
+            2180.1362916666667
+          ],
+          "sentences": [
+            "The water leaves us no trace evidence of any kind.",
+            "That's Fredrica Bimmel, the first one."
+          ]
+        },
+        {
+          "shot": 340,
+          "duration": [
+            2180.178,
+            2184.098583333333
+          ],
+          "sentences": [
+            "That's Fredrica Bimmel, the first one.",
+            "Her body was the only one he took the trouble to weight down,",
+            "so actually, she was the third girl found."
+          ]
+        },
+        {
+          "shot": 341,
+          "duration": [
+            2184.1402916666666,
+            2189.478958333333
+          ],
+          "sentences": [
+            "so actually, she was the third girl found.",
+            "After her, he got lazy."
+          ]
+        },
+        {
+          "shot": 342,
+          "duration": [
+            2189.5206666666663,
+            2193.232708333333
+          ],
+          "sentences": [
+            "Okay. Let's see."
+          ]
+        },
+        {
+          "shot": 343,
+          "duration": [
+            2193.2744166666666,
+            2197.6537916666666
+          ],
+          "sentences": [
+            "Circles where the girls were abducted,",
+            "arrows where their bodies were found."
+          ]
+        },
+        {
+          "shot": 344,
+          "duration": [
+            2197.6955,
+            2202.9090416666663
+          ],
+          "sentences": [
+            "arrows where their bodies were found.",
+            "This new one today washed up here.",
+            "Elk River, West Virginia."
+          ]
+        },
+        {
+          "shot": 348,
+          "duration": [
+            2215.755208333333,
+            2224.513958333333
+          ],
+          "sentences": [
+            "Look at him, Starling. Tell me what you see."
+          ]
+        },
+        {
+          "shot": 349,
+          "duration": [
+            2224.5556666666666,
+            2236.275708333333
+          ],
+          "sentences": [
+            "Look at him, Starling. Tell me what you see.",
+            "Well, he's a white male.",
+            "Serial killers tend to hunt within their own ethnic groups.",
+            "He's not a drifter.",
+            "He's got his own house somewhere, not an apartment."
+          ]
+        },
+        {
+          "shot": 350,
+          "duration": [
+            2236.3174166666663,
+            2241.4058333333332
+          ],
+          "sentences": [
+            "He's got his own house somewhere, not an apartment.",
+            "- Why? - What he does with them takes privacy.",
+            "He's in his 30s or 40s."
+          ]
+        },
+        {
+          "shot": 351,
+          "duration": [
+            2241.4475416666664,
+            2253.626375
+          ],
+          "sentences": [
+            "He's in his 30s or 40s.",
+            "He's got real physical strength,",
+            "combined with an older man's self-control.",
+            "He's cautious, precise.",
+            "And he's never impulsive. He'll never stop."
+          ]
+        },
+        {
+          "shot": 352,
+          "duration": [
+            2253.668083333333,
+            2256.045458333333
+          ],
+          "sentences": [
+            "And he's never impulsive. He'll never stop.",
+            "Why not?"
+          ]
+        },
+        {
+          "shot": 353,
+          "duration": [
+            2256.0871666666667,
+            2260.633375
+          ],
+          "sentences": [
+            "He's got a real taste for it now. He's getting better at his work."
+          ]
+        },
+        {
+          "shot": 354,
+          "duration": [
+            2260.675083333333,
+            2265.137875
+          ],
+          "sentences": [
+            "Not bad, Starling.",
+            "- Questions? - Yes, sir."
+          ]
+        },
+        {
+          "shot": 355,
+          "duration": [
+            2265.179583333333,
+            2272.7287916666664
+          ],
+          "sentences": [
+            "- Questions? - Yes, sir.",
+            "You haven't mentioned anything about the information contained in my report ...",
+            "or Dr. Lecter's offer, sir."
+          ]
+        },
+        {
+          "shot": 356,
+          "duration": [
+            2272.7704999999996,
+            2274.7307916666664
+          ],
+          "sentences": [
+            "or Dr. Lecter's offer, sir.",
+            "I'm considering it."
+          ]
+        },
+        {
+          "shot": 357,
+          "duration": [
+            2274.7725,
+            2280.1111666666666
+          ],
+          "sentences": [
+            "I'm considering it.",
+            "That's why you sent me in there, isn't it?",
+            "To get his help on Buffalo Bill, sir?"
+          ]
+        },
+        {
+          "shot": 359,
+          "duration": [
+            2282.905625,
+            2288.8699166666665
+          ],
+          "sentences": [
+            "Well, if that was the case, then I just ...",
+            "I just wish I was in on it. That's all."
+          ]
+        },
+        {
+          "shot": 360,
+          "duration": [
+            2288.9116249999997,
+            2294.458833333333
+          ],
+          "sentences": [
+            "If I had sent you in there with an actual agenda,",
+            "Lecter would have known it instantly.",
+            "He would have toyed with you, then turned to stone."
+          ]
+        },
+        {
+          "shot": 361,
+          "duration": [
+            2294.5005416666663,
+            2298.7547916666663
+          ],
+          "sentences": [
+            "He would have toyed with you, then turned to stone."
+          ]
+        },
+        {
+          "shot": 364,
+          "duration": [
+            2319.317,
+            2339.08675
+          ],
+          "sentences": [
+            "Excuse me. Sheriff Perkins, these are the FBI people.",
+            "Sheriff Perkins. Jack Crawford, FBI.",
+            "Special Agent Terry, Agent Starling."
+          ]
+        },
+        {
+          "shot": 365,
+          "duration": [
+            2339.128458333333,
+            2341.9646249999996
+          ],
+          "sentences": [
+            "Special Agent Terry, Agent Starling.",
+            "We appreciate being invited to your jurisdiction."
+          ]
+        },
+        {
+          "shot": 366,
+          "duration": [
+            2342.0063333333333,
+            2345.009333333333
+          ],
+          "sentences": [
+            "We appreciate being invited to your jurisdiction.",
+            "I didn't call you. That was somebody from the State Attorney's office."
+          ]
+        },
+        {
+          "shot": 367,
+          "duration": [
+            2345.0510416666666,
+            2347.6786666666667
+          ],
+          "sentences": [
+            "I didn't call you. That was somebody from the State Attorney's office.",
+            "We'll extend you every courtesy, but right now ..."
+          ]
+        },
+        {
+          "shot": 368,
+          "duration": [
+            2347.720375,
+            2354.60225
+          ],
+          "sentences": [
+            "Sheriff, this type of sex crime has certain aspects.",
+            "I'd just as soon discuss in private."
+          ]
+        },
+        {
+          "shot": 369,
+          "duration": [
+            2354.643958333333,
+            2358.2308749999997
+          ],
+          "sentences": [
+            "You know what I mean?"
+          ]
+        },
+        {
+          "shot": 384,
+          "duration": [
+            2455.119333333333,
+            2469.7172499999997
+          ],
+          "sentences": [
+            "- Oscar, fetch Dr. Akin from the chapel. - Yes, sir."
+          ]
+        },
+        {
+          "shot": 385,
+          "duration": [
+            2469.7589583333333,
+            2471.6358333333333
+          ],
+          "sentences": [
+            "Starling, we're back here.",
+            "Tell Lamar to come on when he's finished playing his music."
+          ]
+        },
+        {
+          "shot": 386,
+          "duration": [
+            2471.6775416666665,
+            2474.3468749999997
+          ],
+          "sentences": [
+            "Tell Lamar to come on when he's finished playing his music."
+          ]
+        },
+        {
+          "shot": 387,
+          "duration": [
+            2474.3885833333334,
+            2495.284458333333
+          ],
+          "sentences": [
+            "Yeah. We'll be sending in a minute.",
+            "Yeah. We'll be sending in a minute.",
+            "Is this working?",
+            "I need a six-way linkup.",
+            "Chicago, Detroit ...",
+            "What? What?",
+            "Excuse me! Excuse me, gentlemen.",
+            "You officers and gentlemen, listen here now.",
+            "There's things we need to do for her."
+          ]
+        },
+        {
+          "shot": 388,
+          "duration": [
+            2495.3261666666663,
+            2500.7065416666665
+          ],
+          "sentences": [
+            "There's things we need to do for her.",
+            "I know that you all brought her this far ...",
+            "and that her folks would thank you if they could ..."
+          ]
+        },
+        {
+          "shot": 389,
+          "duration": [
+            2500.7482499999996,
+            2504.2100416666667
+          ],
+          "sentences": [
+            "and that her folks would thank you if they could ...",
+            "for your kindness and your sensitivity.",
+            "And now, please, go on now and let us take care of her."
+          ]
+        },
+        {
+          "shot": 390,
+          "duration": [
+            2504.25175,
+            2506.378875
+          ],
+          "sentences": [
+            "And now, please, go on now and let us take care of her."
+          ]
+        },
+        {
+          "shot": 391,
+          "duration": [
+            2506.420583333333,
+            2507.9220833333334
+          ],
+          "sentences": [
+            "And now, please, go on now and let us take care of her."
+          ]
+        },
+        {
+          "shot": 392,
+          "duration": [
+            2507.9637916666666,
+            2509.423583333333
+          ],
+          "sentences": [
+            "Go on, now."
+          ]
+        },
+        {
+          "shot": 393,
+          "duration": [
+            2509.4652916666664,
+            2517.0979166666666
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 394,
+          "duration": [
+            2517.139625,
+            2519.683833333333
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 395,
+          "duration": [
+            2519.7255416666667,
+            2540.454583333333
+          ],
+          "sentences": [
+            "Okay, good.",
+            "Yeah, that's right. West Virginia. Elk River.",
+            "Stand by for transmission.",
+            "Ray."
+          ]
+        },
+        {
+          "shot": 397,
+          "duration": [
+            2546.585708333333,
+            2553.7595416666663
+          ],
+          "sentences": [
+            "Doctor, Lamar, let's take a look at her."
+          ]
+        },
+        {
+          "shot": 398,
+          "duration": [
+            2553.80125,
+            2564.2700416666667
+          ],
+          "sentences": [
+            "Doctor, Lamar, let's take a look at her."
+          ]
+        },
+        {
+          "shot": 402,
+          "duration": [
+            2571.1519166666667,
+            2572.987083333333
+          ],
+          "sentences": [
+            "Oh, Jesus."
+          ]
+        },
+        {
+          "shot": 403,
+          "duration": [
+            2573.0287916666666,
+            2575.739833333333
+          ],
+          "sentences": [
+            "Oh, Jesus."
+          ]
+        },
+        {
+          "shot": 406,
+          "duration": [
+            2580.244333333333,
+            2582.246333333333
+          ],
+          "sentences": [
+            "Okay, Starling."
+          ]
+        },
+        {
+          "shot": 407,
+          "duration": [
+            2582.2880416666667,
+            2588.627708333333
+          ],
+          "sentences": [
+            "Okay, Starling.",
+            "Bill."
+          ]
+        },
+        {
+          "shot": 408,
+          "duration": [
+            2588.6694166666666,
+            2591.213625
+          ],
+          "sentences": [
+            "Bill."
+          ]
+        },
+        {
+          "shot": 409,
+          "duration": [
+            2591.255333333333,
+            2624.2049166666666
+          ],
+          "sentences": [
+            "Star-shaped contact entrance wound over the sternum.",
+            "Muzzle stamp at the top.",
+            "- Wrongful death. - \"Wrongful death.\"",
+            "She'll have to go to the state pathologist at Claxton.",
+            "Well, I better get back to that service.",
+            "Lamar will help you."
+          ]
+        },
+        {
+          "shot": 410,
+          "duration": [
+            2624.2466249999998,
+            2628.3340416666665
+          ],
+          "sentences": [
+            "Lamar will help you.",
+            "Lord Almighty."
+          ]
+        },
+        {
+          "shot": 411,
+          "duration": [
+            2628.3757499999997,
+            2647.186208333333
+          ],
+          "sentences": [
+            "What else do you see, Starling?",
+            "Well, she's not local.",
+            "Her ears are pierced three times, and there's ...",
+            "Glitter nail polish. It looks like town to me."
+          ]
+        },
+        {
+          "shot": 413,
+          "duration": [
+            2650.6897083333333,
+            2663.3690416666664
+          ],
+          "sentences": [
+            "Two of her fingernails are broken off,",
+            "and there's dirt or grit under them.",
+            "It looks like she's tried to claw her way through something.",
+            "Ray, get pictures of her teeth. We'll fax them through Missing Persons."
+          ]
+        },
+        {
+          "shot": 414,
+          "duration": [
+            2663.41075,
+            2669.91725
+          ],
+          "sentences": [
+            "Right."
+          ]
+        },
+        {
+          "shot": 418,
+          "duration": [
+            2674.2549166666663,
+            2679.051375
+          ],
+          "sentences": [
+            "Let's do another."
+          ]
+        },
+        {
+          "shot": 421,
+          "duration": [
+            2684.5151666666666,
+            2686.5588749999997
+          ],
+          "sentences": [
+            "She's got something in her throat."
+          ]
+        },
+        {
+          "shot": 422,
+          "duration": [
+            2686.6005833333334,
+            2688.5608749999997
+          ],
+          "sentences": [
+            "She's got something in her throat.",
+            "When a body comes out of the water,"
+          ]
+        },
+        {
+          "shot": 423,
+          "duration": [
+            2688.6025833333333,
+            2692.8985416666665
+          ],
+          "sentences": [
+            "When a body comes out of the water,",
+            "lots of times there's, like, leaves and things in the mouth."
+          ]
+        },
+        {
+          "shot": 427,
+          "duration": [
+            2707.6632916666663,
+            2725.514458333333
+          ],
+          "sentences": [
+            "What is that, some kind of seedpod?"
+          ]
+        },
+        {
+          "shot": 428,
+          "duration": [
+            2725.5561666666663,
+            2727.3079166666666
+          ],
+          "sentences": [
+            "What is that, some kind of seedpod?"
+          ]
+        },
+        {
+          "shot": 429,
+          "duration": [
+            2727.349625,
+            2730.352625
+          ],
+          "sentences": [
+            "No, sir. That's a bug cocoon."
+          ]
+        },
+        {
+          "shot": 430,
+          "duration": [
+            2730.394333333333,
+            2732.271208333333
+          ],
+          "sentences": [
+            "There's no way that could get way down in there like that."
+          ]
+        },
+        {
+          "shot": 431,
+          "duration": [
+            2732.3129166666663,
+            2736.9425416666663
+          ],
+          "sentences": [
+            "There's no way that could get way down in there like that.",
+            "Not unless somebody shoved it in there."
+          ]
+        },
+        {
+          "shot": 432,
+          "duration": [
+            2736.98425,
+            2741.113375
+          ],
+          "sentences": [
+            "She'll be easier to print when we turn her over."
+          ]
+        },
+        {
+          "shot": 433,
+          "duration": [
+            2741.155083333333,
+            2750.289208333333
+          ],
+          "sentences": [
+            "She'll be easier to print when we turn her over.",
+            "- Lamar, will you give me a hand with this? - Yes, sir, I will.",
+            "Oh, Jack. What do you make of these?"
+          ]
+        },
+        {
+          "shot": 434,
+          "duration": [
+            2750.3309166666663,
+            2764.3866249999996
+          ],
+          "sentences": [
+            "Oh, Jack. What do you make of these?",
+            "Different configuration than the other victims.",
+            "Get close-ups.",
+            "Victim's skin removed this time in two large diamond-shaped sections ...",
+            "above the buttocks.",
+            "Stellate exit wound level with the second or the third thoracic vertebrae ..."
+          ]
+        },
+        {
+          "shot": 435,
+          "duration": [
+            2764.4283333333333,
+            2769.0579583333333
+          ],
+          "sentences": [
+            "approximately six inches from the right shoulder blade.",
+            "Starling?"
+          ]
+        },
+        {
+          "shot": 436,
+          "duration": [
+            2769.0996666666665,
+            2794.8754166666663
+          ],
+          "sentences": [
+            "When I told that sheriff we shouldn't talk in front of a woman,",
+            "that really burned you, didn't it?",
+            "It was just smoke, Starling. I had to get rid of him.",
+            "It matters, Mr. Crawford.",
+            "Cops look at you to see how to act.",
+            "- It matters. - Point taken.",
+            "Ligature marks found around the wrists,"
+          ]
+        },
+        {
+          "shot": 437,
+          "duration": [
+            2794.917125,
+            2800.923125
+          ],
+          "sentences": [
+            "not around the ankles.",
+            "This would indicate that the skinning was post-mortem."
+          ]
+        },
+        {
+          "shot": 440,
+          "duration": [
+            2822.3612083333333,
+            2826.240083333333
+          ],
+          "sentences": [
+            "- Time, Pilch. My move. - No fair. You lured him with produce."
+          ]
+        },
+        {
+          "shot": 441,
+          "duration": [
+            2826.2817916666663,
+            2832.204375
+          ],
+          "sentences": [
+            "- Time, Pilch. My move. - No fair. You lured him with produce.",
+            "Tough noogies. Still my turn.",
+            "Nice and slow, baby."
+          ]
+        },
+        {
+          "shot": 442,
+          "duration": [
+            2832.246083333333,
+            2834.998833333333
+          ],
+          "sentences": [
+            "If the beetle moves one of your men, does that still count?"
+          ]
+        },
+        {
+          "shot": 443,
+          "duration": [
+            2835.0405416666663,
+            2839.211375
+          ],
+          "sentences": [
+            "If the beetle moves one of your men, does that still count?",
+            "Of course it counts. How do you play?"
+          ]
+        },
+        {
+          "shot": 444,
+          "duration": [
+            2839.253083333333,
+            2841.880708333333
+          ],
+          "sentences": [
+            "Of course it counts. How do you play?",
+            "Agent Starling?"
+          ]
+        },
+        {
+          "shot": 445,
+          "duration": [
+            2841.9224166666663,
+            2863.0268333333333
+          ],
+          "sentences": [
+            "Agent Starling?",
+            "Where the heck did this come from? It's practically mush.",
+            "It was found behind the soft palate of a murder victim.",
+            "The body was in the Elk River, West Virginia.",
+            "It's Buffalo Bill, isn't it?",
+            "I'm afraid I can't tell you any more about that.",
+            "We heard about it on the radio.",
+            "You mean this is like a clue from a real murder case? Cool!",
+            "Just ignore him. He's not a Ph.D."
+          ]
+        },
+        {
+          "shot": 446,
+          "duration": [
+            2863.0685416666665,
+            2871.0765416666663
+          ],
+          "sentences": [
+            "A Sphingid. Ceratomia, maybe.",
+            "Boy, he's a big sucker.",
+            "Okay.",
+            "Let's check morphology."
+          ]
+        },
+        {
+          "shot": 447,
+          "duration": [
+            2871.11825,
+            2873.245375
+          ],
+          "sentences": [
+            "Let's check morphology."
+          ]
+        },
+        {
+          "shot": 448,
+          "duration": [
+            2873.287083333333,
+            2881.920708333333
+          ],
+          "sentences": [
+            "What do you do when you're not detecting, Agent Starling?"
+          ]
+        },
+        {
+          "shot": 449,
+          "duration": [
+            2881.9624166666663,
+            2884.423208333333
+          ],
+          "sentences": [
+            "What do you do when you're not detecting, Agent Starling?"
+          ]
+        },
+        {
+          "shot": 450,
+          "duration": [
+            2884.4649166666663,
+            2891.179958333333
+          ],
+          "sentences": [
+            "I try to be a student, Dr. Pilcher.",
+            "You ever go out for cheeseburgers and beer?"
+          ]
+        },
+        {
+          "shot": 451,
+          "duration": [
+            2891.2216666666664,
+            2896.894
+          ],
+          "sentences": [
+            "You ever go out for cheeseburgers and beer?",
+            "The amusing house wine?",
+            "- Are you hitting on me, Doctor? - Yes."
+          ]
+        },
+        {
+          "shot": 452,
+          "duration": [
+            2896.935708333333,
+            2900.6477499999996
+          ],
+          "sentences": [
+            "- Are you hitting on me, Doctor? - Yes.",
+            "- Got you. - What do you got, Roden?"
+          ]
+        },
+        {
+          "shot": 453,
+          "duration": [
+            2900.6894583333333,
+            2902.024125
+          ],
+          "sentences": [
+            "Agent Starling, meet Mr. Acherontia Styx."
+          ]
+        },
+        {
+          "shot": 454,
+          "duration": [
+            2902.065833333333,
+            2905.7361666666666
+          ],
+          "sentences": [
+            "Agent Starling, meet Mr. Acherontia Styx."
+          ]
+        },
+        {
+          "shot": 455,
+          "duration": [
+            2905.7778749999998,
+            2919.082833333333
+          ],
+          "sentences": [
+            "Weird.",
+            "Better known to his friends as the Death's Head Moth.",
+            "- And where does it come from? - That's what's strange.",
+            "- They only live in Asia. - Asia?",
+            "In this country, they'd have to be specially raised from imported eggs.",
+            "Somebody grew this guy, fed him honey and nightshade,"
+          ]
+        },
+        {
+          "shot": 456,
+          "duration": [
+            2919.1245416666666,
+            2921.335083333333
+          ],
+          "sentences": [
+            "Somebody grew this guy, fed him honey and nightshade,"
+          ]
+        },
+        {
+          "shot": 457,
+          "duration": [
+            2921.3767916666666,
+            2926.6320416666663
+          ],
+          "sentences": [
+            "Somebody grew this guy, fed him honey and nightshade,",
+            "kept him warm.",
+            "Somebody loved him."
+          ]
+        },
+        {
+          "shot": 459,
+          "duration": [
+            2932.67975,
+            2983.9392916666666
+          ],
+          "sentences": [
+            "Where are you?",
+            "Let me out of here!",
+            "Please don't leave!",
+            "Talk to me, please!",
+            "Why won't you answer me? Please!"
+          ]
+        },
+        {
+          "shot": 460,
+          "duration": [
+            2983.9809999999998,
+            2986.650333333333
+          ],
+          "sentences": [
+            "Why won't you answer me? Please!"
+          ]
+        },
+        {
+          "shot": 461,
+          "duration": [
+            2986.6920416666662,
+            2992.4060833333333
+          ],
+          "sentences": [
+            "Good morning. I'm Donna Ferucchi.",
+            "I'm Gene Cassel with sports.",
+            "And I'm Tim Langhorn. Our top story for this morning."
+          ]
+        },
+        {
+          "shot": 462,
+          "duration": [
+            2992.4477916666665,
+            2993.407083333333
+          ],
+          "sentences": [
+            "And I'm Tim Langhorn. Our top story for this morning."
+          ]
+        },
+        {
+          "shot": 463,
+          "duration": [
+            2993.4487916666662,
+            2999.413083333333
+          ],
+          "sentences": [
+            "And I'm Tim Langhorn. Our top story for this morning.",
+            "Catherine Martin,",
+            "the 25-year-old daughter of Senator Ruth Martin,",
+            "listed first as a missing person, is now believed to have been kidnapped ..."
+          ]
+        },
+        {
+          "shot": 464,
+          "duration": [
+            2999.4547916666666,
+            3008.2135416666665
+          ],
+          "sentences": [
+            "listed first as a missing person, is now believed to have been kidnapped ...",
+            "by the serial killer known only as Buffalo Bill.",
+            "Memphis police sources indicate that the missing girl's blouse ...",
+            "has been identified, sliced up the back ..."
+          ]
+        },
+        {
+          "shot": 465,
+          "duration": [
+            3008.2552499999997,
+            3018.8908749999996
+          ],
+          "sentences": [
+            "has been identified, sliced up the back ...",
+            "in what has become a kind of grim, all-too-familiar calling card.",
+            "Young Catherine Martin, as we've said,",
+            "is the only daughter of U.S. Senator Ruth Martin,",
+            "the Republican junior senator from Tennessee."
+          ]
+        },
+        {
+          "shot": 466,
+          "duration": [
+            3018.9325833333332,
+            3030.9028749999998
+          ],
+          "sentences": [
+            "And while her kidnapping is not, at this point,",
+            "considered to be politically motivated,",
+            "nevertheless, it has stirred the government to its highest levels.",
+            "Reached for a comment on the ski slopes of Stowe, Vermont,",
+            "the president himself said to be, and I quote, \"Intensely concerned.\""
+          ]
+        },
+        {
+          "shot": 467,
+          "duration": [
+            3030.944583333333,
+            3042.080708333333
+          ],
+          "sentences": [
+            "the president himself said to be, and I quote, \"Intensely concerned.\"",
+            "Just moments ago, Senator Martin ...",
+            "taped this dramatic personal plea. - Excuse me.",
+            "I'm speaking now to the person who is holding my daughter."
+          ]
+        },
+        {
+          "shot": 468,
+          "duration": [
+            3042.1224166666666,
+            3076.0312916666667
+          ],
+          "sentences": [
+            "Catherine is very gentle and kind.",
+            "Talk to her, and you'll see.",
+            "You have the power. You are in charge.",
+            "I know you can feel love and compassion.",
+            "You have a wonderful chance to show the whole world ...",
+            "that you can be merciful as well as strong,",
+            "that you're big enough to treat Catherine better than the world has treated you.",
+            "You have that power."
+          ]
+        },
+        {
+          "shot": 469,
+          "duration": [
+            3076.073,
+            3095.6759166666666
+          ],
+          "sentences": [
+            "Please.",
+            "My daughter is Catherine.",
+            "- Boy, that's smart. - Release her unharmed.",
+            "Jesus, that's really smart.",
+            "She keeps repeating the name.",
+            "If he sees Catherine as a person and not just an object,",
+            "it's harder to tear her up. - Please. Release my little girl."
+          ]
+        },
+        {
+          "shot": 470,
+          "duration": [
+            3095.7176249999998,
+            3099.1794166666664
+          ],
+          "sentences": [
+            "What you're doing, Miss Starling,",
+            "is coming into my hospital to conduct an interview"
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            3099.2211249999996,
+            3116.0712916666666
+          ],
+          "sentences": [
+            "is coming into my hospital to conduct an interview",
+            "and refusing to share information with me for the third time.",
+            "Sir, I told you,",
+            "this is just a routine follow-up on the Raspail case.",
+            "- He is my patient. I have rights. - I understand that, sir.",
+            "Look, I am not just some turnkey, Miss Starling."
+          ]
+        },
+        {
+          "shot": 472,
+          "duration": [
+            3116.113,
+            3123.8707499999996
+          ],
+          "sentences": [
+            "This is the number for the U.S. Attorney's office.",
+            "Please, either you discuss this with him,",
+            "or you let me do my job. Do you understand?"
+          ]
+        },
+        {
+          "shot": 473,
+          "duration": [
+            3123.9124583333332,
+            3132.5877916666664
+          ],
+          "sentences": [
+            "or you let me do my job. Do you understand?",
+            "If your profile helps us catch Buffalo Bill ..."
+          ]
+        },
+        {
+          "shot": 474,
+          "duration": [
+            3132.6294999999996,
+            3145.684208333333
+          ],
+          "sentences": [
+            "in time to save Catherine Martin,",
+            "the senator promises you a transfer ...",
+            "to the V.A. Hospital at Oneida Park, New York,",
+            "with a view of the woods nearby.",
+            "Maximum security still applies, of course."
+          ]
+        },
+        {
+          "shot": 475,
+          "duration": [
+            3145.7259166666663,
+            3150.6474999999996
+          ],
+          "sentences": [
+            "You'd have reasonable access to books.",
+            "Best of all, though."
+          ]
+        },
+        {
+          "shot": 476,
+          "duration": [
+            3150.689208333333,
+            3173.2951249999996
+          ],
+          "sentences": [
+            "Best of all, though.",
+            "One week of the year,",
+            "you get to leave the hospital and go here.",
+            "Plum Island.",
+            "Every day of that week you may walk on the beach,",
+            "you may swim in the ocean for up to one hour,",
+            "under SWAT team surveillance, of course."
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            3173.3368333333333,
+            3175.6307916666665
+          ],
+          "sentences": [
+            "And there you have it."
+          ]
+        },
+        {
+          "shot": 478,
+          "duration": [
+            3175.6724999999997,
+            3201.573375
+          ],
+          "sentences": [
+            "A copy of the Buffalo Bill case file.",
+            "A copy of the senator's offer.",
+            "This offer is non-negotiable and final.",
+            "If Catherine Martin dies, you get nothing."
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            3201.615083333333,
+            3210.9160416666664
+          ],
+          "sentences": [
+            "\"Plum Island Animal Disease Research Center.\"",
+            "Sounds charming."
+          ]
+        },
+        {
+          "shot": 480,
+          "duration": [
+            3210.9577499999996,
+            3220.1335833333333
+          ],
+          "sentences": [
+            "That's only part of the island. There's a very, very nice beach.",
+            "- Terns nest there. There's beautiful ... - Terns?"
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            3220.1752916666665,
+            3230.352125
+          ],
+          "sentences": [
+            "If I help you, Clarice, it will be \"turns\" with us, too.",
+            "Quid pro quo. I tell you things, you tell me things.",
+            "Not about this case, though. About yourself."
+          ]
+        },
+        {
+          "shot": 482,
+          "duration": [
+            3230.393833333333,
+            3233.5219583333333
+          ],
+          "sentences": [
+            "Not about this case, though. About yourself.",
+            "Quid pro quo. Yes or no?"
+          ]
+        },
+        {
+          "shot": 483,
+          "duration": [
+            3233.5636666666664,
+            3239.5696666666663
+          ],
+          "sentences": [
+            "Yes or no, Clarice? Poor little Catherine is waiting."
+          ]
+        },
+        {
+          "shot": 484,
+          "duration": [
+            3239.611375,
+            3242.155583333333
+          ],
+          "sentences": [
+            "Go, Doctor."
+          ]
+        },
+        {
+          "shot": 485,
+          "duration": [
+            3242.1972916666664,
+            3245.9510416666662
+          ],
+          "sentences": [
+            "What is your worst memory of childhood?"
+          ]
+        },
+        {
+          "shot": 486,
+          "duration": [
+            3245.99275,
+            3249.99675
+          ],
+          "sentences": [
+            "The death of my father."
+          ]
+        },
+        {
+          "shot": 487,
+          "duration": [
+            3250.038458333333,
+            3253.5419583333332
+          ],
+          "sentences": [
+            "Tell me about it. And don't lie, or I'll know."
+          ]
+        },
+        {
+          "shot": 488,
+          "duration": [
+            3253.5836666666664,
+            3273.4785416666664
+          ],
+          "sentences": [
+            "He was a town marshal,",
+            "and one night he surprised two burglars ...",
+            "coming out of the back of a drugstore.",
+            "They shot him.",
+            "Was he killed outright?",
+            "No. He was very strong. He lasted more than a month."
+          ]
+        },
+        {
+          "shot": 489,
+          "duration": [
+            3273.5202499999996,
+            3278.8589166666666
+          ],
+          "sentences": [
+            "My mother died when I was very young,"
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            3278.9006249999998,
+            3286.2412916666663
+          ],
+          "sentences": [
+            "so my father had become the whole world to me,",
+            "and when he left me, I had nothing. I was ten years old."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            3286.283,
+            3294.666375
+          ],
+          "sentences": [
+            "You're very frank, Clarice.",
+            "I think it would be quite something to know you in private life."
+          ]
+        },
+        {
+          "shot": 492,
+          "duration": [
+            3294.708083333333,
+            3298.2949999999996
+          ],
+          "sentences": [
+            "Quid pro quo, Doctor."
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            3298.3367083333333,
+            3303.883916666666
+          ],
+          "sentences": [
+            "So tell me about Miss West Virginia.",
+            "Was she a large girl?"
+          ]
+        },
+        {
+          "shot": 494,
+          "duration": [
+            3303.925625,
+            3311.5999583333332
+          ],
+          "sentences": [
+            "Yes.",
+            "- Big through the hips? Roomy? - They all were."
+          ]
+        },
+        {
+          "shot": 495,
+          "duration": [
+            3311.6416666666664,
+            3324.07075
+          ],
+          "sentences": [
+            "What else?",
+            "She had an object deliberately inserted into her throat.",
+            "Now, that hasn't been made public yet.",
+            "We don't know what it means.",
+            "Was it a butterfly?"
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            3324.112458333333,
+            3336.2495833333332
+          ],
+          "sentences": [
+            "Yes. A moth.",
+            "Just like the one we found in Benjamin Raspail's head an hour ago.",
+            "Why does he place them there, Doctor?"
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            3336.2912916666664,
+            3351.014333333333
+          ],
+          "sentences": [
+            "Why does he place them there, Doctor?",
+            "The significance of the moth is change.",
+            "Caterpillar into chrysalis or pupa,",
+            "and from thence into beauty.",
+            "Our Billy wants to change, too."
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            3351.0560416666663,
+            3357.896208333333
+          ],
+          "sentences": [
+            "There's no correlation in literature between transsexualism and violence.",
+            "- Transsexuals are very passive ... - Clever girl."
+          ]
+        },
+        {
+          "shot": 499,
+          "duration": [
+            3357.9379166666663,
+            3361.8585
+          ],
+          "sentences": [
+            "- Transsexuals are very passive ... - Clever girl.",
+            "You're so close to the way you're gonna catch him.",
+            "- Do you realize that? - No. Tell me why."
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            3361.900208333333,
+            3364.027333333333
+          ],
+          "sentences": [
+            "- Do you realize that? - No. Tell me why."
+          ]
+        },
+        {
+          "shot": 501,
+          "duration": [
+            3364.0690416666666,
+            3368.5735416666666
+          ],
+          "sentences": [
+            "After your father's murder, you were orphaned.",
+            "What happened next?"
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            3368.61525,
+            3371.159458333333
+          ],
+          "sentences": [
+            "What happened next?"
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            3371.2011666666663,
+            3376.6649583333333
+          ],
+          "sentences": [
+            "I don't imagine the answer is on those second-rate shoes, Clarice."
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            3376.7066666666665,
+            3382.253875
+          ],
+          "sentences": [
+            "I went to live with my mother's cousin and her husband in Montana.",
+            "They had a ranch."
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            3382.295583333333,
+            3384.255875
+          ],
+          "sentences": [
+            "They had a ranch.",
+            "- Was it a cattle ranch? - Sheep and horses."
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            3384.297583333333,
+            3386.383
+          ],
+          "sentences": [
+            "- Was it a cattle ranch? - Sheep and horses."
+          ]
+        },
+        {
+          "shot": 507,
+          "duration": [
+            3386.424708333333,
+            3388.176458333333
+          ],
+          "sentences": [
+            "- How long did you live there? - Two months."
+          ]
+        },
+        {
+          "shot": 508,
+          "duration": [
+            3388.2181666666665,
+            3390.303583333333
+          ],
+          "sentences": [
+            "- How long did you live there? - Two months."
+          ]
+        },
+        {
+          "shot": 509,
+          "duration": [
+            3390.3452916666665,
+            3391.930208333333
+          ],
+          "sentences": [
+            "- Why so briefly? - I ran away."
+          ]
+        },
+        {
+          "shot": 510,
+          "duration": [
+            3391.9719166666664,
+            3393.5985416666663
+          ],
+          "sentences": [
+            "- Why so briefly? - I ran away."
+          ]
+        },
+        {
+          "shot": 511,
+          "duration": [
+            3393.64025,
+            3400.14675
+          ],
+          "sentences": [
+            "Why, Clarice?",
+            "Did the rancher make you perform fellatio?",
+            "Did he sodomize you?"
+          ]
+        },
+        {
+          "shot": 512,
+          "duration": [
+            3400.188458333333,
+            3437.976208333333
+          ],
+          "sentences": [
+            "No. He was a very decent man.",
+            "Quid pro quo, Doctor.",
+            "Billy is not a real transsexual.",
+            "But he thinks he is. He tries to be.",
+            "He's tried to be a lot of things, I expect.",
+            "And you said that I was very close to the way we would catch him.",
+            "What did you mean, Doctor?",
+            "There are three major centers for transsexual surgery.",
+            "Johns Hopkins, the University of Minnesota, and Columbus Medical Center.",
+            "I wouldn't be surprised if Billy had applied for sex reassignment ...",
+            "at one or all of them and been rejected.",
+            "On what basis would they reject him?"
+          ]
+        },
+        {
+          "shot": 513,
+          "duration": [
+            3438.017916666666,
+            3465.2951666666663
+          ],
+          "sentences": [
+            "Look for severe childhood distur- bances associated with violence.",
+            "Our Billy wasn't born a criminal, Clarice.",
+            "He was made one through years of systematic abuse.",
+            "Billy hates his own identity, you see,",
+            "and he thinks that makes him a transsexual.",
+            "But his pathology is a thousand times more savage ...",
+            "and more terrifying."
+          ]
+        },
+        {
+          "shot": 514,
+          "duration": [
+            3465.336875,
+            3471.5514166666662
+          ],
+          "sentences": [
+            "It rubs the lotion on its skin. It does this whenever it's told."
+          ]
+        },
+        {
+          "shot": 515,
+          "duration": [
+            3471.593125,
+            3476.9317916666664
+          ],
+          "sentences": [
+            "Mister, my family will pay cash.",
+            "Whatever ransom you're asking for, they'll pay it."
+          ]
+        },
+        {
+          "shot": 516,
+          "duration": [
+            3476.9734999999996,
+            3488.1096249999996
+          ],
+          "sentences": [
+            "Whatever ransom you're asking for, they'll pay it.",
+            "It rubs the lotion on its skin, or else it gets the hose again.",
+            "Yes, she will, Precious. She will get the hose.",
+            "Okay, okay, okay."
+          ]
+        },
+        {
+          "shot": 517,
+          "duration": [
+            3488.1513333333332,
+            3489.777958333333
+          ],
+          "sentences": [
+            "Okay, okay, okay."
+          ]
+        },
+        {
+          "shot": 518,
+          "duration": [
+            3489.8196666666663,
+            3490.6538333333333
+          ],
+          "sentences": [
+            "Okay, okay, okay."
+          ]
+        },
+        {
+          "shot": 519,
+          "duration": [
+            3490.6955416666665,
+            3493.3648749999998
+          ],
+          "sentences": [
+            "Okay. I'm there."
+          ]
+        },
+        {
+          "shot": 520,
+          "duration": [
+            3493.406583333333,
+            3497.1186249999996
+          ],
+          "sentences": [
+            "Okay.",
+            "Mister, if you let me go, I won't press charges."
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            3497.1603333333333,
+            3505.0849166666662
+          ],
+          "sentences": [
+            "Mister, if you let me go, I won't press charges.",
+            "I promise.",
+            "See, my mom is a real important woman. I guess you already know that."
+          ]
+        },
+        {
+          "shot": 522,
+          "duration": [
+            3505.126625,
+            3514.8863749999996
+          ],
+          "sentences": [
+            "See, my mom is a real important woman. I guess you already know that.",
+            "Now it places the lotion in the basket.",
+            "Please! Please! I want to go home."
+          ]
+        },
+        {
+          "shot": 523,
+          "duration": [
+            3514.9280833333332,
+            3526.4395833333333
+          ],
+          "sentences": [
+            "I want to go home, please! Please, I want to ...",
+            "It places the lotion in the basket.",
+            "I want to see my mommy! Please."
+          ]
+        },
+        {
+          "shot": 524,
+          "duration": [
+            3526.4812916666665,
+            3530.9857916666665
+          ],
+          "sentences": [
+            "I want to see my mother again.",
+            "I want to see my mommy."
+          ]
+        },
+        {
+          "shot": 525,
+          "duration": [
+            3531.0274999999997,
+            3533.696833333333
+          ],
+          "sentences": [
+            "I want to see my mommy."
+          ]
+        },
+        {
+          "shot": 526,
+          "duration": [
+            3533.7385416666666,
+            3536.8666666666663
+          ],
+          "sentences": [
+            "Put the fucking lotion in the basket!"
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            3536.9083749999995,
+            3539.7445416666665
+          ],
+          "sentences": [
+            "Put the fucking lotion in the basket!"
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            3570.233333333333,
+            3584.9563749999998
+          ],
+          "sentences": [
+            "You still think you're gonna walk on some beach and see the birdies?",
+            "No, I don't think so.",
+            "I called Senator Ruth Martin.",
+            "She never heard of any deal with you."
+          ]
+        },
+        {
+          "shot": 534,
+          "duration": [
+            3584.998083333333,
+            3588.501583333333
+          ],
+          "sentences": [
+            "They scammed you, Hannibal."
+          ]
+        },
+        {
+          "shot": 535,
+          "duration": [
+            3588.5432916666664,
+            3592.213625
+          ],
+          "sentences": [
+            "Stand outside ..."
+          ]
+        },
+        {
+          "shot": 536,
+          "duration": [
+            3592.255333333333,
+            3596.0924999999997
+          ],
+          "sentences": [
+            "and shut the door.",
+            "Barney."
+          ]
+        },
+        {
+          "shot": 539,
+          "duration": [
+            3598.595,
+            3603.182916666666
+          ],
+          "sentences": [
+            "There never was a deal with Senator Martin, but there is now."
+          ]
+        },
+        {
+          "shot": 540,
+          "duration": [
+            3603.224625,
+            3607.770833333333
+          ],
+          "sentences": [
+            "There never was a deal with Senator Martin, but there is now.",
+            "I designed it."
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            3607.812541666666,
+            3611.7331249999997
+          ],
+          "sentences": [
+            "I designed it.",
+            "Of course, I worked in a few conditions for my own benefit as well."
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            3611.774833333333,
+            3617.280333333333
+          ],
+          "sentences": [
+            "Identify Buffalo Bill by name ...",
+            "and if the girl is found in time,"
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            3617.3220416666663,
+            3621.284333333333
+          ],
+          "sentences": [
+            "Senator Martin will have you transferred to ...",
+            "Brushy Mountain State Prison in Tennessee."
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            3621.3260416666662,
+            3625.705416666666
+          ],
+          "sentences": [
+            "Answer me, Hannibal."
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            3625.747125,
+            3631.3777499999997
+          ],
+          "sentences": [
+            "You answer me now, or by God, you'll never leave this cell."
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            3631.4194583333333,
+            3650.229916666666
+          ],
+          "sentences": [
+            "Who is Buffalo Bill?",
+            "His first name is Louis.",
+            "I'll tell the rest to the Senator herself, but only in Tennessee,",
+            "and I have a few conditions of my own.",
+            "Clean him up and get him ready to go."
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            3650.271625,
+            3654.1504999999997
+          ],
+          "sentences": [
+            "Jack, Hannibal Lecter is being transferred to Memphis."
+          ]
+        },
+        {
+          "shot": 548,
+          "duration": [
+            3654.192208333333,
+            3656.4027499999997
+          ],
+          "sentences": [
+            "Transferred?",
+            "Did you have a trainee make some sort of phony offer to Lecter ..."
+          ]
+        },
+        {
+          "shot": 549,
+          "duration": [
+            3656.444458333333,
+            3660.3233333333333
+          ],
+          "sentences": [
+            "Did you have a trainee make some sort of phony offer to Lecter ...",
+            "in the Senator's name?"
+          ]
+        },
+        {
+          "shot": 550,
+          "duration": [
+            3660.3650416666665,
+            3662.3670416666664
+          ],
+          "sentences": [
+            "Yeah. I rolled the dice. I had to."
+          ]
+        },
+        {
+          "shot": 551,
+          "duration": [
+            3662.4087499999996,
+            3666.7881249999996
+          ],
+          "sentences": [
+            "Yeah. I rolled the dice. I had to.",
+            "Well, she's mad as hell, Jack.",
+            "Paul Krendler's over here from Justice."
+          ]
+        },
+        {
+          "shot": 552,
+          "duration": [
+            3666.829833333333,
+            3669.832833333333
+          ],
+          "sentences": [
+            "Paul Krendler's over here from Justice.",
+            "She's asking him to take over in Memphis."
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            3693.4397499999995,
+            3702.240208333333
+          ],
+          "sentences": [
+            "Welcome to Memphis, Dr. Lecter.",
+            "I'm Lieutenant Boyle. This is Sergeant Patrick.",
+            "Now, we're gonna treat you as good as you treat us.",
+            "You be a gentleman, you gonna get three hots and a cot."
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            3702.2819166666663,
+            3710.45675
+          ],
+          "sentences": [
+            "You be a gentleman, you gonna get three hots and a cot.",
+            "Sir. If you sign right here, we'll have us a legal transfer."
+          ]
+        },
+        {
+          "shot": 558,
+          "duration": [
+            3710.498458333333,
+            3713.7934166666664
+          ],
+          "sentences": [
+            "Where is it?"
+          ]
+        },
+        {
+          "shot": 559,
+          "duration": [
+            3713.8351249999996,
+            3724.8461249999996
+          ],
+          "sentences": [
+            "Here, sir. Use mine."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0102926_0003",
+      "shot": [
+        828,
+        1118
+      ],
+      "frame": [
+        122729,
+        157981
+      ],
+      "duration": [
+        5118.855082666666,
+        6589.101232666666
+      ],
+      "consistency": 0.9686219032098805,
+      "description": "After notified of Lecter's escape, Starling pores over her case file, analyzing Lecter's annotations before realizing that the first victim, Frederica Bimmel, knew Bill in real life before he killed her. Starling travels to Bimmel's hometown and discovers that Bimmel was a tailor and has dresses with templates identical to the patches of skin removed from Buffalo Bill's victims. Realizing that Buffalo Bill is a tailor fashioning a \"woman suit\" of real skin, she telephones Crawford, who is already on the way to make an arrest, having cross-referenced Lecter's notes with Johns Hopkins Hospital and finding a man named Jame Gumb. Crawford instructs Starling to continue interviewing Bimmel's friends while he leads a SWAT team to Gumb's business address in Calumet City, Illinois. Starling's interviews lead to the house of \"Jack Gordon,\" whom Starling soon realizes is actually Gumb, and draws her weapon just as Gumb disappears into his basement. Starling pursues him, discovering a screaming Catherine Martin in the dry well just before the lights in the basement go out, leaving her in complete darkness. Gumb stalks Starling in the dark with night vision goggles and prepares to shoot her when Starling, hearing the machinations of his revolver, swivels around and shoots Gumb dead.",
+      "subtitle": [
+        {
+          "shot": 828,
+          "duration": [
+            5118.905458333333,
+            5125.537083333333
+          ],
+          "sentences": [
+            "By now he could be anywhere.",
+            "- He won't come after me. - Oh, really?",
+            "No, he won't. I can't explain it."
+          ]
+        },
+        {
+          "shot": 829,
+          "duration": [
+            5125.578791666666,
+            5126.955166666667
+          ],
+          "sentences": [
+            "No, he won't. I can't explain it.",
+            "He would consider that rude."
+          ]
+        },
+        {
+          "shot": 830,
+          "duration": [
+            5126.996875,
+            5130.875749999999
+          ],
+          "sentences": [
+            "He would consider that rude.",
+            "It's over. She's dead."
+          ]
+        },
+        {
+          "shot": 831,
+          "duration": [
+            5130.917458333333,
+            5134.6295
+          ],
+          "sentences": [
+            "It's over. She's dead.",
+            "It's not your fault it worked out like this.",
+            "The thing is that, Lecter said everything we need ..."
+          ]
+        },
+        {
+          "shot": 832,
+          "duration": [
+            5134.671208333333,
+            5137.757624999999
+          ],
+          "sentences": [
+            "The thing is that, Lecter said everything we need ...",
+            "to catch him with is right here in these pages, only I can't ..."
+          ]
+        },
+        {
+          "shot": 833,
+          "duration": [
+            5137.799333333333,
+            5140.260125
+          ],
+          "sentences": [
+            "to catch him with is right here in these pages, only I can't ...",
+            "- Dr. Lecter said a lot of things. - He's here, Ardelia."
+          ]
+        },
+        {
+          "shot": 834,
+          "duration": [
+            5140.301833333333,
+            5142.220416666666
+          ],
+          "sentences": [
+            "- Dr. Lecter said a lot of things. - He's here, Ardelia."
+          ]
+        },
+        {
+          "shot": 840,
+          "duration": [
+            5171.666499999999,
+            5175.670499999999
+          ],
+          "sentences": [
+            "Is this Lecter's handwriting?"
+          ]
+        },
+        {
+          "shot": 841,
+          "duration": [
+            5175.712208333333,
+            5180.258416666667
+          ],
+          "sentences": [
+            "\"Clarice, doesn't this random scattering of sites ...",
+            "\"seem desperately random? Like the elaboration of a bad liar."
+          ]
+        },
+        {
+          "shot": 842,
+          "duration": [
+            5180.300125,
+            5184.2624166666665
+          ],
+          "sentences": [
+            "\"seem desperately random? Like the elaboration of a bad liar.",
+            "\"Ta, Hannibal Lecter.\""
+          ]
+        },
+        {
+          "shot": 843,
+          "duration": [
+            5184.304125,
+            5187.473958333333
+          ],
+          "sentences": [
+            "\"Ta, Hannibal Lecter.\"",
+            "Desperately random? What does he mean?",
+            "Not random at all maybe. Like there's some pattern here."
+          ]
+        },
+        {
+          "shot": 844,
+          "duration": [
+            5187.515666666666,
+            5190.518666666666
+          ],
+          "sentences": [
+            "Not random at all maybe. Like there's some pattern here."
+          ]
+        },
+        {
+          "shot": 845,
+          "duration": [
+            5190.560375,
+            5196.900041666666
+          ],
+          "sentences": [
+            "Yeah, but there is no pattern, or the computers would have nailed it.",
+            "They're even found in random order."
+          ]
+        },
+        {
+          "shot": 846,
+          "duration": [
+            5196.94175,
+            5199.527666666666
+          ],
+          "sentences": [
+            "They're even found in random order.",
+            "Random because of the one girl. The one he weighted down."
+          ]
+        },
+        {
+          "shot": 847,
+          "duration": [
+            5199.569375,
+            5203.907041666666
+          ],
+          "sentences": [
+            "Random because of the one girl. The one he weighted down.",
+            "- Fredrica Bimmel ... - Right.",
+            "From Belvedere, Ohio."
+          ]
+        },
+        {
+          "shot": 848,
+          "duration": [
+            5203.94875,
+            5207.994458333333
+          ],
+          "sentences": [
+            "From Belvedere, Ohio.",
+            "First girl taken, third body found. Why?"
+          ]
+        },
+        {
+          "shot": 849,
+          "duration": [
+            5208.036166666666,
+            5210.496958333333
+          ],
+          "sentences": [
+            "First girl taken, third body found. Why?"
+          ]
+        },
+        {
+          "shot": 850,
+          "duration": [
+            5210.538666666666,
+            5213.541666666666
+          ],
+          "sentences": [
+            "First girl taken, third body found. Why?",
+            "Well, she didn't drift. He weighted her down."
+          ]
+        },
+        {
+          "shot": 851,
+          "duration": [
+            5213.583374999999,
+            5217.045166666666
+          ],
+          "sentences": [
+            "Well, she didn't drift. He weighted her down.",
+            "What did Lecter say about the first principles?"
+          ]
+        },
+        {
+          "shot": 852,
+          "duration": [
+            5217.086875,
+            5220.089875
+          ],
+          "sentences": [
+            "Simplicity.",
+            "What does this guy do? He covets."
+          ]
+        },
+        {
+          "shot": 853,
+          "duration": [
+            5220.131583333333,
+            5225.011458333333
+          ],
+          "sentences": [
+            "What does this guy do? He covets.",
+            "How do we first start to covet?"
+          ]
+        },
+        {
+          "shot": 854,
+          "duration": [
+            5225.053166666667,
+            5226.888333333333
+          ],
+          "sentences": [
+            "- We covet what we see ... - Every day."
+          ]
+        },
+        {
+          "shot": 855,
+          "duration": [
+            5226.9300416666665,
+            5228.806916666666
+          ],
+          "sentences": [
+            "- We covet what we see ... - Every day."
+          ]
+        },
+        {
+          "shot": 856,
+          "duration": [
+            5228.848625,
+            5231.97675
+          ],
+          "sentences": [
+            "- Hot damn, Clarice. - He knew her."
+          ]
+        },
+        {
+          "shot": 857,
+          "duration": [
+            5232.018458333333,
+            5234.020458333333
+          ],
+          "sentences": [
+            "- Hot damn, Clarice. - He knew her."
+          ]
+        },
+        {
+          "shot": 873,
+          "duration": [
+            5296.374416666667,
+            5314.934625
+          ],
+          "sentences": [
+            "- Mr. Bimmel? - That's me.",
+            "Hello. I'm Clarice Starling. I'm with the FBI."
+          ]
+        },
+        {
+          "shot": 874,
+          "duration": [
+            5314.976333333333,
+            5332.201875
+          ],
+          "sentences": [
+            "Hello. I'm Clarice Starling. I'm with the FBI.",
+            "I sure appreciate you letting me take a look around, Mr. Bimmel.",
+            "I don't know nothing new to tell you.",
+            "Police been back here so many times already.",
+            "Fredrica went into Chicago on the bus to see about a job."
+          ]
+        },
+        {
+          "shot": 875,
+          "duration": [
+            5332.243583333333,
+            5334.412416666666
+          ],
+          "sentences": [
+            "She left the interview okay. She never come home."
+          ]
+        },
+        {
+          "shot": 876,
+          "duration": [
+            5334.454124999999,
+            5336.330999999999
+          ],
+          "sentences": [
+            "She left the interview okay. She never come home."
+          ]
+        },
+        {
+          "shot": 878,
+          "duration": [
+            5338.166166666666,
+            5342.795791666666
+          ],
+          "sentences": [
+            "Her bedroom's how she left it.",
+            "Upstairs. Door to the left."
+          ]
+        },
+        {
+          "shot": 879,
+          "duration": [
+            5342.8375,
+            5353.181166666666
+          ],
+          "sentences": [
+            "Upstairs. Door to the left."
+          ]
+        },
+        {
+          "shot": 904,
+          "duration": [
+            5508.9200833333325,
+            5513.633124999999
+          ],
+          "sentences": [
+            "He's making himself a woman suit, Mr. Crawford, out of real women.",
+            "And he can sew, this guy. He's very skilled."
+          ]
+        },
+        {
+          "shot": 905,
+          "duration": [
+            5513.674833333333,
+            5524.143625
+          ],
+          "sentences": [
+            "And he can sew, this guy. He's very skilled.",
+            "- He's a tailor or a dressmaker or ... - Starling ...",
+            "That's why they're all so big. He has to keep them alive ...",
+            "so he can starve them a while,",
+            "so he can loosen their skin and take ... - Starling."
+          ]
+        },
+        {
+          "shot": 906,
+          "duration": [
+            5524.185333333333,
+            5528.522999999999
+          ],
+          "sentences": [
+            "so he can loosen their skin and take ... - Starling.",
+            "Starling. Starling, we know who he is and where he is.",
+            "- We're on our way right now. - Where?"
+          ]
+        },
+        {
+          "shot": 907,
+          "duration": [
+            5528.564708333333,
+            5535.321458333333
+          ],
+          "sentences": [
+            "- We're on our way right now. - Where?",
+            "Calumet City, edge of Chicago. Be on the ground in 45 minutes with HRT.",
+            "Oh, that's great news, sir, but how ..."
+          ]
+        },
+        {
+          "shot": 908,
+          "duration": [
+            5535.363166666666,
+            5540.576708333333
+          ],
+          "sentences": [
+            "Oh, that's great news, sir, but how ...",
+            "Johns Hopkins came up with some names.",
+            "We fed him into \"Known Offenders.\""
+          ]
+        },
+        {
+          "shot": 909,
+          "duration": [
+            5540.618416666666,
+            5544.747541666667
+          ],
+          "sentences": [
+            "Subject's name is Jamie Gumb, AKA John Grant."
+          ]
+        },
+        {
+          "shot": 910,
+          "duration": [
+            5544.78925,
+            5548.626416666666
+          ],
+          "sentences": [
+            "Subject's name is Jamie Gumb, AKA John Grant.",
+            "Lecter's description is accurate. He just lied about the name.",
+            "Listen to this."
+          ]
+        },
+        {
+          "shot": 911,
+          "duration": [
+            5548.668124999999,
+            5559.679125
+          ],
+          "sentences": [
+            "Customs had some paper on him.",
+            "They stopped a carton two years ago at LAX.",
+            "Live caterpillars from Surinam.",
+            "The addressee was a Jame Gumb."
+          ]
+        },
+        {
+          "shot": 912,
+          "duration": [
+            5559.720833333333,
+            5564.1419166666665
+          ],
+          "sentences": [
+            "Well, Chicago's only 400 miles from here.",
+            "- I'll be there in ... - No, no, no, Starling."
+          ]
+        },
+        {
+          "shot": 913,
+          "duration": [
+            5564.183625,
+            5571.524291666667
+          ],
+          "sentences": [
+            "There's not enough time. We want him for murder, not kidnapping.",
+            "I need you to link him to the Bimmel girl before he's indicted.",
+            "- See what you can dredge up in Belvedere. - Yes, sir. You bet. I'll do my best."
+          ]
+        },
+        {
+          "shot": 914,
+          "duration": [
+            5571.566,
+            5575.903666666666
+          ],
+          "sentences": [
+            "- See what you can dredge up in Belvedere. - Yes, sir. You bet. I'll do my best.",
+            "Starling, we wouldn't have found him without you."
+          ]
+        },
+        {
+          "shot": 915,
+          "duration": [
+            5575.945374999999,
+            5579.699124999999
+          ],
+          "sentences": [
+            "Starling, we wouldn't have found him without you.",
+            "Nobody's gonna forget that. Least of all me."
+          ]
+        },
+        {
+          "shot": 916,
+          "duration": [
+            5579.740833333333,
+            5589.417166666666
+          ],
+          "sentences": [
+            "Nobody's gonna forget that. Least of all me.",
+            "Thank you, sir. Thank you very much, Mr. Crawford.",
+            "Mr. Crawford?"
+          ]
+        },
+        {
+          "shot": 919,
+          "duration": [
+            5601.804541666666,
+            5606.684416666666
+          ],
+          "sentences": [
+            "Thanks for the scraps, asshole. I got a better idea."
+          ]
+        },
+        {
+          "shot": 929,
+          "duration": [
+            5626.454166666666,
+            5629.582291666667
+          ],
+          "sentences": [
+            "Okay, Precious. Time for a little treat."
+          ]
+        },
+        {
+          "shot": 930,
+          "duration": [
+            5629.624,
+            5631.417458333333
+          ],
+          "sentences": [
+            "Okay, Precious. Time for a little treat."
+          ]
+        },
+        {
+          "shot": 935,
+          "duration": [
+            5642.928958333333,
+            5646.89125
+          ],
+          "sentences": [
+            "Precious!"
+          ]
+        },
+        {
+          "shot": 936,
+          "duration": [
+            5646.932958333333,
+            5652.563583333333
+          ],
+          "sentences": [
+            "Come on, girl!",
+            "Come on, Precious. Come on, Precious!"
+          ]
+        },
+        {
+          "shot": 937,
+          "duration": [
+            5652.605291666666,
+            5653.397749999999
+          ],
+          "sentences": [
+            "Come on, Precious. Come on, Precious!"
+          ]
+        },
+        {
+          "shot": 940,
+          "duration": [
+            5659.6539999999995,
+            5668.079083333333
+          ],
+          "sentences": [
+            "Come on, Precious!",
+            "I got a yummy, yummy snack for you.",
+            "Come on. Come and get it."
+          ]
+        },
+        {
+          "shot": 941,
+          "duration": [
+            5668.120791666666,
+            5674.669
+          ],
+          "sentences": [
+            "Come on. Come and get it."
+          ]
+        },
+        {
+          "shot": 942,
+          "duration": [
+            5674.710708333333,
+            5678.297624999999
+          ],
+          "sentences": [
+            "Precious!",
+            "Are you up there, you little shit?"
+          ]
+        },
+        {
+          "shot": 943,
+          "duration": [
+            5678.339333333333,
+            5683.42775
+          ],
+          "sentences": [
+            "Are you up there, you little shit?",
+            "Come and get it, pretty girl."
+          ]
+        },
+        {
+          "shot": 945,
+          "duration": [
+            5688.974958333333,
+            5691.310624999999
+          ],
+          "sentences": [
+            "Precious. Please come. Come on."
+          ]
+        },
+        {
+          "shot": 946,
+          "duration": [
+            5691.352333333333,
+            5693.646291666666
+          ],
+          "sentences": [
+            "Precious. Please come. Come on."
+          ]
+        },
+        {
+          "shot": 948,
+          "duration": [
+            5699.6939999999995,
+            5705.1577916666665
+          ],
+          "sentences": [
+            "Come on ..."
+          ]
+        },
+        {
+          "shot": 952,
+          "duration": [
+            5714.333624999999,
+            5716.794416666667
+          ],
+          "sentences": [
+            "Would you fuck me?"
+          ]
+        },
+        {
+          "shot": 953,
+          "duration": [
+            5716.836125,
+            5720.631583333333
+          ],
+          "sentences": [
+            "Would you fuck me?",
+            "Come on. Take that bone. Come on."
+          ]
+        },
+        {
+          "shot": 954,
+          "duration": [
+            5720.673291666666,
+            5723.676291666667
+          ],
+          "sentences": [
+            "Come on. Come. Come on."
+          ]
+        },
+        {
+          "shot": 955,
+          "duration": [
+            5723.718,
+            5725.344625
+          ],
+          "sentences": [
+            "I'd fuck me."
+          ]
+        },
+        {
+          "shot": 956,
+          "duration": [
+            5725.386333333333,
+            5727.138083333333
+          ],
+          "sentences": [
+            "I'd fuck me.",
+            "Come on."
+          ]
+        },
+        {
+          "shot": 957,
+          "duration": [
+            5727.1797916666665,
+            5728.47275
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 960,
+          "duration": [
+            5731.058666666666,
+            5736.605874999999
+          ],
+          "sentences": [
+            "I'd fuck me hard.",
+            "I'd fuck me so hard."
+          ]
+        },
+        {
+          "shot": 962,
+          "duration": [
+            5738.691291666666,
+            5741.48575
+          ],
+          "sentences": [
+            "No."
+          ]
+        },
+        {
+          "shot": 970,
+          "duration": [
+            5801.045249999999,
+            5803.380916666666
+          ],
+          "sentences": [
+            "Is that a good job, FBI agent?"
+          ]
+        },
+        {
+          "shot": 971,
+          "duration": [
+            5803.422624999999,
+            5812.431624999999
+          ],
+          "sentences": [
+            "Is that a good job, FBI agent?",
+            "You get to travel around and stuff? I mean, better places than this?",
+            "Sometimes you do."
+          ]
+        },
+        {
+          "shot": 972,
+          "duration": [
+            5812.473333333333,
+            5828.030541666666
+          ],
+          "sentences": [
+            "Freddie was so happy for me when I got this job at the bank.",
+            "Toaster giveaways and Barry Manilow on the speakers all day.",
+            "She thought it was such hot shit.",
+            "What did she know? Big dummy.",
+            "Stacy, did Fredrica ever mention a man ..."
+          ]
+        },
+        {
+          "shot": 973,
+          "duration": [
+            5828.072249999999,
+            5833.160666666667
+          ],
+          "sentences": [
+            "Stacy, did Fredrica ever mention a man ...",
+            "named Jamie Gumb or a Jame Gumb?"
+          ]
+        },
+        {
+          "shot": 974,
+          "duration": [
+            5833.202375,
+            5836.247083333333
+          ],
+          "sentences": [
+            "- How about John Grant? - No."
+          ]
+        },
+        {
+          "shot": 975,
+          "duration": [
+            5836.288791666666,
+            5839.250083333333
+          ],
+          "sentences": [
+            "Oh, would she have had a friend ...",
+            "that you didn't know about, or ...",
+            "No way. If she had a guy, I'd have known, believe me."
+          ]
+        },
+        {
+          "shot": 976,
+          "duration": [
+            5839.2917916666665,
+            5843.295791666666
+          ],
+          "sentences": [
+            "No way. If she had a guy, I'd have known, believe me.",
+            "Sewing was her life."
+          ]
+        },
+        {
+          "shot": 977,
+          "duration": [
+            5843.3375,
+            5845.631458333333
+          ],
+          "sentences": [
+            "Sewing was her life.",
+            "Did you two ever work together?"
+          ]
+        },
+        {
+          "shot": 978,
+          "duration": [
+            5845.6731666666665,
+            5850.511333333333
+          ],
+          "sentences": [
+            "Did you two ever work together?",
+            "Oh, sure. Me and Pam Malavesi used to help her ...",
+            "do alterations for old Mrs. Lippman."
+          ]
+        },
+        {
+          "shot": 979,
+          "duration": [
+            5850.553041666666,
+            5854.6821666666665
+          ],
+          "sentences": [
+            "do alterations for old Mrs. Lippman.",
+            "Can you give me Mrs. Lippman's address? I need to talk to her."
+          ]
+        },
+        {
+          "shot": 984,
+          "duration": [
+            5882.126249999999,
+            5884.962416666666
+          ],
+          "sentences": [
+            "So powerful. So beautiful."
+          ]
+        },
+        {
+          "shot": 985,
+          "duration": [
+            5885.0041249999995,
+            5888.716166666666
+          ],
+          "sentences": [
+            "So powerful. So beautiful."
+          ]
+        },
+        {
+          "shot": 987,
+          "duration": [
+            5891.302083333333,
+            5896.724166666666
+          ],
+          "sentences": [
+            "Precious?"
+          ]
+        },
+        {
+          "shot": 989,
+          "duration": [
+            5898.559333333333,
+            5901.896
+          ],
+          "sentences": [
+            "Precious?",
+            "Down here, you sack of shit!"
+          ]
+        },
+        {
+          "shot": 993,
+          "duration": [
+            5909.862291666666,
+            5911.0718333333325
+          ],
+          "sentences": [
+            "Put her in that bucket."
+          ]
+        },
+        {
+          "shot": 994,
+          "duration": [
+            5911.113541666667,
+            5915.200958333333
+          ],
+          "sentences": [
+            "Put her in that bucket.",
+            "No! You get me a telephone and lower it down here. Now!"
+          ]
+        },
+        {
+          "shot": 995,
+          "duration": [
+            5915.242666666666,
+            5918.162249999999
+          ],
+          "sentences": [
+            "No! You get me a telephone and lower it down here. Now!"
+          ]
+        },
+        {
+          "shot": 996,
+          "duration": [
+            5918.203958333333,
+            5922.291375
+          ],
+          "sentences": [
+            "Poolie-poo. Precious.",
+            "Darling heart, are you all right?"
+          ]
+        },
+        {
+          "shot": 997,
+          "duration": [
+            5922.333083333333,
+            5925.502916666666
+          ],
+          "sentences": [
+            "Darling heart, are you all right?",
+            "She's in a lot of pain, mister. She needs a vet."
+          ]
+        },
+        {
+          "shot": 998,
+          "duration": [
+            5925.5446249999995,
+            5929.67375
+          ],
+          "sentences": [
+            "She's in a lot of pain, mister. She needs a vet."
+          ]
+        },
+        {
+          "shot": 999,
+          "duration": [
+            5929.715458333333,
+            5937.097833333333
+          ],
+          "sentences": [
+            "She broke her leg on the way down. I know it. She's been licking ...",
+            "Hey, don't you hurt my dog!",
+            "- Don't you make me hurt your dog! - Oh, you don't know what pain is!"
+          ]
+        },
+        {
+          "shot": 1000,
+          "duration": [
+            5937.139541666666,
+            5939.141541666666
+          ],
+          "sentences": [
+            "- Don't you make me hurt your dog! - Oh, you don't know what pain is!"
+          ]
+        },
+        {
+          "shot": 1001,
+          "duration": [
+            5939.183249999999,
+            5944.396791666666
+          ],
+          "sentences": [
+            "- Don't you make me hurt your dog! - Oh, you don't know what pain is!"
+          ]
+        },
+        {
+          "shot": 1002,
+          "duration": [
+            5944.438499999999,
+            5946.315374999999
+          ],
+          "sentences": [
+            "Get me a live telephone line down here or the dog's dead!"
+          ]
+        },
+        {
+          "shot": 1003,
+          "duration": [
+            5946.357083333333,
+            5948.150541666666
+          ],
+          "sentences": [
+            "Get me a live telephone line down here or the dog's dead!"
+          ]
+        },
+        {
+          "shot": 1004,
+          "duration": [
+            5948.192249999999,
+            5953.238958333333
+          ],
+          "sentences": [
+            "Get me a live telephone line down here or the dog's dead!",
+            "Damn fuck."
+          ]
+        },
+        {
+          "shot": 1005,
+          "duration": [
+            5953.280666666667,
+            5956.951
+          ],
+          "sentences": [
+            "Damn fuck.",
+            "Get me that telephone!"
+          ]
+        },
+        {
+          "shot": 1006,
+          "duration": [
+            5956.992708333333,
+            5959.244958333333
+          ],
+          "sentences": [
+            "I'm gonna do it, mister!"
+          ]
+        },
+        {
+          "shot": 1007,
+          "duration": [
+            5959.286666666666,
+            5960.412791666667
+          ],
+          "sentences": [
+            "I'm gonna do it, mister!",
+            "I'll snap her neck off. I swear to God!"
+          ]
+        },
+        {
+          "shot": 1008,
+          "duration": [
+            5960.4545,
+            5961.246958333333
+          ],
+          "sentences": [
+            "I'll snap her neck off. I swear to God!"
+          ]
+        },
+        {
+          "shot": 1009,
+          "duration": [
+            5961.288666666666,
+            5965.959999999999
+          ],
+          "sentences": [
+            "I'll snap her neck off. I swear to God!",
+            "You little fuck."
+          ]
+        },
+        {
+          "shot": 1012,
+          "duration": [
+            5970.422791666666,
+            5973.676041666667
+          ],
+          "sentences": [
+            "Down here! Down here!"
+          ]
+        },
+        {
+          "shot": 1013,
+          "duration": [
+            5973.71775,
+            5977.22125
+          ],
+          "sentences": [
+            "Down here! Down here!",
+            "Help!"
+          ]
+        },
+        {
+          "shot": 1018,
+          "duration": [
+            5988.482499999999,
+            5992.569916666666
+          ],
+          "sentences": [
+            "Okay, I'm coming."
+          ]
+        },
+        {
+          "shot": 1019,
+          "duration": [
+            5992.611625,
+            5997.074416666666
+          ],
+          "sentences": [
+            "We're going in."
+          ]
+        },
+        {
+          "shot": 1021,
+          "duration": [
+            5998.575916666667,
+            6004.123124999999
+          ],
+          "sentences": [
+            "Good afternoon. Sorry to bother you.",
+            "I'm looking for Mrs. Lippman's family."
+          ]
+        },
+        {
+          "shot": 1022,
+          "duration": [
+            6004.164833333333,
+            6005.916583333333
+          ],
+          "sentences": [
+            "I'm looking for Mrs. Lippman's family.",
+            "- FBI! Everybody down! - Everybody down, now!"
+          ]
+        },
+        {
+          "shot": 1023,
+          "duration": [
+            6005.958291666666,
+            6007.376375
+          ],
+          "sentences": [
+            "- FBI! Everybody down! - Everybody down, now!"
+          ]
+        },
+        {
+          "shot": 1024,
+          "duration": [
+            6007.418083333333,
+            6012.464791666666
+          ],
+          "sentences": [
+            "- FBI! Everybody down! - Everybody down, now!",
+            "No. The Lippmans don't live here anymore.",
+            "No. Excuse me, sir. I really need to speak with you."
+          ]
+        },
+        {
+          "shot": 1025,
+          "duration": [
+            6012.5064999999995,
+            6015.426083333333
+          ],
+          "sentences": [
+            "No. Excuse me, sir. I really need to speak with you.",
+            "- Clear! - Clear!"
+          ]
+        },
+        {
+          "shot": 1026,
+          "duration": [
+            6015.467791666666,
+            6018.303958333333
+          ],
+          "sentences": [
+            "What's the problem, Officer?"
+          ]
+        },
+        {
+          "shot": 1027,
+          "duration": [
+            6018.345666666666,
+            6021.181833333333
+          ],
+          "sentences": [
+            "What's the problem, Officer?",
+            "Well, I'm investigating the death of Fredrica Bimmel."
+          ]
+        },
+        {
+          "shot": 1028,
+          "duration": [
+            6021.223541666666,
+            6025.978291666666
+          ],
+          "sentences": [
+            "Well, I'm investigating the death of Fredrica Bimmel.",
+            "There's no one here, Jack."
+          ]
+        },
+        {
+          "shot": 1029,
+          "duration": [
+            6026.0199999999995,
+            6030.023999999999
+          ],
+          "sentences": [
+            "There's no one here, Jack.",
+            "Clarice."
+          ]
+        },
+        {
+          "shot": 1030,
+          "duration": [
+            6030.065708333333,
+            6038.198833333333
+          ],
+          "sentences": [
+            "Your name is?",
+            "- Oh, Jack Gordon. - Mr. Gordon. Good.",
+            "Well, Fredrica used to work for Mrs. Lippman. Did you know her?"
+          ]
+        },
+        {
+          "shot": 1031,
+          "duration": [
+            6038.240541666666,
+            6045.372666666666
+          ],
+          "sentences": [
+            "Well, Fredrica used to work for Mrs. Lippman. Did you know her?",
+            "No.",
+            "Oh, wait.",
+            "Was she a great, big fat person?"
+          ]
+        },
+        {
+          "shot": 1032,
+          "duration": [
+            6045.414374999999,
+            6052.337958333333
+          ],
+          "sentences": [
+            "Was she a great, big fat person?",
+            "- Yes. She was a big girl, sir. - Yeah, I ...",
+            "I may have ... No, I read about her in the newspaper."
+          ]
+        },
+        {
+          "shot": 1033,
+          "duration": [
+            6052.379666666666,
+            6058.510791666667
+          ],
+          "sentences": [
+            "Mrs. Lippman had a son. Maybe he could help you.",
+            "I got his card in here someplace. Do you want to come in while I look for it?"
+          ]
+        },
+        {
+          "shot": 1034,
+          "duration": [
+            6058.5525,
+            6063.30725
+          ],
+          "sentences": [
+            "I got his card in here someplace. Do you want to come in while I look for it?",
+            "- May I? - Yeah, sure.",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 1035,
+          "duration": [
+            6063.348958333333,
+            6083.494083333333
+          ],
+          "sentences": [
+            "Are you close to catching somebody, you think?"
+          ]
+        },
+        {
+          "shot": 1036,
+          "duration": [
+            6083.535791666666,
+            6096.1734166666665
+          ],
+          "sentences": [
+            "Are you close to catching somebody, you think?",
+            "Yes. We may be.",
+            "Did you",
+            "take over this place after Mrs. Lippman died? Is that right?"
+          ]
+        },
+        {
+          "shot": 1037,
+          "duration": [
+            6096.215125,
+            6100.8864583333325
+          ],
+          "sentences": [
+            "Yeah. I bought this house two years ago."
+          ]
+        },
+        {
+          "shot": 1038,
+          "duration": [
+            6100.928166666667,
+            6109.645208333332
+          ],
+          "sentences": [
+            "Did she leave any records, any business records,",
+            "tax forms, list of employees?"
+          ]
+        },
+        {
+          "shot": 1039,
+          "duration": [
+            6109.686916666667,
+            6121.2818333333325
+          ],
+          "sentences": [
+            "No. Nothing like that at all.",
+            "Say, has the FBI learned something?",
+            "The police around here don't seem to have the first clue."
+          ]
+        },
+        {
+          "shot": 1042,
+          "duration": [
+            6128.205416666667,
+            6132.042583333333
+          ],
+          "sentences": [
+            "I mean, have you got, like, a description, fingerprints, anything like that?"
+          ]
+        },
+        {
+          "shot": 1043,
+          "duration": [
+            6132.084291666666,
+            6135.087291666666
+          ],
+          "sentences": [
+            "I mean, have you got, like, a description, fingerprints, anything like that?"
+          ]
+        },
+        {
+          "shot": 1044,
+          "duration": [
+            6135.129,
+            6137.548083333333
+          ],
+          "sentences": [
+            "No."
+          ]
+        },
+        {
+          "shot": 1046,
+          "duration": [
+            6140.050583333333,
+            6144.429958333333
+          ],
+          "sentences": [
+            "No, we don't."
+          ]
+        },
+        {
+          "shot": 1049,
+          "duration": [
+            6147.933458333333,
+            6152.729916666666
+          ],
+          "sentences": [
+            "Yeah. Here's that number."
+          ]
+        },
+        {
+          "shot": 1050,
+          "duration": [
+            6152.771624999999,
+            6155.107291666666
+          ],
+          "sentences": [
+            "Yeah. Here's that number."
+          ]
+        },
+        {
+          "shot": 1051,
+          "duration": [
+            6155.148999999999,
+            6159.570083333333
+          ],
+          "sentences": [
+            "Very good, Mr. Gordon. May I use your phone, please?"
+          ]
+        },
+        {
+          "shot": 1054,
+          "duration": [
+            6165.1172916666665,
+            6169.746916666666
+          ],
+          "sentences": [
+            "Sure you can use my phone."
+          ]
+        },
+        {
+          "shot": 1055,
+          "duration": [
+            6169.788624999999,
+            6174.251416666666
+          ],
+          "sentences": [
+            "Sure you can use my phone.",
+            "Freeze!",
+            "Put your hands over your head! And turn around! Spread your legs!"
+          ]
+        },
+        {
+          "shot": 1056,
+          "duration": [
+            6174.293124999999,
+            6178.005166666666
+          ],
+          "sentences": [
+            "Put your hands over your head! And turn around! Spread your legs!"
+          ]
+        },
+        {
+          "shot": 1057,
+          "duration": [
+            6178.046875,
+            6179.798624999999
+          ],
+          "sentences": [
+            "Spread your legs! Put your hands in the back! Thumbs up!"
+          ]
+        },
+        {
+          "shot": 1058,
+          "duration": [
+            6179.840333333333,
+            6181.675499999999
+          ],
+          "sentences": [
+            "Spread your legs! Put your hands in the back! Thumbs up!"
+          ]
+        },
+        {
+          "shot": 1059,
+          "duration": [
+            6181.717208333333,
+            6182.634791666666
+          ],
+          "sentences": [
+            "Spread your legs! Put your hands in the back! Thumbs up!",
+            "Freeze!"
+          ]
+        },
+        {
+          "shot": 1060,
+          "duration": [
+            6182.6765,
+            6186.805625
+          ],
+          "sentences": [
+            "Freeze!"
+          ]
+        },
+        {
+          "shot": 1070,
+          "duration": [
+            6255.249,
+            6264.800208333333
+          ],
+          "sentences": [
+            "Hey!"
+          ]
+        },
+        {
+          "shot": 1073,
+          "duration": [
+            6277.312708333333,
+            6278.689083333333
+          ],
+          "sentences": [
+            "Hello! Are you there?"
+          ]
+        },
+        {
+          "shot": 1074,
+          "duration": [
+            6278.730791666666,
+            6288.865916666667
+          ],
+          "sentences": [
+            "Hello! Are you there?",
+            "I'm down here! I'm down here!"
+          ]
+        },
+        {
+          "shot": 1079,
+          "duration": [
+            6303.588958333333,
+            6332.451125
+          ],
+          "sentences": [
+            "- Catherine Martin? - Yes!",
+            "FBI! You're safe!",
+            "Safe, shit! Get me out of here!",
+            "You're all right, Catherine. Where is he?",
+            "How the fuck should I know? Just get me out of here!"
+          ]
+        },
+        {
+          "shot": 1080,
+          "duration": [
+            6332.492833333333,
+            6334.411416666666
+          ],
+          "sentences": [
+            "How the fuck should I know? Just get me out of here!"
+          ]
+        },
+        {
+          "shot": 1081,
+          "duration": [
+            6334.453125,
+            6340.58425
+          ],
+          "sentences": [
+            "How the fuck should I know? Just get me out of here!",
+            "Catherine, you've got to be quiet. Now shut that dog up!",
+            "Just get me out of here!"
+          ]
+        },
+        {
+          "shot": 1082,
+          "duration": [
+            6340.625958333333,
+            6344.629958333333
+          ],
+          "sentences": [
+            "Oh, my God."
+          ]
+        },
+        {
+          "shot": 1083,
+          "duration": [
+            6344.671666666666,
+            6364.1911666666665
+          ],
+          "sentences": [
+            "Catherine, I'm going to get you out of there,",
+            "but right now, you listen to me.",
+            "I've got to leave this room. I'll be right back.",
+            "No! Don't you leave me here, you fucking bitch!",
+            "No! Don't you leave me here!",
+            "This guy's fucking crazy!",
+            "Please!"
+          ]
+        },
+        {
+          "shot": 1084,
+          "duration": [
+            6364.232875,
+            6375.077041666666
+          ],
+          "sentences": [
+            "Please!",
+            "I've got to get out of here!",
+            "Catherine, the other officers will be here any minute now!"
+          ]
+        },
+        {
+          "shot": 1085,
+          "duration": [
+            6375.11875,
+            6380.499124999999
+          ],
+          "sentences": [
+            "Wait!",
+            "Don't go! Please!",
+            "Quiet!"
+          ]
+        },
+        {
+          "shot": 1087,
+          "duration": [
+            6381.833791666666,
+            6396.264875
+          ],
+          "sentences": [
+            "Oh, God!"
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

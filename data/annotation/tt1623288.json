@@ -1,0 +1,7909 @@
+{
+  "imdb_id": "tt1623288",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt1623288_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        61
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0001",
+      "shot": [
+        1,
+        2
+      ],
+      "frame": [
+        61,
+        864
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0002",
+      "shot": [
+        2,
+        43
+      ],
+      "frame": [
+        864,
+        5517
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0003",
+      "shot": [
+        43,
+        44
+      ],
+      "frame": [
+        5517,
+        5692
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0004",
+      "shot": [
+        44,
+        51
+      ],
+      "frame": [
+        5692,
+        6611
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0005",
+      "shot": [
+        51,
+        52
+      ],
+      "frame": [
+        6611,
+        6650
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0006",
+      "shot": [
+        52,
+        53
+      ],
+      "frame": [
+        6650,
+        6861
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0007",
+      "shot": [
+        53,
+        54
+      ],
+      "frame": [
+        6861,
+        6907
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0008",
+      "shot": [
+        54,
+        55
+      ],
+      "frame": [
+        6907,
+        7181
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0009",
+      "shot": [
+        55,
+        60
+      ],
+      "frame": [
+        7181,
+        7652
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0010",
+      "shot": [
+        60,
+        63
+      ],
+      "frame": [
+        7652,
+        7868
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0011",
+      "shot": [
+        63,
+        64
+      ],
+      "frame": [
+        7868,
+        7936
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0012",
+      "shot": [
+        64,
+        65
+      ],
+      "frame": [
+        7936,
+        8058
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0013",
+      "shot": [
+        65,
+        66
+      ],
+      "frame": [
+        8058,
+        8111
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0014",
+      "shot": [
+        66,
+        67
+      ],
+      "frame": [
+        8111,
+        8165
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0015",
+      "shot": [
+        67,
+        72
+      ],
+      "frame": [
+        8165,
+        8967
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0016",
+      "shot": [
+        72,
+        75
+      ],
+      "frame": [
+        8967,
+        10232
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0017",
+      "shot": [
+        75,
+        81
+      ],
+      "frame": [
+        10232,
+        11495
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0018",
+      "shot": [
+        81,
+        82
+      ],
+      "frame": [
+        11495,
+        11567
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0019",
+      "shot": [
+        82,
+        90
+      ],
+      "frame": [
+        11567,
+        12214
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0020",
+      "shot": [
+        90,
+        103
+      ],
+      "frame": [
+        12214,
+        13323
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0021",
+      "shot": [
+        103,
+        104
+      ],
+      "frame": [
+        13323,
+        13424
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0022",
+      "shot": [
+        104,
+        139
+      ],
+      "frame": [
+        13424,
+        16756
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0023",
+      "shot": [
+        139,
+        140
+      ],
+      "frame": [
+        16756,
+        16802
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0024",
+      "shot": [
+        140,
+        141
+      ],
+      "frame": [
+        16802,
+        17053
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0025",
+      "shot": [
+        141,
+        150
+      ],
+      "frame": [
+        17053,
+        18095
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0026",
+      "shot": [
+        150,
+        193
+      ],
+      "frame": [
+        18095,
+        21832
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0027",
+      "shot": [
+        193,
+        194
+      ],
+      "frame": [
+        21832,
+        21933
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0028",
+      "shot": [
+        194,
+        200
+      ],
+      "frame": [
+        21933,
+        22673
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0029",
+      "shot": [
+        200,
+        215
+      ],
+      "frame": [
+        22673,
+        24663
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0030",
+      "shot": [
+        215,
+        216
+      ],
+      "frame": [
+        24663,
+        24734
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0031",
+      "shot": [
+        216,
+        221
+      ],
+      "frame": [
+        24734,
+        25058
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0032",
+      "shot": [
+        221,
+        224
+      ],
+      "frame": [
+        25058,
+        26150
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0033",
+      "shot": [
+        224,
+        225
+      ],
+      "frame": [
+        26150,
+        26252
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0034",
+      "shot": [
+        225,
+        274
+      ],
+      "frame": [
+        26252,
+        30135
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0035",
+      "shot": [
+        274,
+        287
+      ],
+      "frame": [
+        30135,
+        31355
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0036",
+      "shot": [
+        287,
+        288
+      ],
+      "frame": [
+        31355,
+        31508
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0037",
+      "shot": [
+        288,
+        289
+      ],
+      "frame": [
+        31508,
+        31647
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0038",
+      "shot": [
+        289,
+        290
+      ],
+      "frame": [
+        31647,
+        31831
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0039",
+      "shot": [
+        290,
+        295
+      ],
+      "frame": [
+        31831,
+        32365
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0040",
+      "shot": [
+        295,
+        296
+      ],
+      "frame": [
+        32365,
+        32398
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0041",
+      "shot": [
+        296,
+        300
+      ],
+      "frame": [
+        32398,
+        32637
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0042",
+      "shot": [
+        300,
+        301
+      ],
+      "frame": [
+        32637,
+        32682
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0043",
+      "shot": [
+        301,
+        302
+      ],
+      "frame": [
+        32682,
+        32841
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0044",
+      "shot": [
+        302,
+        303
+      ],
+      "frame": [
+        32841,
+        32880
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0045",
+      "shot": [
+        303,
+        305
+      ],
+      "frame": [
+        32880,
+        32960
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0046",
+      "shot": [
+        305,
+        308
+      ],
+      "frame": [
+        32960,
+        33108
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0047",
+      "shot": [
+        308,
+        322
+      ],
+      "frame": [
+        33108,
+        34569
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0048",
+      "shot": [
+        322,
+        348
+      ],
+      "frame": [
+        34569,
+        36694
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0049",
+      "shot": [
+        348,
+        350
+      ],
+      "frame": [
+        36694,
+        36807
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0050",
+      "shot": [
+        350,
+        357
+      ],
+      "frame": [
+        36807,
+        37209
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0051",
+      "shot": [
+        357,
+        363
+      ],
+      "frame": [
+        37209,
+        37668
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0052",
+      "shot": [
+        363,
+        364
+      ],
+      "frame": [
+        37668,
+        38014
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0053",
+      "shot": [
+        364,
+        365
+      ],
+      "frame": [
+        38014,
+        38101
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0054",
+      "shot": [
+        365,
+        366
+      ],
+      "frame": [
+        38101,
+        38289
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0055",
+      "shot": [
+        366,
+        367
+      ],
+      "frame": [
+        38289,
+        38416
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0056",
+      "shot": [
+        367,
+        374
+      ],
+      "frame": [
+        38416,
+        39167
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0057",
+      "shot": [
+        374,
+        390
+      ],
+      "frame": [
+        39167,
+        40640
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0058",
+      "shot": [
+        390,
+        391
+      ],
+      "frame": [
+        40640,
+        40905
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0059",
+      "shot": [
+        391,
+        392
+      ],
+      "frame": [
+        40905,
+        41021
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0060",
+      "shot": [
+        392,
+        405
+      ],
+      "frame": [
+        41021,
+        42782
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0061",
+      "shot": [
+        405,
+        407
+      ],
+      "frame": [
+        42782,
+        43167
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0062",
+      "shot": [
+        407,
+        408
+      ],
+      "frame": [
+        43167,
+        43276
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0063",
+      "shot": [
+        408,
+        409
+      ],
+      "frame": [
+        43276,
+        43380
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0064",
+      "shot": [
+        409,
+        410
+      ],
+      "frame": [
+        43380,
+        43471
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0065",
+      "shot": [
+        410,
+        411
+      ],
+      "frame": [
+        43471,
+        43523
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0066",
+      "shot": [
+        411,
+        413
+      ],
+      "frame": [
+        43523,
+        43604
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0067",
+      "shot": [
+        413,
+        415
+      ],
+      "frame": [
+        43604,
+        43747
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0068",
+      "shot": [
+        415,
+        416
+      ],
+      "frame": [
+        43747,
+        43781
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0069",
+      "shot": [
+        416,
+        419
+      ],
+      "frame": [
+        43781,
+        43946
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0070",
+      "shot": [
+        419,
+        420
+      ],
+      "frame": [
+        43946,
+        43989
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0071",
+      "shot": [
+        420,
+        421
+      ],
+      "frame": [
+        43989,
+        44032
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0072",
+      "shot": [
+        421,
+        449
+      ],
+      "frame": [
+        44032,
+        46501
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0073",
+      "shot": [
+        449,
+        477
+      ],
+      "frame": [
+        46501,
+        48818
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0074",
+      "shot": [
+        477,
+        555
+      ],
+      "frame": [
+        48818,
+        55418
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0075",
+      "shot": [
+        555,
+        572
+      ],
+      "frame": [
+        55418,
+        58075
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0076",
+      "shot": [
+        572,
+        584
+      ],
+      "frame": [
+        58075,
+        59249
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0077",
+      "shot": [
+        584,
+        608
+      ],
+      "frame": [
+        59249,
+        61432
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0078",
+      "shot": [
+        608,
+        622
+      ],
+      "frame": [
+        61432,
+        62015
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0079",
+      "shot": [
+        622,
+        629
+      ],
+      "frame": [
+        62015,
+        63021
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0080",
+      "shot": [
+        629,
+        638
+      ],
+      "frame": [
+        63021,
+        63228
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0081",
+      "shot": [
+        638,
+        639
+      ],
+      "frame": [
+        63228,
+        63249
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0082",
+      "shot": [
+        639,
+        646
+      ],
+      "frame": [
+        63249,
+        63694
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0083",
+      "shot": [
+        646,
+        662
+      ],
+      "frame": [
+        63694,
+        64733
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0084",
+      "shot": [
+        662,
+        670
+      ],
+      "frame": [
+        64733,
+        65396
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0085",
+      "shot": [
+        670,
+        674
+      ],
+      "frame": [
+        65396,
+        65683
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0086",
+      "shot": [
+        674,
+        683
+      ],
+      "frame": [
+        65683,
+        66519
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0087",
+      "shot": [
+        683,
+        705
+      ],
+      "frame": [
+        66519,
+        68054
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0088",
+      "shot": [
+        705,
+        712
+      ],
+      "frame": [
+        68054,
+        68598
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0089",
+      "shot": [
+        712,
+        719
+      ],
+      "frame": [
+        68598,
+        69007
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0090",
+      "shot": [
+        719,
+        724
+      ],
+      "frame": [
+        69007,
+        69260
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0091",
+      "shot": [
+        724,
+        735
+      ],
+      "frame": [
+        69260,
+        70056
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0092",
+      "shot": [
+        735,
+        739
+      ],
+      "frame": [
+        70056,
+        70184
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0093",
+      "shot": [
+        739,
+        746
+      ],
+      "frame": [
+        70184,
+        71373
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0094",
+      "shot": [
+        746,
+        759
+      ],
+      "frame": [
+        71373,
+        71813
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0095",
+      "shot": [
+        759,
+        768
+      ],
+      "frame": [
+        71813,
+        72272
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0096",
+      "shot": [
+        768,
+        779
+      ],
+      "frame": [
+        72272,
+        73215
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0097",
+      "shot": [
+        779,
+        793
+      ],
+      "frame": [
+        73215,
+        74233
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0098",
+      "shot": [
+        793,
+        808
+      ],
+      "frame": [
+        74233,
+        75072
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0099",
+      "shot": [
+        808,
+        809
+      ],
+      "frame": [
+        75072,
+        75097
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0100",
+      "shot": [
+        809,
+        810
+      ],
+      "frame": [
+        75097,
+        75119
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0101",
+      "shot": [
+        810,
+        811
+      ],
+      "frame": [
+        75119,
+        75140
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0102",
+      "shot": [
+        811,
+        812
+      ],
+      "frame": [
+        75140,
+        75205
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0103",
+      "shot": [
+        812,
+        824
+      ],
+      "frame": [
+        75205,
+        76159
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0104",
+      "shot": [
+        824,
+        830
+      ],
+      "frame": [
+        76159,
+        76581
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0105",
+      "shot": [
+        830,
+        847
+      ],
+      "frame": [
+        76581,
+        78816
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0106",
+      "shot": [
+        847,
+        856
+      ],
+      "frame": [
+        78816,
+        79710
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0107",
+      "shot": [
+        856,
+        860
+      ],
+      "frame": [
+        79710,
+        80306
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0108",
+      "shot": [
+        860,
+        865
+      ],
+      "frame": [
+        80306,
+        80796
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0109",
+      "shot": [
+        865,
+        879
+      ],
+      "frame": [
+        80796,
+        81667
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0110",
+      "shot": [
+        879,
+        887
+      ],
+      "frame": [
+        81667,
+        82350
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0111",
+      "shot": [
+        887,
+        889
+      ],
+      "frame": [
+        82350,
+        82499
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0112",
+      "shot": [
+        889,
+        912
+      ],
+      "frame": [
+        82499,
+        84915
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0113",
+      "shot": [
+        912,
+        917
+      ],
+      "frame": [
+        84915,
+        85250
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0114",
+      "shot": [
+        917,
+        918
+      ],
+      "frame": [
+        85250,
+        85313
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0115",
+      "shot": [
+        918,
+        928
+      ],
+      "frame": [
+        85313,
+        85985
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0116",
+      "shot": [
+        928,
+        930
+      ],
+      "frame": [
+        85985,
+        86103
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0117",
+      "shot": [
+        930,
+        978
+      ],
+      "frame": [
+        86103,
+        90585
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0118",
+      "shot": [
+        978,
+        1009
+      ],
+      "frame": [
+        90585,
+        94791
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0119",
+      "shot": [
+        1009,
+        1010
+      ],
+      "frame": [
+        94791,
+        94854
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0120",
+      "shot": [
+        1010,
+        1011
+      ],
+      "frame": [
+        94854,
+        94899
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0121",
+      "shot": [
+        1011,
+        1020
+      ],
+      "frame": [
+        94899,
+        95608
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0122",
+      "shot": [
+        1020,
+        1022
+      ],
+      "frame": [
+        95608,
+        95678
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0123",
+      "shot": [
+        1022,
+        1025
+      ],
+      "frame": [
+        95678,
+        95798
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0124",
+      "shot": [
+        1025,
+        1028
+      ],
+      "frame": [
+        95798,
+        95988
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0125",
+      "shot": [
+        1028,
+        1036
+      ],
+      "frame": [
+        95988,
+        96239
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0126",
+      "shot": [
+        1036,
+        1084
+      ],
+      "frame": [
+        96239,
+        99985
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0127",
+      "shot": [
+        1084,
+        1108
+      ],
+      "frame": [
+        99985,
+        101292
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0128",
+      "shot": [
+        1108,
+        1110
+      ],
+      "frame": [
+        101292,
+        101562
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0129",
+      "shot": [
+        1110,
+        1111
+      ],
+      "frame": [
+        101562,
+        101732
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0130",
+      "shot": [
+        1111,
+        1113
+      ],
+      "frame": [
+        101732,
+        102517
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0131",
+      "shot": [
+        1113,
+        1114
+      ],
+      "frame": [
+        102517,
+        102737
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0132",
+      "shot": [
+        1114,
+        1115
+      ],
+      "frame": [
+        102737,
+        103142
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0133",
+      "shot": [
+        1115,
+        1116
+      ],
+      "frame": [
+        103142,
+        103362
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0134",
+      "shot": [
+        1116,
+        1117
+      ],
+      "frame": [
+        103362,
+        103698
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0135",
+      "shot": [
+        1117,
+        1127
+      ],
+      "frame": [
+        103698,
+        104632
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0136",
+      "shot": [
+        1127,
+        1243
+      ],
+      "frame": [
+        104632,
+        112550
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0137",
+      "shot": [
+        1243,
+        1244
+      ],
+      "frame": [
+        112550,
+        112888
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0138",
+      "shot": [
+        1244,
+        1274
+      ],
+      "frame": [
+        112888,
+        116901
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0139",
+      "shot": [
+        1274,
+        1275
+      ],
+      "frame": [
+        116901,
+        117592
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0140",
+      "shot": [
+        1275,
+        1279
+      ],
+      "frame": [
+        117592,
+        117949
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0141",
+      "shot": [
+        1279,
+        1288
+      ],
+      "frame": [
+        117949,
+        119067
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0142",
+      "shot": [
+        1288,
+        1290
+      ],
+      "frame": [
+        119067,
+        120307
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0143",
+      "shot": [
+        1290,
+        1295
+      ],
+      "frame": [
+        120307,
+        120913
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0144",
+      "shot": [
+        1295,
+        1296
+      ],
+      "frame": [
+        120913,
+        121108
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0145",
+      "shot": [
+        1296,
+        1325
+      ],
+      "frame": [
+        121108,
+        124424
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1623288_0146",
+      "shot": [
+        1325,
+        1326
+      ],
+      "frame": [
+        124424,
+        131663
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt1623288_0000",
+      "shot": [
+        20,
+        104
+      ],
+      "frame": [
+        1921,
+        13385
+      ],
+      "duration": [
+        80.13345698441952,
+        558.2371729844195
+      ],
+      "consistency": 0.9506122328486564,
+      "description": "In the small New England town of Blithe Hollow, Massachusetts, a boy named Norman Babcock is able to speak with the dead, including his late grandmother and various ghosts in town. Unfortunately, almost no one among the living believes his ability is genuine and he is isolated emotionally from his family while being ridiculed and bullied by most of his peers for his seemingly strange abilities.",
+      "subtitle": [
+        {
+          "shot": 20,
+          "duration": [
+            73.86540098441952,
+            102.64412864068687
+          ],
+          "sentences": [
+            "What's happening now?",
+            "Well, the zombie is eating her head, Grandma.",
+            "That's not very nice. What's he doing that for?",
+            "Because he's a zombie. That's what they do.",
+            "He's going to ruin his dinner.",
+            "I'm sure if they just bothered to sit down and talk it through,",
+            "it would be a different story."
+          ]
+        },
+        {
+          "shot": 21,
+          "duration": [
+            102.68583694163799,
+            107.94108286147811
+          ],
+          "sentences": [
+            "Norman, didn't I tell you to take out the garbage?",
+            "Yeah, coming, Dad."
+          ]
+        },
+        {
+          "shot": 22,
+          "duration": [
+            107.98279116242922,
+            116.03249324599386
+          ],
+          "sentences": [
+            "Tell him to turn up the thermostat, too, will you?",
+            "My feet are Iike ice."
+          ]
+        },
+        {
+          "shot": 23,
+          "duration": [
+            116.07420154694498,
+            119.20232411827838
+          ],
+          "sentences": [
+            "Come on, fit, you stupid..."
+          ]
+        },
+        {
+          "shot": 24,
+          "duration": [
+            119.2440324192295,
+            124.41586173716739
+          ],
+          "sentences": [
+            "Hi. What are you watching in there?",
+            "Sex and violence.",
+            "Oh, that's nice."
+          ]
+        },
+        {
+          "shot": 25,
+          "duration": [
+            124.4575700381185,
+            130.50527367602976
+          ],
+          "sentences": [
+            "Can't you be Iike other kids your age,",
+            "and pitch a tent in the yard or have a healthy interest in carpentry?"
+          ]
+        },
+        {
+          "shot": 26,
+          "duration": [
+            130.54698197698087,
+            133.0077717330965
+          ],
+          "sentences": [
+            "Perry...",
+            "I thought you said kids my age were too busy shoplifting and joyriding."
+          ]
+        },
+        {
+          "shot": 27,
+          "duration": [
+            133.0494800340476,
+            135.88564449872322
+          ],
+          "sentences": [
+            "I thought you said kids my age were too busy shoplifting and joyriding.",
+            "Norman."
+          ]
+        },
+        {
+          "shot": 28,
+          "duration": [
+            135.92735279967434,
+            141.05747381666112
+          ],
+          "sentences": [
+            "Norman.",
+            "He's, Iike, R-I-double-P-E-D. Like, a seven-pack at Ieast."
+          ]
+        },
+        {
+          "shot": 29,
+          "duration": [
+            141.09918211761223,
+            143.51826357277673
+          ],
+          "sentences": [
+            "Uh-huh. Ew!",
+            "Watch it!"
+          ]
+        },
+        {
+          "shot": 30,
+          "duration": [
+            143.55997187372785,
+            145.06147070796789
+          ],
+          "sentences": [
+            "Watch it!",
+            "Courtney, be nice. Whoa!"
+          ]
+        },
+        {
+          "shot": 31,
+          "duration": [
+            145.103179008919,
+            148.5649679878613
+          ],
+          "sentences": [
+            "Courtney, be nice. Whoa!",
+            "Yeah, she totally doesn't deserve him.",
+            "I mean, she's nice and I really Iike her,"
+          ]
+        },
+        {
+          "shot": 32,
+          "duration": [
+            148.60667628881242,
+            152.65238148107028
+          ],
+          "sentences": [
+            "but she's a complete Ioser.",
+            "Yeah, I know."
+          ]
+        },
+        {
+          "shot": 33,
+          "duration": [
+            152.6940897820214,
+            158.82521002183486
+          ],
+          "sentences": [
+            "Hey, uh, Dad?",
+            "Grandma says, can you turn up the heating? Her feet are cold."
+          ]
+        },
+        {
+          "shot": 35,
+          "duration": [
+            161.03574997224382,
+            162.28699900077717
+          ],
+          "sentences": [
+            "Now, Perry...",
+            "How many times do we have to go through this, son?"
+          ]
+        },
+        {
+          "shot": 36,
+          "duration": [
+            162.3287073017283,
+            167.8759113282262
+          ],
+          "sentences": [
+            "How many times do we have to go through this, son?",
+            "Your grandmother is dead!",
+            "I know."
+          ]
+        },
+        {
+          "shot": 37,
+          "duration": [
+            167.91761962917732,
+            174.0487398689908
+          ],
+          "sentences": [
+            "I know.",
+            "Then why do you keep on talking to her?",
+            "Because she talks back.",
+            "OMG, you are such a Iiar."
+          ]
+        },
+        {
+          "shot": 38,
+          "duration": [
+            174.0904481699419,
+            181.55623404019096
+          ],
+          "sentences": [
+            "OMG, you are such a Iiar.",
+            "God, I'm not making this up, I swear! She talks to me all the time.",
+            "Oh, yeah? Prove it."
+          ]
+        },
+        {
+          "shot": 39,
+          "duration": [
+            181.59794234114207,
+            182.89089967062657
+          ],
+          "sentences": [
+            "Oh, yeah? Prove it."
+          ]
+        },
+        {
+          "shot": 40,
+          "duration": [
+            182.93260797157768,
+            190.10643573516896
+          ],
+          "sentences": [
+            "She said, it's not very Iadylike to hide photos of the high-school quarterback",
+            "with his shirt off in your underwear drawer."
+          ]
+        },
+        {
+          "shot": 41,
+          "duration": [
+            190.14814403612007,
+            199.32397024536473
+          ],
+          "sentences": [
+            "with his shirt off in your underwear drawer.",
+            "I knew it!",
+            "Uh! You've been sneaking around in my personal... Ugh!",
+            "No, I haven't. Grandma told me.",
+            "You are the worst!"
+          ]
+        },
+        {
+          "shot": 42,
+          "duration": [
+            199.36567854631585,
+            230.06298804633434
+          ],
+          "sentences": [
+            "Norman, I know you and Grandma were very close,",
+            "but we all have to move on.",
+            "Grandma's in a better place now.",
+            "No, she's not. She's in the Iiving room.",
+            "Your grandmother was old and sick and she died.",
+            "That's all there is to it!",
+            "Okay. Perry, this is just part of the mourning process.",
+            "Oh, stop indulging him.",
+            "I'm nothing if I'm not Iiberal,",
+            "but that Iimp-wristed hippie garbage needs to be nipped in the bud."
+          ]
+        },
+        {
+          "shot": 43,
+          "duration": [
+            230.10469634728545,
+            237.36194071277896
+          ],
+          "sentences": [
+            "This behavior might be okay with your side of the family,",
+            "but I'm not putting up with it anymore!",
+            "Not me! Not this again."
+          ]
+        },
+        {
+          "shot": 44,
+          "duration": [
+            237.40364901373007,
+            240.49006328411235
+          ],
+          "sentences": [
+            "This isn't the West Coast, Sandra."
+          ]
+        },
+        {
+          "shot": 45,
+          "duration": [
+            240.53177158506347,
+            248.1226823581659
+          ],
+          "sentences": [
+            "People talk. They do.",
+            "He's just sensitive, Perry.",
+            "Oh, please! Sensitive is writing poetry"
+          ]
+        },
+        {
+          "shot": 46,
+          "duration": [
+            248.164390659117,
+            250.87543022093928
+          ],
+          "sentences": [
+            "and being Iousy at team sports. Not this.",
+            "I won't have him turn out Iike that uncle of yours."
+          ]
+        },
+        {
+          "shot": 47,
+          "duration": [
+            250.9171385218904,
+            264.7642944376596
+          ],
+          "sentences": [
+            "I won't have him turn out Iike that uncle of yours.",
+            "If that crazy old tramp has been around here,",
+            "putting ideas in Norman's head...",
+            "Perry, no one has had anything to do",
+            "with Uncle Prenderghast in years.",
+            "I bet he doesn't even know what Norman Iooks Iike."
+          ]
+        },
+        {
+          "shot": 48,
+          "duration": [
+            264.80600273861074,
+            269.9361237555975
+          ],
+          "sentences": [
+            "Not much time."
+          ]
+        },
+        {
+          "shot": 49,
+          "duration": [
+            269.9778320565486,
+            273.7315791421487
+          ],
+          "sentences": [
+            "Not much time."
+          ]
+        },
+        {
+          "shot": 67,
+          "duration": [
+            340.5482772658303,
+            346.3457310980349
+          ],
+          "sentences": [
+            "Good morning!"
+          ]
+        },
+        {
+          "shot": 68,
+          "duration": [
+            346.387439398986,
+            352.8105177454573
+          ],
+          "sentences": [
+            "Hey, Bruce, how's it going?",
+            "Not much. I'm kind of Iate for school, I need to go."
+          ]
+        },
+        {
+          "shot": 69,
+          "duration": [
+            352.85222604640836,
+            359.06676288812406
+          ],
+          "sentences": [
+            "Hi! Nice to see you guys."
+          ]
+        },
+        {
+          "shot": 70,
+          "duration": [
+            359.1084711890752,
+            370.87021205728877
+          ],
+          "sentences": [
+            "Good morning. Sorry, I got to run. Oh!",
+            "Excuse me. Pardon me. See ya!"
+          ]
+        },
+        {
+          "shot": 71,
+          "duration": [
+            370.9119203582399,
+            373.9566263276711
+          ],
+          "sentences": [
+            "Hey there, Iittle buddy. Come on, come here."
+          ]
+        },
+        {
+          "shot": 72,
+          "duration": [
+            373.9983346286222,
+            376.7510824913956
+          ],
+          "sentences": [
+            "Hey there, Iittle buddy. Come on, come here."
+          ]
+        },
+        {
+          "shot": 74,
+          "duration": [
+            379.879205062729,
+            426.7176270308279
+          ],
+          "sentences": [
+            "Yeah, good to see you.",
+            "How you doing?",
+            "Hi, Mrs. Hardman. You Iook nice today.",
+            "I Iike what you've done with your hair.",
+            "Does anyone smell burning?",
+            "Hey, peace, man.",
+            "Totally. Yeah.",
+            "As you were, soldier.",
+            "Sir, yes, sir!",
+            "Yo, Norman. You playing hooky?",
+            "No, no, I'm just Iate for school. Sorry, I got to go.",
+            "How you doing?",
+            "Hey, how you doing?",
+            "Hi. How's it hanging?",
+            "Haven't heard that one before.",
+            "Well, it's a nice day."
+          ]
+        },
+        {
+          "shot": 75,
+          "duration": [
+            426.759335331779,
+            454.45364716331744
+          ],
+          "sentences": [
+            "Watch and Iearn. \"Parking violation\" is my middle name.",
+            "Really? I thought it was Rhona."
+          ]
+        },
+        {
+          "shot": 76,
+          "duration": [
+            454.4953554642685,
+            465.00584730394877
+          ],
+          "sentences": [
+            "Suck it in, sweetie. No, no, your gut.",
+            "There you go."
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            523.8145516450169,
+            527.3597572258614
+          ],
+          "sentences": [
+            "Hey, hey, ghost jerk, you know what?"
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            527.4014655268124,
+            530.3627548943415
+          ],
+          "sentences": [
+            "Hey, hey, ghost jerk, you know what?"
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            530.4044631952926,
+            532.5732948447504
+          ],
+          "sentences": [
+            "What do you want, Alvin?"
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            532.6150031457015,
+            536.5772917360572
+          ],
+          "sentences": [
+            "Why don't you go see some more ghosts, Goober?"
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            536.6190000370083,
+            538.2873320750527
+          ],
+          "sentences": [
+            "Ooh, ooh, oh.",
+            "Hey, hey, Norman."
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            538.3290403760038,
+            539.7888309092928
+          ],
+          "sentences": [
+            "Hey, hey, Norman."
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            541.9159542577995,
+            548.0887827985641
+          ],
+          "sentences": [
+            "Talk to that.",
+            "That's so Alvin! Right?"
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            548.1304910995152,
+            555.6379852707154
+          ],
+          "sentences": [
+            "That was good, right, guys? That was fun?",
+            "Flies don't talk."
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            555.6796935716665,
+            559.8505236667777
+          ],
+          "sentences": [
+            "Neil, come on, Iet's go.",
+            "You stink of illiteracy!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1623288_0001",
+      "shot": [
+        117,
+        180
+      ],
+      "frame": [
+        14455,
+        20444
+      ],
+      "duration": [
+        602.8934902483254,
+        852.6580432483254
+      ],
+      "consistency": 0.8995549700761579,
+      "description": "However, Norman makes a friend with Neil Downe, an eccentric overweight boy who is bullied himself and finds Norman's earnest admission as a medium an intriguing part of a kindred spirit. During rehearsal of a school play commemorating the town's witch execution of 300 years ago, Norman has a harrowing vision of the town's past and being pursued as a witch by the town's citizenry. Afterward, the boys are confronted by Norman's estranged and seemingly deranged uncle Mr. Prenderghast who tells his nephew that the vision is a sign that he soon must take up his regular ritual to protect the town.",
+      "subtitle": [
+        {
+          "shot": 117,
+          "duration": [
+            602.8934902483254,
+            608.9411938862366
+          ],
+          "sentences": [
+            "\"The founding fathers of Blithe Hollow",
+            "\"discovered an evil witch amongst them...\""
+          ]
+        },
+        {
+          "shot": 118,
+          "duration": [
+            608.9829021871877,
+            623.7893490248325
+          ],
+          "sentences": [
+            "No, no, Norman! With gusto!",
+            "Like this.",
+            "\"They put her on trial and hanged her!",
+            "\"But the vengeful witch cursed her accusers, seven of them in all,",
+            "\"to die a horrible and gruesome death,"
+          ]
+        },
+        {
+          "shot": 119,
+          "duration": [
+            623.8310573257837,
+            644.4766662965842
+          ],
+          "sentences": [
+            "\"to die a horrible and gruesome death,",
+            "\"and rise from their graves as the Iiving dead!",
+            "\"Their souls!",
+            "\"Their souls, doomed to an eternity of damnation!\""
+          ]
+        },
+        {
+          "shot": 121,
+          "duration": [
+            647.9801635764776,
+            652.3595351763444
+          ],
+          "sentences": [
+            "Now, I want you to try that again, but with conviction.",
+            "My reputation is at stake, here."
+          ]
+        },
+        {
+          "shot": 122,
+          "duration": [
+            652.4012434772955,
+            654.9037415343622
+          ],
+          "sentences": [
+            "My reputation is at stake, here.",
+            "And I won't have this turn out"
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            654.9454498353133,
+            657.6147810961845
+          ],
+          "sentences": [
+            "Iike that wretched Kabuki debacle of '09..."
+          ]
+        },
+        {
+          "shot": 127,
+          "duration": [
+            663.2036934236335,
+            666.5403574997225
+          ],
+          "sentences": [
+            "Norman! Are you Iistening to me, boy?"
+          ]
+        },
+        {
+          "shot": 128,
+          "duration": [
+            666.5820658006736,
+            669.2513970615447
+          ],
+          "sentences": [
+            "Norman! Are you Iistening to me, boy?"
+          ]
+        },
+        {
+          "shot": 130,
+          "duration": [
+            671.3785204100515,
+            674.2146848747271
+          ],
+          "sentences": [
+            "Sorry, Mrs. Henscher."
+          ]
+        },
+        {
+          "shot": 131,
+          "duration": [
+            674.2563931756782,
+            681.263387735465
+          ],
+          "sentences": [
+            "So am I.",
+            "Now, unless there's any other issues, Iet us resume."
+          ]
+        },
+        {
+          "shot": 132,
+          "duration": [
+            681.3050960364161,
+            687.6864660819363
+          ],
+          "sentences": [
+            "\"They put her on trial and hanged her!\"",
+            "Ooh! This is my moment!"
+          ]
+        },
+        {
+          "shot": 136,
+          "duration": [
+            692.9000037008253,
+            695.3607934569409
+          ],
+          "sentences": [
+            "Boom, baby!"
+          ]
+        },
+        {
+          "shot": 137,
+          "duration": [
+            695.4025017578921,
+            697.3210836016432
+          ],
+          "sentences": [
+            "Sorry."
+          ]
+        },
+        {
+          "shot": 138,
+          "duration": [
+            697.3627919025943,
+            698.8225824358832
+          ],
+          "sentences": [
+            "Ah! You useless bunch of..."
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            711.2516561193146,
+            726.6837274712261
+          ],
+          "sentences": [
+            "Norman, wait up!",
+            "I keep telling you, Neil. I Iike to be alone.",
+            "So do I! Let's do it together.",
+            "You shouldn't Iet them get you down.",
+            "They always do stuff Iike that to me."
+          ]
+        },
+        {
+          "shot": 142,
+          "duration": [
+            726.7254357721772,
+            728.3103512083195
+          ],
+          "sentences": [
+            "Why?"
+          ]
+        },
+        {
+          "shot": 143,
+          "duration": [
+            728.3520595092706,
+            734.0660967395729
+          ],
+          "sentences": [
+            "Because I'm fat. And my allergies make my eyes Ieak.",
+            "And I sweat when I walk too fast.",
+            "And I have a Iunch box with a kitten on it."
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            734.1078050405241,
+            736.6103030975908
+          ],
+          "sentences": [
+            "And I have a Iunch box with a kitten on it."
+          ]
+        },
+        {
+          "shot": 145,
+          "duration": [
+            736.652011398542,
+            742.1157988231375
+          ],
+          "sentences": [
+            "Ooh. And I have irritable bowel syndrome.",
+            "I guess there's a whole bunch of stuff."
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            742.1575071240887,
+            744.7851300840088
+          ],
+          "sentences": [
+            "Doesn't it bother you?",
+            "No. You can't stop bullying. It's part of human nature."
+          ]
+        },
+        {
+          "shot": 147,
+          "duration": [
+            744.8268383849598,
+            749.33133488768
+          ],
+          "sentences": [
+            "No. You can't stop bullying. It's part of human nature.",
+            "If you were bigger and more stupid,"
+          ]
+        },
+        {
+          "shot": 148,
+          "duration": [
+            749.3730431886311,
+            751.3750416342845
+          ],
+          "sentences": [
+            "you'd probably be a bully, too."
+          ]
+        },
+        {
+          "shot": 149,
+          "duration": [
+            751.4167499352355,
+            754.6699974094223
+          ],
+          "sentences": [
+            "It's called \"survival of the thickest.\""
+          ]
+        },
+        {
+          "shot": 150,
+          "duration": [
+            754.7117057103734,
+            759.4247437178491
+          ],
+          "sentences": [
+            "Psst!",
+            "That statue just \"psst\" at us."
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            766.3900299766848,
+            768.9759446356538
+          ],
+          "sentences": [
+            "Do you know who I am?"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            769.0176529366049,
+            771.8538174012805
+          ],
+          "sentences": [
+            "The weird, stinky old bum who Iives up the hill?"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            771.8955257022317,
+            772.6462751193517
+          ],
+          "sentences": [
+            "I was asking him!"
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            772.6879834203028,
+            773.5638577402761
+          ],
+          "sentences": [
+            "I was asking him!"
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            773.6055660412272,
+            776.108064098294
+          ],
+          "sentences": [
+            "Yeah, uh, I know.",
+            "I was told not to talk to you. Sorry."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            776.1497723992451,
+            782.3226009400097
+          ],
+          "sentences": [
+            "I was told not to talk to you. Sorry.",
+            "And you know why you're not supposed to talk to me?"
+          ]
+        },
+        {
+          "shot": 160,
+          "duration": [
+            783.573849968543,
+            785.8260982199031
+          ],
+          "sentences": [
+            "I can see ghosts, too!"
+          ]
+        },
+        {
+          "shot": 161,
+          "duration": [
+            785.8678065208542,
+            787.661263461752
+          ],
+          "sentences": [
+            "And I know that's not all you've been seeing Iately, is it?"
+          ]
+        },
+        {
+          "shot": 162,
+          "duration": [
+            787.7029717627031,
+            802.3425853965434
+          ],
+          "sentences": [
+            "And I know that's not all you've been seeing Iately, is it?",
+            "Bad omens?",
+            "Things you can't quite explain.",
+            "Strange faces peering through the veil?"
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            802.3842936974946,
+            803.7606676288813
+          ],
+          "sentences": [
+            "And I'll bet no one told you about the witch's curse, did they?"
+          ]
+        },
+        {
+          "shot": 164,
+          "duration": [
+            803.8023759298324,
+            804.5531253469524
+          ],
+          "sentences": [
+            "And I'll bet no one told you about the witch's curse, did they?"
+          ]
+        },
+        {
+          "shot": 165,
+          "duration": [
+            804.5948336479036,
+            805.2621664631213
+          ],
+          "sentences": [
+            "And I'll bet no one told you about the witch's curse, did they?"
+          ]
+        },
+        {
+          "shot": 166,
+          "duration": [
+            805.3038747640724,
+            807.0556234040191
+          ],
+          "sentences": [
+            "And I'll bet no one told you about the witch's curse, did they?"
+          ]
+        },
+        {
+          "shot": 168,
+          "duration": [
+            809.0159135487214,
+            811.852078013397
+          ],
+          "sentences": [
+            "Actually, we're Iearning about it in school."
+          ]
+        },
+        {
+          "shot": 169,
+          "duration": [
+            811.8937863143482,
+            824.1560267939751
+          ],
+          "sentences": [
+            "Oh, oh! I'm a tree!",
+            "There's something you really need to know.",
+            "This is the most important thing you will ever hear.",
+            "The fate of everyone depends on it!"
+          ]
+        },
+        {
+          "shot": 170,
+          "duration": [
+            824.1977350949262,
+            825.7409422301173
+          ],
+          "sentences": [
+            "Now, Iisten close."
+          ]
+        },
+        {
+          "shot": 171,
+          "duration": [
+            825.7826505310685,
+            828.0766070833796
+          ],
+          "sentences": [
+            "The witch's curse is real!"
+          ]
+        },
+        {
+          "shot": 172,
+          "duration": [
+            828.1183153843307,
+            832.2891454794419
+          ],
+          "sentences": [
+            "The witch's curse is real!",
+            "And you're the one who has to stop it."
+          ]
+        },
+        {
+          "shot": 173,
+          "duration": [
+            832.3308537803931,
+            833.6655194108287
+          ],
+          "sentences": [
+            "You've got to use your gift"
+          ]
+        },
+        {
+          "shot": 174,
+          "duration": [
+            833.7072277117798,
+            838.1700159135487
+          ],
+          "sentences": [
+            "You've got to use your gift",
+            "of talking to the dead."
+          ]
+        },
+        {
+          "shot": 175,
+          "duration": [
+            838.2117242144999,
+            840.881055475371
+          ],
+          "sentences": [
+            "Because, if you don't, the witch's..."
+          ]
+        },
+        {
+          "shot": 176,
+          "duration": [
+            840.9227637763222,
+            843.6338033381444
+          ],
+          "sentences": [
+            "Because, if you don't, the witch's..."
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            845.0935938714333,
+            849.5563820732024
+          ],
+          "sentences": [
+            "Oh, oh. This is the most important thing of all!"
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            849.5980903741535,
+            851.8920469264647
+          ],
+          "sentences": [
+            "You've got to..."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1623288_0003",
+      "shot": [
+        495,
+        737
+      ],
+      "frame": [
+        51355,
+        70130
+      ],
+      "duration": [
+        2141.950650317827,
+        2924.984506317827
+      ],
+      "consistency": 0.8990268755378055,
+      "description": "Before Norman can ponder the situation, Alvin, a bully who overheard Norman's encounter in the restroom, intrudes and interferes with the reading until after sundown. With that, a ghostly storm resembling the witch appears in the air while the cursed dead arise and pursue the boys until they meet Norman's sister, Courtney, Neil and his older brother, Mitch, who have come to retrieve Norman. Together, the kids are relentlessly pursued by the zombies into town, but Norman manages to contact a classmate named Salma, who tells them to access the Town Hall's archives for the location of the witch's unmarked grave.",
+      "subtitle": [
+        {
+          "shot": 495,
+          "duration": [
+            2116.988231375597,
+            2145.308167721402
+          ],
+          "sentences": [
+            "Read from the book, stop the curse,",
+            "go home, and pretend this never happened.",
+            "\"Once upon a time, in a far-off Iand,",
+            "\"there Iived a king and a queen in a magnificent castle.\"",
+            "What? A fairy tale?",
+            "Ooh, what have you got there, Geekula?",
+            "No! Give it back!",
+            "Oh, I can't wait to see everybody's faces when they hear about this one."
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            2145.349876022353,
+            2148.2277487879796
+          ],
+          "sentences": [
+            "Oh, I can't wait to see everybody's faces when they hear about this one.",
+            "No, no. Don't! Alvin!"
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            2148.2694570889307,
+            2150.6051219421934
+          ],
+          "sentences": [
+            "Hey. Nobody makes me miss out on a possible date"
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            2150.6468302431444,
+            2152.6905369897486
+          ],
+          "sentences": [
+            "Hey. Nobody makes me miss out on a possible date",
+            "with a girl that almost had some interest in talking to me."
+          ]
+        },
+        {
+          "shot": 499,
+          "duration": [
+            2152.7322452907,
+            2154.6091188335
+          ],
+          "sentences": [
+            "with a girl that almost had some interest in talking to me.",
+            "Yeah? Thought so! You got nothing to say."
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            2154.650827134451,
+            2156.6111172791534
+          ],
+          "sentences": [
+            "Yeah? Thought so! You got nothing to say."
+          ]
+        },
+        {
+          "shot": 501,
+          "duration": [
+            2156.6528255801045,
+            2158.404574220051
+          ],
+          "sentences": [
+            "Yeah? Thought so! You got nothing to say.",
+            "Uh-oh."
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            2158.446282521002,
+            2164.702527663669
+          ],
+          "sentences": [
+            "Dang straight, \"Uh-oh.\"",
+            "That's what happens when Alvin gets around here.",
+            "\"Uh-oh, is that Alvin?\"",
+            "\"Uh-oh, Alvin's going to make me run home to Mommy.\""
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            2164.74423596462,
+            2166.3291514007624
+          ],
+          "sentences": [
+            "\"Uh-oh, Alvin's going to make me run home to Mommy.\""
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            2166.3708597017135,
+            2170.249731690167
+          ],
+          "sentences": [
+            "\"Uh-oh, Alvin's going to make me run home to Mommy.\""
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            2170.2914399911183,
+            2171.5843973206024
+          ],
+          "sentences": [
+            "Uh-oh."
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            2171.6261056215535,
+            2174.5456866881314
+          ],
+          "sentences": [
+            "Uh-oh.",
+            "What is that?"
+          ]
+        },
+        {
+          "shot": 507,
+          "duration": [
+            2174.5873949890824,
+            2183.0541800821584
+          ],
+          "sentences": [
+            "What is that?",
+            "It's her."
+          ]
+        },
+        {
+          "shot": 516,
+          "duration": [
+            2203.824913955812,
+            2207.453536138559
+          ],
+          "sentences": [
+            "What's that sound?"
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            2260.75674475408,
+            2263.884867325414
+          ],
+          "sentences": [
+            "Ah!"
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            2263.926575626365,
+            2265.428074460605
+          ],
+          "sentences": [
+            "\"Once upon a time, in a far-off..."
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            2265.469782761556,
+            2267.8471559157692
+          ],
+          "sentences": [
+            "\"Once upon a time, in a far-off..."
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            2267.8888642167203,
+            2274.6456089708004
+          ],
+          "sentences": [
+            "\"Once upon a time, in a...\"",
+            "Make it stop, please, now please!",
+            "It's not working!"
+          ]
+        },
+        {
+          "shot": 549,
+          "duration": [
+            2276.147107805041,
+            2278.190814551645
+          ],
+          "sentences": [
+            "Stop!"
+          ]
+        },
+        {
+          "shot": 550,
+          "duration": [
+            2278.232522852596,
+            2279.942563191592
+          ],
+          "sentences": [
+            "Stop!",
+            "Stop?"
+          ]
+        },
+        {
+          "shot": 551,
+          "duration": [
+            2279.984271492543,
+            2283.1958106657785
+          ],
+          "sentences": [
+            "You must stop!"
+          ]
+        },
+        {
+          "shot": 552,
+          "duration": [
+            2283.2375189667296,
+            2287.6168905665963
+          ],
+          "sentences": [
+            "What?",
+            "Norman? What are you doing?"
+          ]
+        },
+        {
+          "shot": 553,
+          "duration": [
+            2287.6585988675474,
+            2291.162096147441
+          ],
+          "sentences": [
+            "I think I peed my pants!",
+            "Wait!"
+          ]
+        },
+        {
+          "shot": 554,
+          "duration": [
+            2291.203804448392,
+            2311.3489138077794
+          ],
+          "sentences": [
+            "Wait!",
+            "Neil! Will you get the door?",
+            "I'm busy.",
+            "Are you freeze-framing Mom's aerobics DVD again?",
+            "No!"
+          ]
+        },
+        {
+          "shot": 555,
+          "duration": [
+            2311.3906221087304,
+            2318.355908367566
+          ],
+          "sentences": [
+            "Neil! Would it kill you to get off your butt and answer the door?",
+            "God."
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            2318.397616668517,
+            2322.6518633655305
+          ],
+          "sentences": [
+            "Oh, I'm going to kill them!",
+            "I know you're in there!"
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            2322.6935716664816,
+            2324.5287369083308
+          ],
+          "sentences": [
+            "I know you're in there!",
+            "Slumber party is over, dorks!"
+          ]
+        },
+        {
+          "shot": 558,
+          "duration": [
+            2324.570445209282,
+            2330.1176492357795
+          ],
+          "sentences": [
+            "Slumber party is over, dorks!",
+            "Um, can I help you?"
+          ]
+        },
+        {
+          "shot": 559,
+          "duration": [
+            2330.1593575367306,
+            2337.666851707931
+          ],
+          "sentences": [
+            "Hell, yeah. Hmm.",
+            "Oh, I... Sorry to bug you so Iate.",
+            "Um, does, uh... Neil Iive here?"
+          ]
+        },
+        {
+          "shot": 560,
+          "duration": [
+            2337.708560008882,
+            2343.9648051515487
+          ],
+          "sentences": [
+            "Um, does, uh... Neil Iive here?",
+            "Yeah. He's my brother."
+          ]
+        },
+        {
+          "shot": 561,
+          "duration": [
+            2344.0065134525,
+            2365.9033714518337
+          ],
+          "sentences": [
+            "Oh, wow! That's great!",
+            "Your brother and my brother are, Iike, best friends!",
+            "I'm Courtney.",
+            "Hey, Neil! Come here a minute.",
+            "There's a girl asking for you.",
+            "Hey, there!",
+            "How are you doing,"
+          ]
+        },
+        {
+          "shot": 562,
+          "duration": [
+            2365.9450797527847,
+            2368.1556197031937
+          ],
+          "sentences": [
+            "Iittle guy?"
+          ]
+        },
+        {
+          "shot": 563,
+          "duration": [
+            2368.197328004145,
+            2369.0314940231674
+          ],
+          "sentences": [
+            "Neil? Yeah, Neil."
+          ]
+        },
+        {
+          "shot": 564,
+          "duration": [
+            2369.0732023241185,
+            2373.6611154287407
+          ],
+          "sentences": [
+            "Neil? Yeah, Neil.",
+            "Do you know where Norman is? He kind of disappeared."
+          ]
+        },
+        {
+          "shot": 565,
+          "duration": [
+            2373.7028237296918,
+            2385.8399393064656
+          ],
+          "sentences": [
+            "Oh, no. Idea!",
+            "I have no idea where he is. Sorry. Bye!",
+            "Whoa, Neil.",
+            "Better start talking, buddy.",
+            "I didn't really think he was serious about",
+            "going up to the old graveyard on his own."
+          ]
+        },
+        {
+          "shot": 566,
+          "duration": [
+            2385.8816476074167,
+            2388.0921875578256
+          ],
+          "sentences": [
+            "going up to the old graveyard on his own.",
+            "That's so Norman!"
+          ]
+        },
+        {
+          "shot": 567,
+          "duration": [
+            2388.1338958587767,
+            2394.7655157100035
+          ],
+          "sentences": [
+            "That's so Norman!",
+            "Oh, man, that place is bad news.",
+            "It's Iike a total slasher-movie vibe."
+          ]
+        },
+        {
+          "shot": 568,
+          "duration": [
+            2394.8072240109545,
+            2399.561970319381
+          ],
+          "sentences": [
+            "Why did he go up there?",
+            "I don't know. Maybe we should go Iook for him.",
+            "I told you he was trouble."
+          ]
+        },
+        {
+          "shot": 569,
+          "duration": [
+            2399.6036786203326,
+            2408.4041301210173
+          ],
+          "sentences": [
+            "I told you he was trouble.",
+            "Sorry, but I did.",
+            "No, it's fine. He sucks.",
+            "But I got to make sure he doesn't, you know, die or anything tonight."
+          ]
+        },
+        {
+          "shot": 570,
+          "duration": [
+            2408.4458384219683,
+            2409.9056289552573
+          ],
+          "sentences": [
+            "But I got to make sure he doesn't, you know, die or anything tonight."
+          ]
+        },
+        {
+          "shot": 571,
+          "duration": [
+            2409.9473372562084,
+            2422.167869434884
+          ],
+          "sentences": [
+            "Will you help me?",
+            "Please?",
+            "Okay.",
+            "I guess I should go get some clothes on.",
+            "Mmm!",
+            "Uh, is Norman in trouble?"
+          ]
+        },
+        {
+          "shot": 573,
+          "duration": [
+            2426.6723659376044,
+            2431.2185707412755
+          ],
+          "sentences": [
+            "Are they going to try to eat our brains?",
+            "I think you'll be safe."
+          ]
+        },
+        {
+          "shot": 574,
+          "duration": [
+            2431.2602790422266,
+            2434.38840161356
+          ],
+          "sentences": [
+            "I think you'll be safe.",
+            "Oh, thank God!"
+          ]
+        },
+        {
+          "shot": 575,
+          "duration": [
+            2434.430109914511,
+            2437.725065689649
+          ],
+          "sentences": [
+            "I don't get it.",
+            "Why didn't it work?"
+          ]
+        },
+        {
+          "shot": 577,
+          "duration": [
+            2438.851189815329,
+            2441.395396173347
+          ],
+          "sentences": [
+            "The Story of Sleeping Beauty?"
+          ]
+        },
+        {
+          "shot": 578,
+          "duration": [
+            2441.437104474298,
+            2445.3576847637023
+          ],
+          "sentences": [
+            "The Story of Sleeping Beauty?",
+            "This doesn't make any sense!",
+            "Wait! Where are you going?"
+          ]
+        },
+        {
+          "shot": 579,
+          "duration": [
+            2445.3993930646534,
+            2454.408386070094
+          ],
+          "sentences": [
+            "Mr. Prenderghast, I don't understand. Just tell me what to do!",
+            "Dude, what are you doing?",
+            "He told me to read from the book to stop the curse!"
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            2454.450094371045,
+            2458.0370082528407
+          ],
+          "sentences": [
+            "I thought it was Iike a spell or something, but..."
+          ]
+        },
+        {
+          "shot": 581,
+          "duration": [
+            2458.0787165537918,
+            2463.9595869878985
+          ],
+          "sentences": [
+            "Come on. There has to be something.",
+            "I really need to get home"
+          ]
+        },
+        {
+          "shot": 582,
+          "duration": [
+            2464.0012952888496,
+            2468.3806668887164
+          ],
+          "sentences": [
+            "because I've got a seriously early curfew.",
+            "Okay, seven victims."
+          ]
+        },
+        {
+          "shot": 583,
+          "duration": [
+            2468.4223751896675,
+            2471.1334147514895
+          ],
+          "sentences": [
+            "My mom gets really upset... Seven victims.",
+            "Oh, no."
+          ]
+        },
+        {
+          "shot": 585,
+          "duration": [
+            2472.5932052847784,
+            2476.6806187779875
+          ],
+          "sentences": [
+            "Okay, got to defend ourselves.",
+            "We got to shoot them in the head with, Iike,",
+            "some sort of silver stake or something."
+          ]
+        },
+        {
+          "shot": 586,
+          "duration": [
+            2476.7223270789386,
+            2477.848451204619
+          ],
+          "sentences": [
+            "some sort of silver stake or something."
+          ]
+        },
+        {
+          "shot": 587,
+          "duration": [
+            2477.89015950557,
+            2479.6419081455165
+          ],
+          "sentences": [
+            "Seven victims.",
+            "I'm way too awesome to get eaten."
+          ]
+        },
+        {
+          "shot": 588,
+          "duration": [
+            2479.6836164464676,
+            2481.5187816883167
+          ],
+          "sentences": [
+            "I'm way too awesome to get eaten.",
+            "Seven graves.",
+            "Norman, are you Iistening to me?"
+          ]
+        },
+        {
+          "shot": 589,
+          "duration": [
+            2481.560489989268,
+            2482.811739017801
+          ],
+          "sentences": [
+            "Norman, are you Iistening to me?",
+            "You really got to do something!"
+          ]
+        },
+        {
+          "shot": 590,
+          "duration": [
+            2482.8534473187524,
+            2483.6041967358724
+          ],
+          "sentences": [
+            "You really got to do something!",
+            "The witch's grave!"
+          ]
+        },
+        {
+          "shot": 591,
+          "duration": [
+            2483.6459050368235,
+            2484.64690425965
+          ],
+          "sentences": [
+            "The witch's grave!",
+            "It wasn't there!"
+          ]
+        },
+        {
+          "shot": 592,
+          "duration": [
+            2484.688612560601,
+            2487.983568335739
+          ],
+          "sentences": [
+            "It wasn't there!",
+            "I was reading the book in the wrong place!"
+          ]
+        },
+        {
+          "shot": 595,
+          "duration": [
+            2489.7353169756857,
+            2491.9875652270457
+          ],
+          "sentences": [
+            "Hide! What?"
+          ]
+        },
+        {
+          "shot": 606,
+          "duration": [
+            2538.4089041856337,
+            2557.8449724288516
+          ],
+          "sentences": [
+            "Huh?"
+          ]
+        },
+        {
+          "shot": 621,
+          "duration": [
+            2583.245327708079,
+            2586.4985751822655
+          ],
+          "sentences": [
+            "Come on!"
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            2586.5402834832166,
+            2590.8779467821323
+          ],
+          "sentences": [
+            "And she said, \"I could totally consider",
+            "\"a career in formation swimming.\"",
+            "But I was Iike, \"I want to do something"
+          ]
+        },
+        {
+          "shot": 623,
+          "duration": [
+            2590.9196550830834,
+            2595.0904851781947
+          ],
+          "sentences": [
+            "But I was Iike, \"I want to do something",
+            "\"that helps people Iess fortunate than me, thank you very much.\""
+          ]
+        },
+        {
+          "shot": 624,
+          "duration": [
+            2595.132193479146,
+            2601.471855223715
+          ],
+          "sentences": [
+            "You know? Like, um... Like the poor.",
+            "Or people who are dying, or ugly or something.",
+            "Because I really think that ecology and world peace"
+          ]
+        },
+        {
+          "shot": 625,
+          "duration": [
+            2601.513563524666,
+            2613.358720994782
+          ],
+          "sentences": [
+            "Because I really think that ecology and world peace",
+            "are, Iike, totally important today.",
+            "Do you use free weights? Because your deltoids are huge!",
+            "I've never used deltoids in my Iife, I swear. You can test me."
+          ]
+        },
+        {
+          "shot": 626,
+          "duration": [
+            2613.400429295733,
+            2614.40142851856
+          ],
+          "sentences": [
+            "I've never used deltoids in my Iife, I swear. You can test me."
+          ]
+        },
+        {
+          "shot": 627,
+          "duration": [
+            2614.443136819511,
+            2626.7053772991376
+          ],
+          "sentences": [
+            "Kill me now.",
+            "Thank you for doing this, Mitch.",
+            "He means an awful Iot to me, you know?",
+            "I Iove him Iike he was a brother.",
+            "He is your brother.",
+            "Whoa!"
+          ]
+        },
+        {
+          "shot": 628,
+          "duration": [
+            2626.747085600089,
+            2628.4571259390846
+          ],
+          "sentences": [
+            "Look at that sky!"
+          ]
+        },
+        {
+          "shot": 634,
+          "duration": [
+            2633.378705451316,
+            2634.5048295769957
+          ],
+          "sentences": [
+            "Look out!"
+          ]
+        },
+        {
+          "shot": 635,
+          "duration": [
+            2634.546537877947,
+            2635.338995596018
+          ],
+          "sentences": [
+            "Look out!",
+            "Oh, no!"
+          ]
+        },
+        {
+          "shot": 636,
+          "duration": [
+            2635.380703896969,
+            2636.2982865178938
+          ],
+          "sentences": [
+            "Oh, no!"
+          ]
+        },
+        {
+          "shot": 638,
+          "duration": [
+            2637.132452536916,
+            2637.966618555938
+          ],
+          "sentences": [
+            "That was Norman!"
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            2638.008326856889,
+            2639.5932422930314
+          ],
+          "sentences": [
+            "That was Norman!"
+          ]
+        },
+        {
+          "shot": 644,
+          "duration": [
+            2645.8494874356984,
+            2650.0620258317604
+          ],
+          "sentences": [
+            "Is everyone okay?"
+          ]
+        },
+        {
+          "shot": 645,
+          "duration": [
+            2650.103734132712,
+            2656.526812479183
+          ],
+          "sentences": [
+            "No. No."
+          ]
+        },
+        {
+          "shot": 648,
+          "duration": [
+            2662.3659746123385,
+            2665.6192220865255
+          ],
+          "sentences": [
+            "Uh, hello, sir?"
+          ]
+        },
+        {
+          "shot": 649,
+          "duration": [
+            2665.6609303874766,
+            2669.623218977832
+          ],
+          "sentences": [
+            "Is he dead or what?",
+            "I don't know. He's not moving."
+          ]
+        },
+        {
+          "shot": 650,
+          "duration": [
+            2669.664927278783,
+            2672.084008733948
+          ],
+          "sentences": [
+            "I don't know. He's not moving."
+          ]
+        },
+        {
+          "shot": 651,
+          "duration": [
+            2672.125717034899,
+            2674.7116316938677
+          ],
+          "sentences": [
+            "He's still breathing!"
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            2674.753339994819,
+            2676.1297139262056
+          ],
+          "sentences": [
+            "So, he's okay?"
+          ]
+        },
+        {
+          "shot": 653,
+          "duration": [
+            2676.1714222271567,
+            2684.7216239221348
+          ],
+          "sentences": [
+            "So, he's okay?",
+            "Uh...",
+            "Not exactly.",
+            "What? What did you just say?"
+          ]
+        },
+        {
+          "shot": 654,
+          "duration": [
+            2684.763332223086,
+            2685.9728729506683
+          ],
+          "sentences": [
+            "Does anyone know CPR or..."
+          ]
+        },
+        {
+          "shot": 655,
+          "duration": [
+            2686.0145812516193,
+            2687.808038192517
+          ],
+          "sentences": [
+            "Does anyone know CPR or...",
+            "Run!"
+          ]
+        },
+        {
+          "shot": 656,
+          "duration": [
+            2687.849746493468,
+            2688.7673291143924
+          ],
+          "sentences": [
+            "Run!"
+          ]
+        },
+        {
+          "shot": 662,
+          "duration": [
+            2699.9034454683397,
+            2706.326523814811
+          ],
+          "sentences": [
+            "Did you see that?",
+            "That was insane.",
+            "I know, right? I kicked that, Iike, a hundred yards!",
+            "Norman, what just happened?"
+          ]
+        },
+        {
+          "shot": 663,
+          "duration": [
+            2706.368232115762,
+            2708.1199807557086
+          ],
+          "sentences": [
+            "Norman, what just happened?",
+            "Zombies! I swear, okay?"
+          ]
+        },
+        {
+          "shot": 664,
+          "duration": [
+            2708.1616890566597,
+            2711.998852744162
+          ],
+          "sentences": [
+            "Zombies! I swear, okay?",
+            "We saw them burst out of their graves for real!"
+          ]
+        },
+        {
+          "shot": 665,
+          "duration": [
+            2712.040561045113,
+            2714.1676843936198
+          ],
+          "sentences": [
+            "Just so you know, I totally saved his Iife,"
+          ]
+        },
+        {
+          "shot": 666,
+          "duration": [
+            2714.209392694571,
+            2718.29680618778
+          ],
+          "sentences": [
+            "Just so you know, I totally saved his Iife,",
+            "and I could totally save yours."
+          ]
+        },
+        {
+          "shot": 667,
+          "duration": [
+            2718.338514488731,
+            2720.3822212353357
+          ],
+          "sentences": [
+            "and I could totally save yours.",
+            "Sorry, who are you?",
+            "I'm Alvin."
+          ]
+        },
+        {
+          "shot": 668,
+          "duration": [
+            2720.423929536287,
+            2724.970134339958
+          ],
+          "sentences": [
+            "I'm Alvin.",
+            "Guys? Maybe we should actually drive away now."
+          ]
+        },
+        {
+          "shot": 669,
+          "duration": [
+            2725.011842640909,
+            2727.514340697976
+          ],
+          "sentences": [
+            "Oh, right."
+          ]
+        },
+        {
+          "shot": 680,
+          "duration": [
+            2754.374486510492,
+            2764.6347285444654
+          ],
+          "sentences": [
+            "Pesky kids with their cell phones, burning up the ozone."
+          ]
+        },
+        {
+          "shot": 681,
+          "duration": [
+            2764.6764368454164,
+            2771.349764997595
+          ],
+          "sentences": [
+            "That's what this is.",
+            "What the..."
+          ]
+        },
+        {
+          "shot": 682,
+          "duration": [
+            2771.391473298546,
+            2774.352762666075
+          ],
+          "sentences": [
+            "What the..."
+          ]
+        },
+        {
+          "shot": 683,
+          "duration": [
+            2774.394470967026,
+            2783.1949224677105
+          ],
+          "sentences": [
+            "Ugh! I just knew something Iike this was going to happen tonight.",
+            "You did? Wow. Because that zombie bit really threw me.",
+            "Why do you have to go and get everyone"
+          ]
+        },
+        {
+          "shot": 684,
+          "duration": [
+            2783.2366307686616,
+            2786.031086932386
+          ],
+          "sentences": [
+            "Why do you have to go and get everyone",
+            "involved in all your weird stuff?"
+          ]
+        },
+        {
+          "shot": 685,
+          "duration": [
+            2786.0727952333373,
+            2791.953665667444
+          ],
+          "sentences": [
+            "Well, you weren't supposed to follow me, were you?",
+            "Sorry, my fault. When I'm nervous, I get mouth diarrhea."
+          ]
+        },
+        {
+          "shot": 686,
+          "duration": [
+            2791.995373968395,
+            2793.496872802635
+          ],
+          "sentences": [
+            "Whoa! Diarrhea!"
+          ]
+        },
+        {
+          "shot": 687,
+          "duration": [
+            2793.5385811035862,
+            2795.0400799378262
+          ],
+          "sentences": [
+            "Oh, my gosh! I think I'm having an aneurysm."
+          ]
+        },
+        {
+          "shot": 688,
+          "duration": [
+            2795.0817882387773,
+            2795.8325376558973
+          ],
+          "sentences": [
+            "Oh, my gosh! I think I'm having an aneurysm."
+          ]
+        },
+        {
+          "shot": 689,
+          "duration": [
+            2795.8742459568484,
+            2802.1721994004665
+          ],
+          "sentences": [
+            "Oh, my gosh! I think I'm having an aneurysm.",
+            "Oh, this is so typical of you!",
+            "No. You don't understand. I'm the only one who can stop this, Courtney!"
+          ]
+        },
+        {
+          "shot": 690,
+          "duration": [
+            2802.2139077014176,
+            2807.844528329818
+          ],
+          "sentences": [
+            "Oh, I understand.",
+            "I understand that this is all getting completely out of... Hand!",
+            "Ah!"
+          ]
+        },
+        {
+          "shot": 691,
+          "duration": [
+            2807.886236630769,
+            2808.9706524554977
+          ],
+          "sentences": [
+            "Ah!"
+          ]
+        },
+        {
+          "shot": 693,
+          "duration": [
+            2813.058065948707,
+            2815.310314200067
+          ],
+          "sentences": [
+            "What do we do? What do we do? Mitch!",
+            "I don't know! I don't know!"
+          ]
+        },
+        {
+          "shot": 694,
+          "duration": [
+            2815.352022501018,
+            2818.8138114799603
+          ],
+          "sentences": [
+            "I don't know! I don't know!",
+            "You're the oldest.",
+            "Not mentally!"
+          ]
+        },
+        {
+          "shot": 695,
+          "duration": [
+            2818.8555197809114,
+            2820.4821435180047
+          ],
+          "sentences": [
+            "Oh, great, the cops."
+          ]
+        },
+        {
+          "shot": 696,
+          "duration": [
+            2820.523851818956,
+            2825.153473224529
+          ],
+          "sentences": [
+            "Pull over the vehicle!"
+          ]
+        },
+        {
+          "shot": 697,
+          "duration": [
+            2825.19518152548,
+            2826.2795973502093
+          ],
+          "sentences": [
+            "Norman! How do we stop them?"
+          ]
+        },
+        {
+          "shot": 698,
+          "duration": [
+            2826.3213056511604,
+            2828.865512009178
+          ],
+          "sentences": [
+            "Norman! How do we stop them?",
+            "I'm supposed to read from the book at the witch's grave."
+          ]
+        },
+        {
+          "shot": 699,
+          "duration": [
+            2828.907220310129,
+            2830.325302542467
+          ],
+          "sentences": [
+            "I'm supposed to read from the book at the witch's grave."
+          ]
+        },
+        {
+          "shot": 700,
+          "duration": [
+            2830.367010843418,
+            2832.3273009881204
+          ],
+          "sentences": [
+            "I'm supposed to read from the book at the witch's grave.",
+            "We've got to go back to the graveyard?"
+          ]
+        },
+        {
+          "shot": 701,
+          "duration": [
+            2832.3690092890715,
+            2834.4961326375783
+          ],
+          "sentences": [
+            "She wasn't buried with the others.",
+            "I don't know where else to Iook!"
+          ]
+        },
+        {
+          "shot": 702,
+          "duration": [
+            2834.5378409385294,
+            2836.706672587987
+          ],
+          "sentences": [
+            "I don't know where else to Iook!",
+            "Well, you better think of something, quick!",
+            "Oh, I have an idea!"
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            2836.7483808889383,
+            2837.5825469079605
+          ],
+          "sentences": [
+            "Oh, I have an idea!"
+          ]
+        },
+        {
+          "shot": 704,
+          "duration": [
+            2837.6242552089116,
+            2838.3750046260316
+          ],
+          "sentences": [
+            "Oh, I have an idea!"
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            2838.4167129269827,
+            2851.2628696199254
+          ],
+          "sentences": [
+            "So, Norman, Iet me get this straight.",
+            "You guys all go on this big supernatural adventure,",
+            "and you're calling me in the middle of the night",
+            "because you need someone to help you do your homework?"
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            2851.3045779208765,
+            2853.1814514636767
+          ],
+          "sentences": [
+            "Uh, yeah."
+          ]
+        },
+        {
+          "shot": 707,
+          "duration": [
+            2853.223159764628,
+            2855.1000333074276
+          ],
+          "sentences": [
+            "Uh, yeah."
+          ]
+        },
+        {
+          "shot": 710,
+          "duration": [
+            2857.6442396654456,
+            2860.105029421561
+          ],
+          "sentences": [
+            "We need to find out where the witch is buried!"
+          ]
+        },
+        {
+          "shot": 714,
+          "duration": [
+            2862.6075274786276,
+            2864.526109322379
+          ],
+          "sentences": [
+            "Oh, no!"
+          ]
+        },
+        {
+          "shot": 715,
+          "duration": [
+            2864.56781762333,
+            2865.4854002442544
+          ],
+          "sentences": [
+            "Oh, no!",
+            "I went to the old graveyard, but her grave wasn't there."
+          ]
+        },
+        {
+          "shot": 716,
+          "duration": [
+            2865.5271085452055,
+            2866.4446911661303
+          ],
+          "sentences": [
+            "I went to the old graveyard, but her grave wasn't there."
+          ]
+        },
+        {
+          "shot": 717,
+          "duration": [
+            2866.4863994670814,
+            2868.32156470893
+          ],
+          "sentences": [
+            "I went to the old graveyard, but her grave wasn't there."
+          ]
+        },
+        {
+          "shot": 718,
+          "duration": [
+            2868.363273009881,
+            2878.1230154324417
+          ],
+          "sentences": [
+            "Well, duh.",
+            "People found guilty of witchcraft",
+            "weren't considered people anymore.",
+            "Norman, your witch was buried someplace else.",
+            "In an unmarked grave."
+          ]
+        },
+        {
+          "shot": 719,
+          "duration": [
+            2878.1647237333927,
+            2880.6672217904593
+          ],
+          "sentences": [
+            "Mitch, do something!"
+          ]
+        },
+        {
+          "shot": 724,
+          "duration": [
+            2888.716923874024,
+            2894.5143777062285
+          ],
+          "sentences": [
+            "If you cared to pay attention some of the time,",
+            "you would know that we covered this in fifth-grade history class."
+          ]
+        },
+        {
+          "shot": 725,
+          "duration": [
+            2894.5560860071796,
+            2897.4756670737574
+          ],
+          "sentences": [
+            "Salma! Please hurry!"
+          ]
+        },
+        {
+          "shot": 727,
+          "duration": [
+            2899.0188742089485,
+            2900.270123237482
+          ],
+          "sentences": [
+            "Oh, no!"
+          ]
+        },
+        {
+          "shot": 728,
+          "duration": [
+            2900.311831538433,
+            2902.2721216831355
+          ],
+          "sentences": [
+            "Oh, no!"
+          ]
+        },
+        {
+          "shot": 732,
+          "duration": [
+            2907.8610340105843,
+            2915.910736094149
+          ],
+          "sentences": [
+            "I would google this myself",
+            "if there wasn't a 300-year-old dead guy trying to rip my face off.",
+            "Okay, okay.",
+            "It says here she was tried in the old town hall on Main Street."
+          ]
+        },
+        {
+          "shot": 733,
+          "duration": [
+            2915.9524443951004,
+            2918.413234151216
+          ],
+          "sentences": [
+            "It says here she was tried in the old town hall on Main Street."
+          ]
+        },
+        {
+          "shot": 734,
+          "duration": [
+            2918.454942452167,
+            2921.8750231301583
+          ],
+          "sentences": [
+            "There may be a record of her execution and burial in the archives."
+          ]
+        },
+        {
+          "shot": 735,
+          "duration": [
+            2921.9167314311094,
+            2924.377521187225
+          ],
+          "sentences": [
+            "Quick! She said, \"Go to the town hall!\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1623288_0004",
+      "shot": [
+        742,
+        959
+      ],
+      "frame": [
+        70615,
+        87973
+      ],
+      "duration": [
+        2945.2412530934826,
+        3669.163712093483
+      ],
+      "consistency": 0.9849312134685402,
+      "description": "As the kids make their way to the Town Hall, the zombies eventually lose them and find themselves confused by modern society and then are beset by the citizenry, who attack them en masse. During the riot, the kids break into the archives but cannot find any information they need. As the mob moves to attack Town Hall, Norman (in frustration) temporarily drives away his companions only for them to be trapped by the mob. However, the Witch storm appears and Norman climbs the Hall's tower to desperately attempt to read the book to stop her, but the witch blasts it with lightning and causes him to fall back down into the archives.",
+      "subtitle": [
+        {
+          "shot": 743,
+          "duration": [
+            2947.108545205581,
+            2965.8355723326304
+          ],
+          "sentences": [
+            "Oh, my goodness!",
+            "I really think it might help if you tried",
+            "to see things from his point of view.",
+            "I don't want to.",
+            "Perry, not believing in the afterlife",
+            "is Iike not believing in astrology.",
+            "I have no idea what you're talking about.",
+            "Seriously. Where did you Iearn that?",
+            "Calm down."
+          ]
+        },
+        {
+          "shot": 745,
+          "duration": [
+            2969.7561526220347,
+            2976.804855482773
+          ],
+          "sentences": [
+            "Delinquent drivers! Where are the police when you need them?"
+          ]
+        },
+        {
+          "shot": 767,
+          "duration": [
+            3006.1257910514046,
+            3014.3006180378225
+          ],
+          "sentences": [
+            "- Oh, my gosh. - I broke a nail."
+          ]
+        },
+        {
+          "shot": 768,
+          "duration": [
+            3014.3423263387735,
+            3019.7644054624184
+          ],
+          "sentences": [
+            "I'm going to be sick.",
+            "Yeah! Alvin the zombie slayer! I got you! Ow!",
+            "Ow! Ooh!"
+          ]
+        },
+        {
+          "shot": 770,
+          "duration": [
+            3023.393027645165,
+            3025.6869841974762
+          ],
+          "sentences": [
+            "Baby, I'm so sorry. You'll be all right."
+          ]
+        },
+        {
+          "shot": 771,
+          "duration": [
+            3025.7286924984273,
+            3030.525147107805
+          ],
+          "sentences": [
+            "Baby, I'm so sorry. You'll be all right.",
+            "We're going to get through this together."
+          ]
+        },
+        {
+          "shot": 773,
+          "duration": [
+            3040.2431812294144,
+            3041.994929869361
+          ],
+          "sentences": [
+            "Uh-oh."
+          ]
+        },
+        {
+          "shot": 776,
+          "duration": [
+            3043.9969283150144,
+            3048.960216128197
+          ],
+          "sentences": [
+            "Come on!",
+            "Oh, yeah!"
+          ]
+        },
+        {
+          "shot": 777,
+          "duration": [
+            3049.001924429148,
+            3052.8807964176012
+          ],
+          "sentences": [
+            "Perfect. Now the geeks are in charge."
+          ]
+        },
+        {
+          "shot": 778,
+          "duration": [
+            3052.9225047185523,
+            3053.6315458347212
+          ],
+          "sentences": [
+            "Perfect. Now the geeks are in charge."
+          ]
+        },
+        {
+          "shot": 779,
+          "duration": [
+            3053.6732541356723,
+            3059.0119166574145
+          ],
+          "sentences": [
+            "Perfect. Now the geeks are in charge."
+          ]
+        },
+        {
+          "shot": 802,
+          "duration": [
+            3123.2844084230783,
+            3125.0361570630253
+          ],
+          "sentences": [
+            "Booyah!"
+          ]
+        },
+        {
+          "shot": 813,
+          "duration": [
+            3140.176270308279,
+            3145.5149328300213
+          ],
+          "sentences": [
+            "See? I told you! Zombies!",
+            "It's the witch's curse!"
+          ]
+        },
+        {
+          "shot": 814,
+          "duration": [
+            3145.5566411309724,
+            3147.35009807187
+          ],
+          "sentences": [
+            "Mama?"
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            3147.391806372821,
+            3149.4772214203767
+          ],
+          "sentences": [
+            "What?"
+          ]
+        },
+        {
+          "shot": 816,
+          "duration": [
+            3149.518929721328,
+            3151.6460530698346
+          ],
+          "sentences": [
+            "What should we do?"
+          ]
+        },
+        {
+          "shot": 819,
+          "duration": [
+            3156.3173827763594,
+            3160.7801709781284
+          ],
+          "sentences": [
+            "Kill 'em in the head!",
+            "Yeah!"
+          ]
+        },
+        {
+          "shot": 822,
+          "duration": [
+            3169.9559971873728,
+            3173.9182857777287
+          ],
+          "sentences": [
+            "Hurry! This way!"
+          ]
+        },
+        {
+          "shot": 823,
+          "duration": [
+            3173.9599940786798,
+            3176.420783834795
+          ],
+          "sentences": [
+            "Oh, this is awful!"
+          ]
+        },
+        {
+          "shot": 824,
+          "duration": [
+            3176.4624921357463,
+            3179.59061470708
+          ],
+          "sentences": [
+            "The zombies are, Iike, eating everyone!"
+          ]
+        },
+        {
+          "shot": 827,
+          "duration": [
+            3182.9272787831687,
+            3184.804152325969
+          ],
+          "sentences": [
+            "Come on!"
+          ]
+        },
+        {
+          "shot": 830,
+          "duration": [
+            3194.0633951371155,
+            3194.7307279523334
+          ],
+          "sentences": [
+            "Is everyone all right? Nobody got bitten?"
+          ]
+        },
+        {
+          "shot": 831,
+          "duration": [
+            3194.7724362532845,
+            3199.694015765516
+          ],
+          "sentences": [
+            "Is everyone all right? Nobody got bitten?",
+            "I bit my tongue. Does that count?"
+          ]
+        },
+        {
+          "shot": 833,
+          "duration": [
+            3201.0286813959515,
+            3204.6573035786982
+          ],
+          "sentences": [
+            "Does anyone know how to pick a Iock?"
+          ]
+        },
+        {
+          "shot": 834,
+          "duration": [
+            3204.6990118796493,
+            3212.5818807594096
+          ],
+          "sentences": [
+            "Sure. Picking Iocks is my thing."
+          ]
+        },
+        {
+          "shot": 836,
+          "duration": [
+            3214.4170460012583,
+            3219.3803338144407
+          ],
+          "sentences": [
+            "Boom."
+          ]
+        },
+        {
+          "shot": 843,
+          "duration": [
+            3240.943525406166,
+            3244.9475222974725
+          ],
+          "sentences": [
+            "This is it! This is?"
+          ]
+        },
+        {
+          "shot": 844,
+          "duration": [
+            3244.9892305984235,
+            3247.9922282669036
+          ],
+          "sentences": [
+            "This is it! This is?",
+            "Now we can find out where the witch was buried."
+          ]
+        },
+        {
+          "shot": 845,
+          "duration": [
+            3248.0339365678547,
+            3261.172051367455
+          ],
+          "sentences": [
+            "Uh-oh.",
+            "Whoa.",
+            "Great. I'm super-psyched.",
+            "This is turning into the most fun night ever!"
+          ]
+        },
+        {
+          "shot": 846,
+          "duration": [
+            3261.213759668406,
+            3287.2397394619
+          ],
+          "sentences": [
+            "This is turning into the most fun night ever!",
+            "Man! Zombies take over the world",
+            "and we Iock ourselves in a Iibrary!",
+            "Are you kidding me?",
+            "There's an adult video store just across the street.",
+            "This will be a piece of cake, you'll see.",
+            "Page one.",
+            "Okay, page one.",
+            "I really hate these places.",
+            "Come on.",
+            "Feel it, push yourself.",
+            "That's not it. Time is running out."
+          ]
+        },
+        {
+          "shot": 847,
+          "duration": [
+            3287.2814477628513,
+            3295.7065245549757
+          ],
+          "sentences": [
+            "That's not it. Time is running out.",
+            "Ain't room for no more zombies in this town!",
+            "Yeah!",
+            "Huh?"
+          ]
+        },
+        {
+          "shot": 849,
+          "duration": [
+            3303.4642685318827,
+            3307.1763073165316
+          ],
+          "sentences": [
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 850,
+          "duration": [
+            3307.2180156174827,
+            3310.512971392621
+          ],
+          "sentences": [
+            "Ya-ha-hoo!"
+          ]
+        },
+        {
+          "shot": 851,
+          "duration": [
+            3310.554679693572,
+            3312.5566781392254
+          ],
+          "sentences": [
+            "Ya-ha-hoo!"
+          ]
+        },
+        {
+          "shot": 856,
+          "duration": [
+            3324.5686688131455,
+            3332.576662595759
+          ],
+          "sentences": [
+            "It would have been a quiet night, too,",
+            "if it hadn't been for those meddling kids.",
+            "Hmm!",
+            "Sweet baby jinkies!"
+          ]
+        },
+        {
+          "shot": 858,
+          "duration": [
+            3334.5786610414125,
+            3341.585655601199
+          ],
+          "sentences": [
+            "What do you think you're doing, firing at civilians?",
+            "That is for the police to do!",
+            "Oh, no, no, no, it's okay, Sheriff.",
+            "We've only been shooting at the dead ones."
+          ]
+        },
+        {
+          "shot": 859,
+          "duration": [
+            3341.62736390215,
+            3349.385107879057
+          ],
+          "sentences": [
+            "We've only been shooting at the dead ones.",
+            "It's the Iiving dead, come to take us all to hell!",
+            "We've got to stop them before they get away!"
+          ]
+        },
+        {
+          "shot": 868,
+          "duration": [
+            3376.9960031086935,
+            3384.6286221827468
+          ],
+          "sentences": [
+            "Move along now, people! There isn't anything to see here!"
+          ]
+        },
+        {
+          "shot": 869,
+          "duration": [
+            3384.670330483698,
+            3390.134117908294
+          ],
+          "sentences": [
+            "I saw them! I saw them!",
+            "They're in the town hall!"
+          ]
+        },
+        {
+          "shot": 870,
+          "duration": [
+            3390.175826209245,
+            3391.9275748491914
+          ],
+          "sentences": [
+            "Cry \"Havoc,\" and Iet slip the dogs of war!"
+          ]
+        },
+        {
+          "shot": 871,
+          "duration": [
+            3391.9692831501425,
+            3395.431072129085
+          ],
+          "sentences": [
+            "Cry \"Havoc,\" and Iet slip the dogs of war!"
+          ]
+        },
+        {
+          "shot": 872,
+          "duration": [
+            3395.472780430036,
+            3396.974279264276
+          ],
+          "sentences": [
+            "Cry \"Havoc,\" and Iet slip the dogs of war!"
+          ]
+        },
+        {
+          "shot": 874,
+          "duration": [
+            3400.227526738463,
+            3402.1044002812628
+          ],
+          "sentences": [
+            "Let's rip 'em apart!"
+          ]
+        },
+        {
+          "shot": 875,
+          "duration": [
+            3402.146108582214,
+            3403.230524406943
+          ],
+          "sentences": [
+            "Let's rip 'em apart!"
+          ]
+        },
+        {
+          "shot": 876,
+          "duration": [
+            3403.272232707894,
+            3404.6068983383298
+          ],
+          "sentences": [
+            "Let's rip 'em apart!"
+          ]
+        },
+        {
+          "shot": 881,
+          "duration": [
+            3408.861145035343,
+            3410.4043521705344
+          ],
+          "sentences": [
+            "We're not going to find it in here, Norman."
+          ]
+        },
+        {
+          "shot": 882,
+          "duration": [
+            3410.4460604714855,
+            3413.2822249361607
+          ],
+          "sentences": [
+            "We're not going to find it in here, Norman.",
+            "This is useless!"
+          ]
+        },
+        {
+          "shot": 883,
+          "duration": [
+            3413.323933237112,
+            3420.9148440102144
+          ],
+          "sentences": [
+            "Yeah, I know, and it's also really boring.",
+            "I thought I was driving the van.",
+            "No one told me I was going to have to do this other dumb stuff."
+          ]
+        },
+        {
+          "shot": 884,
+          "duration": [
+            3420.9565523111655,
+            3426.5454646386147
+          ],
+          "sentences": [
+            "If I had known there was so much reading involved,",
+            "I would have brought a completely different group of people who hate me.",
+            "Yes! Book number one, finished!"
+          ]
+        },
+        {
+          "shot": 885,
+          "duration": [
+            3426.587172939566,
+            3433.385625994597
+          ],
+          "sentences": [
+            "Yes! Book number one, finished!",
+            "That is right. Twenty-six pages.",
+            "Oh, yeah!"
+          ]
+        },
+        {
+          "shot": 889,
+          "duration": [
+            3440.893120165797,
+            3445.314200066615
+          ],
+          "sentences": [
+            "I can't believe this is your plan.",
+            "I'm going to get bitten and start eating people's brains.",
+            "I'm supposed to be vegan!"
+          ]
+        },
+        {
+          "shot": 890,
+          "duration": [
+            3445.355908367566,
+            3446.315199289442
+          ],
+          "sentences": [
+            "I'm supposed to be vegan!"
+          ]
+        },
+        {
+          "shot": 891,
+          "duration": [
+            3446.356907590393,
+            3449.1930720550686
+          ],
+          "sentences": [
+            "I'm supposed to be vegan!",
+            "There's something moving out there. I think it's the zombies."
+          ]
+        },
+        {
+          "shot": 892,
+          "duration": [
+            3449.2347803560197,
+            3450.068946375042
+          ],
+          "sentences": [
+            "Hide!"
+          ]
+        },
+        {
+          "shot": 893,
+          "duration": [
+            3450.110654675993,
+            3452.1960697235486
+          ],
+          "sentences": [
+            "Hide!",
+            "Oh, no, it's not. It's just grown-ups.",
+            "Hide!"
+          ]
+        },
+        {
+          "shot": 894,
+          "duration": [
+            3452.2377780244997,
+            3455.1990673920286
+          ],
+          "sentences": [
+            "Hide!"
+          ]
+        },
+        {
+          "shot": 896,
+          "duration": [
+            3457.3678990414865,
+            3463.207061174642
+          ],
+          "sentences": [
+            "That sound. Do you know what that is?",
+            "That's not awesome things."
+          ]
+        },
+        {
+          "shot": 897,
+          "duration": [
+            3463.2487694755932,
+            3466.4603086488287
+          ],
+          "sentences": [
+            "Guys, come on!",
+            "Just give it up, you wiener."
+          ]
+        },
+        {
+          "shot": 898,
+          "duration": [
+            3466.5020169497798,
+            3467.669849376411
+          ],
+          "sentences": [
+            "No, we have to keep trying."
+          ]
+        },
+        {
+          "shot": 899,
+          "duration": [
+            3467.711557677362,
+            3474.0929277228825
+          ],
+          "sentences": [
+            "Uh! We tried, and Iook what happened.",
+            "I'm scared, Norman, and I can't Iisten to this anymore."
+          ]
+        },
+        {
+          "shot": 900,
+          "duration": [
+            3474.1346360238335,
+            3476.845675585656
+          ],
+          "sentences": [
+            "You never Iisten. No one ever Iistens!"
+          ]
+        },
+        {
+          "shot": 901,
+          "duration": [
+            3476.887383886607,
+            3478.5557159246514
+          ],
+          "sentences": [
+            "I'm scared, too, but I've still got to do this."
+          ]
+        },
+        {
+          "shot": 902,
+          "duration": [
+            3478.5974242256025,
+            3491.5269975204474
+          ],
+          "sentences": [
+            "I'm scared, too, but I've still got to do this.",
+            "I do too Iisten!",
+            "And whatever it was you just said, it's not working.",
+            "You think you're going to go out there,",
+            "do your \"talking to the dead\" thing,",
+            "and this is all going to be okay?",
+            "What are you going to do? Huh? Ask the zombies not to eat you?"
+          ]
+        },
+        {
+          "shot": 903,
+          "duration": [
+            3491.5687058213985,
+            3496.0732023241185
+          ],
+          "sentences": [
+            "What are you going to do? Huh? Ask the zombies not to eat you?",
+            "I should have known you wouldn't understand.",
+            "No one ever does!"
+          ]
+        },
+        {
+          "shot": 904,
+          "duration": [
+            3496.1149106250696,
+            3499.660116205914
+          ],
+          "sentences": [
+            "Norman, you need to stop all this weird stuff,"
+          ]
+        },
+        {
+          "shot": 905,
+          "duration": [
+            3499.7018245068653,
+            3506.9173605714077
+          ],
+          "sentences": [
+            "and start Iiving in the real world.",
+            "Everyone in the real world thinks I'm a freak!",
+            "And you know what? Maybe they're right. Maybe I am a freak.",
+            "But I never asked for your help! Just go!"
+          ]
+        },
+        {
+          "shot": 906,
+          "duration": [
+            3506.959068872359,
+            3509.1279005218166
+          ],
+          "sentences": [
+            "But I never asked for your help! Just go!"
+          ]
+        },
+        {
+          "shot": 907,
+          "duration": [
+            3509.1696088227677,
+            3519.221309351986
+          ],
+          "sentences": [
+            "Get out!",
+            "Jeez, that was dramatic.",
+            "Ugh! Come on!"
+          ]
+        },
+        {
+          "shot": 909,
+          "duration": [
+            3520.9730579919324,
+            3531.233300025906
+          ],
+          "sentences": [
+            "I'm not going anywhere. You can't make me.",
+            "Oh!",
+            "Dude, you're really heavy."
+          ]
+        },
+        {
+          "shot": 910,
+          "duration": [
+            3531.275008326857,
+            3538.031753080937
+          ],
+          "sentences": [
+            "I'm not speaking to you. You can't make me."
+          ]
+        },
+        {
+          "shot": 913,
+          "duration": [
+            3543.3287073017286,
+            3545.789497057844
+          ],
+          "sentences": [
+            "Um, excuse me! Hello?"
+          ]
+        },
+        {
+          "shot": 916,
+          "duration": [
+            3551.4201176862443,
+            3555.590947781355
+          ],
+          "sentences": [
+            "They're in there, all right. I can feel its clammy flesh!"
+          ]
+        },
+        {
+          "shot": 919,
+          "duration": [
+            3561.680359720218,
+            3568.2285629695425
+          ],
+          "sentences": [
+            "Hello?"
+          ]
+        },
+        {
+          "shot": 926,
+          "duration": [
+            3580.407386847267,
+            3584.828466748085
+          ],
+          "sentences": [
+            "Help! Somebody, help me!"
+          ]
+        },
+        {
+          "shot": 927,
+          "duration": [
+            3584.870175049036,
+            3586.2465489804226
+          ],
+          "sentences": [
+            "Help! Somebody, help me!"
+          ]
+        },
+        {
+          "shot": 928,
+          "duration": [
+            3586.2882572813737,
+            3588.7490470374896
+          ],
+          "sentences": [
+            "Let's burn them out!"
+          ]
+        },
+        {
+          "shot": 931,
+          "duration": [
+            3592.0440028126272,
+            3593.9208763554275
+          ],
+          "sentences": [
+            "We're all going to die!"
+          ]
+        },
+        {
+          "shot": 932,
+          "duration": [
+            3593.9625846563786,
+            3595.5057917915697
+          ],
+          "sentences": [
+            "We're all going to die!"
+          ]
+        },
+        {
+          "shot": 942,
+          "duration": [
+            3617.819732800415,
+            3625.410643573517
+          ],
+          "sentences": [
+            "Oh, my gosh.",
+            "Do you think this has got anything to do with Norman?",
+            "Of course not.",
+            "Everyone, Iook!"
+          ]
+        },
+        {
+          "shot": 944,
+          "duration": [
+            3626.2448095925392,
+            3627.8297250286814
+          ],
+          "sentences": [
+            "Perry, do something!"
+          ]
+        },
+        {
+          "shot": 945,
+          "duration": [
+            3627.8714333296325,
+            3633.877428666593
+          ],
+          "sentences": [
+            "Perry, do something!",
+            "Norman! Get down from there this instant!",
+            "You're supposed to be grounded!"
+          ]
+        },
+        {
+          "shot": 946,
+          "duration": [
+            3633.919136967544,
+            3637.1723844417306
+          ],
+          "sentences": [
+            "You horrible old witch! Is this what you want?"
+          ]
+        },
+        {
+          "shot": 947,
+          "duration": [
+            3637.2140927426817,
+            3638.298508567411
+          ],
+          "sentences": [
+            "You horrible old witch! Is this what you want?"
+          ]
+        },
+        {
+          "shot": 948,
+          "duration": [
+            3638.340216868362,
+            3640.425631915917
+          ],
+          "sentences": [
+            "Necromancer!"
+          ]
+        },
+        {
+          "shot": 949,
+          "duration": [
+            3640.4673402168687,
+            3645.2220865252953
+          ],
+          "sentences": [
+            "Necromancer!",
+            "This is all his doing!",
+            "Norman!"
+          ]
+        },
+        {
+          "shot": 951,
+          "duration": [
+            3647.6411679804596,
+            3653.8557048221755
+          ],
+          "sentences": [
+            "\"Once upon a time, in a far-off Iand,",
+            "\"there Iived a king and a queen in a magnificent castle.\""
+          ]
+        },
+        {
+          "shot": 952,
+          "duration": [
+            3653.8974131231266,
+            3656.9421190925577
+          ],
+          "sentences": [
+            "\"there Iived a king and a queen in a magnificent castle.\"",
+            "Why won't you Iisten to me? Why are you doing this?"
+          ]
+        },
+        {
+          "shot": 953,
+          "duration": [
+            3656.983827393509,
+            3659.486325450576
+          ],
+          "sentences": [
+            "Why won't you Iisten to me? Why are you doing this?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1623288_0005",
+      "shot": [
+        968,
+        1010
+      ],
+      "frame": [
+        89164,
+        94832
+      ],
+      "duration": [
+        3718.8889460049595,
+        3955.2527400049594
+      ],
+      "consistency": 0.9321556667854141,
+      "description": "Unconscious, Norman has a dream where he learns that the witch was actually Agatha Prenderghast, an innocent little girl of his age who was also a medium, unjustly condemned by the town's superstitious and frightened elite, who were then cursed to reawaken as the undead by Agatha as she was taken for execution. After awakening, Norman encounters the zombies and realizes that all they wanted was to speak with him to ensure he would take up the ritual to minimize the harm of the terrible mistake they made with Agatha. However, Norman decides that this gesture is not enough and resolves to find Agatha's ghost to arrive at a permanent solution.",
+      "subtitle": [
+        {
+          "shot": 968,
+          "duration": [
+            3718.8789460049593,
+            3721.5899855667817
+          ],
+          "sentences": [
+            "according to your grievous crimes,"
+          ]
+        },
+        {
+          "shot": 969,
+          "duration": [
+            3721.631693867733,
+            3723.4668591095815
+          ],
+          "sentences": [
+            "execution!"
+          ]
+        },
+        {
+          "shot": 970,
+          "duration": [
+            3723.5085674105326,
+            3739.3994300729064
+          ],
+          "sentences": [
+            "No! No!",
+            "Do you have anything to say for yourself?",
+            "I was only playing."
+          ]
+        },
+        {
+          "shot": 971,
+          "duration": [
+            3739.4411383738575,
+            3743.5702601680177
+          ],
+          "sentences": [
+            "Aye! With fire!",
+            "You were speaking with the dead!"
+          ]
+        },
+        {
+          "shot": 972,
+          "duration": [
+            3743.611968468969,
+            3746.1561748269864
+          ],
+          "sentences": [
+            "You were speaking with the dead!",
+            "Wait! No! I'll not risk damnation"
+          ]
+        },
+        {
+          "shot": 973,
+          "duration": [
+            3746.1978831279375,
+            3749.3260056992713
+          ],
+          "sentences": [
+            "Wait! No! I'll not risk damnation",
+            "on these good people.",
+            "No, you can't do this!"
+          ]
+        },
+        {
+          "shot": 974,
+          "duration": [
+            3749.3677140002223,
+            3751.3280041449243
+          ],
+          "sentences": [
+            "No, you can't do this!",
+            "I didn't do anything wrong!"
+          ]
+        },
+        {
+          "shot": 975,
+          "duration": [
+            3751.3697124458754,
+            3758.918914918027
+          ],
+          "sentences": [
+            "I didn't do anything wrong!",
+            "You are to be taken to the place of execution",
+            "where you will be hanged by the neck",
+            "until you be dead.",
+            "Stop!"
+          ]
+        },
+        {
+          "shot": 976,
+          "duration": [
+            3758.960623218978,
+            3762.630953702676
+          ],
+          "sentences": [
+            "Leave me alone or I'll make you sorry!",
+            "I'll make all of you sorry!"
+          ]
+        },
+        {
+          "shot": 977,
+          "duration": [
+            3762.672662003627,
+            3778.1047333555384
+          ],
+          "sentences": [
+            "I'll make all of you sorry!"
+          ]
+        },
+        {
+          "shot": 984,
+          "duration": [
+            3803.588505236668,
+            3812.2638318344993
+          ],
+          "sentences": [
+            "How could you?",
+            "She was just a Iittle kid.",
+            "She was no different than me."
+          ]
+        },
+        {
+          "shot": 985,
+          "duration": [
+            3812.3055401354504,
+            3816.518078531513
+          ],
+          "sentences": [
+            "Keep away from me!"
+          ]
+        },
+        {
+          "shot": 986,
+          "duration": [
+            3816.559786832464,
+            3824.067281003664
+          ],
+          "sentences": [
+            "You must stop",
+            "the curse."
+          ]
+        },
+        {
+          "shot": 987,
+          "duration": [
+            3824.108989304615,
+            3830.031568039673
+          ],
+          "sentences": [
+            "What?",
+            "You don't want to kill me?"
+          ]
+        },
+        {
+          "shot": 988,
+          "duration": [
+            3830.073276340624,
+            3862.6474593834428
+          ],
+          "sentences": [
+            "You can speak to the dead.",
+            "To us.",
+            "To her.",
+            "We need you to read from the book",
+            "to send us all back to the grave.",
+            "But it didn't work!",
+            "It's a fairy tale!",
+            "Just a bedtime story.",
+            "That's it, isn't it?"
+          ]
+        },
+        {
+          "shot": 989,
+          "duration": [
+            3862.689167684394,
+            3870.154953554643
+          ],
+          "sentences": [
+            "That's it, isn't it?",
+            "A bedtime story, to keep a Iittle girl asleep for another year.",
+            "And now you need my help because"
+          ]
+        },
+        {
+          "shot": 990,
+          "duration": [
+            3870.196661855594,
+            3875.66044928019
+          ],
+          "sentences": [
+            "And now you need my help because",
+            "I'm the only one who can read it to her.",
+            "Here's your book!"
+          ]
+        },
+        {
+          "shot": 991,
+          "duration": [
+            3875.702157581141,
+            3876.494615299212
+          ],
+          "sentences": [
+            "Here's your book!"
+          ]
+        },
+        {
+          "shot": 992,
+          "duration": [
+            3876.536323600163,
+            3877.203656415381
+          ],
+          "sentences": [
+            "Here's your book!"
+          ]
+        },
+        {
+          "shot": 993,
+          "duration": [
+            3877.245364716332,
+            3880.0815291810077
+          ],
+          "sentences": [
+            "Try reading it yourself."
+          ]
+        },
+        {
+          "shot": 995,
+          "duration": [
+            3882.6674438399764,
+            3885.0865252951407
+          ],
+          "sentences": [
+            "Why did you do it?"
+          ]
+        },
+        {
+          "shot": 996,
+          "duration": [
+            3885.1282335960923,
+            3888.3397727693277
+          ],
+          "sentences": [
+            "We were scared."
+          ]
+        },
+        {
+          "shot": 997,
+          "duration": [
+            3888.381481070279,
+            3890.4251878168834
+          ],
+          "sentences": [
+            "Of what?"
+          ]
+        },
+        {
+          "shot": 998,
+          "duration": [
+            3890.4668961178345,
+            3893.886976795826
+          ],
+          "sentences": [
+            "Of her."
+          ]
+        },
+        {
+          "shot": 999,
+          "duration": [
+            3893.928685096777,
+            3899.934680433737
+          ],
+          "sentences": [
+            "I believed we were doing what was right."
+          ]
+        },
+        {
+          "shot": 1000,
+          "duration": [
+            3899.976388734688,
+            3908.5682987306172
+          ],
+          "sentences": [
+            "I was wrong.",
+            "Now, this is our punishment."
+          ]
+        },
+        {
+          "shot": 1001,
+          "duration": [
+            3908.6100070315683,
+            3910.486880574368
+          ],
+          "sentences": [
+            "We thought we knew our way in Iife,"
+          ]
+        },
+        {
+          "shot": 1002,
+          "duration": [
+            3910.528588875319,
+            3921.3310388216573
+          ],
+          "sentences": [
+            "We thought we knew our way in Iife,",
+            "but in death,",
+            "we are Iost.",
+            "Please help us."
+          ]
+        },
+        {
+          "shot": 1003,
+          "duration": [
+            3921.3727471226084,
+            3927.211909255764
+          ],
+          "sentences": [
+            "Every year, someone reads the story at her grave."
+          ]
+        },
+        {
+          "shot": 1004,
+          "duration": [
+            3927.253617556715,
+            3934.5108619222087
+          ],
+          "sentences": [
+            "Before me, it was Mr. Prenderghast,",
+            "and before him, there were others,"
+          ]
+        },
+        {
+          "shot": 1005,
+          "duration": [
+            3934.55257022316,
+            3941.9766477924577
+          ],
+          "sentences": [
+            "but the curse doesn't ever go away.",
+            "Nothing gets better. It's not enough."
+          ]
+        },
+        {
+          "shot": 1006,
+          "duration": [
+            3942.018356093409,
+            3946.064061285667
+          ],
+          "sentences": [
+            "What will you do?"
+          ]
+        },
+        {
+          "shot": 1007,
+          "duration": [
+            3946.105769586618,
+            3950.109766477925
+          ],
+          "sentences": [
+            "Something nobody ever did before."
+          ]
+        },
+        {
+          "shot": 1008,
+          "duration": [
+            3950.151474778876,
+            3953.529847155916
+          ],
+          "sentences": [
+            "I've got to go talk to her."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1623288_0006",
+      "shot": [
+        1015,
+        1131
+      ],
+      "frame": [
+        95381,
+        104991
+      ],
+      "duration": [
+        3978.217182999001,
+        4378.968161999001
+      ],
+      "consistency": 0.9526156241779279,
+      "description": "Norman attempts to help the zombies slip away to have them guide him to Agatha's grave, but are cornered by the mob. However, Courtney, who has come to realize her brother's true abilities, heroism and task, confronts the crowd and convinces them to back off. As the witch storm rages ever more destructively, Judge Hopkins guides Norman's family to the grave in a forest. Unfortunately, Agatha's magic separates Norman from the others and he must reach the grave on his own to save the town.",
+      "subtitle": [
+        {
+          "shot": 1015,
+          "duration": [
+            3977.345286999001,
+            3979.8477850560676
+          ],
+          "sentences": [
+            "and then, technically, you'll have Ionger."
+          ]
+        },
+        {
+          "shot": 1017,
+          "duration": [
+            3981.4327004922097,
+            3983.267865734059
+          ],
+          "sentences": [
+            "Norman?"
+          ]
+        },
+        {
+          "shot": 1018,
+          "duration": [
+            3983.30957403501,
+            3985.603530587321
+          ],
+          "sentences": [
+            "Come on! This way!"
+          ]
+        },
+        {
+          "shot": 1019,
+          "duration": [
+            3985.645238888272,
+            3987.6055290329746
+          ],
+          "sentences": [
+            "You've got to be kidding me."
+          ]
+        },
+        {
+          "shot": 1028,
+          "duration": [
+            4003.4963916953484,
+            4005.623515043855
+          ],
+          "sentences": [
+            "You stay right where you are!"
+          ]
+        },
+        {
+          "shot": 1029,
+          "duration": [
+            4005.6652233448062,
+            4006.9998889752414
+          ],
+          "sentences": [
+            "You may be dead already, but I will still shoot you!"
+          ]
+        },
+        {
+          "shot": 1030,
+          "duration": [
+            4007.0415972761925,
+            4007.7923466933125
+          ],
+          "sentences": [
+            "You may be dead already, but I will still shoot you!"
+          ]
+        },
+        {
+          "shot": 1031,
+          "duration": [
+            4007.834054994264,
+            4008.960179119944
+          ],
+          "sentences": [
+            "You may be dead already, but I will still shoot you!"
+          ]
+        },
+        {
+          "shot": 1032,
+          "duration": [
+            4009.001887420895,
+            4010.419969653233
+          ],
+          "sentences": [
+            "Wait! Oh, my gosh."
+          ]
+        },
+        {
+          "shot": 1033,
+          "duration": [
+            4010.461677954184,
+            4011.462677177011
+          ],
+          "sentences": [
+            "Wait! Oh, my gosh."
+          ]
+        },
+        {
+          "shot": 1035,
+          "duration": [
+            4012.672217904593,
+            4013.9234669331263
+          ],
+          "sentences": [
+            "Son! Step away from the zombies!"
+          ]
+        },
+        {
+          "shot": 1036,
+          "duration": [
+            4013.9651752340774,
+            4016.425964990193
+          ],
+          "sentences": [
+            "Son! Step away from the zombies!",
+            "No, I won't."
+          ]
+        },
+        {
+          "shot": 1037,
+          "duration": [
+            4016.467673291144,
+            4018.0525887272865
+          ],
+          "sentences": [
+            "No, I won't."
+          ]
+        },
+        {
+          "shot": 1038,
+          "duration": [
+            4018.0942970282376,
+            4026.477665519411
+          ],
+          "sentences": [
+            "Perry, calm down!",
+            "You're going to have a heart attack,",
+            "and then what are you going to do?",
+            "I'll come back and haunt Norman!",
+            "Maybe then he'll start Iistening to me."
+          ]
+        },
+        {
+          "shot": 1039,
+          "duration": [
+            4026.519373820362,
+            4032.567077458273
+          ],
+          "sentences": [
+            "No! No, you don't understand what's happening here.",
+            "I spoke to them, and it's not what you think."
+          ]
+        },
+        {
+          "shot": 1040,
+          "duration": [
+            4032.6087857592242,
+            4034.819325709633
+          ],
+          "sentences": [
+            "The curse isn't about the zombies hurting you,"
+          ]
+        },
+        {
+          "shot": 1041,
+          "duration": [
+            4034.8610340105847,
+            4037.6137818733578
+          ],
+          "sentences": [
+            "The curse isn't about the zombies hurting you,",
+            "it's about you hurting them."
+          ]
+        },
+        {
+          "shot": 1042,
+          "duration": [
+            4037.655490174309,
+            4040.8253210465937
+          ],
+          "sentences": [
+            "I figured it out, and I know a way to stop this.",
+            "He's in Ieague with them!"
+          ]
+        },
+        {
+          "shot": 1043,
+          "duration": [
+            4040.8670293475448,
+            4042.493653084638
+          ],
+          "sentences": [
+            "He's in Ieague with them!"
+          ]
+        },
+        {
+          "shot": 1044,
+          "duration": [
+            4042.535361385589,
+            4044.2036934236335
+          ],
+          "sentences": [
+            "Let's hang him!"
+          ]
+        },
+        {
+          "shot": 1045,
+          "duration": [
+            4044.2454017245846,
+            4046.998149587358
+          ],
+          "sentences": [
+            "We can't hang him, stupid! It's the 21st century!"
+          ]
+        },
+        {
+          "shot": 1046,
+          "duration": [
+            4047.039857888309,
+            4048.833314829207
+          ],
+          "sentences": [
+            "Then Iet's burn him!",
+            "Can you stop being a mob for just one minute?"
+          ]
+        },
+        {
+          "shot": 1047,
+          "duration": [
+            4048.8750231301583,
+            4051.794604196736
+          ],
+          "sentences": [
+            "Can you stop being a mob for just one minute?"
+          ]
+        },
+        {
+          "shot": 1048,
+          "duration": [
+            4051.8363124976872,
+            4053.045853225269
+          ],
+          "sentences": [
+            "Listen to me!",
+            "Get them before they eat us!"
+          ]
+        },
+        {
+          "shot": 1049,
+          "duration": [
+            4053.0875615262203,
+            4055.214684874727
+          ],
+          "sentences": [
+            "Get them before they eat us!"
+          ]
+        },
+        {
+          "shot": 1054,
+          "duration": [
+            4058.926723659376,
+            4060.803597202176
+          ],
+          "sentences": [
+            "Leave him alone!"
+          ]
+        },
+        {
+          "shot": 1062,
+          "duration": [
+            4070.438214721883,
+            4074.6090448169944
+          ],
+          "sentences": [
+            "Hand, Alvin. My hand."
+          ]
+        },
+        {
+          "shot": 1064,
+          "duration": [
+            4076.777876466452,
+            4080.5733318530033
+          ],
+          "sentences": [
+            "Everybody, Iisten up!",
+            "You all need to stop trying to kill my brother!"
+          ]
+        },
+        {
+          "shot": 1065,
+          "duration": [
+            4080.6150401539544,
+            4082.575330298657
+          ],
+          "sentences": [
+            "You all need to stop trying to kill my brother!"
+          ]
+        },
+        {
+          "shot": 1066,
+          "duration": [
+            4082.617038599608,
+            4083.9517042300436
+          ],
+          "sentences": [
+            "You're adults!"
+          ]
+        },
+        {
+          "shot": 1067,
+          "duration": [
+            4083.9934125309946,
+            4085.8285777728433
+          ],
+          "sentences": [
+            "You stop it!"
+          ]
+        },
+        {
+          "shot": 1068,
+          "duration": [
+            4085.8702860737944,
+            4091.70944820695
+          ],
+          "sentences": [
+            "I know that this seems crazy.",
+            "Believe me, I am with you on that.",
+            "But I think he does actually know what he's talking about."
+          ]
+        },
+        {
+          "shot": 1069,
+          "duration": [
+            4091.751156507901,
+            4094.545612671626
+          ],
+          "sentences": [
+            "But I think he does actually know what he's talking about.",
+            "AII night, he's been trying to save you from the witch's curse."
+          ]
+        },
+        {
+          "shot": 1070,
+          "duration": [
+            4094.587320972577,
+            4105.389770918915
+          ],
+          "sentences": [
+            "AII night, he's been trying to save you from the witch's curse.",
+            "Yeah! Yeah!",
+            "And all you want to do is burn and murder stuff, burn and murder stuff."
+          ]
+        },
+        {
+          "shot": 1071,
+          "duration": [
+            4105.431479219867,
+            4107.600310869324
+          ],
+          "sentences": [
+            "Just burning and murdering."
+          ]
+        },
+        {
+          "shot": 1072,
+          "duration": [
+            4107.6420191702755,
+            4112.3133488768
+          ],
+          "sentences": [
+            "Yeah, shame on every single one of you!",
+            "How dare you all?"
+          ]
+        },
+        {
+          "shot": 1073,
+          "duration": [
+            4112.3550571777505,
+            4116.3590540690575
+          ],
+          "sentences": [
+            "So, they're not going to hurt us?"
+          ]
+        },
+        {
+          "shot": 1074,
+          "duration": [
+            4116.400762370009,
+            4122.490174308871
+          ],
+          "sentences": [
+            "No.",
+            "Does it Iook Iike any of them are trying to hurt you?",
+            "They're just people."
+          ]
+        },
+        {
+          "shot": 1075,
+          "duration": [
+            4122.531882609822,
+            4128.496169645831
+          ],
+          "sentences": [
+            "Well, at Ieast they used to be.",
+            "Just stupid people who should have known better."
+          ]
+        },
+        {
+          "shot": 1076,
+          "duration": [
+            4128.537877946782,
+            4138.047370563636
+          ],
+          "sentences": [
+            "They did something unforgivable because they were scared,",
+            "and they were cursed for it.",
+            "Now it's happening all over again."
+          ]
+        },
+        {
+          "shot": 1077,
+          "duration": [
+            4138.089078864587,
+            4144.512157211058
+          ],
+          "sentences": [
+            "Don't you get it? They were just Iike you.",
+            "But now it has to stop."
+          ]
+        },
+        {
+          "shot": 1078,
+          "duration": [
+            4144.553865512009,
+            4150.768402353725
+          ],
+          "sentences": [
+            "For good."
+          ]
+        },
+        {
+          "shot": 1097,
+          "duration": [
+            4184.176751415565,
+            4187.429998889753
+          ],
+          "sentences": [
+            "Jeez, what is her problem?"
+          ]
+        },
+        {
+          "shot": 1101,
+          "duration": [
+            4192.309870101033,
+            4203.362569853078
+          ],
+          "sentences": [
+            "Oh, Norman!",
+            "So, what do we do now?",
+            "I really don't know.",
+            "Yes, you do, Norman."
+          ]
+        },
+        {
+          "shot": 1102,
+          "duration": [
+            4203.404278154028,
+            4204.155027571149
+          ],
+          "sentences": [
+            "You've got to get to that witch's grave."
+          ]
+        },
+        {
+          "shot": 1103,
+          "duration": [
+            4204.196735872099,
+            4207.616816550091
+          ],
+          "sentences": [
+            "You've got to get to that witch's grave.",
+            "But... But nothing! Listen to me, buster."
+          ]
+        },
+        {
+          "shot": 1104,
+          "duration": [
+            4207.658524851042,
+            4211.745938344251
+          ],
+          "sentences": [
+            "We didn't turn away",
+            "when Daleridge High was slaughtering our volleyball team, did we?",
+            "I thought we did. No, we didn't."
+          ]
+        },
+        {
+          "shot": 1105,
+          "duration": [
+            4211.787646645202,
+            4212.496687761371
+          ],
+          "sentences": [
+            "I thought we did. No, we didn't."
+          ]
+        },
+        {
+          "shot": 1106,
+          "duration": [
+            4212.538396062322,
+            4217.376558972651
+          ],
+          "sentences": [
+            "I thought we did. No, we didn't.",
+            "I have cheered the uncheerable, Norman,",
+            "and I'm not Ietting you give up now!"
+          ]
+        },
+        {
+          "shot": 1107,
+          "duration": [
+            4217.418267273602,
+            4224.675511639096
+          ],
+          "sentences": [
+            "and I'm not Ietting you give up now!",
+            "Dad, could I borrow the car?",
+            "Excuse me?",
+            "Officials are urging people to panic and run..."
+          ]
+        },
+        {
+          "shot": 1108,
+          "duration": [
+            4224.717219940047,
+            4228.095592317087
+          ],
+          "sentences": [
+            "Officials are urging people to panic and run..."
+          ]
+        },
+        {
+          "shot": 1111,
+          "duration": [
+            4243.068872358536,
+            4247.3648273565
+          ],
+          "sentences": [
+            "Whoo, boy. The traffic tonight, huh?"
+          ]
+        },
+        {
+          "shot": 1112,
+          "duration": [
+            4247.406535657452,
+            4275.768180304208
+          ],
+          "sentences": [
+            "Norman! Uh!",
+            "He's on my side of the seat.",
+            "She wants you to move over.",
+            "Um, I heard that!",
+            "Mom, tell the zombie to stop saying stuff about me.",
+            "Can you quit using the \"Z\" word?",
+            "So help me, I will stop this car right now",
+            "if all three of you don't quit it this instant!"
+          ]
+        },
+        {
+          "shot": 1113,
+          "duration": [
+            4275.809888605159,
+            4284.944006513452
+          ],
+          "sentences": [
+            "He says, take a Ieft here.",
+            "We've already been this way! We're going around in circles!",
+            "Maybe we should pull over and ask someone."
+          ]
+        },
+        {
+          "shot": 1114,
+          "duration": [
+            4284.985714814404,
+            4301.8358683986535
+          ],
+          "sentences": [
+            "Oh, right! You think maybe we should stop at a graveyard",
+            "and dig up some other 18th-century corpses?",
+            "It's not a bad idea.",
+            "I wish I understood you.",
+            "Please don't tell me he needs to use the bathroom.",
+            "Turn down there!"
+          ]
+        },
+        {
+          "shot": 1115,
+          "duration": [
+            4301.877576699604,
+            4311.011694607898
+          ],
+          "sentences": [
+            "Oh, my. Do you think that's it?"
+          ]
+        },
+        {
+          "shot": 1116,
+          "duration": [
+            4311.0534029088485,
+            4325.025683727471
+          ],
+          "sentences": [
+            "So, why are we here?",
+            "Someone has got to talk to her, Dad.",
+            "Yeah. Why is that person you, exactly?"
+          ]
+        },
+        {
+          "shot": 1117,
+          "duration": [
+            4325.067392028423,
+            4338.872839643241
+          ],
+          "sentences": [
+            "Yeah. Why is that person you, exactly?"
+          ]
+        },
+        {
+          "shot": 1120,
+          "duration": [
+            4341.750712408867,
+            4344.12808556308
+          ],
+          "sentences": [
+            "Oh, my goodness. Look out!"
+          ]
+        },
+        {
+          "shot": 1121,
+          "duration": [
+            4344.169793864032,
+            4345.212501387809
+          ],
+          "sentences": [
+            "Mom!"
+          ]
+        },
+        {
+          "shot": 1122,
+          "duration": [
+            4345.254209688761,
+            4347.423041338218
+          ],
+          "sentences": [
+            "Mom!",
+            "Perry! Do something!"
+          ]
+        },
+        {
+          "shot": 1123,
+          "duration": [
+            4347.46474963917,
+            4351.0099552200145
+          ],
+          "sentences": [
+            "I am trying!",
+            "Kick it in the knothole!"
+          ]
+        },
+        {
+          "shot": 1125,
+          "duration": [
+            4353.137078568521,
+            4359.685281817846
+          ],
+          "sentences": [
+            "Norman?",
+            "I'm okay, Mom!",
+            "Just wait for me here. Don't worry."
+          ]
+        },
+        {
+          "shot": 1126,
+          "duration": [
+            4359.7269901187965,
+            4363.98123681581
+          ],
+          "sentences": [
+            "Just wait for me here. Don't worry.",
+            "Be careful!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1623288_0007",
+      "shot": [
+        1132,
+        1244
+      ],
+      "frame": [
+        105142,
+        112602
+      ],
+      "duration": [
+        4385.303691028423,
+        4696.423831134451
+      ],
+      "consistency": 0.9178141466401298,
+      "description": "Norman finds the grave, and soon confronted by the vengeful spirit of Agatha, interacting with her in the spirit dimension. She tries to drive him away, but Norman resolutely holds his ground, telling her that he understands how she feels as an outcast. As she struggles to drive him away, Norman endures her assault and eventually convinces her that, despite her legitimate grievance, her thirst for vengeance is accomplishing nothing but inflicting more pain and persuades her to stop. Norman tries to convince her that even in the darkest times, there must have been someone who was kind to her. Focusing only on the tragedies and forgetting the good things in her life is what reduced her to a malevolent force devoid of her true identity.",
+      "subtitle": [
+        {
+          "shot": 1136,
+          "duration": [
+            4396.930794567189,
+            4403.687539321269
+          ],
+          "sentences": [
+            "Uh...",
+            "Hello?",
+            "You're not welcome here."
+          ]
+        },
+        {
+          "shot": 1137,
+          "duration": [
+            4403.72924762222,
+            4408.6091188335
+          ],
+          "sentences": [
+            "Go away."
+          ]
+        },
+        {
+          "shot": 1138,
+          "duration": [
+            4408.650827134451,
+            4419.369860478887
+          ],
+          "sentences": [
+            "I really need to speak with you.",
+            "Who are you?",
+            "I'm Norman. Norman Babcock.",
+            "You don't actually know me, but I know you."
+          ]
+        },
+        {
+          "shot": 1139,
+          "duration": [
+            4419.4115687798385,
+            4420.787942711225
+          ],
+          "sentences": [
+            "You don't actually know me, but I know you."
+          ]
+        },
+        {
+          "shot": 1140,
+          "duration": [
+            4420.829651012176,
+            4422.831649457829
+          ],
+          "sentences": [
+            "You don't actually know me, but I know you.",
+            "We're actually kind of the same, you and I."
+          ]
+        },
+        {
+          "shot": 1141,
+          "duration": [
+            4422.87335775878,
+            4425.4175641167985
+          ],
+          "sentences": [
+            "We're actually kind of the same, you and I.",
+            "You're not dead."
+          ]
+        },
+        {
+          "shot": 1142,
+          "duration": [
+            4425.459272417749,
+            4431.798934162319
+          ],
+          "sentences": [
+            "Well, no, apart from that.",
+            "And you're a boy.",
+            "Well, yes. That, too."
+          ]
+        },
+        {
+          "shot": 1143,
+          "duration": [
+            4431.840642463269,
+            4433.8426409089225
+          ],
+          "sentences": [
+            "Well, yes. That, too."
+          ]
+        },
+        {
+          "shot": 1144,
+          "duration": [
+            4433.884349209874,
+            4437.387846489767
+          ],
+          "sentences": [
+            "You're not like me at all!",
+            "Well, I know how you feel."
+          ]
+        },
+        {
+          "shot": 1145,
+          "duration": [
+            4437.429554790719,
+            4439.76521964398
+          ],
+          "sentences": [
+            "Well, I know how you feel.",
+            "No, you don't. You don't know anything about me."
+          ]
+        },
+        {
+          "shot": 1146,
+          "duration": [
+            4439.806927944932,
+            4440.6410939639545
+          ],
+          "sentences": [
+            "No, you don't. You don't know anything about me."
+          ]
+        },
+        {
+          "shot": 1147,
+          "duration": [
+            4440.682802264905,
+            4443.769216535287
+          ],
+          "sentences": [
+            "No, you don't. You don't know anything about me.",
+            "I know your name is Agatha Prenderghast."
+          ]
+        },
+        {
+          "shot": 1148,
+          "duration": [
+            4443.810924836239,
+            4455.48924910255
+          ],
+          "sentences": [
+            "I know your name is Agatha Prenderghast.",
+            "What?",
+            "And I know you're probably tired, right?",
+            "Because, I mean, it's really Iate,",
+            "and it's been a Iong night,"
+          ]
+        },
+        {
+          "shot": 1149,
+          "duration": [
+            4455.530957403501,
+            4458.408830169128
+          ],
+          "sentences": [
+            "and we're, Iike, only 11 years old, and..."
+          ]
+        },
+        {
+          "shot": 1150,
+          "duration": [
+            4458.450538470079,
+            4462.704785167092
+          ],
+          "sentences": [
+            "and we're, Iike, only 11 years old, and...",
+            "I don't want to go to sleep, and you can't make me."
+          ]
+        },
+        {
+          "shot": 1167,
+          "duration": [
+            4495.696051219422,
+            4500.784463935458
+          ],
+          "sentences": [
+            "I burned the book into dust."
+          ]
+        },
+        {
+          "shot": 1168,
+          "duration": [
+            4500.826172236409,
+            4504.579919322009
+          ],
+          "sentences": [
+            "Now I don't have to Iisten to that stupid story anymore!"
+          ]
+        },
+        {
+          "shot": 1174,
+          "duration": [
+            4512.087413493209,
+            4514.673328152178
+          ],
+          "sentences": [
+            "Leave me alone."
+          ]
+        },
+        {
+          "shot": 1175,
+          "duration": [
+            4514.715036453129,
+            4517.092409607342
+          ],
+          "sentences": [
+            "No. No, I'm not Ieaving."
+          ]
+        },
+        {
+          "shot": 1176,
+          "duration": [
+            4517.134117908294,
+            4518.9692831501425
+          ],
+          "sentences": [
+            "No. No, I'm not Ieaving."
+          ]
+        },
+        {
+          "shot": 1177,
+          "duration": [
+            4519.010991451094,
+            4521.930572517672
+          ],
+          "sentences": [
+            "No. No, I'm not Ieaving.",
+            "Just Iisten to me."
+          ]
+        },
+        {
+          "shot": 1178,
+          "duration": [
+            4521.9722808186225,
+            4524.307945671885
+          ],
+          "sentences": [
+            "Once upon a time,"
+          ]
+        },
+        {
+          "shot": 1179,
+          "duration": [
+            4524.349653972836,
+            4527.4777765441695
+          ],
+          "sentences": [
+            "Iong ago, there was a Iittle girl."
+          ]
+        },
+        {
+          "shot": 1180,
+          "duration": [
+            4527.519484845121,
+            4529.229525184116
+          ],
+          "sentences": [
+            "What?",
+            "A Iittle girl who was different..."
+          ]
+        },
+        {
+          "shot": 1181,
+          "duration": [
+            4529.271233485068,
+            4533.567188483032
+          ],
+          "sentences": [
+            "A Iittle girl who was different...",
+            "Who was different from the other people in her village."
+          ]
+        },
+        {
+          "shot": 1182,
+          "duration": [
+            4533.608896783983,
+            4534.651604307761
+          ],
+          "sentences": [
+            "Who was different from the other people in her village.",
+            "I'm not Iistening!"
+          ]
+        },
+        {
+          "shot": 1183,
+          "duration": [
+            4534.6933126087115,
+            4535.193812220125
+          ],
+          "sentences": [
+            "I'm not Iistening!"
+          ]
+        },
+        {
+          "shot": 1184,
+          "duration": [
+            4535.235520521076,
+            4542.909847896081
+          ],
+          "sentences": [
+            "I'm not Iistening!",
+            "She could see and do things that no one could understand,",
+            "and that made them scared of her."
+          ]
+        },
+        {
+          "shot": 1185,
+          "duration": [
+            4542.951556197032,
+            4544.995262943637
+          ],
+          "sentences": [
+            "I don't Iike this story!",
+            "She turned away from everyone, and became sad and Ionely,"
+          ]
+        },
+        {
+          "shot": 1186,
+          "duration": [
+            4545.036971244588,
+            4545.746012360757
+          ],
+          "sentences": [
+            "She turned away from everyone, and became sad and Ionely,"
+          ]
+        },
+        {
+          "shot": 1187,
+          "duration": [
+            4545.787720661708,
+            4548.12338551497
+          ],
+          "sentences": [
+            "She turned away from everyone, and became sad and Ionely,"
+          ]
+        },
+        {
+          "shot": 1188,
+          "duration": [
+            4548.165093815921,
+            4552.335923911032
+          ],
+          "sentences": [
+            "She turned away from everyone, and became sad and Ionely,",
+            "and had no one to turn to!",
+            "Stop it!"
+          ]
+        },
+        {
+          "shot": 1192,
+          "duration": [
+            4566.266496428704,
+            4571.313200843789
+          ],
+          "sentences": [
+            "But the more she turned away from people,"
+          ]
+        },
+        {
+          "shot": 1193,
+          "duration": [
+            4571.354909144739,
+            4573.6071573961
+          ],
+          "sentences": [
+            "the more scared they were of her,"
+          ]
+        },
+        {
+          "shot": 1194,
+          "duration": [
+            4573.6488656970505,
+            4575.525739239851
+          ],
+          "sentences": [
+            "and they did something terrible!"
+          ]
+        },
+        {
+          "shot": 1195,
+          "duration": [
+            4575.567447540801,
+            4577.486029384553
+          ],
+          "sentences": [
+            "They became so scared"
+          ]
+        },
+        {
+          "shot": 1196,
+          "duration": [
+            4577.527737685504,
+            4580.405610451131
+          ],
+          "sentences": [
+            "They became so scared",
+            "that they took her away and they killed her!",
+            "No!"
+          ]
+        },
+        {
+          "shot": 1197,
+          "duration": [
+            4580.447318752082,
+            4584.618148847193
+          ],
+          "sentences": [
+            "No!",
+            "But even though she was dead, something in her came back."
+          ]
+        },
+        {
+          "shot": 1198,
+          "duration": [
+            4584.6598571481445,
+            4589.8733947670335
+          ],
+          "sentences": [
+            "Stop!",
+            "And this part of her, it wouldn't go away. Not for 300 years!",
+            "Shut up!"
+          ]
+        },
+        {
+          "shot": 1199,
+          "duration": [
+            4589.915103067984,
+            4592.75126753266
+          ],
+          "sentences": [
+            "And the Ionger it stayed, the Iess there was of the Iittle girl."
+          ]
+        },
+        {
+          "shot": 1204,
+          "duration": [
+            4602.5944265571225,
+            4605.013508012287
+          ],
+          "sentences": [
+            "I'll make you suffer!"
+          ]
+        },
+        {
+          "shot": 1205,
+          "duration": [
+            4605.055216313238,
+            4606.389881943674
+          ],
+          "sentences": [
+            "I'll make you suffer!"
+          ]
+        },
+        {
+          "shot": 1206,
+          "duration": [
+            4606.431590244625,
+            4609.684837718812
+          ],
+          "sentences": [
+            "Why?",
+            "Because... Because..."
+          ]
+        },
+        {
+          "shot": 1207,
+          "duration": [
+            4609.726546019762,
+            4611.811961067318
+          ],
+          "sentences": [
+            "Because... Because..."
+          ]
+        },
+        {
+          "shot": 1208,
+          "duration": [
+            4611.853669368269,
+            4615.941082861478
+          ],
+          "sentences": [
+            "Because you want everyone to hurt just as much as you are."
+          ]
+        },
+        {
+          "shot": 1209,
+          "duration": [
+            4615.98279116243,
+            4622.447577809852
+          ],
+          "sentences": [
+            "So, whenever you wake up, you play this mean game,",
+            "but you don't play fair!"
+          ]
+        },
+        {
+          "shot": 1211,
+          "duration": [
+            4623.448577032678,
+            4626.3264497983055
+          ],
+          "sentences": [
+            "They hurt me."
+          ]
+        },
+        {
+          "shot": 1212,
+          "duration": [
+            4626.368158099256,
+            4628.203323341105
+          ],
+          "sentences": [
+            "So, you hurt them back?"
+          ]
+        },
+        {
+          "shot": 1213,
+          "duration": [
+            4628.245031642056,
+            4630.956071203878
+          ],
+          "sentences": [
+            "I wanted everyone to see how rotten they were."
+          ]
+        },
+        {
+          "shot": 1214,
+          "duration": [
+            4630.99777950483,
+            4634.751526590429
+          ],
+          "sentences": [
+            "You're just Iike them, Agatha."
+          ]
+        },
+        {
+          "shot": 1215,
+          "duration": [
+            4634.793234891381,
+            4636.294733725621
+          ],
+          "sentences": [
+            "No, I'm not!"
+          ]
+        },
+        {
+          "shot": 1216,
+          "duration": [
+            4636.3364420265725,
+            4637.337441249399
+          ],
+          "sentences": [
+            "You're a bully!"
+          ]
+        },
+        {
+          "shot": 1217,
+          "duration": [
+            4637.37914955035,
+            4639.5479811998075
+          ],
+          "sentences": [
+            "No, I'm not!"
+          ]
+        },
+        {
+          "shot": 1219,
+          "duration": [
+            4640.590688723585,
+            4642.0504792568745
+          ],
+          "sentences": [
+            "Ahh!"
+          ]
+        },
+        {
+          "shot": 1231,
+          "duration": [
+            4663.780504052404,
+            4668.326708856075
+          ],
+          "sentences": [
+            "They did something awful,"
+          ]
+        },
+        {
+          "shot": 1232,
+          "duration": [
+            4668.368417157026,
+            4673.123163465453
+          ],
+          "sentences": [
+            "but that doesn't mean you should, too.",
+            "AII that's Ieft in you now is mean and horrible!"
+          ]
+        },
+        {
+          "shot": 1233,
+          "duration": [
+            4673.164871766404,
+            4674.457829095889
+          ],
+          "sentences": [
+            "That's not true!"
+          ]
+        },
+        {
+          "shot": 1234,
+          "duration": [
+            4674.4995373968395,
+            4677.585951667222
+          ],
+          "sentences": [
+            "Then stop! This is wrong and you know it!"
+          ]
+        },
+        {
+          "shot": 1235,
+          "duration": [
+            4677.627659968173,
+            4681.548240257577
+          ],
+          "sentences": [
+            "You spent so Iong remembering the bad people",
+            "that you've forgotten the good ones."
+          ]
+        },
+        {
+          "shot": 1236,
+          "duration": [
+            4681.589948558529,
+            4683.50853040228
+          ],
+          "sentences": [
+            "There must have been somebody who Ioved you and cared for you."
+          ]
+        },
+        {
+          "shot": 1237,
+          "duration": [
+            4683.550238703231,
+            4686.344694866955
+          ],
+          "sentences": [
+            "There must have been somebody who Ioved you and cared for you.",
+            "You don't remember them?"
+          ]
+        },
+        {
+          "shot": 1238,
+          "duration": [
+            4686.386403167907,
+            4687.137152585026
+          ],
+          "sentences": [
+            "Leave me alone!"
+          ]
+        },
+        {
+          "shot": 1239,
+          "duration": [
+            4687.178860885978,
+            4690.390400059214
+          ],
+          "sentences": [
+            "Leave me alone!",
+            "But you're not alone! You have to remember!"
+          ]
+        },
+        {
+          "shot": 1240,
+          "duration": [
+            4690.432108360164,
+            4691.2245660782355
+          ],
+          "sentences": [
+            "Keep away from me!"
+          ]
+        },
+        {
+          "shot": 1241,
+          "duration": [
+            4691.266274379187,
+            4692.851189815329
+          ],
+          "sentences": [
+            "Keep away from me!",
+            "Remember!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1623288_0008",
+      "shot": [
+        1232,
+        1293
+      ],
+      "frame": [
+        112015,
+        120647
+      ],
+      "duration": [
+        4671.960253157025,
+        5031.960253157025
+      ],
+      "consistency": 0.8754709555555539,
+      "description": "Eventually, the girl, nicknamed Aggie, calms down at Norman's eloquence, recalling her true personality and happy memories with her mother. She is able to find a measure of peace, knowing that she is not alone and one person in the town understands her, allowing her to let go and move on to the afterlife. At that resolution, the storm dissipates, and she and the zombies all peacefully fade away. As day breaks, the town cleans up and regards Norman as a hero even when the outside media tries to explain the disturbance as merely a powerful storm.",
+      "subtitle": [
+        {
+          "shot": 1232,
+          "duration": [
+            4668.368417157026,
+            4673.123163465453
+          ],
+          "sentences": [
+            "but that doesn't mean you should, too.",
+            "AII that's Ieft in you now is mean and horrible!"
+          ]
+        },
+        {
+          "shot": 1233,
+          "duration": [
+            4673.164871766404,
+            4674.457829095889
+          ],
+          "sentences": [
+            "That's not true!"
+          ]
+        },
+        {
+          "shot": 1234,
+          "duration": [
+            4674.4995373968395,
+            4677.585951667222
+          ],
+          "sentences": [
+            "Then stop! This is wrong and you know it!"
+          ]
+        },
+        {
+          "shot": 1235,
+          "duration": [
+            4677.627659968173,
+            4681.548240257577
+          ],
+          "sentences": [
+            "You spent so Iong remembering the bad people",
+            "that you've forgotten the good ones."
+          ]
+        },
+        {
+          "shot": 1236,
+          "duration": [
+            4681.589948558529,
+            4683.50853040228
+          ],
+          "sentences": [
+            "There must have been somebody who Ioved you and cared for you."
+          ]
+        },
+        {
+          "shot": 1237,
+          "duration": [
+            4683.550238703231,
+            4686.344694866955
+          ],
+          "sentences": [
+            "There must have been somebody who Ioved you and cared for you.",
+            "You don't remember them?"
+          ]
+        },
+        {
+          "shot": 1238,
+          "duration": [
+            4686.386403167907,
+            4687.137152585026
+          ],
+          "sentences": [
+            "Leave me alone!"
+          ]
+        },
+        {
+          "shot": 1239,
+          "duration": [
+            4687.178860885978,
+            4690.390400059214
+          ],
+          "sentences": [
+            "Leave me alone!",
+            "But you're not alone! You have to remember!"
+          ]
+        },
+        {
+          "shot": 1240,
+          "duration": [
+            4690.432108360164,
+            4691.2245660782355
+          ],
+          "sentences": [
+            "Keep away from me!"
+          ]
+        },
+        {
+          "shot": 1241,
+          "duration": [
+            4691.266274379187,
+            4692.851189815329
+          ],
+          "sentences": [
+            "Keep away from me!",
+            "Remember!"
+          ]
+        },
+        {
+          "shot": 1246,
+          "duration": [
+            4716.291254949854,
+            4723.006291402983
+          ],
+          "sentences": [
+            "Aggie.",
+            "My name was Aggie."
+          ]
+        },
+        {
+          "shot": 1249,
+          "duration": [
+            4729.804744458014,
+            4731.931867806521
+          ],
+          "sentences": [
+            "I remember,"
+          ]
+        },
+        {
+          "shot": 1250,
+          "duration": [
+            4731.973576107473,
+            4736.060989600681
+          ],
+          "sentences": [
+            "my mommy brought me here once."
+          ]
+        },
+        {
+          "shot": 1251,
+          "duration": [
+            4736.102697901632,
+            4743.777025276637
+          ],
+          "sentences": [
+            "We sat under the tree and she told me stories.",
+            "They all had happy endings."
+          ]
+        },
+        {
+          "shot": 1252,
+          "duration": [
+            4743.818733577588,
+            4749.574479108842
+          ],
+          "sentences": [
+            "And then those horrible men came and took me away,",
+            "and I never saw her again!"
+          ]
+        },
+        {
+          "shot": 1253,
+          "duration": [
+            4749.6161874097925,
+            4750.784019836424
+          ],
+          "sentences": [
+            "and I never saw her again!"
+          ]
+        },
+        {
+          "shot": 1256,
+          "duration": [
+            4753.286517893491,
+            4766.925132304504
+          ],
+          "sentences": [
+            "Sometimes when people get scared,",
+            "they say and do terrible things.",
+            "I think you got so scared",
+            "that you forgot who you are."
+          ]
+        },
+        {
+          "shot": 1257,
+          "duration": [
+            4766.966840605455,
+            4783.983827393509
+          ],
+          "sentences": [
+            "that you forgot who you are.",
+            "But I don't think you're a witch. Not really.",
+            "You don't?",
+            "I think you're just a Iittle kid with a really special gift",
+            "who only ever wanted people to understand her."
+          ]
+        },
+        {
+          "shot": 1258,
+          "duration": [
+            4784.02553569446,
+            4788.238074090523
+          ],
+          "sentences": [
+            "So, we're not all that different at all."
+          ]
+        },
+        {
+          "shot": 1259,
+          "duration": [
+            4788.279782391473,
+            4794.744569038896
+          ],
+          "sentences": [
+            "But what about the people who hurt you?",
+            "Don't you ever want to make them suffer?"
+          ]
+        },
+        {
+          "shot": 1260,
+          "duration": [
+            4794.786277339847,
+            4799.666148551127
+          ],
+          "sentences": [
+            "Well, yeah, but what good would that do?"
+          ]
+        },
+        {
+          "shot": 1261,
+          "duration": [
+            4799.707856852078,
+            4805.38018578143
+          ],
+          "sentences": [
+            "You think just because there's bad people out there,",
+            "that there's no good ones either?"
+          ]
+        },
+        {
+          "shot": 1262,
+          "duration": [
+            4805.42189408238,
+            4811.844972428852
+          ],
+          "sentences": [
+            "I thought the same thing for a while,",
+            "but there's always someone out there for you,"
+          ]
+        },
+        {
+          "shot": 1263,
+          "duration": [
+            4811.886680729803,
+            4815.5153029125495
+          ],
+          "sentences": [
+            "somewhere."
+          ]
+        },
+        {
+          "shot": 1264,
+          "duration": [
+            4815.557011213501,
+            4822.5222974723365
+          ],
+          "sentences": [
+            "I just want my mommy."
+          ]
+        },
+        {
+          "shot": 1265,
+          "duration": [
+            4822.564005773288,
+            4827.777543392177
+          ],
+          "sentences": [
+            "I'm sorry, Aggie.",
+            "She's gone."
+          ]
+        },
+        {
+          "shot": 1266,
+          "duration": [
+            4827.819251693128,
+            4834.492579845306
+          ],
+          "sentences": [
+            "That story you were telling, how does it end?"
+          ]
+        },
+        {
+          "shot": 1267,
+          "duration": [
+            4834.534288146257,
+            4838.371451833759
+          ],
+          "sentences": [
+            "I think that's up to you."
+          ]
+        },
+        {
+          "shot": 1271,
+          "duration": [
+            4848.089485955368,
+            4853.511565079013
+          ],
+          "sentences": [
+            "Is this where they buried me?",
+            "It's a pretty good place to sleep."
+          ]
+        },
+        {
+          "shot": 1272,
+          "duration": [
+            4853.553273379964,
+            4858.9753525036085
+          ],
+          "sentences": [
+            "Then you can be with your mom again."
+          ]
+        },
+        {
+          "shot": 1283,
+          "duration": [
+            4935.802042855557,
+            4946.896450908553
+          ],
+          "sentences": [
+            "Sleep tight.",
+            "Norman?"
+          ]
+        },
+        {
+          "shot": 1284,
+          "duration": [
+            4946.938159209504,
+            4950.90044779986
+          ],
+          "sentences": [
+            "Norman!",
+            "My brave Iittle man!"
+          ]
+        },
+        {
+          "shot": 1285,
+          "duration": [
+            4950.94215610081,
+            4959.116983087229
+          ],
+          "sentences": [
+            "I thought I was going to Iose you.",
+            "Mom! You're embarrassing me.",
+            "That's my job. - Psst."
+          ]
+        },
+        {
+          "shot": 1286,
+          "duration": [
+            4959.15869138818,
+            4963.788312793753
+          ],
+          "sentences": [
+            "Good job, Norman.",
+            "Well done, son. You did it."
+          ]
+        },
+        {
+          "shot": 1289,
+          "duration": [
+            4974.9244291477,
+            5017.758854224492
+          ],
+          "sentences": [
+            "So, are we going to need statements?",
+            "No! Ow! That was my fingernail.",
+            "You know what it's Iike. You join a mob and you say things.",
+            "I was merely inhabiting the role.",
+            "Yeah, it was the others. They pushed me into it.",
+            "Yeah, me and Norman are in a Iot of the same classes.",
+            "We're pretty much inseparable best buds,",
+            "and we do a Iot of psychic investigations together.",
+            "We have a blog, actually. You should check it out.",
+            "So, I was thinking maybe we could catch a movie sometime.",
+            "Nothing scary.",
+            "That sounds great, Kathy.",
+            "You know, you're going to Iove my boyfriend.",
+            "He's, Iike, a total chick-flick nut!"
+          ]
+        },
+        {
+          "shot": 1291,
+          "duration": [
+            5020.2196439806075,
+            5030.479886014581
+          ],
+          "sentences": [
+            "Hey, Neil.",
+            "You did it! You stopped the witch's curse,",
+            "and made the zombies go away and saved pretty much everything!",
+            "I guess."
+          ]
+        },
+        {
+          "shot": 1292,
+          "duration": [
+            5030.521594315533,
+            5034.150216498279
+          ],
+          "sentences": [
+            "I just wanted to say thanks.",
+            "You stood by me, all the time."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1623288_0009",
+      "shot": [
+        1290,
+        1304
+      ],
+      "frame": [
+        120335,
+        122147
+      ],
+      "duration": [
+        5018.994448525444,
+        5094.524114525444
+      ],
+      "consistency": 0.9856173069797457,
+      "description": "Norman, realizing that he, too, should stop focusing on his memories of being ostracized and pushing others away, accepts Neil's companionship. At the end, Norman watches a horror film with the ghost of his Grandmother again, and his family eagerly joins him.",
+      "subtitle": [
+        {
+          "shot": 1291,
+          "duration": [
+            5020.2196439806075,
+            5030.479886014581
+          ],
+          "sentences": [
+            "Hey, Neil.",
+            "You did it! You stopped the witch's curse,",
+            "and made the zombies go away and saved pretty much everything!",
+            "I guess."
+          ]
+        },
+        {
+          "shot": 1292,
+          "duration": [
+            5030.521594315533,
+            5034.150216498279
+          ],
+          "sentences": [
+            "I just wanted to say thanks.",
+            "You stood by me, all the time."
+          ]
+        },
+        {
+          "shot": 1293,
+          "duration": [
+            5034.19192479923,
+            5039.864253728581
+          ],
+          "sentences": [
+            "You stood by me, all the time.",
+            "Yeah, of course! Don't get weird or anything.",
+            "So, do you think now everything is going to turn back to normal?"
+          ]
+        },
+        {
+          "shot": 1294,
+          "duration": [
+            5039.905962029533,
+            5043.034084600866
+          ],
+          "sentences": [
+            "So, do you think now everything is going to turn back to normal?",
+            "Well, as normal as it could be."
+          ]
+        },
+        {
+          "shot": 1295,
+          "duration": [
+            5043.075792901817,
+            5051.1672032863335
+          ],
+          "sentences": [
+            "Well, as normal as it could be.",
+            "Oh!",
+            "Stop it!",
+            "...whose lives have been ruined",
+            "by last night's mystery tornado."
+          ]
+        },
+        {
+          "shot": 1296,
+          "duration": [
+            5051.208911587284,
+            5055.254616779542
+          ],
+          "sentences": [
+            "But first, here's Mindy Rinager,",
+            "with a kitten on roller skates."
+          ]
+        },
+        {
+          "shot": 1297,
+          "duration": [
+            5055.296325080493,
+            5057.340031827098
+          ],
+          "sentences": [
+            "with a kitten on roller skates."
+          ]
+        },
+        {
+          "shot": 1298,
+          "duration": [
+            5057.3817401280485,
+            5064.472151289738
+          ],
+          "sentences": [
+            "Son.",
+            "Hi, Dad.",
+            "What are you watching?",
+            "A scary movie.",
+            "Oh, yeah."
+          ]
+        },
+        {
+          "shot": 1299,
+          "duration": [
+            5064.513859590689,
+            5069.602272306724
+          ],
+          "sentences": [
+            "Um...",
+            "Your grandma here, is she?"
+          ]
+        },
+        {
+          "shot": 1300,
+          "duration": [
+            5069.643980607676,
+            5072.855519780911
+          ],
+          "sentences": [
+            "Right. Of course she is."
+          ]
+        },
+        {
+          "shot": 1301,
+          "duration": [
+            5072.8972280818625,
+            5078.903223418823
+          ],
+          "sentences": [
+            "Right. Of course she is.",
+            "Is she, uh... Is she, uh,"
+          ]
+        },
+        {
+          "shot": 1302,
+          "duration": [
+            5078.944931719774,
+            5081.489138077792
+          ],
+          "sentences": [
+            "sitting next to me?"
+          ]
+        },
+        {
+          "shot": 1303,
+          "duration": [
+            5081.530846378742,
+            5094.001628363125
+          ],
+          "sentences": [
+            "Hi, Mom."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

@@ -1,0 +1,4952 @@
+{
+  "imdb_id": "tt1462758",
+  "cast": null,
+  "scene": null,
+  "story": [
+    {
+      "id": "tt1462758_0000",
+      "shot": [
+        2,
+        359
+      ],
+      "frame": [
+        6978,
+        52966
+      ],
+      "duration": [
+        291.0537081475149,
+        2209.099179147515
+      ],
+      "consistency": 0.997405342013396,
+      "description": "Paul Conroy, a US truck driver, awakens buried alive, bound and gagged, with only a Zippo and a BlackBerry. Although he initially has no idea as to how he got there, he soon starts to piece together what has happened to him. Gradually, Paul remembers that he and several other convoys were ambushed by insurgents, then all the other truck drivers were killed shortly before he blacked out. After finding the cellphone, Paul attempts to contact his wife and his employers (who gave him a safety number if anything like this should occur) but is able only to leave a message for both of them. Paul is able to contact the FBI, but they cut off before he can explain the situation. However, he is able to determine from the questions the FBI official asks him that he has been kidnapped. The kidnapper contacts him and demands a ransom of $5 million to release him alive, but this is then lowered to $1 million.",
+      "subtitle": [
+        {
+          "shot": 33,
+          "duration": [
+            345.4281484771104,
+            352.51855963879945
+          ],
+          "sentences": [
+            "Hey!"
+          ]
+        },
+        {
+          "shot": 34,
+          "duration": [
+            352.5602679397506,
+            355.3964324044262
+          ],
+          "sentences": [
+            "Hey!"
+          ]
+        },
+        {
+          "shot": 35,
+          "duration": [
+            355.4381407053773,
+            356.60597313200844
+          ],
+          "sentences": [
+            "Hey!"
+          ]
+        },
+        {
+          "shot": 38,
+          "duration": [
+            361.6109692461419,
+            365.4898412345953
+          ],
+          "sentences": [
+            "Help!"
+          ]
+        },
+        {
+          "shot": 39,
+          "duration": [
+            365.53154953554645,
+            366.61596536027537
+          ],
+          "sentences": [
+            "Help!"
+          ]
+        },
+        {
+          "shot": 40,
+          "duration": [
+            366.65767366122645,
+            367.53354798119983
+          ],
+          "sentences": [
+            "Help!",
+            "Help! Help!"
+          ]
+        },
+        {
+          "shot": 41,
+          "duration": [
+            367.5752562821509,
+            369.61896302875545
+          ],
+          "sentences": [
+            "Help! Help!"
+          ]
+        },
+        {
+          "shot": 42,
+          "duration": [
+            369.66067132970653,
+            371.9546278820177
+          ],
+          "sentences": [
+            "Help! Help!"
+          ]
+        },
+        {
+          "shot": 81,
+          "duration": [
+            431.8060397468636,
+            432.6819140668369
+          ],
+          "sentences": [
+            "Fuck."
+          ]
+        },
+        {
+          "shot": 82,
+          "duration": [
+            432.72362236778804,
+            439.1884090152104
+          ],
+          "sentences": [
+            "Fuck."
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            485.85999777950485,
+            494.41019947448285
+          ],
+          "sentences": [
+            "Okay, okay, okay. Okay."
+          ]
+        },
+        {
+          "shot": 137,
+          "duration": [
+            621.5371007734725,
+            626.7089300914104
+          ],
+          "sentences": [
+            "Okay. What was it? What's the number? What's the number?"
+          ]
+        },
+        {
+          "shot": 138,
+          "duration": [
+            626.7506383923616,
+            628.2938455275527
+          ],
+          "sentences": [
+            "1-2-1..."
+          ]
+        },
+        {
+          "shot": 139,
+          "duration": [
+            628.3355538285037,
+            630.0455941674994
+          ],
+          "sentences": [
+            "1-2-1..."
+          ]
+        },
+        {
+          "shot": 140,
+          "duration": [
+            630.0873024684505,
+            631.2134265941305
+          ],
+          "sentences": [
+            "FUCK!"
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            631.2551348950816,
+            632.0475926131528
+          ],
+          "sentences": [
+            "FUCK!"
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            634.6752155730728,
+            645.3108323156064
+          ],
+          "sentences": [
+            "Where is it?"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            665.2474001702379,
+            669.1679804596425
+          ],
+          "sentences": [
+            "- 911. Please hold. -No! Wait! Please!"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            669.2096887605936,
+            755.9629547389068
+          ],
+          "sentences": [
+            "- 911. Please hold. -No! Wait! Please!",
+            "- Yes. 911. -Hello. I'm buried.",
+            "You have to help me. You have to help me. I can't breathe.",
+            "-Sir? -I'm buried in a coffin. Please, help.",
+            "-Send someone to find me. -Sin slow down.",
+            "-What is your name? -Paul. Paul Conroy.",
+            "Okay, Mn Conroy. Can you tell me your location?",
+            "I don't know. I'm in a coffin.",
+            "I don't know where. Please, help. I'm scared.",
+            "-You\u0092re in a coffin? -Yes.",
+            "It's like one of those old, wooden ones.",
+            "-Are you at a funeral home? -No. No. No.",
+            "I don't know. No.",
+            "How are you calling me right now?",
+            "What?",
+            "If you\u0092re buried in a coffin, where are you calling me from?",
+            "From a cell phone. There was an old cell phone in the coffin.",
+            "-You're calling me from your cell phone? -Yes.",
+            "Yes. Yes. No, no. It's not my cell phone,",
+            "but, yes, I'm calling from a cell phone.",
+            "There was a cell phone in the coffin when you climbed in?",
+            "Yes. What?",
+            "-I didn\u0092t climb in, though. -How did you end up in the coffin, sir?",
+            "-I was put here. -In the coffin?",
+            "Yes. Please, help.",
+            "-And you\u0092re saying the coffin is buried? -Yes. Yeah.",
+            "I'm a truck driver. I'm an American.",
+            "It's hot in here, and I can't breathe.",
+            "-Please. -Do you know your location, sir?",
+            "-I told you, somewhere in Iraq. Please, help. -Iraq?",
+            "Yes. I'm a truck driver. I'm an American. I work for CRT.",
+            "-Are you a soldier; sir? -No, please, you have to listen to me.",
+            "I'm a truck driver. I'm an American.",
+            "I\u0092m a civilian contractor working in Iraq. We were attacked in Baqubah.",
+            "And they... They shot all of them.",
+            "-They shot who, sir? -All of the other drivers.",
+            "And you are saying this happened in Iraq? The country?",
+            "Yeah. Please, listen to me, okay? Listen to me."
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            756.0046630398579,
+            756.6719958550757
+          ],
+          "sentences": [
+            "Yeah. Please, listen to me, okay? Listen to me."
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            756.7137041560268,
+            759.8001184264091
+          ],
+          "sentences": [
+            "Yeah. Please, listen to me, okay? Listen to me.",
+            "They gave me a safety number and it was in my wallet, and I don't know where it is now."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            759.8418267273603,
+            760.509159542578
+          ],
+          "sentences": [
+            "They gave me a safety number and it was in my wallet, and I don't know where it is now."
+          ]
+        },
+        {
+          "shot": 159,
+          "duration": [
+            760.5508678435291,
+            770.0603604603826
+          ],
+          "sentences": [
+            "They gave me a safety number and it was in my wallet, and I don't know where it is now.",
+            "Mn Conroy this is 911 emergency in Youngstown, Ohio.",
+            "-Ohio? -Yes, sir.",
+            "I'm not sure exactly how you called here if you're in another country but if you'd like,"
+          ]
+        },
+        {
+          "shot": 160,
+          "duration": [
+            770.1020687613338,
+            771.4367343917694
+          ],
+          "sentences": [
+            "I'm not sure exactly how you called here if you're in another country but if you'd like,",
+            "I can patch you through to the sheriff's department."
+          ]
+        },
+        {
+          "shot": 161,
+          "duration": [
+            771.4784426927205,
+            772.3126087117428
+          ],
+          "sentences": [
+            "I can patch you through to the sheriff's department."
+          ]
+        },
+        {
+          "shot": 162,
+          "duration": [
+            772.3543170126939,
+            773.7306909440806
+          ],
+          "sentences": [
+            "I can patch you through to the sheriff's department.",
+            "You don't understand. Forget it."
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            773.7723992450317,
+            774.4397320602494
+          ],
+          "sentences": [
+            "You don't understand. Forget it."
+          ]
+        },
+        {
+          "shot": 164,
+          "duration": [
+            774.4814403612006,
+            775.4407312830762
+          ],
+          "sentences": [
+            "You don't understand. Forget it."
+          ]
+        },
+        {
+          "shot": 167,
+          "duration": [
+            783.1567669590319,
+            792.124051663521
+          ],
+          "sentences": [
+            "Okay, okay, okay. Okay. Okay."
+          ]
+        },
+        {
+          "shot": 168,
+          "duration": [
+            792.1657599644722,
+            809.7249546648903
+          ],
+          "sentences": [
+            "Pick up, pick up, pick up.",
+            "Pick up.",
+            "Thanks for calling the Conroys. We're not home right now."
+          ]
+        },
+        {
+          "shot": 169,
+          "duration": [
+            809.7666629658414,
+            814.2711594685616
+          ],
+          "sentences": [
+            "Thanks for calling the Conroys. We're not home right now.",
+            "Please leave a message after the beep. Thanks!"
+          ]
+        },
+        {
+          "shot": 170,
+          "duration": [
+            814.3128677695126,
+            822.2374449502239
+          ],
+          "sentences": [
+            "Please leave a message after the beep. Thanks!",
+            "Yeah, Linda. Linda, honey, it's me.",
+            "I need you... I need you... I need you to contact the National Guard right away,",
+            "or the Pentagon.",
+            "Tell them that we were attacked in the Diyala province, in Baqubah."
+          ]
+        },
+        {
+          "shot": 171,
+          "duration": [
+            822.279153251175,
+            825.0736094148996
+          ],
+          "sentences": [
+            "Tell them that we were attacked in the Diyala province, in Baqubah."
+          ]
+        },
+        {
+          "shot": 172,
+          "duration": [
+            825.1153177158507,
+            827.7429406757707
+          ],
+          "sentences": [
+            "Tell them that we were attacked in the Diyala province, in Baqubah.",
+            "They need to find me. Okay?"
+          ]
+        },
+        {
+          "shot": 173,
+          "duration": [
+            827.7846489767219,
+            829.0358980052551
+          ],
+          "sentences": [
+            "They need to find me. Okay?",
+            "Please, baby, you've got to help them find me."
+          ]
+        },
+        {
+          "shot": 174,
+          "duration": [
+            829.0776063062063,
+            831.0378964509085
+          ],
+          "sentences": [
+            "Please, baby, you've got to help them find me."
+          ]
+        },
+        {
+          "shot": 175,
+          "duration": [
+            831.0796047518597,
+            839.3378483401799
+          ],
+          "sentences": [
+            "Please, baby, you've got to help them find me."
+          ]
+        },
+        {
+          "shot": 176,
+          "duration": [
+            839.379556641131,
+            843.8840531438511
+          ],
+          "sentences": [
+            "-Hi, this is Linda. -No!",
+            "Please leave a message. Thanks and have a great day."
+          ]
+        },
+        {
+          "shot": 177,
+          "duration": [
+            843.9257614448022,
+            853.4352540616558
+          ],
+          "sentences": [
+            "Please leave a message. Thanks and have a great day.",
+            "Linda! Linda, I need you to call me right away, okay?",
+            "Call me at this number. It's an absolute emergency.",
+            "Call me at the number that comes up on your screen right away. Okay?",
+            "I don't know what the hell is going on, but..."
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            853.4769623626069,
+            860.5256652233448
+          ],
+          "sentences": [
+            "I don't know what the hell is going on, but...",
+            "...I'm buried in a box.",
+            "I'm buried in a box."
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            860.5673735242959,
+            863.1532881832649
+          ],
+          "sentences": [
+            "I can't breathe in here."
+          ]
+        },
+        {
+          "shot": 180,
+          "duration": [
+            863.1949964842161,
+            866.6984937641095
+          ],
+          "sentences": [
+            "I can't breathe in here.",
+            "Call me whenever you can. Please, baby."
+          ]
+        },
+        {
+          "shot": 181,
+          "duration": [
+            866.7402020650605,
+            868.6587839088116
+          ],
+          "sentences": [
+            "Call me whenever you can. Please, baby."
+          ]
+        },
+        {
+          "shot": 185,
+          "duration": [
+            914.5796232559861,
+            934.0991081011066
+          ],
+          "sentences": [
+            "What city and state, please?",
+            "I don't know. The FBI, wherever they are.",
+            "Do you have a specific city you\u0092d like to be connected to?",
+            "Anywhere. Any city. Just connect me to the FBI.",
+            "Sir; I have FBI Held of Hoes listed in Boston, Chicago, New York, Philadelphia...",
+            "-It doesn't matter. -New Haven...",
+            "Any city, anywhere. Just connect me, please."
+          ]
+        },
+        {
+          "shot": 186,
+          "duration": [
+            934.1408164020577,
+            944.1508086303246
+          ],
+          "sentences": [
+            "Any city, anywhere. Just connect me, please.",
+            "I'm sorry, sir; but i'm not allowed to do that.",
+            "-Chicago! Fine? Chicago! Okay? -There's no need to be rude, sir.",
+            "Please, hold for your number",
+            "The number you requested..."
+          ]
+        },
+        {
+          "shot": 187,
+          "duration": [
+            944.1925169312757,
+            945.1518078531512
+          ],
+          "sentences": [
+            "The number you requested..."
+          ]
+        },
+        {
+          "shot": 188,
+          "duration": [
+            945.1935161541024,
+            947.0286813959514
+          ],
+          "sentences": [
+            "The number you requested...",
+            "3-1-2"
+          ]
+        },
+        {
+          "shot": 189,
+          "duration": [
+            947.0703896969025,
+            950.5738869767958
+          ],
+          "sentences": [
+            "3-1-2",
+            "4-2-1"
+          ]
+        },
+        {
+          "shot": 190,
+          "duration": [
+            950.6155952777469,
+            952.0753858110359
+          ],
+          "sentences": [
+            "4-2-1"
+          ]
+        },
+        {
+          "shot": 191,
+          "duration": [
+            952.1170941119871,
+            963.7120017763962
+          ],
+          "sentences": [
+            "6-7-0-0",
+            "can be connected for an additional charge of 25 cents",
+            "by pressing the number 1."
+          ]
+        },
+        {
+          "shot": 192,
+          "duration": [
+            963.7537100773473,
+            965.2135006106362
+          ],
+          "sentences": [
+            "by pressing the number 1."
+          ]
+        },
+        {
+          "shot": 194,
+          "duration": [
+            966.5064579401206,
+            979.0189482254543
+          ],
+          "sentences": [
+            "Chicago field office. Special Agent Harris.",
+            "-Is this the FBI? -Yes, it is, sir.",
+            "Okay. I'm calling from Iraq.",
+            "I'm buried in the desert somewhere. I need you to help me.",
+            "Whoa. Whoa. Sin slow down.",
+            "-When were you in Iraq? -Now."
+          ]
+        },
+        {
+          "shot": 195,
+          "duration": [
+            979.0606565264054,
+            984.6495688538545
+          ],
+          "sentences": [
+            "-When were you in Iraq? -Now.",
+            "Now. I'm there now. I'm a truck driver.",
+            "I work for CRT. I've been here for nine months.",
+            "-May I have your name, please, sir? -it's Paul Conroy."
+          ]
+        },
+        {
+          "shot": 196,
+          "duration": [
+            984.6912771548056,
+            1016.7649605862108
+          ],
+          "sentences": [
+            "-May I have your name, please, sir? -it's Paul Conroy.",
+            "-Paul Conroy.",
+            "Yeah.",
+            "Okay Paul, explain to me what's going on.",
+            "All right, all right. Okay.",
+            "All right, me and a convoy of other drivers",
+            "were delivering some kitchen supplies to a community center.",
+            "And then some kids, they started throwing rocks at the trucks.",
+            "And then, an IED went off up ahead and it blew up one of the other trucks.",
+            "And then these guys, they came out from behind the houses",
+            "and they started shooting everyone right there on the street.",
+            "-Were you shot at? -I don't know."
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            1016.8066688871619,
+            1026.10761999926
+          ],
+          "sentences": [
+            "-Were you shot at? -I don't know.",
+            "I don't know. I was way in the back of the convoy.",
+            "I guess I got hit in the head by one of the other...",
+            "By one of the rocks and I blacked out, and that's the last thing that I remember."
+          ]
+        },
+        {
+          "shot": 198,
+          "duration": [
+            1026.149328300211,
+            1030.9040746086378
+          ],
+          "sentences": [
+            "By one of the rocks and I blacked out, and that's the last thing that I remember.",
+            "And then I woke up here, tied up, in a coffin."
+          ]
+        },
+        {
+          "shot": 199,
+          "duration": [
+            1030.9457829095888,
+            1034.4075718885313
+          ],
+          "sentences": [
+            "-Who put you there? -I guess whoever ambushed us.",
+            "-A bunch of kids? -No. No, no, no, no, no."
+          ]
+        },
+        {
+          "shot": 200,
+          "duration": [
+            1034.4492801894824,
+            1042.9994818844602
+          ],
+          "sentences": [
+            "-A bunch of kids? -No. No, no, no, no, no.",
+            "Some kids, the kids, they threw the rocks at us.",
+            "These guys, some Iraqis, some insurgents. I don't fucking know.",
+            "They just... They popped out and they started shooting everybody..."
+          ]
+        },
+        {
+          "shot": 201,
+          "duration": [
+            1043.0411901854113,
+            1044.709522223456
+          ],
+          "sentences": [
+            "They just... They popped out and they started shooting everybody..."
+          ]
+        },
+        {
+          "shot": 202,
+          "duration": [
+            1044.751230524407,
+            1045.4185633396248
+          ],
+          "sentences": [
+            "-right there on the street. -I thought you said they didn't shoot at you."
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            1045.460271640576,
+            1046.8783538729137
+          ],
+          "sentences": [
+            "-right there on the street. -I thought you said they didn't shoot at you."
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            1046.9200621738648,
+            1048.0461862995448
+          ],
+          "sentences": [
+            "-right there on the street. -I thought you said they didn't shoot at you.",
+            "They didn't! I don't know. They shot them!"
+          ]
+        },
+        {
+          "shot": 205,
+          "duration": [
+            1048.087894600496,
+            1050.2984345509049
+          ],
+          "sentences": [
+            "They didn't! I don't know. They shot them!",
+            "Sin you're gonna have to stop shouting."
+          ]
+        },
+        {
+          "shot": 206,
+          "duration": [
+            1050.340142851856,
+            1053.8853484327005
+          ],
+          "sentences": [
+            "I'm shouting because you're not listening to me!",
+            "I need you to help me!"
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            1053.9270567336516,
+            1078.4932459938566
+          ],
+          "sentences": [
+            "I need you to help me!",
+            "Okay. Okay, okay. I got it.",
+            "Can you trace the call? GPS or something?",
+            "Why is it that they didn't shoot you?",
+            "I don't know. I have no idea. They didn't. That's all I know.",
+            "What\u0092s your social security number, Paul?",
+            "Why?",
+            "Why? Who cares?"
+          ]
+        },
+        {
+          "shot": 208,
+          "duration": [
+            1078.5349542948077,
+            1082.7892009918212
+          ],
+          "sentences": [
+            "Why? Who cares?",
+            "I'm buried in the middle of the fucking desert,",
+            "who cares what my social security number is?"
+          ]
+        },
+        {
+          "shot": 209,
+          "duration": [
+            1082.8309092927723,
+            1086.417823174568
+          ],
+          "sentences": [
+            "who cares what my social security number is?",
+            "I'm an American citizen. Just send someone to find me. Please!"
+          ]
+        },
+        {
+          "shot": 210,
+          "duration": [
+            1086.459531475519,
+            1087.4605306983458
+          ],
+          "sentences": [
+            "I'm an American citizen. Just send someone to find me. Please!"
+          ]
+        },
+        {
+          "shot": 211,
+          "duration": [
+            1087.5022389992969,
+            1093.3414011324526
+          ],
+          "sentences": [
+            "I'm an American citizen. Just send someone to find me. Please!",
+            "Do you have any idea where...",
+            "What? Hold on, hold on. I can't hear you.",
+            "What did you... Hold on, hold on. No, no, no. I can't..."
+          ]
+        },
+        {
+          "shot": 212,
+          "duration": [
+            1093.3831094334037,
+            1094.0504422486215
+          ],
+          "sentences": [
+            "What did you... Hold on, hold on. No, no, no. I can't..."
+          ]
+        },
+        {
+          "shot": 213,
+          "duration": [
+            1094.0921505495726,
+            1095.3851078790572
+          ],
+          "sentences": [
+            "What did you... Hold on, hold on. No, no, no. I can't..."
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            1095.4268161800082,
+            1096.4278154028348
+          ],
+          "sentences": [
+            "What did you... Hold on, hold on. No, no, no. I can't..."
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            1096.469523703786,
+            1097.8041893342215
+          ],
+          "sentences": [
+            "Shit!"
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            1097.8458976351726,
+            1098.8051885570483
+          ],
+          "sentences": [
+            "Shit!"
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            1098.8468968579994,
+            1103.518226564524
+          ],
+          "sentences": [
+            "Fuck."
+          ]
+        },
+        {
+          "shot": 219,
+          "duration": [
+            1105.061433699715,
+            1113.1528440842308
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 220,
+          "duration": [
+            1113.1945523851819,
+            1214.2537655897265
+          ],
+          "sentences": [
+            "Thank you for calling Crestin, Roland and Thomas.",
+            "How may I direct your call?",
+            "Somebody. I need to talk to somebody right away.",
+            "-It's an emergency. -Who is this, please?",
+            "It's Paul Conroy.",
+            "I'm a driver for you guys. I'm calling from Iraq.",
+            "-My convoy was attacked. -Sin if this is a crisis situation,",
+            "you need to contact the safety number you were...",
+            "I know. I know. I know.",
+            "I don't have it anymore. The people took it.",
+            "Who took it, sir?",
+            "I don't... I don't know. The Iraqis, I think. I blacked out.",
+            "I'm going to ,out you through to Alan Davenport.",
+            "-Who's that? -Director of personnel. Please hold.",
+            "Personnel? No, no, no, no! Wait, wait, wait!",
+            "At CRT, we work with our clients",
+            "to provide effective and sustainable solutions",
+            "to the challenges they face in our fast-growing, global economy.",
+            "-As the...",
+            "You've reached Alan Davenport,",
+            "Personnel Director at Crestin, Roland and Thomas.",
+            "Please leave your name and number at the tone,",
+            "and I will return your call as soon as possible.",
+            "This is Paul Conroy. I'm from Hastings, Michigan.",
+            "I'm a driver for CRT.",
+            "My convoy was ambushed by terrorists, or insurgents. I don't know.",
+            "I don't know who it was. And I'm stuck.",
+            "I'm buried in a coffin in the ground, and I need help.",
+            "Please send help. I'm begging you.",
+            "I think I'm in Baqubah in the Diyala province.",
+            "I'm not sure. Please. Please send help right away.",
+            "I can't breathe in here. I can't breathe.",
+            "I didn't know who else to call. Please, send...",
+            "Fuck! Fuck!",
+            "FUCK!"
+          ]
+        },
+        {
+          "shot": 221,
+          "duration": [
+            1214.2954738906776,
+            1215.0879316087487
+          ],
+          "sentences": [
+            "FUCK!"
+          ]
+        },
+        {
+          "shot": 222,
+          "duration": [
+            1215.1296399097,
+            1216.25576403538
+          ],
+          "sentences": [
+            "Fuck!"
+          ]
+        },
+        {
+          "shot": 223,
+          "duration": [
+            1216.297472336331,
+            1217.1316383553533
+          ],
+          "sentences": [
+            "Fuck!"
+          ]
+        },
+        {
+          "shot": 224,
+          "duration": [
+            1217.1733466563044,
+            1218.0075126753266
+          ],
+          "sentences": [
+            "Fuck!"
+          ]
+        },
+        {
+          "shot": 225,
+          "duration": [
+            1218.0492209762779,
+            1271.7278043003591
+          ],
+          "sentences": [
+            "I"
+          ]
+        },
+        {
+          "shot": 236,
+          "duration": [
+            1304.9693201583955,
+            1312.1848562229377
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 237,
+          "duration": [
+            1312.2265645238888,
+            1317.1898523370712
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 239,
+          "duration": [
+            1321.3189741312312,
+            1330.3279671366715
+          ],
+          "sentences": [
+            "Hello? Is anybody there?",
+            "Hello?"
+          ]
+        },
+        {
+          "shot": 240,
+          "duration": [
+            1330.3696754376226,
+            1335.4163798527072
+          ],
+          "sentences": [
+            "-Hello? - Breathe no breathe, American?",
+            "-Breathe no breathe? -Wait, wait. Hold... Hold on."
+          ]
+        },
+        {
+          "shot": 241,
+          "duration": [
+            1335.4580881536583,
+            1344.9258724695608
+          ],
+          "sentences": [
+            "-Breathe no breathe? -Wait, wait. Hold... Hold on.",
+            "I don't know what you're saying. Who is this?",
+            "American can breathe no breathe?",
+            "No, I can't breathe. Please get me out of here.",
+            "-Get out? -Yeah, yeah. Get me out.",
+            "Get me out. Please help."
+          ]
+        },
+        {
+          "shot": 242,
+          "duration": [
+            1344.9675807705119,
+            1362.485067169979
+          ],
+          "sentences": [
+            "Get me out. Please help.",
+            "-Soldier -No, no. I'm not a soldier.",
+            "I'm a truck driver. Just a contractor.",
+            "-Contractor? -Yeah, yeah, a contractor.",
+            "That's all. No soldier.",
+            "-Blackwater -No. Not for Blackwater.",
+            "I'm not a security contractor. I'm just a truck driver. That's all.",
+            "-You American? -Yeah."
+          ]
+        },
+        {
+          "shot": 243,
+          "duration": [
+            1362.52677547093,
+            1364.4453573146811
+          ],
+          "sentences": [
+            "-You American? -Yeah.",
+            "Then you soldier"
+          ]
+        },
+        {
+          "shot": 244,
+          "duration": [
+            1364.4870656156324,
+            1389.9708374967618
+          ],
+          "sentences": [
+            "Then you soldier",
+            "I",
+            "No, I'm not.",
+            "I'm here, unarmed. But you still shot at us.",
+            "In head and in throat, so you tell no more lies.",
+            "No, I'm not lying. We were all drivers.",
+            "-Drive what? -Trucks. Trucks.",
+            "The trucks you see driving around with supplies.",
+            "That's me. That's us. That's all. Not a soldier. Truck driver."
+          ]
+        },
+        {
+          "shot": 245,
+          "duration": [
+            1390.0125457977128,
+            1392.0979608452685
+          ],
+          "sentences": [
+            "That's me. That's us. That's all. Not a soldier. Truck driver.",
+            "-Five million, money. -What?"
+          ]
+        },
+        {
+          "shot": 246,
+          "duration": [
+            1392.1396691462196,
+            1393.0989600680953
+          ],
+          "sentences": [
+            "-Five million, money. -What?"
+          ]
+        },
+        {
+          "shot": 247,
+          "duration": [
+            1393.1406683690464,
+            1394.3919173975796
+          ],
+          "sentences": [
+            "-Five million, money. -What?",
+            "Five million, money tonight, 9:00 p.m., or you stay. Buried like dog."
+          ]
+        },
+        {
+          "shot": 248,
+          "duration": [
+            1394.433625698531,
+            1395.3512083194553
+          ],
+          "sentences": [
+            "Five million, money tonight, 9:00 p.m., or you stay. Buried like dog."
+          ]
+        },
+        {
+          "shot": 249,
+          "duration": [
+            1395.3929166204064,
+            1396.1019577365753
+          ],
+          "sentences": [
+            "Five million, money tonight, 9:00 p.m., or you stay. Buried like dog."
+          ]
+        },
+        {
+          "shot": 250,
+          "duration": [
+            1396.1436660375264,
+            1396.9361237555975
+          ],
+          "sentences": [
+            "Five million, money tonight, 9:00 p.m., or you stay. Buried like dog."
+          ]
+        },
+        {
+          "shot": 251,
+          "duration": [
+            1396.9778320565486,
+            1397.9788312793753
+          ],
+          "sentences": [
+            "Five million, money tonight, 9:00 p.m., or you stay. Buried like dog."
+          ]
+        },
+        {
+          "shot": 252,
+          "duration": [
+            1398.0205395803264,
+            1399.688871618371
+          ],
+          "sentences": [
+            "Five million, money tonight, 9:00 p.m., or you stay. Buried like dog.",
+            "-$5 million? From who? -Your family."
+          ]
+        },
+        {
+          "shot": 253,
+          "duration": [
+            1399.730579919322,
+            1400.439621035491
+          ],
+          "sentences": [
+            "-$5 million? From who? -Your family."
+          ]
+        },
+        {
+          "shot": 254,
+          "duration": [
+            1400.481329336442,
+            1402.5250360830466
+          ],
+          "sentences": [
+            "-$5 million? From who? -Your family."
+          ]
+        },
+        {
+          "shot": 255,
+          "duration": [
+            1402.5667443839977,
+            1403.442618703971
+          ],
+          "sentences": [
+            "-$5 million? From who? -Your family.",
+            "My family doesn't have $5 million. If they did, I wouldn't be here."
+          ]
+        },
+        {
+          "shot": 256,
+          "duration": [
+            1403.484327004922,
+            1406.02853336294
+          ],
+          "sentences": [
+            "My family doesn't have $5 million. If they did, I wouldn't be here."
+          ]
+        },
+        {
+          "shot": 257,
+          "duration": [
+            1406.070241663891,
+            1407.2380740905223
+          ],
+          "sentences": [
+            "My family doesn't have $5 million. If they did, I wouldn't be here."
+          ]
+        },
+        {
+          "shot": 258,
+          "duration": [
+            1407.2797823914734,
+            1408.6144480219089
+          ],
+          "sentences": [
+            "From embassy."
+          ]
+        },
+        {
+          "shot": 259,
+          "duration": [
+            1408.65615632286,
+            1410.8249879723178
+          ],
+          "sentences": [
+            "I don't know. Yeah, yeah, from the embassy."
+          ]
+        },
+        {
+          "shot": 260,
+          "duration": [
+            1410.866696273269,
+            1411.617445690389
+          ],
+          "sentences": [
+            "I don't know. Yeah, yeah, from the embassy."
+          ]
+        },
+        {
+          "shot": 261,
+          "duration": [
+            1411.6591539913402,
+            1416.8726916102291
+          ],
+          "sentences": [
+            "I don't know. Yeah, yeah, from the embassy.",
+            "If you let me out of here, they'll pay you the money. Yeah."
+          ]
+        },
+        {
+          "shot": 262,
+          "duration": [
+            1416.9143999111802,
+            1419.750564375856
+          ],
+          "sentences": [
+            "If you let me out of here, they'll pay you the money. Yeah.",
+            "9:00 p.m., five million, money."
+          ]
+        },
+        {
+          "shot": 263,
+          "duration": [
+            1419.792272676807,
+            1440.4795899485587
+          ],
+          "sentences": [
+            "9:00 p.m., five million, money."
+          ]
+        },
+        {
+          "shot": 279,
+          "duration": [
+            1606.3117945301804,
+            1619.8669923392918
+          ],
+          "sentences": [
+            "Oh, God. What's your number?"
+          ]
+        },
+        {
+          "shot": 280,
+          "duration": [
+            1619.9087006402428,
+            1653.400466303986
+          ],
+          "sentences": [
+            "- What city and listing, please? -Hastings, Michigan.",
+            "I'm looking for Donna Mitchell.",
+            "I have two Donna Mitchells, sir.",
+            "One on Federal Road and one on Ardmore Avenue.",
+            "Ardmore Avenue. I think. No. Shit!",
+            "I don't know. Yeah, just give me that one.",
+            "-Ardmore Avenue? -Yes, Ardmore Avenue.",
+            "Please hold for your number",
+            "The number you requested...",
+            "269-148"
+          ]
+        },
+        {
+          "shot": 281,
+          "duration": [
+            1653.442174604937,
+            1657.195921690537
+          ],
+          "sentences": [
+            "269-148",
+            "1998 can be..."
+          ]
+        },
+        {
+          "shot": 282,
+          "duration": [
+            1657.2376299914881,
+            1665.8712482883684
+          ],
+          "sentences": [
+            "1998 can be...",
+            "Come on.",
+            "Where is everybody?"
+          ]
+        },
+        {
+          "shot": 283,
+          "duration": [
+            1665.9129565893195,
+            1672.6279930424485
+          ],
+          "sentences": [
+            "Where is everybody?",
+            "- Hello? -Donna, it's Paul."
+          ]
+        },
+        {
+          "shot": 284,
+          "duration": [
+            1672.6697013433995,
+            1673.4621590614709
+          ],
+          "sentences": [
+            "- Hello? -Donna, it's Paul."
+          ]
+        },
+        {
+          "shot": 285,
+          "duration": [
+            1673.503867362422,
+            1679.8018208060398
+          ],
+          "sentences": [
+            "-Hey. How's it going? -Okay.",
+            "I need to talk to Linda. She's not answering her phone.",
+            "I've got a problem."
+          ]
+        },
+        {
+          "shot": 286,
+          "duration": [
+            1679.843529106991,
+            1682.2626105621555
+          ],
+          "sentences": [
+            "I've got a problem.",
+            "I've been held hostage by a group of guys that...",
+            "Fooled you. I'm not really home."
+          ]
+        },
+        {
+          "shot": 287,
+          "duration": [
+            1682.3043188631066,
+            1683.3053180859333
+          ],
+          "sentences": [
+            "Fooled you. I'm not really home."
+          ]
+        },
+        {
+          "shot": 288,
+          "duration": [
+            1683.3470263868844,
+            1684.9736501239777
+          ],
+          "sentences": [
+            "Fooled you. I'm not really home.",
+            "But if you leave a message, i'll get back to you as soon as I get in. Bye-bye."
+          ]
+        },
+        {
+          "shot": 289,
+          "duration": [
+            1685.0153584249288,
+            1689.7283964324045
+          ],
+          "sentences": [
+            "But if you leave a message, i'll get back to you as soon as I get in. Bye-bye.",
+            "Donna, I need to talk to Linda. It's an absolute emergency."
+          ]
+        },
+        {
+          "shot": 290,
+          "duration": [
+            1689.7701047333555,
+            1695.3590170608047
+          ],
+          "sentences": [
+            "Donna, I need to talk to Linda. It's an absolute emergency.",
+            "Have her call me. Use star 69 to find out the number of this phone",
+            "and have her call me at this number, okay?"
+          ]
+        },
+        {
+          "shot": 291,
+          "duration": [
+            1695.4007253617558,
+            1697.027349098849
+          ],
+          "sentences": [
+            "and have her call me at this number, okay?",
+            "- Paul? -Donna."
+          ]
+        },
+        {
+          "shot": 292,
+          "duration": [
+            1697.0690573998002,
+            1697.8615151178712
+          ],
+          "sentences": [
+            "- Paul? -Donna."
+          ]
+        },
+        {
+          "shot": 293,
+          "duration": [
+            1697.9032234188226,
+            1700.1971799711337
+          ],
+          "sentences": [
+            "-What do you want? -I need to talk to Linda. Where is she?"
+          ]
+        },
+        {
+          "shot": 294,
+          "duration": [
+            1700.2388882720848,
+            1702.991636134858
+          ],
+          "sentences": [
+            "-What do you want? -I need to talk to Linda. Where is she?",
+            "I don't know. I haven 't talked to her all day. Call her cell. ..",
+            "-Are you at your computer right now? -Yeah. Why?"
+          ]
+        },
+        {
+          "shot": 295,
+          "duration": [
+            1703.0333444358093,
+            1709.1227563746716
+          ],
+          "sentences": [
+            "-Are you at your computer right now? -Yeah. Why?",
+            "Okay, I need you to look up a number for me to the State Department.",
+            "Paul, I was just heading out to the supermarket. I really..."
+          ]
+        },
+        {
+          "shot": 296,
+          "duration": [
+            1709.1644646756226,
+            1711.4167129269829
+          ],
+          "sentences": [
+            "Paul, I was just heading out to the supermarket. I really...",
+            "Please, please, please. Just look up the number for me."
+          ]
+        },
+        {
+          "shot": 297,
+          "duration": [
+            1711.458421227934,
+            1715.212168313534
+          ],
+          "sentences": [
+            "Please, please, please. Just look up the number for me.",
+            "-ls everything all right? -No! Everything is not all right!",
+            "-Just look up the number for me. -Don 't fucking yell at me..."
+          ]
+        },
+        {
+          "shot": 298,
+          "duration": [
+            1715.253876614485,
+            1721.1347470485919
+          ],
+          "sentences": [
+            "-Just look up the number for me. -Don 't fucking yell at me...",
+            "-I'm not yelling at you, Donna. -Yes, you are.",
+            "No, I'm not. Just get me the fucking number!",
+            "Get me the number! Get me the fucking number!"
+          ]
+        },
+        {
+          "shot": 299,
+          "duration": [
+            1721.176455349543,
+            1723.428703600903
+          ],
+          "sentences": [
+            "Get me the number! Get me the fucking number!"
+          ]
+        },
+        {
+          "shot": 300,
+          "duration": [
+            1723.4704119018543,
+            1724.6382443284854
+          ],
+          "sentences": [
+            "FUCK!"
+          ]
+        },
+        {
+          "shot": 301,
+          "duration": [
+            1724.6799526294365,
+            1726.8904925798454
+          ],
+          "sentences": [
+            "FUCK!",
+            "You stupid fucking cunt!"
+          ]
+        },
+        {
+          "shot": 302,
+          "duration": [
+            1726.9322008807965,
+            1751.2064320343438
+          ],
+          "sentences": [
+            "You stupid fucking cunt!",
+            "FUCK!",
+            "Fuck you, bitch! Fuck you!",
+            "Fuck you!"
+          ]
+        },
+        {
+          "shot": 304,
+          "duration": [
+            1755.752636838015,
+            1773.9374560526999
+          ],
+          "sentences": [
+            "- What? -Donna, I'm very sorry that I yelled at you.",
+            "I shouldn't have done that.",
+            "But I'm only going to ask you one more time to get me this number,",
+            "and if you don't, I'm gonna die.",
+            "-What? -Please, I don't have time to explain.",
+            "-The number. -Okay, hold on."
+          ]
+        },
+        {
+          "shot": 306,
+          "duration": [
+            1774.8550386736242,
+            1777.1072869249842
+          ],
+          "sentences": [
+            "-Okay. State Department. -Yeah ."
+          ]
+        },
+        {
+          "shot": 307,
+          "duration": [
+            1777.1489952259356,
+            1778.44195255542
+          ],
+          "sentences": [
+            "-Okay. State Department. -Yeah ."
+          ]
+        },
+        {
+          "shot": 308,
+          "duration": [
+            1778.483660856371,
+            1784.0308648828689
+          ],
+          "sentences": [
+            "-Okay. State Department. -Yeah .",
+            "-It\u0092s 202... -202.",
+            "-134... -134."
+          ]
+        },
+        {
+          "shot": 309,
+          "duration": [
+            1784.0725731838202,
+            1786.9087376484956
+          ],
+          "sentences": [
+            "-134... -134.",
+            "-4 750. -4750?"
+          ]
+        },
+        {
+          "shot": 310,
+          "duration": [
+            1786.9504459494467,
+            1789.4529440065135
+          ],
+          "sentences": [
+            "-4 750. -4750?",
+            "-Yeah. -Okay. Fuck you."
+          ]
+        },
+        {
+          "shot": 311,
+          "duration": [
+            1789.4946523074645,
+            1795.0001480330113
+          ],
+          "sentences": [
+            "-Yeah. -Okay. Fuck you."
+          ]
+        },
+        {
+          "shot": 313,
+          "duration": [
+            1799.2126864290738,
+            1799.754894341438
+          ],
+          "sentences": [
+            "United States Department of State."
+          ]
+        },
+        {
+          "shot": 314,
+          "duration": [
+            1799.7966026423894,
+            1841.8802783020615
+          ],
+          "sentences": [
+            "United States Department of State.",
+            "I'm an American citizen, working in Iraq. I've been taken hostage.",
+            "-I need to speak to someone right away. -Where are you calling from, sir?",
+            "From Iraq. I'm a truck driver. I work for CRT. Crestin, Roland and Thomas.",
+            "My convoy was attacked and I'm being held for ransom.",
+            "-Are the kidnappers with you? -No. I'm buried somewhere.",
+            "-You're buried? -Yeah. Yeah, in a coffin.",
+            "It's a wooden box, an old wooden coffin.",
+            "Did you try contacting the military out there?",
+            "They gave me a number to call, a safety number.",
+            "-But the people took it. -The people holding you hostage?",
+            "-Yeah. Yeah. Yeah. -I don't know.",
+            "-Hold on. Let me connect you... -No, don't put me on hold! No!",
+            "-Rebecca Browning. -Hello?"
+          ]
+        },
+        {
+          "shot": 315,
+          "duration": [
+            1841.9219866030126,
+            1906.7366862810406
+          ],
+          "sentences": [
+            "-Rebecca Browning. -Hello?",
+            "Yes, hello. I was just informed of your situation.",
+            "Yeah, my situation.",
+            "I'm running out of time and you guys keep putting me on hold.",
+            "-What the hell is wrong with you? -I'm sorry.",
+            "Don't be sorry. Just help me.",
+            "I just have a few questions for you, Mn Conroy.",
+            "-You've got to be kidding me. -it's important that I get this information.",
+            "-It\u0092ll help make a rescue attempt... -Wait, wait. Hold on, hold on. Wait, wait.",
+            "-How do you know my name? -I'm sorry?",
+            "My name, I didn't give it to you. I didn't give it to the other guy either.",
+            "What's going on right now?",
+            "We received a call from a representative at CRT. You left him a message?",
+            "-Yeah? -He contacted us right away.",
+            "So if you know what the hell is going on,",
+            "then what have you done to get me out of here?",
+            "Well, there 's little we can do from Washington.",
+            "So that's it? I'm just supposed to sit here and rot",
+            "because there's little you can do?",
+            "-No. -Then what?",
+            "I need to know where you were when your convoy was ambushed.",
+            "-In Baqubah, in the Diyala province. -Okay.",
+            "And has contact been made with the kidnappers?",
+            "Yeah. The guy says he wants $5 million by 9:00 tonight.",
+            "Okay or else...",
+            "Or else he'll take me to SeaWorld.",
+            "-What the hell do you think, lady? -We'll do everything we can.",
+            "So you'll pay them then? Yeah?",
+            "-No. That we can't do. -Wait, wait. Why?",
+            "It\u0092s the policy of the United States government",
+            "to not negotiate with terrorists."
+          ]
+        },
+        {
+          "shot": 316,
+          "duration": [
+            1906.778394581992,
+            1915.6205543836277
+          ],
+          "sentences": [
+            "to not negotiate with terrorists.",
+            "Not the policy of the United States government?",
+            "Lady, come on!",
+            "You're sitting in an air conditioned office, this is easy for you to say.",
+            "You're not the one stuck in a coffin, buried in the goddamn desert!"
+          ]
+        },
+        {
+          "shot": 317,
+          "duration": [
+            1915.6622626845788,
+            1928.6335442803745
+          ],
+          "sentences": [
+            "You're not the one stuck in a coffin, buried in the goddamn desert!",
+            "-I understand your frustration... -Frustration?",
+            "Lady, I'm going to fucking die in here. Understand that?"
+          ]
+        },
+        {
+          "shot": 318,
+          "duration": [
+            1928.6752525813256,
+            1931.9702083564637
+          ],
+          "sentences": [
+            "-Hello? -I'm here.",
+            "Then say something. Tell me how you can get me out of here."
+          ]
+        },
+        {
+          "shot": 319,
+          "duration": [
+            1932.0119166574148,
+            1935.7239554420637
+          ],
+          "sentences": [
+            "Then say something. Tell me how you can get me out of here.",
+            "Okay.",
+            "What's the number on the phone that you're calling from?"
+          ]
+        },
+        {
+          "shot": 320,
+          "duration": [
+            1935.7656637430148,
+            1945.8173642722327
+          ],
+          "sentences": [
+            "What's the number on the phone that you're calling from?",
+            "-I don't Know. Did it come up on your end? -No. it's listed as unavailable.",
+            "Tell me this, can you remember a number?",
+            "Yeah. No. I have a... I have a pencil.",
+            "-Okay write this down. -Okay, just a sec."
+          ]
+        },
+        {
+          "shot": 321,
+          "duration": [
+            1945.859072573184,
+            1955.535398393842
+          ],
+          "sentences": [
+            "-Okay write this down. -Okay, just a sec.",
+            "Okay. Go ahead.",
+            "-410... -Yeah.",
+            "...195...",
+            "-5453. -5453."
+          ]
+        },
+        {
+          "shot": 322,
+          "duration": [
+            1955.577106694793,
+            1957.9544798490065
+          ],
+          "sentences": [
+            "-5453. -5453.",
+            "-Who's that? -That's Dan Brenner"
+          ]
+        },
+        {
+          "shot": 323,
+          "duration": [
+            1957.9961881499576,
+            1961.4162688279487
+          ],
+          "sentences": [
+            "-Who's that? -That's Dan Brenner",
+            "He's the commander of the hostage working group over in Iraq."
+          ]
+        },
+        {
+          "shot": 324,
+          "duration": [
+            1961.4579771288998,
+            1974.7629251323046
+          ],
+          "sentences": [
+            "He's the commander of the hostage working group over in Iraq.",
+            "Hostage working group?",
+            "Formed it in 2004 to deal with situations such as yours.",
+            "Situations. I love how you keep calling it that.",
+            "-Did you write down the number? -Yeah.",
+            "Good. Now, just hold on, I 'll connect you with him now."
+          ]
+        },
+        {
+          "shot": 325,
+          "duration": [
+            1974.8046334332557,
+            1976.5146737722512
+          ],
+          "sentences": [
+            "Good. Now, just hold on, I 'll connect you with him now.",
+            "-He should be expecting you. -What about the news? I wanna call them."
+          ]
+        },
+        {
+          "shot": 326,
+          "duration": [
+            1976.5563820732025,
+            1977.6407978979314
+          ],
+          "sentences": [
+            "-He should be expecting you. -What about the news? I wanna call them."
+          ]
+        },
+        {
+          "shot": 327,
+          "duration": [
+            1977.6825061988825,
+            1988.1095814366604
+          ],
+          "sentences": [
+            "-He should be expecting you. -What about the news? I wanna call them.",
+            "No, don't call the news.",
+            "-I repeat, do not contact the news. -Why?",
+            "-It will only complicate things further.. -That's bullshit.",
+            "-You're just covering your own ass. -No, I'm covering yours.",
+            "You don't go looking for something you don't know is missing.",
+            "Everyone who needs to know about this does.",
+            "-I need all the help I can get. -We are running out of time, Paul."
+          ]
+        },
+        {
+          "shot": 328,
+          "duration": [
+            1988.1512897376115,
+            2003.541652788572
+          ],
+          "sentences": [
+            "-I need all the help I can get. -We are running out of time, Paul.",
+            "That's why you need to contact Dan Brenner right away.",
+            "Fine.",
+            "I'm transferring you now."
+          ]
+        },
+        {
+          "shot": 329,
+          "duration": [
+            2003.5833610895231,
+            2030.9857148144038
+          ],
+          "sentences": [
+            "-Brenner -Dan Brenner?",
+            "-ls this Paul Conroy? -Yeah, yeah, it's me. It's Paul.",
+            "Paul, I was informed of what's going on.",
+            "I want you to know that we're already working on trying to get you out of there.",
+            "Thank you, God.",
+            "I was told that we have until 9:00 p. m. ls that right?"
+          ]
+        },
+        {
+          "shot": 330,
+          "duration": [
+            2031.0274231153548,
+            2038.4097923837016
+          ],
+          "sentences": [
+            "I was told that we have until 9:00 p. m. ls that right?",
+            "-That's what he said. -All right.",
+            "That doesn't give us a whole lot of time.",
+            "And just so I have this right, the kidnappers buried you in the ground?"
+          ]
+        },
+        {
+          "shot": 331,
+          "duration": [
+            2038.4515006846527,
+            2076.1975130454093
+          ],
+          "sentences": [
+            "And just so I have this right, the kidnappers buried you in the ground?",
+            "Yeah. It's an old, wooden coffin.",
+            "Okay my guess is that since you're able to get a cell signal,",
+            "-you're no more than a few feet underground. -Yeah, I don't know. Maybe.",
+            "What about battery life? How much does the phone have left?",
+            "-It's just less than half. -Okay you have to conserve that battery.",
+            "Our best bet of finding you by tracking your cell signal.",
+            "-ls the ringer set on a sound or vibrate? -Vibrate.",
+            "I need you to press and hold down the asterisk key",
+            "to change it to a ring tone. It will use less power",
+            "-What about my Zippo? -You have a lighter?",
+            "-Yeah. -Use it to look around for markings,",
+            "logo, whatever you can find. -Won\u0092t it use up oxygen?",
+            "Don 't worry about that now. Just try to find...",
+            "-It's just so dark in here without it. -I understand, Paul."
+          ]
+        },
+        {
+          "shot": 332,
+          "duration": [
+            2076.2392213463604,
+            2100.888827208468
+          ],
+          "sentences": [
+            "-It's just so dark in here without it. -I understand, Paul.",
+            "Try to find anything in there that might indicate where that coffin was made.",
+            "-You guys have to hurry. -We're working as fast as we can, Paul.",
+            "Do you Know if there were any other survivors?",
+            "-From your convoy? -Yeah .",
+            "Still unclear at this point.",
+            "I just wanted to do right by my family. That's all.",
+            "I didn't know it was going to be like this out here.",
+            "I don't think any of us did."
+          ]
+        },
+        {
+          "shot": 333,
+          "duration": [
+            2100.930535509419,
+            2103.266200362681
+          ],
+          "sentences": [
+            "-That's him. He's calling. -The kidnapper?"
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            2103.307908663632,
+            2108.0209466711076
+          ],
+          "sentences": [
+            "-That's him. He's calling. -The kidnapper?",
+            "-Yeah. What should I do? -You know his number?",
+            "-Yeah. -Give it to me.",
+            "-Okay. What about the call? -Give me the number first."
+          ]
+        },
+        {
+          "shot": 335,
+          "duration": [
+            2108.0626549720587,
+            2112.1083601643168
+          ],
+          "sentences": [
+            "-Okay. What about the call? -Give me the number first.",
+            "-He's going to hang up. -Take the call.",
+            "-I... Okay. -That's okay, just take the call."
+          ]
+        },
+        {
+          "shot": 336,
+          "duration": [
+            2112.150068465268,
+            2113.317900891899
+          ],
+          "sentences": [
+            "-I... Okay. -That's okay, just take the call."
+          ]
+        },
+        {
+          "shot": 337,
+          "duration": [
+            2113.3596091928503,
+            2114.1520669109213
+          ],
+          "sentences": [
+            "Hello! Hello."
+          ]
+        },
+        {
+          "shot": 338,
+          "duration": [
+            2114.1937752118724,
+            2117.780689093668
+          ],
+          "sentences": [
+            "Hello! Hello.",
+            "Two hour; four minute."
+          ]
+        },
+        {
+          "shot": 339,
+          "duration": [
+            2117.822397394619,
+            2124.7459753525036
+          ],
+          "sentences": [
+            "Two hour; four minute.",
+            "-You have to give me more time. -You talk to embassy?",
+            "-Give the money? -Yeah, yeah. I talked to someone."
+          ]
+        },
+        {
+          "shot": 340,
+          "duration": [
+            2124.7876836534547,
+            2126.664557196255
+          ],
+          "sentences": [
+            "-Give the money? -Yeah, yeah. I talked to someone.",
+            "The government. They said that they won't pay the money."
+          ]
+        },
+        {
+          "shot": 341,
+          "duration": [
+            2126.706265497206,
+            2129.792679767588
+          ],
+          "sentences": [
+            "The government. They said that they won't pay the money.",
+            "-No pay? -No.",
+            "They said they don't negotiate with terrorists."
+          ]
+        },
+        {
+          "shot": 342,
+          "duration": [
+            2129.8343880685393,
+            2131.6695533103884
+          ],
+          "sentences": [
+            "They said they don't negotiate with terrorists.",
+            "Terrorists? I am terrorist?"
+          ]
+        },
+        {
+          "shot": 343,
+          "duration": [
+            2131.7112616113395,
+            2133.2961770474817
+          ],
+          "sentences": [
+            "Terrorists? I am terrorist?",
+            "Yeah. Yeah. You're a terrorist, you son of a bitch."
+          ]
+        },
+        {
+          "shot": 344,
+          "duration": [
+            2133.337885348433,
+            2136.007216609304
+          ],
+          "sentences": [
+            "Yeah. Yeah. You're a terrorist, you son of a bitch."
+          ]
+        },
+        {
+          "shot": 345,
+          "duration": [
+            2136.048924910255,
+            2141.137337626291
+          ],
+          "sentences": [
+            "Yeah. Yeah. You're a terrorist, you son of a bitch.",
+            "You terrified, so I am terrorist?",
+            "What did I ever do to you?"
+          ]
+        },
+        {
+          "shot": 346,
+          "duration": [
+            2141.179045927242,
+            2146.476000148033
+          ],
+          "sentences": [
+            "What did I ever do to you?",
+            "-Ever do? -Yeah.",
+            "Yeah. I'm here because it's a job, to make money."
+          ]
+        },
+        {
+          "shot": 347,
+          "duration": [
+            2146.517708448984,
+            2149.1036231079534
+          ],
+          "sentences": [
+            "Yeah. I'm here because it's a job, to make money."
+          ]
+        },
+        {
+          "shot": 348,
+          "duration": [
+            2149.1453314089044,
+            2164.36886125606
+          ],
+          "sentences": [
+            "Yeah. I'm here because it's a job, to make money.",
+            "-That's it. -I have job until you come.",
+            "-Now my family have nothing. -That's not my fault!",
+            "9/11 was not my fault, but you still here. Saddam was not my fault, but you still here.",
+            "I told you, I'm only here to work. To help rebuild.",
+            "Rebuild what you destroyed.",
+            "Stop! Stop! Just please, stop! I'm just a guy. I'm just a truck driver. Okay?"
+          ]
+        },
+        {
+          "shot": 349,
+          "duration": [
+            2164.4105695570115,
+            2165.453277080789
+          ],
+          "sentences": [
+            "Stop! Stop! Just please, stop! I'm just a guy. I'm just a truck driver. Okay?"
+          ]
+        },
+        {
+          "shot": 350,
+          "duration": [
+            2165.49498538174,
+            2167.0799008178824
+          ],
+          "sentences": [
+            "Stop! Stop! Just please, stop! I'm just a guy. I'm just a truck driver. Okay?"
+          ]
+        },
+        {
+          "shot": 351,
+          "duration": [
+            2167.1216091188335,
+            2168.6231079530735
+          ],
+          "sentences": [
+            "Stop! Stop! Just please, stop! I'm just a guy. I'm just a truck driver. Okay?",
+            "I'm nobody that makes decisions about anything."
+          ]
+        },
+        {
+          "shot": 352,
+          "duration": [
+            2168.6648162540246,
+            2169.9994818844602
+          ],
+          "sentences": [
+            "I'm nobody that makes decisions about anything.",
+            "I just want to go home."
+          ]
+        },
+        {
+          "shot": 353,
+          "duration": [
+            2170.0411901854113,
+            2170.9587728063357
+          ],
+          "sentences": [
+            "I just want to go home."
+          ]
+        },
+        {
+          "shot": 354,
+          "duration": [
+            2171.000481107287,
+            2173.5029791643537
+          ],
+          "sentences": [
+            "I just want to go home."
+          ]
+        },
+        {
+          "shot": 355,
+          "duration": [
+            2173.544687465305,
+            2182.136597461234
+          ],
+          "sentences": [
+            "Hello?",
+            "-You make video. Ransom video. -Yeah, yeah!"
+          ]
+        },
+        {
+          "shot": 356,
+          "duration": [
+            2182.178305762185,
+            2184.263720809741
+          ],
+          "sentences": [
+            "-You make video. Ransom video. -Yeah, yeah!",
+            "I'll make a video. If you let me go, I'll make a video.",
+            "No. You make video now."
+          ]
+        },
+        {
+          "shot": 357,
+          "duration": [
+            2184.305429110692,
+            2198.611376336923
+          ],
+          "sentences": [
+            "No. You make video now.",
+            "-What? How? -Use video on phone.",
+            "Near foot. You read note near foot in box.",
+            "-I don't see it. -Near foot.",
+            "-Read note inside box. -Okay, okay."
+          ]
+        },
+        {
+          "shot": 358,
+          "duration": [
+            2198.653084637874,
+            2215.0444469116615
+          ],
+          "sentences": [
+            "-Read note inside box. -Okay, okay.",
+            "-If I make the video, you let me go? -Only if we get money.",
+            "Nobody's going to pay $5 million for me.",
+            "We take less. One million, money.",
+            "If they pay, you'll let me go?",
+            "One million, money."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1462758_0001",
+      "shot": [
+        316,
+        657
+      ],
+      "frame": [
+        45769,
+        95100
+      ],
+      "duration": [
+        1908.9783115819919,
+        3966.445985581992
+      ],
+      "consistency": 0.9727923667003867,
+      "description": "Paul eventually gets into contact with the State Department, who pass him onto a group set up in 2004 specifically made to find people who have been kidnapped. While the man, Dan Brenner, who is trying to find Paul tells him that they are doing their best, Paul is not convinced and asks the man to name a person who they had saved before. He claims they saved a man known as Mark White three weeks ago. After a long time of his trying to get help, the kidnapper forces him to make a ransom video, which he refuses to do. The kidnapper threatens to kill his kidnapped co-worker, and Paul reluctantly agrees to do the video. Shortly afterwards, there is a violent shaking in the coffin, and sand starts to leak into it. He then receives a video from the kidnapper of the female employee he knew being shot dead, causing him to feel incredibly guilty and to vomit. The stress becomes too great and Paul momentarily considers slitting his own throat with the knife, but he stops after thinking about his family.",
+      "subtitle": [
+        {
+          "shot": 316,
+          "duration": [
+            1906.778394581992,
+            1915.6205543836277
+          ],
+          "sentences": [
+            "to not negotiate with terrorists.",
+            "Not the policy of the United States government?",
+            "Lady, come on!",
+            "You're sitting in an air conditioned office, this is easy for you to say.",
+            "You're not the one stuck in a coffin, buried in the goddamn desert!"
+          ]
+        },
+        {
+          "shot": 317,
+          "duration": [
+            1915.6622626845788,
+            1928.6335442803745
+          ],
+          "sentences": [
+            "You're not the one stuck in a coffin, buried in the goddamn desert!",
+            "-I understand your frustration... -Frustration?",
+            "Lady, I'm going to fucking die in here. Understand that?"
+          ]
+        },
+        {
+          "shot": 318,
+          "duration": [
+            1928.6752525813256,
+            1931.9702083564637
+          ],
+          "sentences": [
+            "-Hello? -I'm here.",
+            "Then say something. Tell me how you can get me out of here."
+          ]
+        },
+        {
+          "shot": 319,
+          "duration": [
+            1932.0119166574148,
+            1935.7239554420637
+          ],
+          "sentences": [
+            "Then say something. Tell me how you can get me out of here.",
+            "Okay.",
+            "What's the number on the phone that you're calling from?"
+          ]
+        },
+        {
+          "shot": 320,
+          "duration": [
+            1935.7656637430148,
+            1945.8173642722327
+          ],
+          "sentences": [
+            "What's the number on the phone that you're calling from?",
+            "-I don't Know. Did it come up on your end? -No. it's listed as unavailable.",
+            "Tell me this, can you remember a number?",
+            "Yeah. No. I have a... I have a pencil.",
+            "-Okay write this down. -Okay, just a sec."
+          ]
+        },
+        {
+          "shot": 321,
+          "duration": [
+            1945.859072573184,
+            1955.535398393842
+          ],
+          "sentences": [
+            "-Okay write this down. -Okay, just a sec.",
+            "Okay. Go ahead.",
+            "-410... -Yeah.",
+            "...195...",
+            "-5453. -5453."
+          ]
+        },
+        {
+          "shot": 322,
+          "duration": [
+            1955.577106694793,
+            1957.9544798490065
+          ],
+          "sentences": [
+            "-5453. -5453.",
+            "-Who's that? -That's Dan Brenner"
+          ]
+        },
+        {
+          "shot": 323,
+          "duration": [
+            1957.9961881499576,
+            1961.4162688279487
+          ],
+          "sentences": [
+            "-Who's that? -That's Dan Brenner",
+            "He's the commander of the hostage working group over in Iraq."
+          ]
+        },
+        {
+          "shot": 324,
+          "duration": [
+            1961.4579771288998,
+            1974.7629251323046
+          ],
+          "sentences": [
+            "He's the commander of the hostage working group over in Iraq.",
+            "Hostage working group?",
+            "Formed it in 2004 to deal with situations such as yours.",
+            "Situations. I love how you keep calling it that.",
+            "-Did you write down the number? -Yeah.",
+            "Good. Now, just hold on, I 'll connect you with him now."
+          ]
+        },
+        {
+          "shot": 325,
+          "duration": [
+            1974.8046334332557,
+            1976.5146737722512
+          ],
+          "sentences": [
+            "Good. Now, just hold on, I 'll connect you with him now.",
+            "-He should be expecting you. -What about the news? I wanna call them."
+          ]
+        },
+        {
+          "shot": 326,
+          "duration": [
+            1976.5563820732025,
+            1977.6407978979314
+          ],
+          "sentences": [
+            "-He should be expecting you. -What about the news? I wanna call them."
+          ]
+        },
+        {
+          "shot": 327,
+          "duration": [
+            1977.6825061988825,
+            1988.1095814366604
+          ],
+          "sentences": [
+            "-He should be expecting you. -What about the news? I wanna call them.",
+            "No, don't call the news.",
+            "-I repeat, do not contact the news. -Why?",
+            "-It will only complicate things further.. -That's bullshit.",
+            "-You're just covering your own ass. -No, I'm covering yours.",
+            "You don't go looking for something you don't know is missing.",
+            "Everyone who needs to know about this does.",
+            "-I need all the help I can get. -We are running out of time, Paul."
+          ]
+        },
+        {
+          "shot": 328,
+          "duration": [
+            1988.1512897376115,
+            2003.541652788572
+          ],
+          "sentences": [
+            "-I need all the help I can get. -We are running out of time, Paul.",
+            "That's why you need to contact Dan Brenner right away.",
+            "Fine.",
+            "I'm transferring you now."
+          ]
+        },
+        {
+          "shot": 329,
+          "duration": [
+            2003.5833610895231,
+            2030.9857148144038
+          ],
+          "sentences": [
+            "-Brenner -Dan Brenner?",
+            "-ls this Paul Conroy? -Yeah, yeah, it's me. It's Paul.",
+            "Paul, I was informed of what's going on.",
+            "I want you to know that we're already working on trying to get you out of there.",
+            "Thank you, God.",
+            "I was told that we have until 9:00 p. m. ls that right?"
+          ]
+        },
+        {
+          "shot": 330,
+          "duration": [
+            2031.0274231153548,
+            2038.4097923837016
+          ],
+          "sentences": [
+            "I was told that we have until 9:00 p. m. ls that right?",
+            "-That's what he said. -All right.",
+            "That doesn't give us a whole lot of time.",
+            "And just so I have this right, the kidnappers buried you in the ground?"
+          ]
+        },
+        {
+          "shot": 331,
+          "duration": [
+            2038.4515006846527,
+            2076.1975130454093
+          ],
+          "sentences": [
+            "And just so I have this right, the kidnappers buried you in the ground?",
+            "Yeah. It's an old, wooden coffin.",
+            "Okay my guess is that since you're able to get a cell signal,",
+            "-you're no more than a few feet underground. -Yeah, I don't know. Maybe.",
+            "What about battery life? How much does the phone have left?",
+            "-It's just less than half. -Okay you have to conserve that battery.",
+            "Our best bet of finding you by tracking your cell signal.",
+            "-ls the ringer set on a sound or vibrate? -Vibrate.",
+            "I need you to press and hold down the asterisk key",
+            "to change it to a ring tone. It will use less power",
+            "-What about my Zippo? -You have a lighter?",
+            "-Yeah. -Use it to look around for markings,",
+            "logo, whatever you can find. -Won\u0092t it use up oxygen?",
+            "Don 't worry about that now. Just try to find...",
+            "-It's just so dark in here without it. -I understand, Paul."
+          ]
+        },
+        {
+          "shot": 332,
+          "duration": [
+            2076.2392213463604,
+            2100.888827208468
+          ],
+          "sentences": [
+            "-It's just so dark in here without it. -I understand, Paul.",
+            "Try to find anything in there that might indicate where that coffin was made.",
+            "-You guys have to hurry. -We're working as fast as we can, Paul.",
+            "Do you Know if there were any other survivors?",
+            "-From your convoy? -Yeah .",
+            "Still unclear at this point.",
+            "I just wanted to do right by my family. That's all.",
+            "I didn't know it was going to be like this out here.",
+            "I don't think any of us did."
+          ]
+        },
+        {
+          "shot": 333,
+          "duration": [
+            2100.930535509419,
+            2103.266200362681
+          ],
+          "sentences": [
+            "-That's him. He's calling. -The kidnapper?"
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            2103.307908663632,
+            2108.0209466711076
+          ],
+          "sentences": [
+            "-That's him. He's calling. -The kidnapper?",
+            "-Yeah. What should I do? -You know his number?",
+            "-Yeah. -Give it to me.",
+            "-Okay. What about the call? -Give me the number first."
+          ]
+        },
+        {
+          "shot": 335,
+          "duration": [
+            2108.0626549720587,
+            2112.1083601643168
+          ],
+          "sentences": [
+            "-Okay. What about the call? -Give me the number first.",
+            "-He's going to hang up. -Take the call.",
+            "-I... Okay. -That's okay, just take the call."
+          ]
+        },
+        {
+          "shot": 336,
+          "duration": [
+            2112.150068465268,
+            2113.317900891899
+          ],
+          "sentences": [
+            "-I... Okay. -That's okay, just take the call."
+          ]
+        },
+        {
+          "shot": 337,
+          "duration": [
+            2113.3596091928503,
+            2114.1520669109213
+          ],
+          "sentences": [
+            "Hello! Hello."
+          ]
+        },
+        {
+          "shot": 338,
+          "duration": [
+            2114.1937752118724,
+            2117.780689093668
+          ],
+          "sentences": [
+            "Hello! Hello.",
+            "Two hour; four minute."
+          ]
+        },
+        {
+          "shot": 339,
+          "duration": [
+            2117.822397394619,
+            2124.7459753525036
+          ],
+          "sentences": [
+            "Two hour; four minute.",
+            "-You have to give me more time. -You talk to embassy?",
+            "-Give the money? -Yeah, yeah. I talked to someone."
+          ]
+        },
+        {
+          "shot": 340,
+          "duration": [
+            2124.7876836534547,
+            2126.664557196255
+          ],
+          "sentences": [
+            "-Give the money? -Yeah, yeah. I talked to someone.",
+            "The government. They said that they won't pay the money."
+          ]
+        },
+        {
+          "shot": 341,
+          "duration": [
+            2126.706265497206,
+            2129.792679767588
+          ],
+          "sentences": [
+            "The government. They said that they won't pay the money.",
+            "-No pay? -No.",
+            "They said they don't negotiate with terrorists."
+          ]
+        },
+        {
+          "shot": 342,
+          "duration": [
+            2129.8343880685393,
+            2131.6695533103884
+          ],
+          "sentences": [
+            "They said they don't negotiate with terrorists.",
+            "Terrorists? I am terrorist?"
+          ]
+        },
+        {
+          "shot": 343,
+          "duration": [
+            2131.7112616113395,
+            2133.2961770474817
+          ],
+          "sentences": [
+            "Terrorists? I am terrorist?",
+            "Yeah. Yeah. You're a terrorist, you son of a bitch."
+          ]
+        },
+        {
+          "shot": 344,
+          "duration": [
+            2133.337885348433,
+            2136.007216609304
+          ],
+          "sentences": [
+            "Yeah. Yeah. You're a terrorist, you son of a bitch."
+          ]
+        },
+        {
+          "shot": 345,
+          "duration": [
+            2136.048924910255,
+            2141.137337626291
+          ],
+          "sentences": [
+            "Yeah. Yeah. You're a terrorist, you son of a bitch.",
+            "You terrified, so I am terrorist?",
+            "What did I ever do to you?"
+          ]
+        },
+        {
+          "shot": 346,
+          "duration": [
+            2141.179045927242,
+            2146.476000148033
+          ],
+          "sentences": [
+            "What did I ever do to you?",
+            "-Ever do? -Yeah.",
+            "Yeah. I'm here because it's a job, to make money."
+          ]
+        },
+        {
+          "shot": 347,
+          "duration": [
+            2146.517708448984,
+            2149.1036231079534
+          ],
+          "sentences": [
+            "Yeah. I'm here because it's a job, to make money."
+          ]
+        },
+        {
+          "shot": 348,
+          "duration": [
+            2149.1453314089044,
+            2164.36886125606
+          ],
+          "sentences": [
+            "Yeah. I'm here because it's a job, to make money.",
+            "-That's it. -I have job until you come.",
+            "-Now my family have nothing. -That's not my fault!",
+            "9/11 was not my fault, but you still here. Saddam was not my fault, but you still here.",
+            "I told you, I'm only here to work. To help rebuild.",
+            "Rebuild what you destroyed.",
+            "Stop! Stop! Just please, stop! I'm just a guy. I'm just a truck driver. Okay?"
+          ]
+        },
+        {
+          "shot": 349,
+          "duration": [
+            2164.4105695570115,
+            2165.453277080789
+          ],
+          "sentences": [
+            "Stop! Stop! Just please, stop! I'm just a guy. I'm just a truck driver. Okay?"
+          ]
+        },
+        {
+          "shot": 350,
+          "duration": [
+            2165.49498538174,
+            2167.0799008178824
+          ],
+          "sentences": [
+            "Stop! Stop! Just please, stop! I'm just a guy. I'm just a truck driver. Okay?"
+          ]
+        },
+        {
+          "shot": 351,
+          "duration": [
+            2167.1216091188335,
+            2168.6231079530735
+          ],
+          "sentences": [
+            "Stop! Stop! Just please, stop! I'm just a guy. I'm just a truck driver. Okay?",
+            "I'm nobody that makes decisions about anything."
+          ]
+        },
+        {
+          "shot": 352,
+          "duration": [
+            2168.6648162540246,
+            2169.9994818844602
+          ],
+          "sentences": [
+            "I'm nobody that makes decisions about anything.",
+            "I just want to go home."
+          ]
+        },
+        {
+          "shot": 353,
+          "duration": [
+            2170.0411901854113,
+            2170.9587728063357
+          ],
+          "sentences": [
+            "I just want to go home."
+          ]
+        },
+        {
+          "shot": 354,
+          "duration": [
+            2171.000481107287,
+            2173.5029791643537
+          ],
+          "sentences": [
+            "I just want to go home."
+          ]
+        },
+        {
+          "shot": 355,
+          "duration": [
+            2173.544687465305,
+            2182.136597461234
+          ],
+          "sentences": [
+            "Hello?",
+            "-You make video. Ransom video. -Yeah, yeah!"
+          ]
+        },
+        {
+          "shot": 356,
+          "duration": [
+            2182.178305762185,
+            2184.263720809741
+          ],
+          "sentences": [
+            "-You make video. Ransom video. -Yeah, yeah!",
+            "I'll make a video. If you let me go, I'll make a video.",
+            "No. You make video now."
+          ]
+        },
+        {
+          "shot": 357,
+          "duration": [
+            2184.305429110692,
+            2198.611376336923
+          ],
+          "sentences": [
+            "No. You make video now.",
+            "-What? How? -Use video on phone.",
+            "Near foot. You read note near foot in box.",
+            "-I don't see it. -Near foot.",
+            "-Read note inside box. -Okay, okay."
+          ]
+        },
+        {
+          "shot": 358,
+          "duration": [
+            2198.653084637874,
+            2215.0444469116615
+          ],
+          "sentences": [
+            "-Read note inside box. -Okay, okay.",
+            "-If I make the video, you let me go? -Only if we get money.",
+            "Nobody's going to pay $5 million for me.",
+            "We take less. One million, money.",
+            "If they pay, you'll let me go?",
+            "One million, money."
+          ]
+        },
+        {
+          "shot": 359,
+          "duration": [
+            2215.0861552126125,
+            2218.8816105991637
+          ],
+          "sentences": [
+            "One million, money."
+          ]
+        },
+        {
+          "shot": 423,
+          "duration": [
+            2379.6671107657007,
+            2381.3771511046966
+          ],
+          "sentences": [
+            "OW!"
+          ]
+        },
+        {
+          "shot": 424,
+          "duration": [
+            2381.4188594056477,
+            2389.718811294919
+          ],
+          "sentences": [
+            "OW!"
+          ]
+        },
+        {
+          "shot": 441,
+          "duration": [
+            2455.3676769919693,
+            2476.2635357684767
+          ],
+          "sentences": [
+            "Thanks for calling the Conroys. We're not home right now.",
+            "Please leave a message after the beep. Thanks!",
+            "We\u0092re sorry, your call cannot be completed. Please, dial again.",
+            "Shit."
+          ]
+        },
+        {
+          "shot": 442,
+          "duration": [
+            2476.3052440694278,
+            2477.5147847970097
+          ],
+          "sentences": [
+            "Shit."
+          ]
+        },
+        {
+          "shot": 448,
+          "duration": [
+            2487.232818918619,
+            2681.6769179527037
+          ],
+          "sentences": [
+            "- Paul? -Here's his number.",
+            "-Hold on. All right, go ahead. -Okay. Hold on.",
+            "It's 07-902-24-921.",
+            "Okay. This is huge, Paul. Unless they're using a cloned line,",
+            "we should be able to find where this is coming from in minutes.",
+            "Okay. What about me? Can you track my cell signal?",
+            "We 're having a lot of trouble with yours.",
+            "Seems to be an EDS line,",
+            "probably through one of the Egyptian carriers.",
+            "What does that mean?",
+            "-That it's just not going to be easy. -He wants me to make a ransom video.",
+            "No. Hold off for as long as you can.",
+            "If it gets me out of here, I'm making it.",
+            "The last thing we want is for this to end up all over Al Jazeera.",
+            "-We'? - Yes.",
+            "This can't turn into an international incident.",
+            "That's all you people care about, isn't it? Don't you care about me?",
+            "-We do. -What about me?",
+            "We do, Paul, we do. That's why we're here.",
+            "No, no, no, you don't! You don't care about me.",
+            "You don't care about any of us.",
+            "I've had eight friends killed out here, six of them today.",
+            "-Listen, Paul. You just... -We don't have any guns, any armor.",
+            "-Nothing. -That's because you're not soldiers.",
+            "Tell that to the people who put me in this box!",
+            "-Paul, listen. -Tell that to the people who shot my friends!",
+            "-We're doing the best we can. -No, you're not! You're not!",
+            "-Okay, calm down. -I've been out here nine months.",
+            "I know how it works. All you guys care about",
+            "is your secret plans and your back-room politics.",
+            "You know, if I was a diplomat,",
+            "or a hostage working group leader, or what the fuck your title is,",
+            "I'd be out of here by now.",
+            "But I'm not, so I'm just supposed to sit in here, shut my mouth and die.",
+            "Okay, I need you to stay focused, Paul.",
+            "Fuck you, Dan.",
+            "Paul, listen to me. Finding you is our primary concern.",
+            "Bottom line. And we 're searching for you",
+            "just as hard as we would be for a four-star general,",
+            "so don't literally waste your breath suggesting otherwise.",
+            "I can't... I can't...",
+            "Are you injured, Paul? Are you okay?",
+            "I don't know. Who are they?",
+            "The people who put me in here, who are they?",
+            "They're just that, people. No different from you and me.",
+            "-I'm not a terrorist. -Neither are they.",
+            "How do you know?",
+            "If you were homeless, starving... Actually I take that back.",
+            "If your family was homeless and starving, what would you do for them?",
+            "-I wouldn't kill somebody. -How can you be sure?",
+            "What difference does it make?",
+            "They're criminals, desperate ones at that.",
+            "They don't care about anything other than getting the money.",
+            "So pay them, just pay them.",
+            "Trust me, if it was an option, I would do that in a heartbeat.",
+            "How many others have there been?",
+            "-Since I got here? -Yeah.",
+            "Dozens. Journalists, contractors, soldiers.",
+            "Dozens have been taken. it's one of the only functioning businesses out here.",
+            "How many have you rescued?",
+            "-How many? -Not many.",
+            "-Tell me their names. -No.",
+            "-Any of them. -Who?",
+            "Make me believe that they really do matter to you.",
+            "That they really do matter to you.",
+            "-Mark White. -Who was Mark White?",
+            "A kid from New Hampshire. Twenty-six years old. Med student.",
+            "Came over here to help out local doctors.",
+            "What happened to him?",
+            "-Insurgents grabbed him. -When?",
+            "About three weeks ago."
+          ]
+        },
+        {
+          "shot": 449,
+          "duration": [
+            2681.7186262536547,
+            2687.5160800858594
+          ],
+          "sentences": [
+            "You remember his name?",
+            "I remember all their names."
+          ]
+        },
+        {
+          "shot": 451,
+          "duration": [
+            2689.9351615410237,
+            2697.150697605566
+          ],
+          "sentences": [
+            "Is he... Did he?",
+            "Yeah. Yeah, he's alive.",
+            "-Where is he now? -Home."
+          ]
+        },
+        {
+          "shot": 452,
+          "duration": [
+            2697.1924059065173,
+            2710.4139373080197
+          ],
+          "sentences": [
+            "Probably happy to be back at school.",
+            "I want to get out of here.",
+            "We found him. We\u0092ll find you, too.",
+            "How?"
+          ]
+        },
+        {
+          "shot": 453,
+          "duration": [
+            2710.455645608971,
+            2730.0168387550425
+          ],
+          "sentences": [
+            "How?",
+            "We already have a solid lead on the number you gave us.",
+            "-You do? -Yeah. A unit's on its way over there now.",
+            "That's good.",
+            "-That feels good. -Yeah.",
+            "What... What should I do in the meantime?",
+            "I know it's hard, but try to relax."
+          ]
+        },
+        {
+          "shot": 454,
+          "duration": [
+            2730.0585470559936,
+            2755.0418193257096
+          ],
+          "sentences": [
+            "I know it's hard, but try to relax.",
+            "The more worked up you are, the more air you're going to use.",
+            "Okay, I know.",
+            "I know. it's hard, 'cause I have anxiety.",
+            "I take pills for it.",
+            "-Do you have them with you? -Yeah.",
+            "Good. Take them.",
+            "You need to preserve your oxygen level any way you can.",
+            "Okay.",
+            "-ls your Zippo still lit? -No, not anymore."
+          ]
+        },
+        {
+          "shot": 455,
+          "duration": [
+            2755.0835276266607,
+            2776.354761111728
+          ],
+          "sentences": [
+            "-ls your Zippo still lit? -No, not anymore.",
+            "-All right. Good. -I feel nauseous.",
+            "-You have to calm down. -Okay.",
+            "And you need to save that battery.",
+            "We 're expecting some intel in about 10 minutes.",
+            "-Call me back then. -Okay.",
+            "-Just hang in there, Paul. -I'm trying, okay."
+          ]
+        },
+        {
+          "shot": 456,
+          "duration": [
+            2776.396469412679,
+            2779.649716886866
+          ],
+          "sentences": [
+            "-What? - You make video?"
+          ]
+        },
+        {
+          "shot": 457,
+          "duration": [
+            2779.691425187817,
+            2790.952666444617
+          ],
+          "sentences": [
+            "-What? - You make video?",
+            "-No. -You make video!",
+            "-Let me out and I'll make it. -No!",
+            "-You make video now. -I can't read the paper.",
+            "-Make video now! -I can't.",
+            "I don't know what you want me to say. I can't read the paper.",
+            "You make video! Now!",
+            "I Fuck!"
+          ]
+        },
+        {
+          "shot": 458,
+          "duration": [
+            2790.994374745568,
+            2800.79582546908
+          ],
+          "sentences": [
+            "I Fuck!",
+            "I"
+          ]
+        },
+        {
+          "shot": 461,
+          "duration": [
+            2815.5605640057734,
+            2856.017615928352
+          ],
+          "sentences": [
+            "Okay, okay. Come on, come on, come on.",
+            "Come on!",
+            "Come on, come on, come on, come on, come on, come on."
+          ]
+        },
+        {
+          "shot": 462,
+          "duration": [
+            2856.0593242293035,
+            2859.7713630139524
+          ],
+          "sentences": [
+            "Fuck."
+          ]
+        },
+        {
+          "shot": 467,
+          "duration": [
+            2880.1250138780947,
+            2894.5560860071796
+          ],
+          "sentences": [
+            "Shit."
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            2976.3877724732615,
+            3132.418526331372
+          ],
+          "sentences": [
+            "Mountain View Nursing Home.",
+            "Hi. I was hoping that I could speak with Maryanne Conroy, please.",
+            "Okay.",
+            "Let me bring the cordless phone to her room. Hold on one moment, please.",
+            "Mrs. Conroy, you have e telephone cell, dean",
+            "Here, you can use this phone.",
+            "Hello?J",
+            "Mom it\u0092s Paul",
+            "Who?",
+            "It's Paul, your son.",
+            "I have a son?",
+            "It\u0092s okay, Mom. How are you?",
+            "-I'm fine. -That's good.",
+            "Who are you?",
+            "It's your son, Mom. It's Paulie.",
+            "-Paulie. -Yeah .",
+            "Remember? Used to live on Colfax Street, in the duplex. You remember?",
+            "-Paulie? -Yeah .",
+            "-That's right. -ls this Paulie?",
+            "It is. Its Paulie.",
+            "I",
+            "-How's everything at the home? -Very nice.",
+            "Your father and I have been playing Gin Rummy every night.",
+            "Yeah.",
+            "I don\u0092t think Pop\u0092s there with you, Mom.",
+            "How are you doing, sweetie?",
+            "Not very good.",
+            "This might be the last time that I talk to you.",
+            "That's nice, honey.",
+            "Did you get the flowers I sent you a few months ago?",
+            "-Flowers? -Yeah, I sent you... Never mind.",
+            "Look, I'm gonna get going now, okay?",
+            "I just wanted to call and talk to you.",
+            "I love you, Mom.",
+            "I said, I love you, Mom. Do you want to tell me that you love me?",
+            "Yes, dear Your father and I have been playing Gin Rummy every night.",
+            "Okay, Mom.",
+            "You tell Pop I said hi."
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            3178.130824173791,
+            3181.9679878612933
+          ],
+          "sentences": [
+            "No."
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            3182.0096961622444,
+            3185.6800266459422
+          ],
+          "sentences": [
+            "No.",
+            "No,no,no,no,no!",
+            "No,no,no,no,no,no!"
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            3185.7217349468933,
+            3187.2232337811333
+          ],
+          "sentences": [
+            "No,no,no,no,no,no!"
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            3187.2649420820844,
+            3197.4000592132047
+          ],
+          "sentences": [
+            "No,no,no,no,no,no!",
+            "- Video make? -Please! Don't hurt her!",
+            "-Don't hurt her! Let her go. -I shoot if you no make video.",
+            "-No! No! Don't shoot her. Don't shoot. -You get money. American million.",
+            "I will. I will! I promise."
+          ]
+        },
+        {
+          "shot": 507,
+          "duration": [
+            3197.441767514156,
+            3200.528181784538
+          ],
+          "sentences": [
+            "I will. I will! I promise.",
+            "I promise. Please, she's a mother. She has two kids.",
+            "-Two kids? -Yes. She has two kids."
+          ]
+        },
+        {
+          "shot": 508,
+          "duration": [
+            3200.569890085489,
+            3201.9045557159247
+          ],
+          "sentences": [
+            "-Two kids? -Yes. She has two kids.",
+            "I had five. Now only one."
+          ]
+        },
+        {
+          "shot": 509,
+          "duration": [
+            3201.946264016876,
+            3204.8241367825026
+          ],
+          "sentences": [
+            "I had five. Now only one.",
+            "-You make video now! -Wait! Wait!",
+            "-No, wait! -I give three seconds."
+          ]
+        },
+        {
+          "shot": 510,
+          "duration": [
+            3204.8658450834537,
+            3206.2005107138893
+          ],
+          "sentences": [
+            "-No, wait! -I give three seconds.",
+            "-I don't know what you want me to say! -Three..."
+          ]
+        },
+        {
+          "shot": 511,
+          "duration": [
+            3206.2422190148404,
+            3207.576884645276
+          ],
+          "sentences": [
+            "-I don't know what you want me to say! -Three...",
+            "-Okay! Okay! I'll make the video! -Two, one!"
+          ]
+        },
+        {
+          "shot": 512,
+          "duration": [
+            3207.618592946227,
+            3212.2899226527516
+          ],
+          "sentences": [
+            "-Okay! Okay! I'll make the video! -Two, one!",
+            "I'll make the video! I'll make the video! Please, please, please."
+          ]
+        },
+        {
+          "shot": 513,
+          "duration": [
+            3212.3316309537026,
+            3217.336627067836
+          ],
+          "sentences": [
+            "I'll make the video! I'll make the video! Please, please, please.",
+            "I have to hang up now to make the video. Is that okay?",
+            "You have three minute to send video."
+          ]
+        },
+        {
+          "shot": 520,
+          "duration": [
+            3233.144073128308,
+            3241.2354835128235
+          ],
+          "sentences": [
+            "My name is Paul Conroy."
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            3241.2771918137746,
+            3250.3278931201658
+          ],
+          "sentences": [
+            "My name is Paul Conroy.",
+            "I'm an American citizen from Hastings, Michigan.",
+            "I'm a civilian truck driver for Crestin, Roland and Thomas.",
+            "And I have been taken hostage somewhere in Iraq."
+          ]
+        },
+        {
+          "shot": 522,
+          "duration": [
+            3250.369601421117,
+            3259.3785944265574
+          ],
+          "sentences": [
+            "And I have been taken hostage somewhere in Iraq.",
+            "I need $1 million by 9:00 tonight, Baghdad time,",
+            "or I'll be left to die here in this coffin that I'm buried in."
+          ]
+        },
+        {
+          "shot": 523,
+          "duration": [
+            3259.4203027275084,
+            3284.111616890567
+          ],
+          "sentences": [
+            "I'm told that if the money is paid...",
+            "I'm told that if the money is paid, I will be let go.",
+            "If it is not, I will be left to die here.",
+            "These threats are real and will be followed through on."
+          ]
+        },
+        {
+          "shot": 619,
+          "duration": [
+            3714.082491395581,
+            3717.1271973650128
+          ],
+          "sentences": [
+            "Oh, my God."
+          ]
+        },
+        {
+          "shot": 621,
+          "duration": [
+            3722.507568187706,
+            3725.552274157137
+          ],
+          "sentences": [
+            "I got you."
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            3725.5939824580882,
+            3733.8522260464083
+          ],
+          "sentences": [
+            "I got you, you motherfucker."
+          ]
+        },
+        {
+          "shot": 623,
+          "duration": [
+            3733.8939343473594,
+            3734.9783501720885
+          ],
+          "sentences": [
+            "I got you, you motherfucker."
+          ]
+        },
+        {
+          "shot": 624,
+          "duration": [
+            3735.0200584730396,
+            3744.1958846822845
+          ],
+          "sentences": [
+            "I got you. I got you. I got you. I got you."
+          ]
+        },
+        {
+          "shot": 625,
+          "duration": [
+            3744.2375929832356,
+            3751.828503756338
+          ],
+          "sentences": [
+            "Fucking A. Okay."
+          ]
+        },
+        {
+          "shot": 626,
+          "duration": [
+            3751.870212057289,
+            3775.9776100070317
+          ],
+          "sentences": [
+            "Come on, come on, come on. Pick up, pick up, pick up, pick up, pick up.",
+            "Hi, this is Linda. Please leave a message.",
+            "Thanks and have a great day.",
+            "Linda, I figured out the number of the phone. I got it.",
+            "I got it!",
+            "Okay. It's 0792-42-884.",
+            "Use the international calling code to dial it. I got it, baby.",
+            "I love you. Call me as soon as you get this. Call me. I love you."
+          ]
+        },
+        {
+          "shot": 627,
+          "duration": [
+            3776.0193183079828,
+            3782.776063062063
+          ],
+          "sentences": [
+            "I love you. Call me as soon as you get this. Call me. I love you."
+          ]
+        },
+        {
+          "shot": 628,
+          "duration": [
+            3782.817771363014,
+            3787.0303097590763
+          ],
+          "sentences": [
+            "Oh, shit.",
+            "Shit."
+          ]
+        },
+        {
+          "shot": 629,
+          "duration": [
+            3787.0720180600274,
+            3793.9955960179122
+          ],
+          "sentences": [
+            "Shit.",
+            "Okay."
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            3821.6481995484996,
+            3857.0585470559936
+          ],
+          "sentences": [
+            "Fuck. Come on.",
+            "Fuck."
+          ]
+        },
+        {
+          "shot": 642,
+          "duration": [
+            3871.072536175567,
+            3882.500610636172
+          ],
+          "sentences": [
+            "My name is Pamela Lutti.",
+            "I'm a food service worker at FOB Anaconda,"
+          ]
+        },
+        {
+          "shot": 643,
+          "duration": [
+            3882.542318937123,
+            3886.5046075274786
+          ],
+          "sentences": [
+            "I'm a food service worker at FOB Anaconda,",
+            "employed by Crestin, Roland and Thomas."
+          ]
+        },
+        {
+          "shot": 644,
+          "duration": [
+            3886.5463158284297,
+            3897.80755708523
+          ],
+          "sentences": [
+            "employed by Crestin, Roland and Thomas.",
+            "My captors' requests have gone unanswered.",
+            "Please. Please, don\u0092t!"
+          ]
+        },
+        {
+          "shot": 651,
+          "duration": [
+            3911.946671107657,
+            3928.713408090004
+          ],
+          "sentences": [
+            "My name is Pamela Lutti.",
+            "-Please, don\u0092t!",
+            "If you\u0092re buried in a coffin, where are you calling from?",
+            "The number you requested,"
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            3928.755116390955,
+            3941.3927315791425
+          ],
+          "sentences": [
+            "The number you requested,",
+            "269-948-1998.",
+            "They're criminals, desperate ones at that.",
+            "They don't care about anything other than getting..."
+          ]
+        },
+        {
+          "shot": 653,
+          "duration": [
+            3941.4344398800936,
+            3946.856519003738
+          ],
+          "sentences": [
+            "They don't care about anything other than getting...",
+            "At CRT, we work with our clients to provide...",
+            "Sin you're gonna have to stop shouting."
+          ]
+        },
+        {
+          "shot": 654,
+          "duration": [
+            3946.898227304689,
+            3951.652973613116
+          ],
+          "sentences": [
+            "Sin you're gonna have to stop shouting.",
+            "I"
+          ]
+        },
+        {
+          "shot": 655,
+          "duration": [
+            3951.694681914067,
+            3965.166463121276
+          ],
+          "sentences": [
+            "Five million, money tonight, 9:00 p. m., or you stay.",
+            "Finding you is our primary concern. Bottom line.",
+            "I",
+            "Thanks for calling the Conroys. We're not home right now."
+          ]
+        },
+        {
+          "shot": 656,
+          "duration": [
+            3965.208171422227,
+            3966.1674623441027
+          ],
+          "sentences": [
+            "Thanks for calling the Conroys. We're not home right now."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1462758_0002",
+      "shot": [
+        703,
+        847
+      ],
+      "frame": [
+        100838,
+        125588
+      ],
+      "duration": [
+        4205.820342346916,
+        5238.052269287739
+      ],
+      "consistency": 0.9350966123667593,
+      "description": "Later on, he receives a phone call from his employers, who inform him that he was fired from his job that morning due to fraternizing with the same female employee (though Paul says the relationship was strictly professional) and so if he dies, his family will not get any insurance money. The government group calls Paul and explains that some F-16 fighter planes just bombed the area the coffin is in even though they knew he was in the area (they were able to roughly pin down his location, but not exactly). The sand starts to leak in at a considerably faster rate and Paul begins to lose all hope and does a last will and testament in video form, giving his son all of his clothes and his wife all of his personal savings ($700). As time goes on (with nobody planning to pay the ransom), the kidnapper calls with demands for blood instead of money and tells Paul to cut his finger off and send a recording of it. If he doesn't do this, the kidnapper will harm his family (as he reveals the details of where they live). If Paul does make the video, his family will not be harmed, and he will tell the US government where Paul is. With this, Paul complies, cutting his finger off and sending the video.",
+      "subtitle": [
+        {
+          "shot": 703,
+          "duration": [
+            4205.656526405389,
+            4212.246437955664
+          ],
+          "sentences": [
+            "I'm the Personnel Director here at Crestin, Roland and Thomas.",
+            "Yeah, yeah. I left you a message.",
+            "You did. I also heard from Rebecca Browning over at the State Department."
+          ]
+        },
+        {
+          "shot": 704,
+          "duration": [
+            4212.288146256616,
+            4221.172014359202
+          ],
+          "sentences": [
+            "Are you able to speak on the status of your situation?",
+            "It's worse. There was an explosion or something, and the sand's coming through.",
+            "I probably have about half an hour before it fills right up.",
+            "Slow down. You should try to stay calm."
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            4221.2137226601535,
+            4231.265423189371
+          ],
+          "sentences": [
+            "Slow down. You should try to stay calm.",
+            "0 CD 0 CD 0. Q)",
+            "The hostage-takers, Dan Brenner from the hostage working group...",
+            "Okay, Paul. I'm with you. Now, how about the media?"
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            4231.307131490323,
+            4232.808630324563
+          ],
+          "sentences": [
+            "Okay, Paul. I'm with you. Now, how about the media?",
+            "I know your ransom video leaked,"
+          ]
+        },
+        {
+          "shot": 707,
+          "duration": [
+            4232.850338625513,
+            4301.001702379631
+          ],
+          "sentences": [
+            "I know your ransom video leaked,",
+            "but have you spoken directly to anyone about what's going on?",
+            "-No. No, no, no, no. -Good, good, good, good.",
+            "It needs to stay that way.",
+            "It's important we keep this situation as contained as possible.",
+            "The situation is in a coffin!",
+            "I think it's pretty contained! Help me! Help me!",
+            "What are you doing right now to help me?",
+            "I know you're upset. But from what I've been told,",
+            "they're extremely close to getting you out of there.",
+            "So hopefully it won't be too much longer",
+            "-Thank God. -Yeah, thank God.",
+            "Now, I'm going to switch on a recorder right now.",
+            "-What? -Just a second.",
+            "This is Alan Davenport,",
+            "Personnel Director at Crestin, Roland and Thomas Incorporated.",
+            "The date is October 23, 2006.",
+            "I'm speaking with Paul Conroy.",
+            "Mr Conroy are you aware that I'm recording this conversation?",
+            "-What? -Please answer the question.",
+            "-Shit. -Mn Conroy?",
+            "Yeah! Yeah, yeah, yeah.",
+            "And do I have your permission to do so?",
+            "Why do you need my permission? What's this about?",
+            "I need you to answer yes or no, please.",
+            "-Yes! Yes, all right? -Thank you."
+          ]
+        },
+        {
+          "shot": 708,
+          "duration": [
+            4301.043410680582,
+            4316.809148440102
+          ],
+          "sentences": [
+            "-Yes! Yes, all right? -Thank you.",
+            "Now, Mr Conroy, when were you hired by CRT?",
+            "I don't... Nine months ago. Around January. What is all this?",
+            "I have your official date of hire as January 4th.",
+            "-ls that correct? -Who cares?",
+            "This is fucking crazy.",
+            "-January 4th. ls that correct? -Yes!"
+          ]
+        },
+        {
+          "shot": 709,
+          "duration": [
+            4316.850856741054,
+            4332.07438658821
+          ],
+          "sentences": [
+            "-January 4th. ls that correct? -Yes!",
+            "And during your initial training, before being sent to Iraq,",
+            "you were made aware of the dangers inherent to the position for which you were hired.",
+            "You mean when I came down there to Dallas, and you guys said that all of the trucks",
+            "would be armored and have bulletproof glass?",
+            "You mean when you told us that things were safer than ever over here?"
+          ]
+        },
+        {
+          "shot": 710,
+          "duration": [
+            4332.11609488916,
+            4332.825136005329
+          ],
+          "sentences": [
+            "You mean when you told us that things were safer than ever over here?"
+          ]
+        },
+        {
+          "shot": 711,
+          "duration": [
+            4332.866844306281,
+            4333.534177121498
+          ],
+          "sentences": [
+            "You mean when you told us that things were safer than ever over here?",
+            "Is that when... Is that when I was made aware?"
+          ]
+        },
+        {
+          "shot": 712,
+          "duration": [
+            4333.57588542245,
+            4334.243218237667
+          ],
+          "sentences": [
+            "Is that when... Is that when I was made aware?"
+          ]
+        },
+        {
+          "shot": 713,
+          "duration": [
+            4334.2849265386185,
+            4346.463750416343
+          ],
+          "sentences": [
+            "Is that when... Is that when I was made aware?",
+            "I need you to answer yes or no, please.",
+            "Yes.",
+            "During that time, did you also receive and sign an employment contract with CRT,",
+            "which thoroughly explained company policy"
+          ]
+        },
+        {
+          "shot": 714,
+          "duration": [
+            4346.5054587172945,
+            4349.216498279116
+          ],
+          "sentences": [
+            "which thoroughly explained company policy",
+            "as it pertained to your specific terms of employment?",
+            "Yeah, yeah, yeah, I signed a bunch of things. Yeah."
+          ]
+        },
+        {
+          "shot": 715,
+          "duration": [
+            4349.258206580068,
+            4367.860108804263
+          ],
+          "sentences": [
+            "Yeah, yeah, yeah, I signed a bunch of things. Yeah.",
+            "-Yes or no? -Yes! I signed the contract. Yes.",
+            "It's our understanding that you were taken hostage in Iraq",
+            "two hours ago, is that also correct?",
+            "Yes! I think that\u0092s a fair assessment of the situation, you fucking dick.",
+            "What's the point of all this?",
+            "Our legal department requires that we obtain a sworn affidavit from employees,"
+          ]
+        },
+        {
+          "shot": 716,
+          "duration": [
+            4367.901817105215,
+            4408.483993930647
+          ],
+          "sentences": [
+            "Our legal department requires that we obtain a sworn affidavit from employees,",
+            "confirming that they understand the reasons for their forced separation from the company.",
+            "As of this morning, your employment with CRT was officially terminated.",
+            "Wait, wait, wait, wait, wait, wait, wait. What?",
+            "It was brought to our attention that you were engaging",
+            "in relations with a fellow CRT employee, Pamela Lutti.",
+            "-No. No, no. Hold on, hold on. -Stipulated in your contract",
+            "was a fraternization clause, in which it was stated quite clearly",
+            "-that any relationship... -Stop, stop, stop. Please.",
+            "...be it romantic or sexual in nature...",
+            "-We were just friends. -. . . deemed inappropriate",
+            "by CRT senior officials is grounds for immediate termination.",
+            "Hold on. Okay? We were just friends. We were just friends.",
+            "-Our records indicate differently. -Your records are wrong.",
+            "We 're also legally required to inform you"
+          ]
+        },
+        {
+          "shot": 717,
+          "duration": [
+            4408.525702231598,
+            4416.241737907553
+          ],
+          "sentences": [
+            "We 're also legally required to inform you",
+            "that because you were technically no longer",
+            "under the employ of CRT at the time of your abduction,",
+            "we cannot be held accountable for any injury"
+          ]
+        },
+        {
+          "shot": 718,
+          "duration": [
+            4416.283446208505,
+            4423.123607564487
+          ],
+          "sentences": [
+            "we cannot be held accountable for any injury",
+            "that may befall upon you after your official date and time of termination.",
+            "Therefore, in your case, that includes this incident,"
+          ]
+        },
+        {
+          "shot": 719,
+          "duration": [
+            4423.165315865438,
+            4429.421561008105
+          ],
+          "sentences": [
+            "Therefore, in your case, that includes this incident,",
+            "or any consequences that may result from it."
+          ]
+        },
+        {
+          "shot": 720,
+          "duration": [
+            4429.463269309056,
+            4442.3511343029495
+          ],
+          "sentences": [
+            "What about my insurance money? My family's gonna need that money.",
+            "Given that you were alive up until the time of your termination...",
+            "Don't do this.",
+            "-Do you understand everything? -Don't do this!"
+          ]
+        },
+        {
+          "shot": 721,
+          "duration": [
+            4442.392842603901,
+            4533.984271492543
+          ],
+          "sentences": [
+            "-Do you understand everything? -Don't do this!",
+            "Do you understand everything you've been told, Mn Conroy?",
+            "Mn Conroy?",
+            "You're a piece of shit.",
+            "That concludes our interview with Paul Conroy.",
+            "I am now turning off the recorder",
+            "You put me here.",
+            "I'm sorry."
+          ]
+        },
+        {
+          "shot": 731,
+          "duration": [
+            4586.7452721957,
+            4589.706561563229
+          ],
+          "sentences": [
+            "Answer the phone. Answer the phone."
+          ]
+        },
+        {
+          "shot": 732,
+          "duration": [
+            4589.74826986418,
+            4592.167351319345
+          ],
+          "sentences": [
+            "Answer the phone. Answer the phone."
+          ]
+        },
+        {
+          "shot": 735,
+          "duration": [
+            4599.758262092447,
+            4614.731542133896
+          ],
+          "sentences": [
+            "Come on. Why won't you answer the phone?"
+          ]
+        },
+        {
+          "shot": 763,
+          "duration": [
+            4686.177861663151,
+            4709.617926797676
+          ],
+          "sentences": [
+            "Paul, is that you?",
+            "They're dead.",
+            "-How do you know that? -I just do.",
+            "Three F-16s leveled parts of the city a few minutes ago.",
+            "Yeah, I know.",
+            "Yeah, that was fun for me.",
+            "Did they know I was here?"
+          ]
+        },
+        {
+          "shot": 764,
+          "duration": [
+            4709.659635098627,
+            4717.584212279338
+          ],
+          "sentences": [
+            "-Yeah. -Yeah.",
+            "Did they care?"
+          ]
+        },
+        {
+          "shot": 765,
+          "duration": [
+            4717.62592058029,
+            4746.821731246068
+          ],
+          "sentences": [
+            "These people that took me, if they're dead,",
+            "they can't tell you where I am.",
+            "We can still try to track down your signal.",
+            "You tried that already.",
+            "We can try again.",
+            "-It's over, isn't it? -No."
+          ]
+        },
+        {
+          "shot": 766,
+          "duration": [
+            4746.863439547019,
+            4750.65889493357
+          ],
+          "sentences": [
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 767,
+          "duration": [
+            4750.700603234522,
+            4753.66189260205
+          ],
+          "sentences": [
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 768,
+          "duration": [
+            4753.703600903002,
+            4763.296510121757
+          ],
+          "sentences": [
+            "What should I do?",
+            "I don't know."
+          ]
+        },
+        {
+          "shot": 769,
+          "duration": [
+            4763.338218422708,
+            4770.386921283446
+          ],
+          "sentences": [
+            "It's weird.",
+            "What is?"
+          ]
+        },
+        {
+          "shot": 770,
+          "duration": [
+            4770.428629584398,
+            4900.099737241405
+          ],
+          "sentences": [
+            "Knowing.",
+            "I wish this could have gone differently Paul.",
+            "Yeah.",
+            "Me, too.",
+            "My name is Paul Steven Conroy.",
+            "Social security number, 048-32-1198. Date of birth. 3/23/76.",
+            "This video will serve as my last will and testament.",
+            "Um...",
+            "To my wife, Linda Conroy,",
+            "I leave you the $700 in my personal savings,",
+            "and whatever's left in my annuity.",
+            "To my son, Shane Conroy,",
+            "I don\u0092t know",
+            "I don't have... My clothes.",
+            "I leave you my clothes, which you will grow into.",
+            "Not these ones.",
+            "I don't really have...",
+            "I wish that I had more for you, but...",
+            "Maybe if I was a famous baseball player, or some guy who wore a suit to work...",
+            "Then I'd have more.",
+            "But, you know, you can be one of those people if you want. Um...",
+            "Yeah. Yeah.",
+            "Just promise me that when you get older that you'll take good care of your mom.",
+            "And, I don't know."
+          ]
+        },
+        {
+          "shot": 771,
+          "duration": [
+            4900.141445542356,
+            4934.217127419414
+          ],
+          "sentences": [
+            "You always try to do the right thing.",
+            "I love you very much, Shane.",
+            "Maybe I never said that enough. Maybe I did. I don't know.",
+            "That probably means I didn't. And...",
+            "I'm sorry, Linda. I should have listened to you."
+          ]
+        },
+        {
+          "shot": 787,
+          "duration": [
+            4989.355501276785,
+            5001.701158358314
+          ],
+          "sentences": [
+            "You're not dead. Hello? Hello?"
+          ]
+        },
+        {
+          "shot": 788,
+          "duration": [
+            5001.742866659265,
+            5008.416194811443
+          ],
+          "sentences": [
+            "You're not dead. Hello? Hello?",
+            "Where is money?",
+            "-I don't know. -What don't know?",
+            "-I don\u0092t know where it is. -Liar!",
+            "No, I'm not lying! I swear."
+          ]
+        },
+        {
+          "shot": 789,
+          "duration": [
+            5008.457903112394,
+            5009.7091521409275
+          ],
+          "sentences": [
+            "No, I'm not lying! I swear.",
+            "-Swear? -Yeah, I swear."
+          ]
+        },
+        {
+          "shot": 790,
+          "duration": [
+            5009.750860441879,
+            5010.54331815995
+          ],
+          "sentences": [
+            "-Swear? -Yeah, I swear."
+          ]
+        },
+        {
+          "shot": 791,
+          "duration": [
+            5010.585026460901,
+            5012.378483401799
+          ],
+          "sentences": [
+            "-Swear? -Yeah, I swear.",
+            "-I'm telling the truth. -From embassy."
+          ]
+        },
+        {
+          "shot": 792,
+          "duration": [
+            5012.42019170275,
+            5013.629732430332
+          ],
+          "sentences": [
+            "-I'm telling the truth. -From embassy.",
+            "-No. -You get money now!"
+          ]
+        },
+        {
+          "shot": 793,
+          "duration": [
+            5013.671440731283,
+            5014.380481847452
+          ],
+          "sentences": [
+            "-No. -You get money now!"
+          ]
+        },
+        {
+          "shot": 794,
+          "duration": [
+            5014.422190148403,
+            5016.465896895008
+          ],
+          "sentences": [
+            "-No. -You get money now!",
+            "-I can't! -You will!",
+            "-I need more time. Please. -No more time!"
+          ]
+        },
+        {
+          "shot": 795,
+          "duration": [
+            5016.507605195959,
+            5018.384478738759
+          ],
+          "sentences": [
+            "-I need more time. Please. -No more time!",
+            "There's sand pouring in here."
+          ]
+        },
+        {
+          "shot": 796,
+          "duration": [
+            5018.42618703971,
+            5019.677436068243
+          ],
+          "sentences": [
+            "There's sand pouring in here.",
+            "It's everywhere. Let me out of here, and I promise you I will get you the money."
+          ]
+        },
+        {
+          "shot": 797,
+          "duration": [
+            5019.7191443691945,
+            5021.42918470819
+          ],
+          "sentences": [
+            "It's everywhere. Let me out of here, and I promise you I will get you the money."
+          ]
+        },
+        {
+          "shot": 798,
+          "duration": [
+            5021.470893009141,
+            5022.138225824359
+          ],
+          "sentences": [
+            "It's everywhere. Let me out of here, and I promise you I will get you the money."
+          ]
+        },
+        {
+          "shot": 799,
+          "duration": [
+            5022.17993412531,
+            5023.848266163354
+          ],
+          "sentences": [
+            "It's everywhere. Let me out of here, and I promise you I will get you the money.",
+            "-You show blood. -What?"
+          ]
+        },
+        {
+          "shot": 800,
+          "duration": [
+            5023.889974464306,
+            5026.225639317568
+          ],
+          "sentences": [
+            "-You show blood. -What?",
+            "-You show blood, they give money. -No."
+          ]
+        },
+        {
+          "shot": 801,
+          "duration": [
+            5026.267347618519,
+            5028.811553976537
+          ],
+          "sentences": [
+            "-You show blood, they give money. -No.",
+            "You cut finger; send video."
+          ]
+        },
+        {
+          "shot": 802,
+          "duration": [
+            5028.853262277488,
+            5032.607009363088
+          ],
+          "sentences": [
+            "You cut finger; send video.",
+            "-No, I'm not doing that. -Yes!",
+            "-No. -No?"
+          ]
+        },
+        {
+          "shot": 803,
+          "duration": [
+            5032.648717664039,
+            5033.316050479257
+          ],
+          "sentences": [
+            "-No. -No?",
+            "No, that's right, no. You let me out of here,"
+          ]
+        },
+        {
+          "shot": 804,
+          "duration": [
+            5033.357758780208,
+            5041.324044261871
+          ],
+          "sentences": [
+            "No, that's right, no. You let me out of here,",
+            "and I'll out off my whole goddamn hand if you want.",
+            "-You have wife? -Yeah, I do.",
+            "And a son. I have a young son. And I want to see them again. Please, sir.",
+            "-Sir? -Yes. Sir."
+          ]
+        },
+        {
+          "shot": 805,
+          "duration": [
+            5041.365752562821,
+            5042.03308537804
+          ],
+          "sentences": [
+            "-Sir? -Yes. Sir."
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            5042.07479367899,
+            5044.118500425595
+          ],
+          "sentences": [
+            "-Sir? -Yes. Sir.",
+            "I say that out of respect to you."
+          ]
+        },
+        {
+          "shot": 807,
+          "duration": [
+            5044.160208726546,
+            5045.745124162689
+          ],
+          "sentences": [
+            "243, North Walnut Street. Hastings, Michigan, USA."
+          ]
+        },
+        {
+          "shot": 808,
+          "duration": [
+            5045.786832463639,
+            5046.57929018171
+          ],
+          "sentences": [
+            "243, North Walnut Street. Hastings, Michigan, USA."
+          ]
+        },
+        {
+          "shot": 809,
+          "duration": [
+            5046.620998482662,
+            5067.308315754413
+          ],
+          "sentences": [
+            "243, North Walnut Street. Hastings, Michigan, USA.",
+            "That's my... Why did you say that?",
+            "You show blood, or they show blood.",
+            "No. You're nobody, all of you.",
+            "You can't get to them.",
+            "-No? -No.",
+            "You're peasants. You're fucking criminals, that's all.",
+            "You don't even know where Michigan is.",
+            "Detroit. Ann Arbor",
+            "You looked at a map. You looked at a map."
+          ]
+        },
+        {
+          "shot": 810,
+          "duration": [
+            5067.350024055365,
+            5068.517856481995
+          ],
+          "sentences": [
+            "You looked at a map. You looked at a map."
+          ]
+        },
+        {
+          "shot": 811,
+          "duration": [
+            5068.559564782947,
+            5071.3957292476225
+          ],
+          "sentences": [
+            "You looked at a map. You looked at a map.",
+            "You show blood, or they show blood. Send video by five minutes."
+          ]
+        },
+        {
+          "shot": 812,
+          "duration": [
+            5071.437437548573,
+            5075.775100847489
+          ],
+          "sentences": [
+            "You show blood, or they show blood. Send video by five minutes."
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            5082.573553902521,
+            5092.500129528885
+          ],
+          "sentences": [
+            "Hi, this is Linda. Please leave a message. Thanks and have a great day.",
+            "Linda! Linda, listen to me, you and Shane have to go somewhere, okay?"
+          ]
+        },
+        {
+          "shot": 816,
+          "duration": [
+            5092.541837829836,
+            5094.710669479294
+          ],
+          "sentences": [
+            "Linda! Linda, listen to me, you and Shane have to go somewhere, okay?"
+          ]
+        },
+        {
+          "shot": 817,
+          "duration": [
+            5094.752377780245,
+            5098.631249768699
+          ],
+          "sentences": [
+            "Linda! Linda, listen to me, you and Shane have to go somewhere, okay?",
+            "Do not go back to the house. Do not go back to the house.",
+            "Just go anywhere but to the house. Okay? These guys, they know where we live."
+          ]
+        },
+        {
+          "shot": 818,
+          "duration": [
+            5098.67295806965,
+            5104.929203212317
+          ],
+          "sentences": [
+            "Just go anywhere but to the house. Okay? These guys, they know where we live.",
+            "They have my driver's license.",
+            "Just go to the sheriff's station if you have to, just do not go home."
+          ]
+        },
+        {
+          "shot": 819,
+          "duration": [
+            5104.970911513267,
+            5108.43270049221
+          ],
+          "sentences": [
+            "Just go to the sheriff's station if you have to, just do not go home."
+          ]
+        },
+        {
+          "shot": 820,
+          "duration": [
+            5108.474408793161,
+            5112.770363791125
+          ],
+          "sentences": [
+            "Holy God."
+          ]
+        },
+        {
+          "shot": 821,
+          "duration": [
+            5112.812072092077,
+            5119.610525147108
+          ],
+          "sentences": [
+            "Fuck.",
+            "Fuck."
+          ]
+        },
+        {
+          "shot": 822,
+          "duration": [
+            5119.652233448059,
+            5120.694940971837
+          ],
+          "sentences": [
+            "This is Daniel Brenner Please leave a message at the tone."
+          ]
+        },
+        {
+          "shot": 823,
+          "duration": [
+            5120.736649272788,
+            5122.571814514637
+          ],
+          "sentences": [
+            "This is Daniel Brenner Please leave a message at the tone.",
+            "Brenner, where are you? The guy's still alive!"
+          ]
+        },
+        {
+          "shot": 824,
+          "duration": [
+            5122.613522815588,
+            5128.911476259206
+          ],
+          "sentences": [
+            "Brenner, where are you? The guy's still alive!",
+            "He just called me. He's still alive.",
+            "Fuck."
+          ]
+        },
+        {
+          "shot": 825,
+          "duration": [
+            5128.953184560157,
+            5144.885755523482
+          ],
+          "sentences": [
+            "They can't find them. They can't.",
+            "There's no way. No, no, no, no, no.",
+            "They can't find them. They can't find them. They can't find them."
+          ]
+        },
+        {
+          "shot": 827,
+          "duration": [
+            5148.347544502424,
+            5163.19569964102
+          ],
+          "sentences": [
+            "Fuck.",
+            "My name is Pamela Lutti.",
+            "I'm a food service worker at FOB Anaconda,",
+            "employed by Crestin, Roland and Thomas."
+          ]
+        },
+        {
+          "shot": 828,
+          "duration": [
+            5163.2374079419715,
+            5171.495651530291
+          ],
+          "sentences": [
+            "employed by Crestin, Roland and Thomas.",
+            "My captors' requests have gone unanswered.",
+            "Please. Please, don\u0092t!"
+          ]
+        },
+        {
+          "shot": 831,
+          "duration": [
+            5176.208689537767,
+            5182.256393175679
+          ],
+          "sentences": [
+            "Fuck."
+          ]
+        },
+        {
+          "shot": 836,
+          "duration": [
+            5203.569334961697,
+            5208.365789571075
+          ],
+          "sentences": [
+            "I"
+          ]
+        },
+        {
+          "shot": 837,
+          "duration": [
+            5208.4074978720255,
+            5216.665741460346
+          ],
+          "sentences": [
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1462758_0003",
+      "shot": [
+        853,
+        893
+      ],
+      "frame": [
+        126809,
+        130631
+      ],
+      "duration": [
+        5289.029470972614,
+        5448.3875629726135
+      ],
+      "consistency": 0.8222737694424745,
+      "description": "Within a few minutes, the government official phones Paul saying they now know where he is, explaining that they were given details of where to find a man who was buried alive by an insurgent. Paul receives a phone call from his wife and tells her he is going to be okay, and they express their love for each other. A few minutes later, he gets a call from the rescue group saying that they are close and have found his location. They arrive at the apparent burial site and are about to dig up the coffin. Through the phone, digging is heard, but Paul cannot hear digging around him. Sand begins to fill the coffin to dangerous levels, giving Paul seconds left. However, when the group digs up the coffin, it turns out the insurgent led them to Mark White, the man Brenner earlier in the film claimed had been rescued. Paul hears his final words, that of Dan saying over the phone, \"I'm sorry Paul. I'm so sorry.\"",
+      "subtitle": [
+        {
+          "shot": 853,
+          "duration": [
+            5282.981939972614,
+            5326.733947670331
+          ],
+          "sentences": [
+            "Yeah?",
+            "-Paul? Paul, it\u0092s Brenner.",
+            "-Are you there, Paul? -I'm here?",
+            "We 're coming for you now. You hear me? We know where you are.",
+            "-You're coming? -We are, Paul.",
+            "-We 're almost there now. -How do you know?",
+            "Coalition forces picked up a Shi'ite insurgent just outside of Baghdad.",
+            "Said he knew where an American was buried alive.",
+            "He agreed to show us where if we let him go.",
+            "-You're coming for me? -We are practically there already.",
+            "-You have... You have to hurry. -We are, Paul.",
+            "You have to hurry. The sand... The sand..."
+          ]
+        },
+        {
+          "shot": 854,
+          "duration": [
+            5326.775655971282,
+            5334.825358054846
+          ],
+          "sentences": [
+            "You have to hurry. The sand... The sand...",
+            "You just hang in there three more minutes.",
+            "This will all be over soon, I promise, Paul.",
+            "Okay. Okay. I believe you.",
+            "Three minutes, Paul. I just need you to hang on for three minutes."
+          ]
+        },
+        {
+          "shot": 855,
+          "duration": [
+            5334.867066355798,
+            5336.160023685282
+          ],
+          "sentences": [
+            "Three minutes, Paul. I just need you to hang on for three minutes."
+          ]
+        },
+        {
+          "shot": 856,
+          "duration": [
+            5336.201731986233,
+            5338.537396839495
+          ],
+          "sentences": [
+            "Three minutes, Paul. I just need you to hang on for three minutes.",
+            "-Thank you. -This will all be over soon. I promise you..."
+          ]
+        },
+        {
+          "shot": 857,
+          "duration": [
+            5338.579105140447,
+            5339.371562858518
+          ],
+          "sentences": [
+            "-Thank you. -This will all be over soon. I promise you...",
+            "-I have to go! Call me right back. -No, no, no! Paul, Paul, Paul!"
+          ]
+        },
+        {
+          "shot": 858,
+          "duration": [
+            5339.413271159468,
+            5343.792642759336
+          ],
+          "sentences": [
+            "-I have to go! Call me right back. -No, no, no! Paul, Paul, Paul!",
+            "-Call me right back. Please! -No, wait, Paul!"
+          ]
+        },
+        {
+          "shot": 859,
+          "duration": [
+            5343.834351060286,
+            5346.670515524962
+          ],
+          "sentences": [
+            "-Call me right back. Please! -No, wait, Paul!",
+            "Linda! Linda!"
+          ]
+        },
+        {
+          "shot": 860,
+          "duration": [
+            5346.7122238259135,
+            5354.261426298065
+          ],
+          "sentences": [
+            "Linda! Linda!",
+            "Paul? Paul, is that you?",
+            "-Tell me it's you. -It's me.",
+            "Oh, my God, Paul! What are they doing to you?"
+          ]
+        },
+        {
+          "shot": 861,
+          "duration": [
+            5354.303134599016,
+            5357.639798675104
+          ],
+          "sentences": [
+            "Oh, my God, Paul! What are they doing to you?",
+            "-Please tell me you're okay. -I'm okay.",
+            "I just saw the news. I left my cell phone at home."
+          ]
+        },
+        {
+          "shot": 862,
+          "duration": [
+            5357.681506976056,
+            5359.224714111247
+          ],
+          "sentences": [
+            "I just saw the news. I left my cell phone at home."
+          ]
+        },
+        {
+          "shot": 863,
+          "duration": [
+            5359.266422412198,
+            5364.563376632989
+          ],
+          "sentences": [
+            "I just saw the news. I left my cell phone at home.",
+            "They know where I am. They're coming to get me.",
+            "The Americans are coming for me.",
+            "-They are? -it's going to be okay."
+          ]
+        },
+        {
+          "shot": 864,
+          "duration": [
+            5364.605084933941,
+            5368.108582213834
+          ],
+          "sentences": [
+            "-They are? -it's going to be okay.",
+            "Thank God. Thank God.",
+            "They're coming. They're on their way. it's gonna be okay."
+          ]
+        },
+        {
+          "shot": 865,
+          "duration": [
+            5368.150290514785,
+            5371.612079493727
+          ],
+          "sentences": [
+            "They're coming. They're on their way. it's gonna be okay.",
+            "I was so afraid I was going to lose you."
+          ]
+        },
+        {
+          "shot": 866,
+          "duration": [
+            5371.6537877946785,
+            5377.200991821176
+          ],
+          "sentences": [
+            "I was so afraid I was going to lose you.",
+            "-You're not. -I love you so much.",
+            "-I love you so much. -I love you so much.",
+            "I love you so much. I'm so sorry. I should never have come here."
+          ]
+        },
+        {
+          "shot": 867,
+          "duration": [
+            5377.242700122128,
+            5379.620073276341
+          ],
+          "sentences": [
+            "I love you so much. I'm so sorry. I should never have come here.",
+            "I should have listened to you. I'm sorry."
+          ]
+        },
+        {
+          "shot": 868,
+          "duration": [
+            5379.661781577292,
+            5389.379815698901
+          ],
+          "sentences": [
+            "I should have listened to you. I'm sorry.",
+            "Sweetie, I don't care. I just want you home. Please come home to me.",
+            "I'm coming home. I'm coming home.",
+            "-Swear it. -I swear.",
+            "-I swear I'm coming home. -I love you. I love you so much."
+          ]
+        },
+        {
+          "shot": 869,
+          "duration": [
+            5389.421523999852,
+            5392.299396765479
+          ],
+          "sentences": [
+            "-I swear I'm coming home. -I love you. I love you so much.",
+            "I know."
+          ]
+        },
+        {
+          "shot": 870,
+          "duration": [
+            5392.34110506643,
+            5396.136560452981
+          ],
+          "sentences": [
+            "-They're here. -Okay.",
+            "They're here! I have to go.",
+            "-Call me right away. -I will. I promise you"
+          ]
+        },
+        {
+          "shot": 871,
+          "duration": [
+            5396.178268753933,
+            5397.137559675808
+          ],
+          "sentences": [
+            "-Call me right away. -I will. I promise you"
+          ]
+        },
+        {
+          "shot": 872,
+          "duration": [
+            5397.179267976759,
+            5403.143555012768
+          ],
+          "sentences": [
+            "-Call me right away. -I will. I promise you",
+            "-I will. I love you. -I love you. Swear it.",
+            "-I love you so much. -Swear it again.",
+            "I swear! I have to go."
+          ]
+        },
+        {
+          "shot": 873,
+          "duration": [
+            5403.18526331372,
+            5405.1038451574705
+          ],
+          "sentences": [
+            "I swear! I have to go.",
+            "-Please come home to me. -I love you."
+          ]
+        },
+        {
+          "shot": 874,
+          "duration": [
+            5405.145553458421,
+            5407.439510010732
+          ],
+          "sentences": [
+            "-Please come home to me. -I love you.",
+            "-Dan? - Move! Move! Let's go!",
+            "-Brenner? -Okay Paul? Paul? We're here!"
+          ]
+        },
+        {
+          "shot": 875,
+          "duration": [
+            5407.481218311684,
+            5415.989711705711
+          ],
+          "sentences": [
+            "-Brenner? -Okay Paul? Paul? We're here!",
+            "-it's me. -He brought us right to you.",
+            "Hurry, hurry. You have to hurry. It's almost full. Please.",
+            "Paul, just hang in there. We're right above you."
+          ]
+        },
+        {
+          "shot": 876,
+          "duration": [
+            5416.031420006661,
+            5418.367084859924
+          ],
+          "sentences": [
+            "Paul, just hang in there. We're right above you.",
+            "I can\u0092t. I can\u0092t. Are you close?"
+          ]
+        },
+        {
+          "shot": 877,
+          "duration": [
+            5418.408793160875,
+            5420.118833499871
+          ],
+          "sentences": [
+            "I can\u0092t. I can\u0092t. Are you close?",
+            "-We 're almost there! -Are you close?",
+            "We 're almost there! Right above!"
+          ]
+        },
+        {
+          "shot": 878,
+          "duration": [
+            5420.160541800822,
+            5422.162540246475
+          ],
+          "sentences": [
+            "We 're almost there! Right above!",
+            "-Please! Please! I can't hear you! -Keep digging!"
+          ]
+        },
+        {
+          "shot": 879,
+          "duration": [
+            5422.204248547427,
+            5423.955997187373
+          ],
+          "sentences": [
+            "-Please! Please! I can't hear you! -Keep digging!",
+            "-I can't hear you! Where are you? -We 're almost there!"
+          ]
+        },
+        {
+          "shot": 880,
+          "duration": [
+            5423.997705488324,
+            5425.1238296140045
+          ],
+          "sentences": [
+            "-I can't hear you! Where are you? -We 're almost there!"
+          ]
+        },
+        {
+          "shot": 881,
+          "duration": [
+            5425.165537914955,
+            5426.6253284482445
+          ],
+          "sentences": [
+            "-I can't hear you! Where are you? -We 're almost there!"
+          ]
+        },
+        {
+          "shot": 882,
+          "duration": [
+            5426.667036749195,
+            5427.501202768218
+          ],
+          "sentences": [
+            "-Keep digging! We see the coffin. -Yeah, dig in..."
+          ]
+        },
+        {
+          "shot": 883,
+          "duration": [
+            5427.542911069168,
+            5428.585618592946
+          ],
+          "sentences": [
+            "-Keep digging! We see the coffin. -Yeah, dig in..."
+          ]
+        },
+        {
+          "shot": 884,
+          "duration": [
+            5428.627326893898,
+            5429.419784611969
+          ],
+          "sentences": [
+            "-Keep digging! We see the coffin. -Yeah, dig in..."
+          ]
+        },
+        {
+          "shot": 885,
+          "duration": [
+            5429.46149291292,
+            5431.630324562378
+          ],
+          "sentences": [
+            "-Keep digging! We see the coffin. -Yeah, dig in...",
+            "-Hang in there! -Please open it. Please open it."
+          ]
+        },
+        {
+          "shot": 886,
+          "duration": [
+            5431.672032863329,
+            5434.966988638466
+          ],
+          "sentences": [
+            "-Hang in there! -Please open it. Please open it.",
+            "Let\u0092s go! Move! Faster guys, faster!",
+            "-Hurry up! Hurry! -Okay, okay, clear!"
+          ]
+        },
+        {
+          "shot": 887,
+          "duration": [
+            5435.008696939418,
+            5437.5529032974355
+          ],
+          "sentences": [
+            "-Hurry up! Hurry! -Okay, okay, clear!",
+            "Fucking hurry! Please!"
+          ]
+        },
+        {
+          "shot": 888,
+          "duration": [
+            5437.594611598387,
+            5440.097109655453
+          ],
+          "sentences": [
+            "Hurry!"
+          ]
+        },
+        {
+          "shot": 889,
+          "duration": [
+            5440.138817956405,
+            5440.931275674476
+          ],
+          "sentences": [
+            "Oh, my God."
+          ]
+        },
+        {
+          "shot": 890,
+          "duration": [
+            5440.972983975426,
+            5446.311646497169
+          ],
+          "sentences": [
+            "Oh, my God.",
+            "-What? What? -Oh, my God.",
+            "-I'm so sorry Paul. I'm so sorry. -What is... What?"
+          ]
+        },
+        {
+          "shot": 891,
+          "duration": [
+            5446.353354798121,
+            5447.521187224751
+          ],
+          "sentences": [
+            "-I'm so sorry Paul. I'm so sorry. -What is... What?"
+          ]
+        },
+        {
+          "shot": 892,
+          "duration": [
+            5447.5628955257025,
+            5448.23022834092
+          ],
+          "sentences": [
+            "-I'm so sorry Paul. I'm so sorry. -What is... What?"
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

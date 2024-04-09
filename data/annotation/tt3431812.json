@@ -1,0 +1,36 @@
+{
+  "imdb_id": "tt3431812",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 12,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 24,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 30,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 31,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 41,
+        "scale": "full",
+        "movement": "static"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4478 @@
+{
+  "imdb_id": "tt0162222",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0162222_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        62
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0001",
+      "shot": [
+        1,
+        4
+      ],
+      "frame": [
+        62,
+        832
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0002",
+      "shot": [
+        4,
+        7
+      ],
+      "frame": [
+        832,
+        4115
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0003",
+      "shot": [
+        7,
+        12
+      ],
+      "frame": [
+        4115,
+        5252
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0004",
+      "shot": [
+        12,
+        18
+      ],
+      "frame": [
+        5252,
+        7471
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0005",
+      "shot": [
+        18,
+        26
+      ],
+      "frame": [
+        7471,
+        11599
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0006",
+      "shot": [
+        26,
+        29
+      ],
+      "frame": [
+        11599,
+        13339
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0007",
+      "shot": [
+        29,
+        31
+      ],
+      "frame": [
+        13339,
+        17822
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0008",
+      "shot": [
+        31,
+        36
+      ],
+      "frame": [
+        17822,
+        19742
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0009",
+      "shot": [
+        36,
+        40
+      ],
+      "frame": [
+        19742,
+        21173
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0010",
+      "shot": [
+        40,
+        82
+      ],
+      "frame": [
+        21173,
+        25445
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0011",
+      "shot": [
+        82,
+        103
+      ],
+      "frame": [
+        25445,
+        29815
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0012",
+      "shot": [
+        103,
+        115
+      ],
+      "frame": [
+        29815,
+        33453
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0013",
+      "shot": [
+        115,
+        357
+      ],
+      "frame": [
+        33453,
+        44874
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0014",
+      "shot": [
+        357,
+        358
+      ],
+      "frame": [
+        44874,
+        45002
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0015",
+      "shot": [
+        358,
+        371
+      ],
+      "frame": [
+        45002,
+        54212
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0016",
+      "shot": [
+        371,
+        379
+      ],
+      "frame": [
+        54212,
+        55003
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0017",
+      "shot": [
+        379,
+        479
+      ],
+      "frame": [
+        55003,
+        73334
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0018",
+      "shot": [
+        479,
+        609
+      ],
+      "frame": [
+        73334,
+        88576
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0019",
+      "shot": [
+        609,
+        1056
+      ],
+      "frame": [
+        88576,
+        154357
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0020",
+      "shot": [
+        1056,
+        1146
+      ],
+      "frame": [
+        154357,
+        190411
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0162222_0021",
+      "shot": [
+        1146,
+        1175
+      ],
+      "frame": [
+        190411,
+        196445
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0162222_0001",
+      "shot": [
+        31,
+        113
+      ],
+      "frame": [
+        18362,
+        32069
+      ],
+      "duration": [
+        765.8556903333333,
+        1337.5194163333333
+      ],
+      "consistency": 0.8896512790108358,
+      "description": "He returns to Memphis, FedEx headquarters, and visits his girlfriend Kelly (Helen Hunt). He proposes to her on Christmas Eve and they exchange gifts. He gets a message that he needs to go to Malaysia. Dedicated to his job, he tells her \"Ill be right back.\" He is the only passenger and rides in the jump seat of a FedEx cargo MD-11 across the Pacific Ocean.",
+      "subtitle": [
+        {
+          "shot": 31,
+          "duration": [
+            743.3259166666666,
+            785.8267083333333
+          ],
+          "sentences": [
+            "[Elevator Bell Dings]",
+            "[Knocking]",
+            "- Is Kelly Frears around? - She's copying her dissertation."
+          ]
+        },
+        {
+          "shot": 35,
+          "duration": [
+            793.7095833333333,
+            823.3642083333333
+          ],
+          "sentences": [
+            "[Laughs]",
+            "- You're home. - Home indeed.",
+            "I love that you're home.",
+            "[Laughs]"
+          ]
+        },
+        {
+          "shot": 36,
+          "duration": [
+            823.4059166666666,
+            828.6194583333332
+          ],
+          "sentences": [
+            "[TV, Female Newscaster] Just days before Santa departs on his annual gift-giving venture,"
+          ]
+        },
+        {
+          "shot": 37,
+          "duration": [
+            828.6611666666666,
+            842.0495416666666
+          ],
+          "sentences": [
+            "he's been declared physically fit to fly.",
+            "Santa got checked out by doctors at the V.A. Hospital in Augusta, Georgia.",
+            "After they declared the jolly old elf in tiptop shape,",
+            "Santa Claus took off into the wild blue yonder for an early start."
+          ]
+        },
+        {
+          "shot": 38,
+          "duration": [
+            842.09125,
+            844.6354583333333
+          ],
+          "sentences": [
+            "In Sarajevo, he spent the day with children,"
+          ]
+        },
+        {
+          "shot": 39,
+          "duration": [
+            844.6771666666666,
+            883.0488333333333
+          ],
+          "sentences": [
+            "handing out presents and even helping them decorate...",
+            "the special Christmas tree.",
+            "[Bell Clanging]",
+            "Santa and a sea of elves took over the floor...",
+            "at the Hong Kong Futures Exchange.",
+            "Market traders bought Santa hats, donating...",
+            "[TVShuts Off]"
+          ]
+        },
+        {
+          "shot": 40,
+          "duration": [
+            883.0905416666666,
+            897.0628333333333
+          ],
+          "sentences": [
+            "The turkey's a little dry, isn't it?",
+            "- [All] No. - The turkey is perfect.",
+            "[Indistinct Chattering]",
+            "- How many did you do last night? - Last night? 2.9 million.",
+            "Now you've got to be in the market for more of these candied yams."
+          ]
+        },
+        {
+          "shot": 41,
+          "duration": [
+            897.1045416666666,
+            899.9407083333333
+          ],
+          "sentences": [
+            "Now you've got to be in the market for more of these candied yams.",
+            "Here you go."
+          ]
+        },
+        {
+          "shot": 42,
+          "duration": [
+            899.9824166666666,
+            903.9864166666666
+          ],
+          "sentences": [
+            "2.9 has got to be the record.",
+            "Look at those marshmallows."
+          ]
+        },
+        {
+          "shot": 43,
+          "duration": [
+            904.0281249999999,
+            908.65775
+          ],
+          "sentences": [
+            "When I was there, we did two million.",
+            "- We thought that was a big deal. - The glory days."
+          ]
+        },
+        {
+          "shot": 44,
+          "duration": [
+            908.6994583333333,
+            913.2873749999999
+          ],
+          "sentences": [
+            "- What'd they do the first night? - The very first night?",
+            "- [Man #1] Twelve. - [Man #2] Twelve thousand?"
+          ]
+        },
+        {
+          "shot": 45,
+          "duration": [
+            913.3290833333333,
+            916.040125
+          ],
+          "sentences": [
+            "- Hell, no. Twelve. - [Chuck] That's right."
+          ]
+        },
+        {
+          "shot": 46,
+          "duration": [
+            916.0818333333333,
+            918.8762916666666
+          ],
+          "sentences": [
+            "And they did the sort right there on a card table."
+          ]
+        },
+        {
+          "shot": 47,
+          "duration": [
+            918.9179999999999,
+            921.6707499999999
+          ],
+          "sentences": [
+            "And Fred Smith had that card table bronzed."
+          ]
+        },
+        {
+          "shot": 48,
+          "duration": [
+            921.7124583333333,
+            924.4652083333333
+          ],
+          "sentences": [
+            "I've been hearing that for five years."
+          ]
+        },
+        {
+          "shot": 49,
+          "duration": [
+            924.5069166666666,
+            928.7194583333333
+          ],
+          "sentences": [
+            "- It's in his office today. - They go from that to the new hub up in Anchorage."
+          ]
+        },
+        {
+          "shot": 50,
+          "duration": [
+            928.7611666666666,
+            938.4374999999999
+          ],
+          "sentences": [
+            "It's state of the art... a perfect marriage...",
+            "between technology and systems management.",
+            "Speaking of marriage, Chuck, when are you gonna make an honest woman out of Kelly?",
+            "[Excited Chattering]"
+          ]
+        },
+        {
+          "shot": 51,
+          "duration": [
+            938.4792083333333,
+            940.1475416666666
+          ],
+          "sentences": [
+            "- How long? - Fourteen minutes into the meal."
+          ]
+        },
+        {
+          "shot": 52,
+          "duration": [
+            940.1892499999999,
+            941.3570833333333
+          ],
+          "sentences": [
+            "- How long? - Fourteen minutes into the meal."
+          ]
+        },
+        {
+          "shot": 53,
+          "duration": [
+            941.3987916666666,
+            944.6937499999999
+          ],
+          "sentences": [
+            "- You won. I owe you $5. - So I win."
+          ]
+        },
+        {
+          "shot": 54,
+          "duration": [
+            944.7354583333332,
+            946.7791666666666
+          ],
+          "sentences": [
+            "- Way before the pie. - I told him on the way up."
+          ]
+        },
+        {
+          "shot": 55,
+          "duration": [
+            946.8208749999999,
+            949.9907083333333
+          ],
+          "sentences": [
+            "Right about the time the pie came out, the marriage..."
+          ]
+        },
+        {
+          "shot": 56,
+          "duration": [
+            950.0324166666666,
+            953.0771249999999
+          ],
+          "sentences": [
+            "Kelly is still recovering from her failed relationship with that parolee."
+          ]
+        },
+        {
+          "shot": 57,
+          "duration": [
+            953.1188333333332,
+            955.3293749999999
+          ],
+          "sentences": [
+            "He was a lawyer."
+          ]
+        },
+        {
+          "shot": 58,
+          "duration": [
+            955.3710833333332,
+            957.6650416666666
+          ],
+          "sentences": [
+            "I knew it had something to do with raising your right hand..."
+          ]
+        },
+        {
+          "shot": 59,
+          "duration": [
+            957.7067499999999,
+            961.2936666666666
+          ],
+          "sentences": [
+            "and swearing to tell the truth.",
+            "Remember when he fell on the sidewalk and broke his shoulder at the wedding reception?"
+          ]
+        },
+        {
+          "shot": 60,
+          "duration": [
+            961.3353749999999,
+            962.836875
+          ],
+          "sentences": [
+            "Remember when he fell on the sidewalk and broke his shoulder at the wedding reception?"
+          ]
+        },
+        {
+          "shot": 61,
+          "duration": [
+            962.8785833333333,
+            965.6730416666666
+          ],
+          "sentences": [
+            "He tripped on a curb holding a door open for me."
+          ]
+        },
+        {
+          "shot": 62,
+          "duration": [
+            965.71475,
+            969.093125
+          ],
+          "sentences": [
+            "- Aunt Kelly was married before? - [Kelly] It's not even worth remembering."
+          ]
+        },
+        {
+          "shot": 63,
+          "duration": [
+            969.1348333333333,
+            972.0544166666666
+          ],
+          "sentences": [
+            "So since her failed marriage to the parolee..."
+          ]
+        },
+        {
+          "shot": 64,
+          "duration": [
+            972.0961249999999,
+            974.7654583333333
+          ],
+          "sentences": [
+            "- Oh, my God. - Kelly can't see being with a man who wears a pager to bed."
+          ]
+        },
+        {
+          "shot": 65,
+          "duration": [
+            974.8071666666666,
+            977.1428333333332
+          ],
+          "sentences": [
+            "- Oh, my God. - Kelly can't see being with a man who wears a pager to bed."
+          ]
+        },
+        {
+          "shot": 66,
+          "duration": [
+            977.1845416666666,
+            979.1865416666666
+          ],
+          "sentences": [
+            "What're you gonna attach it to, Hoss?"
+          ]
+        },
+        {
+          "shot": 67,
+          "duration": [
+            979.2282499999999,
+            982.1478333333332
+          ],
+          "sentences": [
+            "When you wear it to bed, I hope you got one of those things..."
+          ]
+        },
+        {
+          "shot": 68,
+          "duration": [
+            982.1895416666666,
+            984.0664166666666
+          ],
+          "sentences": [
+            "that go vibratin'."
+          ]
+        },
+        {
+          "shot": 69,
+          "duration": [
+            984.108125,
+            988.5709166666666
+          ],
+          "sentences": [
+            "Watch it. I'm not touching that.",
+            "Oh, did you hit an olive pit?"
+          ]
+        },
+        {
+          "shot": 70,
+          "duration": [
+            988.612625,
+            990.0307083333332
+          ],
+          "sentences": [
+            "Oh, did you hit an olive pit?"
+          ]
+        },
+        {
+          "shot": 71,
+          "duration": [
+            990.0724166666666,
+            1005.3376666666666
+          ],
+          "sentences": [
+            "- I thought I took all of them out. - No, no, it's not that.",
+            "[Guests Chattering]"
+          ]
+        },
+        {
+          "shot": 76,
+          "duration": [
+            1019.5602083333332,
+            1024.9822916666667
+          ],
+          "sentences": [
+            "- Okay, I'll cancel Saturday. - No, don't.",
+            "If I'm not here, I'm not. But if I am, well,"
+          ]
+        },
+        {
+          "shot": 77,
+          "duration": [
+            1025.024,
+            1034.033
+          ],
+          "sentences": [
+            "- then I am. - It's cancelled.",
+            "But you gotta be here New Year's Eve.",
+            "Malaysia can't be that bad. I'll be here New Year's Eve.",
+            "When are you defending your dissertation?",
+            "January 12."
+          ]
+        },
+        {
+          "shot": 78,
+          "duration": [
+            1034.0747083333333,
+            1049.7153333333333
+          ],
+          "sentences": [
+            "[Sighs] I'm gonna have to switch over the South America thing.",
+            "If I do that on the third or fourth,",
+            "I'm gonna have to head back out on the 13th.",
+            "So long as you're here New Year's Eve.",
+            "I will be here New Year's Eve. I promise."
+          ]
+        },
+        {
+          "shot": 79,
+          "duration": [
+            1049.7570416666665,
+            1053.052
+          ],
+          "sentences": [
+            "- What? - What about our Christmas? I got a gift for you."
+          ]
+        },
+        {
+          "shot": 80,
+          "duration": [
+            1053.0937083333333,
+            1055.9715833333332
+          ],
+          "sentences": [
+            "- What? - What about our Christmas? I got a gift for you."
+          ]
+        },
+        {
+          "shot": 81,
+          "duration": [
+            1056.0132916666666,
+            1061.2268333333332
+          ],
+          "sentences": [
+            "We have to do it in the car."
+          ]
+        },
+        {
+          "shot": 82,
+          "duration": [
+            1061.2685416666666,
+            1090.0055833333333
+          ],
+          "sentences": [
+            "[Elvis Presley] You'll be doing all right \u000e",
+            "I'd just like a minute over here, all right? Thanks.",
+            "\u000e But I'll have a blue \u000e",
+            "- \u000e Blue, blue, blue Christmas - Two minutes, okay?",
+            "Two more minutes. Thanks. Hey!",
+            "- Merry Christmas. - I thought you were gonna stiff me.",
+            "- No. - What is the ribbon? Is it a thousand-pound...",
+            "- test fishing line or something? - Here's your fancy thing."
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            1090.0472916666665,
+            1092.8000416666666
+          ],
+          "sentences": [
+            "Thanks."
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            1092.8417499999998,
+            1097.8884583333333
+          ],
+          "sentences": [
+            "I love the wrapping."
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            1097.9301666666665,
+            1101.475375
+          ],
+          "sentences": [
+            "- And I love the box. - Good."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            1101.5170833333332,
+            1106.3552499999998
+          ],
+          "sentences": [
+            "Oh. Oh, my."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            1106.3969583333333,
+            1108.2738333333332
+          ],
+          "sentences": [
+            "Oh. Oh, my."
+          ]
+        },
+        {
+          "shot": 88,
+          "duration": [
+            1108.3155416666666,
+            1113.86275
+          ],
+          "sentences": [
+            "Oh, that is terrific.",
+            "My grandaddy used it on the Southern Pacific."
+          ]
+        },
+        {
+          "shot": 89,
+          "duration": [
+            1113.9044583333332,
+            1120.5777916666666
+          ],
+          "sentences": [
+            "Hey, I took this. This is my favorite picture of you."
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            1120.6195,
+            1125.124
+          ],
+          "sentences": [
+            "You know what I'm gonna do? I'm always gonna keep this..."
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            1125.1657083333332,
+            1132.6732083333332
+          ],
+          "sentences": [
+            "on Memphis time.",
+            "Kelly time."
+          ]
+        },
+        {
+          "shot": 92,
+          "duration": [
+            1132.7149166666666,
+            1141.3068333333333
+          ],
+          "sentences": [
+            "Hmm.",
+            "You haven't said anything about your presents. Is there a problem?",
+            "I'm sorry, no! I love 'em.",
+            "Look at my journal. Ah!"
+          ]
+        },
+        {
+          "shot": 93,
+          "duration": [
+            1141.3485416666665,
+            1157.6147916666666
+          ],
+          "sentences": [
+            "- What about the pager? - Real leather. The pages have gold on 'em.",
+            "- Did you like the pager or not? - Yes.",
+            "I love it. Look at him in his little blue Russian house.",
+            "- It's from Russia. - My God.",
+            "- It's not one of those loud ones? - No. You can program it so it vibrates..."
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            1157.6564999999998,
+            1164.4132499999998
+          ],
+          "sentences": [
+            "and lights up and see it in the dark.",
+            "It seems like a real nice pager."
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            1164.4549583333333,
+            1178.302125
+          ],
+          "sentences": [
+            "- Sorry about the hand towels. You're hard to shop for. - No, no. I love 'em.",
+            "- Every time I wash my hands, I will think of you. - All right, I gotta go.",
+            "- Merry Christmas. - Merry Christmas.",
+            "- I love you. - I love you too."
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            1181.6387916666665,
+            1187.311125
+          ],
+          "sentences": [
+            "Chuck! Keys!"
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            1187.3528333333331,
+            1188.6457916666666
+          ],
+          "sentences": [
+            "Chuck! Keys!"
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            1188.6875,
+            1227.601375
+          ],
+          "sentences": [
+            "- Thank you. - That reminds me. I almost forgot.",
+            "I have one more present for you.",
+            "Only this isn't an \"open in the car\" kind of present...",
+            "like, say, hand towels.",
+            "Which were a joke, by the way.",
+            "I'm terrified.",
+            "Just take it and hold onto it, and you can open it...",
+            "on New Year's Eve."
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            1227.6430833333332,
+            1236.1932916666665
+          ],
+          "sentences": [
+            "And I love you.",
+            "I'll be right back."
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            1243.5339583333332,
+            1295.669375
+          ],
+          "sentences": [
+            "[PlaneJolts]",
+            "[Sighs]",
+            "Hey, Al, where are we?",
+            "Somewhere over the Pacific Ocean.",
+            "Ha, ha, ha! You pilots, you're funny.",
+            "Tahiti Control, FedEx 88.",
+            "Position Jenna at 1526...",
+            "Is all this turbulence from Santa and those eight tiny reindeer?"
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            1295.7110833333331,
+            1300.6743749999998
+          ],
+          "sentences": [
+            "Tamara at 1620.",
+            "Erick is next."
+          ]
+        },
+        {
+          "shot": 105,
+          "duration": [
+            1300.7160833333332,
+            1303.3854166666665
+          ],
+          "sentences": [
+            "- Fuel: Niner-five-decimal-five. - [Static Over Radio]"
+          ]
+        },
+        {
+          "shot": 106,
+          "duration": [
+            1303.427125,
+            1305.7210833333334
+          ],
+          "sentences": [
+            "Blaine, tell them we're deviating south for weather."
+          ]
+        },
+        {
+          "shot": 107,
+          "duration": [
+            1305.7627916666665,
+            1313.437125
+          ],
+          "sentences": [
+            "Make another position plot on your deviation left.",
+            "[Blaine] Tahiti Control, FedEx 88.",
+            "PositionJenna at 1526."
+          ]
+        },
+        {
+          "shot": 108,
+          "duration": [
+            1313.4788333333333,
+            1315.8979166666666
+          ],
+          "sentences": [
+            "- Flight level 350. - I got us plotted."
+          ]
+        },
+        {
+          "shot": 109,
+          "duration": [
+            1315.939625,
+            1318.9009166666665
+          ],
+          "sentences": [
+            "We're 200 miles south of our original course."
+          ]
+        },
+        {
+          "shot": 110,
+          "duration": [
+            1318.942625,
+            1321.695375
+          ],
+          "sentences": [
+            "[Kevin] Continue plotting, and check contingency procedures."
+          ]
+        },
+        {
+          "shot": 111,
+          "duration": [
+            1321.7370833333332,
+            1326.2415833333332
+          ],
+          "sentences": [
+            "Tahiti Control, FedEx 88.",
+            "Broadcasting in the blind. How do you read?"
+          ]
+        },
+        {
+          "shot": 112,
+          "duration": [
+            1326.2832916666666,
+            1337.4194166666666
+          ],
+          "sentences": [
+            "- [Static Over Radio] - [Blaine] I've never been out of comm this long.",
+            "Did you try the higher H.F. Frequency?",
+            "Tahiti Control, FedEx 88.",
+            "[Al] Better buckle up, Chuck. It's gonna get bumpy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0002",
+      "shot": [
+        115,
+        507
+      ],
+      "frame": [
+        33432,
+        77404
+      ],
+      "duration": [
+        1394.4342863333331,
+        3228.377523333333
+      ],
+      "consistency": 0.978964661925357,
+      "description": "The plane encounters a fierce storm. The pilot attempts to fly around it but for unknown reasons the plane crashes. Noland is the only survivor and is washed onto the shore of a very small tropical island. Chuck explores the island and finds a number of FedEx packages from the crash that have washed ashore. He also discovers the body of one of the aircraft's pilots. Chuck buries him. At night on the beach Chuck sees the lights of a ship. Using a small flashlight he recovered from the body of the pilot, he tries to signal the ship but is unsuccessful.",
+      "subtitle": [
+        {
+          "shot": 115,
+          "duration": [
+            1395.268875,
+            1396.6452499999998
+          ],
+          "sentences": [
+            "[Explosion]"
+          ]
+        },
+        {
+          "shot": 116,
+          "duration": [
+            1396.6869583333332,
+            1397.9799166666667
+          ],
+          "sentences": [
+            "[Explosion]",
+            "[Pilot Yelling]"
+          ]
+        },
+        {
+          "shot": 117,
+          "duration": [
+            1398.0216249999999,
+            1401.2748749999998
+          ],
+          "sentences": [
+            "[Pilot Yelling]"
+          ]
+        },
+        {
+          "shot": 118,
+          "duration": [
+            1401.3165833333333,
+            1408.0316249999998
+          ],
+          "sentences": [
+            "Fire! Explosion!",
+            "Let's get a hose!"
+          ]
+        },
+        {
+          "shot": 119,
+          "duration": [
+            1408.0733333333333,
+            1413.2451666666666
+          ],
+          "sentences": [
+            "Hold on to it! Come on!"
+          ]
+        },
+        {
+          "shot": 120,
+          "duration": [
+            1413.286875,
+            1416.4567083333332
+          ],
+          "sentences": [
+            "Seat belt!"
+          ]
+        },
+        {
+          "shot": 121,
+          "duration": [
+            1416.4984166666666,
+            1419.1677499999998
+          ],
+          "sentences": [
+            "Seat belt!"
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            1421.7119583333333,
+            1426.1330416666665
+          ],
+          "sentences": [
+            "We may have to ditch!"
+          ]
+        },
+        {
+          "shot": 129,
+          "duration": [
+            1434.5581249999998,
+            1442.3992916666666
+          ],
+          "sentences": [
+            "Okay?",
+            "Fire in the hold!",
+            "We're goin' down!",
+            "Mayday! Mayday!"
+          ]
+        },
+        {
+          "shot": 130,
+          "duration": [
+            1442.4409999999998,
+            1444.2761666666665
+          ],
+          "sentences": [
+            "Mayday! Mayday!"
+          ]
+        },
+        {
+          "shot": 131,
+          "duration": [
+            1444.317875,
+            1445.3605833333331
+          ],
+          "sentences": [
+            "Mayday! Mayday!"
+          ]
+        },
+        {
+          "shot": 133,
+          "duration": [
+            1446.1947499999999,
+            1449.1560416666666
+          ],
+          "sentences": [
+            "[Alarm Buzzing]"
+          ]
+        },
+        {
+          "shot": 134,
+          "duration": [
+            1449.1977499999998,
+            1450.5324166666667
+          ],
+          "sentences": [
+            "[Alarm Buzzing]",
+            "[Pilots Shouting, Alarm Buzzing]"
+          ]
+        },
+        {
+          "shot": 135,
+          "duration": [
+            1450.5741249999999,
+            1451.2831666666666
+          ],
+          "sentences": [
+            "[Pilots Shouting, Alarm Buzzing]"
+          ]
+        },
+        {
+          "shot": 136,
+          "duration": [
+            1451.3248749999998,
+            1453.2434583333331
+          ],
+          "sentences": [
+            "[Pilots Shouting, Alarm Buzzing]"
+          ]
+        },
+        {
+          "shot": 138,
+          "duration": [
+            1454.8700833333332,
+            1455.6625416666666
+          ],
+          "sentences": [
+            "Bringing it down and out!"
+          ]
+        },
+        {
+          "shot": 139,
+          "duration": [
+            1455.70425,
+            1460.3338749999998
+          ],
+          "sentences": [
+            "Bringing it down and out!",
+            "Ten thousand feet! Masks off!"
+          ]
+        },
+        {
+          "shot": 140,
+          "duration": [
+            1460.3755833333332,
+            1462.6695416666666
+          ],
+          "sentences": [
+            "Masks off!"
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            1462.7112499999998,
+            1464.9217916666666
+          ],
+          "sentences": [
+            "Masks off!"
+          ]
+        },
+        {
+          "shot": 142,
+          "duration": [
+            1464.9634999999998,
+            1466.339875
+          ],
+          "sentences": [
+            "Chuck! Life vest!"
+          ]
+        },
+        {
+          "shot": 143,
+          "duration": [
+            1466.3815833333333,
+            1469.71825
+          ],
+          "sentences": [
+            "Chuck! Life vest!"
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            1496.0779166666666,
+            1502.8763749999998
+          ],
+          "sentences": [
+            "Chuck! Chuck, stay there!"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            1502.9180833333332,
+            1505.879375
+          ],
+          "sentences": [
+            "Where's your life vest?"
+          ]
+        },
+        {
+          "shot": 165,
+          "duration": [
+            1529.2360416666666,
+            1530.9877916666665
+          ],
+          "sentences": [
+            "Ditching switch on!"
+          ]
+        },
+        {
+          "shot": 166,
+          "duration": [
+            1531.0294999999999,
+            1531.9053749999998
+          ],
+          "sentences": [
+            "Ditching switch on!"
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            1545.4605833333333,
+            1546.920375
+          ],
+          "sentences": [
+            "I've got visual!"
+          ]
+        },
+        {
+          "shot": 180,
+          "duration": [
+            1546.962083333333,
+            1548.2550416666666
+          ],
+          "sentences": [
+            "I've got visual!"
+          ]
+        },
+        {
+          "shot": 185,
+          "duration": [
+            1552.4675833333333,
+            1553.3851666666665
+          ],
+          "sentences": [
+            "Brace for impact!"
+          ]
+        },
+        {
+          "shot": 186,
+          "duration": [
+            1553.4268749999999,
+            1554.5112916666665
+          ],
+          "sentences": [
+            "Brace for impact!"
+          ]
+        },
+        {
+          "shot": 187,
+          "duration": [
+            1554.5529999999999,
+            1555.7208333333333
+          ],
+          "sentences": [
+            "Brace for impact!"
+          ]
+        },
+        {
+          "shot": 195,
+          "duration": [
+            1574.2393333333332,
+            1585.4171666666666
+          ],
+          "sentences": [
+            "[Creaking]"
+          ]
+        },
+        {
+          "shot": 228,
+          "duration": [
+            1624.7481249999998,
+            1625.7491249999998
+          ],
+          "sentences": [
+            "[Engine Roaring]"
+          ]
+        },
+        {
+          "shot": 229,
+          "duration": [
+            1625.7908333333332,
+            1626.499875
+          ],
+          "sentences": [
+            "[Engine Roaring]"
+          ]
+        },
+        {
+          "shot": 230,
+          "duration": [
+            1626.5415833333332,
+            1627.3340416666665
+          ],
+          "sentences": [
+            "[Engine Roaring]"
+          ]
+        },
+        {
+          "shot": 231,
+          "duration": [
+            1627.37575,
+            1628.3350416666665
+          ],
+          "sentences": [
+            "[Engine Roaring]"
+          ]
+        },
+        {
+          "shot": 358,
+          "duration": [
+            1876.9584166666666,
+            1897.0201249999998
+          ],
+          "sentences": [
+            "[Groaning, Wheezing]"
+          ]
+        },
+        {
+          "shot": 362,
+          "duration": [
+            2052.0499999999997,
+            2138.7616249999996
+          ],
+          "sentences": [
+            "Hello!"
+          ]
+        },
+        {
+          "shot": 364,
+          "duration": [
+            2155.319833333333,
+            2218.090875
+          ],
+          "sentences": [
+            "Hello!",
+            "Anybody!",
+            "Anybody!",
+            "Help!",
+            "Help!"
+          ]
+        },
+        {
+          "shot": 365,
+          "duration": [
+            2218.132583333333,
+            2228.97675
+          ],
+          "sentences": [
+            "Help!"
+          ]
+        },
+        {
+          "shot": 373,
+          "duration": [
+            2263.552958333333,
+            2276.649375
+          ],
+          "sentences": [
+            "[Thudding Sound]",
+            "[Leaves Rustling]",
+            "[Thud]"
+          ]
+        },
+        {
+          "shot": 374,
+          "duration": [
+            2276.691083333333,
+            2282.7805
+          ],
+          "sentences": [
+            "[Thud]"
+          ]
+        },
+        {
+          "shot": 383,
+          "duration": [
+            2322.1114583333333,
+            2346.9279166666665
+          ],
+          "sentences": [
+            "[Thud]",
+            "What is that?"
+          ]
+        },
+        {
+          "shot": 384,
+          "duration": [
+            2346.9696249999997,
+            2350.139458333333
+          ],
+          "sentences": [
+            "What is that?"
+          ]
+        },
+        {
+          "shot": 385,
+          "duration": [
+            2350.1811666666663,
+            2363.027333333333
+          ],
+          "sentences": [
+            "Hey!"
+          ]
+        },
+        {
+          "shot": 386,
+          "duration": [
+            2363.0690416666666,
+            2366.11375
+          ],
+          "sentences": [
+            "Hey!"
+          ]
+        },
+        {
+          "shot": 387,
+          "duration": [
+            2366.155458333333,
+            2375.5815416666665
+          ],
+          "sentences": [
+            "Hey!",
+            "Anybody?"
+          ]
+        },
+        {
+          "shot": 388,
+          "duration": [
+            2375.6232499999996,
+            2393.4327083333333
+          ],
+          "sentences": [
+            "[Thud]"
+          ]
+        },
+        {
+          "shot": 389,
+          "duration": [
+            2393.4744166666665,
+            2401.14875
+          ],
+          "sentences": [
+            "[Thud]"
+          ]
+        },
+        {
+          "shot": 398,
+          "duration": [
+            2439.353583333333,
+            2446.819375
+          ],
+          "sentences": [
+            "[Grunting]"
+          ]
+        },
+        {
+          "shot": 424,
+          "duration": [
+            2616.3220416666663,
+            2622.494875
+          ],
+          "sentences": [
+            "Hello?"
+          ]
+        },
+        {
+          "shot": 425,
+          "duration": [
+            2622.536583333333,
+            2627.4581666666663
+          ],
+          "sentences": [
+            "Hello?"
+          ]
+        },
+        {
+          "shot": 441,
+          "duration": [
+            2817.231083333333,
+            2839.08625
+          ],
+          "sentences": [
+            "[Gasping, Crying]"
+          ]
+        },
+        {
+          "shot": 442,
+          "duration": [
+            2839.127958333333,
+            2863.3187916666666
+          ],
+          "sentences": [
+            "Get! Go, go. Go! Go!"
+          ]
+        },
+        {
+          "shot": 452,
+          "duration": [
+            2915.2456666666662,
+            2918.206958333333
+          ],
+          "sentences": [
+            "\"Albert R. Miller.\""
+          ]
+        },
+        {
+          "shot": 453,
+          "duration": [
+            2918.2486666666664,
+            2922.085833333333
+          ],
+          "sentences": [
+            "\"Albert R. Miller.\"",
+            "Not Alan. Albert."
+          ]
+        },
+        {
+          "shot": 454,
+          "duration": [
+            2922.1275416666663,
+            2927.5079166666665
+          ],
+          "sentences": [
+            "Not Alan. Albert."
+          ]
+        },
+        {
+          "shot": 470,
+          "duration": [
+            3001.4567916666665,
+            3006.3366666666666
+          ],
+          "sentences": [
+            "So, that's it."
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            3006.378375,
+            3014.6366249999996
+          ],
+          "sentences": [
+            "So, that's it."
+          ]
+        },
+        {
+          "shot": 494,
+          "duration": [
+            3182.0955833333333,
+            3186.3915416666664
+          ],
+          "sentences": [
+            "Hey! A ship!",
+            "Hey! Hey!"
+          ]
+        },
+        {
+          "shot": 495,
+          "duration": [
+            3186.4332499999996,
+            3190.8960416666664
+          ],
+          "sentences": [
+            "Hey! Hey!",
+            "Hey! Hey!",
+            "A ship! Over here!"
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            3190.9377499999996,
+            3197.9030416666665
+          ],
+          "sentences": [
+            "A ship! Over here!",
+            "Hey! Hey!",
+            "Over here! Over here!"
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            3201.364833333333,
+            3204.7432083333333
+          ],
+          "sentences": [
+            "Over here!"
+          ]
+        },
+        {
+          "shot": 499,
+          "duration": [
+            3204.7849166666665,
+            3213.0431666666664
+          ],
+          "sentences": [
+            "Over here!",
+            "Over here! Over here!",
+            "Help me! Help! Right here! Right here!",
+            "Help! Look here! Look, look, look!"
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            3213.0848749999996,
+            3214.211
+          ],
+          "sentences": [
+            "Help! Look here! Look, look, look!",
+            "S... O... S! Please!"
+          ]
+        },
+        {
+          "shot": 501,
+          "duration": [
+            3214.252708333333,
+            3215.1702916666663
+          ],
+          "sentences": [
+            "S... O... S! Please!"
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            3215.212,
+            3221.1762916666667
+          ],
+          "sentences": [
+            "S... O... S! Please!",
+            "Help! Come on!"
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            3221.218,
+            3221.885333333333
+          ],
+          "sentences": [
+            "Help! Come on!",
+            "Help!"
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            3221.9270416666664,
+            3222.5943749999997
+          ],
+          "sentences": [
+            "Help!"
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            3222.6360833333333,
+            3227.0154583333333
+          ],
+          "sentences": [
+            "Help!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0003",
+      "shot": [
+        507,
+        694
+      ],
+      "frame": [
+        77572,
+        100744
+      ],
+      "duration": [
+        3235.4102456666665,
+        4201.832266666666
+      ],
+      "consistency": 0.9928990556393789,
+      "description": "The next morning he attempts to leave the island in the rubber raft from the jet. The high breakers over the coral reef surrounding the island turn the raft over. He's tossed onto the reef and his thigh is badly lacerated. Recovering from the accident. he begins to build a simple camp and opens the FedEx parcels. He discovers several items that aid him in his survival including a pair of ice skates. Another parcel contains a volley ball that eventually becomes his companion. One of the parcels is decorated with a pair of wings and for unexplained reasons he doesn't open it. He tries to build a fire by rubbing a stick against a piece of wood, but cuts his hand. In a fury, he grabs the volley ball and throws it. His cut hand leaves a bloody imprint on the ball and from that he adds in a face, naming it by its brand name, \"Wilson\". The ball becomes his companion.",
+      "subtitle": [
+        {
+          "shot": 555,
+          "duration": [
+            3330.243583333333,
+            3333.33
+          ],
+          "sentences": [
+            "[Yelling]"
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            3333.371708333333,
+            3334.7063749999998
+          ],
+          "sentences": [
+            "[Yelling]"
+          ]
+        },
+        {
+          "shot": 560,
+          "duration": [
+            3339.377708333333,
+            3344.883208333333
+          ],
+          "sentences": [
+            "[Gasping]"
+          ]
+        },
+        {
+          "shot": 565,
+          "duration": [
+            3349.5962499999996,
+            3351.5565416666664
+          ],
+          "sentences": [
+            "[Muffled Yelling]"
+          ]
+        },
+        {
+          "shot": 566,
+          "duration": [
+            3351.5982499999996,
+            3352.974625
+          ],
+          "sentences": [
+            "[Muffled Yelling]"
+          ]
+        },
+        {
+          "shot": 567,
+          "duration": [
+            3353.016333333333,
+            3354.5595416666665
+          ],
+          "sentences": [
+            "[Muffled Yelling]"
+          ]
+        },
+        {
+          "shot": 569,
+          "duration": [
+            3355.310291666666,
+            3368.3232916666666
+          ],
+          "sentences": [
+            "[Groaning]"
+          ]
+        },
+        {
+          "shot": 576,
+          "duration": [
+            3389.052333333333,
+            3410.3235833333333
+          ],
+          "sentences": [
+            "[Grunting]"
+          ]
+        },
+        {
+          "shot": 605,
+          "duration": [
+            3533.8636666666666,
+            3632.003375
+          ],
+          "sentences": [
+            "[Wind Howling]"
+          ]
+        },
+        {
+          "shot": 608,
+          "duration": [
+            3642.1384999999996,
+            3694.3156249999997
+          ],
+          "sentences": [
+            "[Clicking]",
+            "[Groans]"
+          ]
+        },
+        {
+          "shot": 623,
+          "duration": [
+            3760.6318749999996,
+            3772.685583333333
+          ],
+          "sentences": [
+            "\"Happy birthday.\"",
+            "\"The most beautiful thing in the world is, of course, the world itself."
+          ]
+        },
+        {
+          "shot": 624,
+          "duration": [
+            3772.7272916666666,
+            3779.4006249999998
+          ],
+          "sentences": [
+            "\"The most beautiful thing in the world is, of course, the world itself.",
+            "Johnny, have the happiest birthday ever. Score. Your Grandpa.\""
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            3879.667458333333,
+            3898.6030416666663
+          ],
+          "sentences": [
+            "Ew."
+          ]
+        },
+        {
+          "shot": 661,
+          "duration": [
+            3965.044416666666,
+            3974.011708333333
+          ],
+          "sentences": [
+            "Come on.",
+            "Come on. Come on.",
+            "Come on. Come on."
+          ]
+        },
+        {
+          "shot": 662,
+          "duration": [
+            3974.053416666666,
+            3986.899583333333
+          ],
+          "sentences": [
+            "Come on. Come on."
+          ]
+        },
+        {
+          "shot": 675,
+          "duration": [
+            4065.227833333333,
+            4067.4383749999997
+          ],
+          "sentences": [
+            "[Groaning]"
+          ]
+        },
+        {
+          "shot": 676,
+          "duration": [
+            4067.480083333333,
+            4069.7740416666666
+          ],
+          "sentences": [
+            "[Groaning]",
+            "[Yelling]"
+          ]
+        },
+        {
+          "shot": 677,
+          "duration": [
+            4069.8157499999998,
+            4070.608208333333
+          ],
+          "sentences": [
+            "[Yelling]"
+          ]
+        },
+        {
+          "shot": 680,
+          "duration": [
+            4073.6529166666664,
+            4093.6729166666664
+          ],
+          "sentences": [
+            "[Screaming]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0004",
+      "shot": [
+        693,
+        768
+      ],
+      "frame": [
+        100667,
+        113806
+      ],
+      "duration": [
+        4198.679932666667,
+        4746.6438806666665
+      ],
+      "consistency": 0.8618178252851055,
+      "description": "Chuck figures out how to start a fire and soon teaches himself to catch crabs, open coconuts, collect drinking water and spear fish. Chuck creates a rudimentary home in a small cave. Still suffering from a tooth that was bothering him before he left Memphis, it has abscessed and is extremely painful and swollen. He finally resorts to using the toe of an ice skate blade with a rock as a hammer to extract the tooth.",
+      "subtitle": [
+        {
+          "shot": 700,
+          "duration": [
+            4231.101874999999,
+            4254.208291666667
+          ],
+          "sentences": [
+            "You wouldn't have a match... by any chance, would you?",
+            "Oh, oh, oh!"
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            4256.460541666666,
+            4269.348416666667
+          ],
+          "sentences": [
+            "The air got to it."
+          ]
+        },
+        {
+          "shot": 704,
+          "duration": [
+            4269.390125,
+            4271.600666666666
+          ],
+          "sentences": [
+            "The air got to it.",
+            "The air got to it!"
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            4271.642374999999,
+            4274.812208333333
+          ],
+          "sentences": [
+            "The air got to it!"
+          ]
+        },
+        {
+          "shot": 724,
+          "duration": [
+            4314.059749999999,
+            4319.690375
+          ],
+          "sentences": [
+            "Come on, come on. Come on."
+          ]
+        },
+        {
+          "shot": 725,
+          "duration": [
+            4319.732083333333,
+            4322.609958333333
+          ],
+          "sentences": [
+            "[Gasping]"
+          ]
+        },
+        {
+          "shot": 726,
+          "duration": [
+            4322.651666666667,
+            4333.0370416666665
+          ],
+          "sentences": [
+            "[Gasping]",
+            "I did it. I did it.",
+            "Fire!",
+            "There you go!"
+          ]
+        },
+        {
+          "shot": 727,
+          "duration": [
+            4333.07875,
+            4334.33
+          ],
+          "sentences": [
+            "There you go!"
+          ]
+        },
+        {
+          "shot": 728,
+          "duration": [
+            4334.371708333333,
+            4335.873208333333
+          ],
+          "sentences": [
+            "There you go!",
+            "Light it up! Come on!"
+          ]
+        },
+        {
+          "shot": 729,
+          "duration": [
+            4335.914916666667,
+            4339.293291666666
+          ],
+          "sentences": [
+            "Light it up! Come on!",
+            "The time to hesitate is through"
+          ]
+        },
+        {
+          "shot": 730,
+          "duration": [
+            4339.335,
+            4358.896208333333
+          ],
+          "sentences": [
+            "The time to hesitate is through",
+            "Ouch! [Laughing]",
+            "Ouch!",
+            "No time to wallow in the mire",
+            "Try now, we can only lose",
+            "'Cause girl we couldn't get much higher",
+            "Come on, baby light my fire",
+            "Here you go! Here you go!"
+          ]
+        },
+        {
+          "shot": 731,
+          "duration": [
+            4358.937916666667,
+            4361.8575
+          ],
+          "sentences": [
+            "Here you go! Here you go!",
+            "It's a signal fire!"
+          ]
+        },
+        {
+          "shot": 732,
+          "duration": [
+            4361.899208333333,
+            4363.192166666667
+          ],
+          "sentences": [
+            "It's a signal fire!"
+          ]
+        },
+        {
+          "shot": 733,
+          "duration": [
+            4363.233875,
+            4364.3182916666665
+          ],
+          "sentences": [
+            "It's a signal fire!"
+          ]
+        },
+        {
+          "shot": 734,
+          "duration": [
+            4364.36,
+            4370.741375
+          ],
+          "sentences": [
+            "And it spells out S.O. S!",
+            "Whoa!"
+          ]
+        },
+        {
+          "shot": 736,
+          "duration": [
+            4371.492125,
+            4372.409708333333
+          ],
+          "sentences": [
+            "It's a meteor shower!"
+          ]
+        },
+        {
+          "shot": 737,
+          "duration": [
+            4372.451416666667,
+            4373.202166666666
+          ],
+          "sentences": [
+            "It's a meteor shower!"
+          ]
+        },
+        {
+          "shot": 738,
+          "duration": [
+            4373.243875,
+            4374.161458333333
+          ],
+          "sentences": [
+            "It's a meteor shower!",
+            "Fireflies! Go! Run!"
+          ]
+        },
+        {
+          "shot": 739,
+          "duration": [
+            4374.203166666666,
+            4376.080041666666
+          ],
+          "sentences": [
+            "Fireflies! Go! Run!"
+          ]
+        },
+        {
+          "shot": 740,
+          "duration": [
+            4376.121749999999,
+            4381.210166666667
+          ],
+          "sentences": [
+            "You're free! You're free! Ouch! Ouch!",
+            "Yeah!",
+            "Yes!"
+          ]
+        },
+        {
+          "shot": 741,
+          "duration": [
+            4381.251875,
+            4391.804083333333
+          ],
+          "sentences": [
+            "Yes!",
+            "Look what I have created!",
+            "I have made fire!",
+            "I... have made fire!"
+          ]
+        },
+        {
+          "shot": 742,
+          "duration": [
+            4391.845791666667,
+            4408.529125
+          ],
+          "sentences": [
+            "Mmm!"
+          ]
+        },
+        {
+          "shot": 744,
+          "duration": [
+            4411.031625,
+            4451.697249999999
+          ],
+          "sentences": [
+            "You gotta love crab.",
+            "In the nick of time too.",
+            "I couldn't take much more of those coconuts.",
+            "Coconut milk's a natural laxative.",
+            "Things that Gilligan never told us.",
+            "Oh.",
+            "Pretty well-made fire, huh, Wilson?",
+            "[Thunderclap]"
+          ]
+        },
+        {
+          "shot": 745,
+          "duration": [
+            4451.738958333333,
+            4458.495708333333
+          ],
+          "sentences": [
+            "So... Wilson.",
+            "We were en route..."
+          ]
+        },
+        {
+          "shot": 746,
+          "duration": [
+            4458.537416666666,
+            4517.554708333333
+          ],
+          "sentences": [
+            "We were en route...",
+            "from Memphis for 11 and a half hours.",
+            "About 475 miles an hour.",
+            "So they think that we are right here.",
+            "But...",
+            "we went out of radio contact...",
+            "and flew around that storm for about an hour.",
+            "So that's a distance of what, 400 miles?",
+            "Four hundred miles squared.",
+            "That's 160,000...",
+            "times pi... 3.14.",
+            "[Mumbling]",
+            "Five hundred and two thousand, four...",
+            "That's a search area of 500,000 square miles.",
+            "That's twice the size ofTexas.",
+            "They may never find us.",
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 747,
+          "duration": [
+            4517.596416666666,
+            4522.226041666667
+          ],
+          "sentences": [
+            "[Thunderclaps]",
+            "[Groaning]"
+          ]
+        },
+        {
+          "shot": 748,
+          "duration": [
+            4522.26775,
+            4536.657125
+          ],
+          "sentences": [
+            "[Groaning]"
+          ]
+        },
+        {
+          "shot": 750,
+          "duration": [
+            4541.203333333333,
+            4624.244624999999
+          ],
+          "sentences": [
+            "This tooth is just killing me.",
+            "It started out just hurting when I bit down,",
+            "but now it just hurts all the time.",
+            "All the time.",
+            "It's-It's a good thing there's not much to eat around here,",
+            "because I don't think I could chew it.",
+            "Just keep sucking on all that coconut and all that crab.",
+            "And just think,",
+            "I used to avoid going to the dentist...",
+            "like the plague.",
+            "I put it off every single chance I got. But now,",
+            "oh, what I wouldn't give...",
+            "to have a-a dentist right here in this cave.",
+            "[Groans]",
+            "In fact, I wish you were a dentist.",
+            "Yeah.",
+            "Dr. Wilson.",
+            "You wanna hear something funny?",
+            "Back home in Memphis,",
+            "my dentist's name is Dr. James Spaulding."
+          ]
+        },
+        {
+          "shot": 752,
+          "duration": [
+            4632.628,
+            4653.273625
+          ],
+          "sentences": [
+            "She's much prettier in real life."
+          ]
+        },
+        {
+          "shot": 757,
+          "duration": [
+            4670.999666666667,
+            4680.258916666667
+          ],
+          "sentences": [
+            "[Groaning]"
+          ]
+        },
+        {
+          "shot": 758,
+          "duration": [
+            4680.300625,
+            4704.866833333333
+          ],
+          "sentences": [
+            "[Whimpering]"
+          ]
+        },
+        {
+          "shot": 759,
+          "duration": [
+            4704.908541666667,
+            4720.549166666667
+          ],
+          "sentences": [
+            "[Whimpering]"
+          ]
+        },
+        {
+          "shot": 760,
+          "duration": [
+            4720.590875,
+            4721.133083333333
+          ],
+          "sentences": [
+            "[Yells]"
+          ]
+        },
+        {
+          "shot": 761,
+          "duration": [
+            4721.174791666666,
+            4721.842124999999
+          ],
+          "sentences": [
+            "[Yells]"
+          ]
+        },
+        {
+          "shot": 762,
+          "duration": [
+            4721.883833333333,
+            4723.009958333333
+          ],
+          "sentences": [
+            "[Yells]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0005",
+      "shot": [
+        745,
+        748
+      ],
+      "frame": [
+        106735,
+        108423
+      ],
+      "duration": [
+        4451.7529583333335,
+        4522.117118333334
+      ],
+      "consistency": 0.9460896143718588,
+      "description": "Sometime later he describes to Wilson the flight path of his jet compared to its last known position and calculates that the search area is over 500,000 square miles, twice the size of Texas. He realizes its doubtful that he'll ever be found.",
+      "subtitle": [
+        {
+          "shot": 745,
+          "duration": [
+            4451.738958333333,
+            4458.495708333333
+          ],
+          "sentences": [
+            "So... Wilson.",
+            "We were en route..."
+          ]
+        },
+        {
+          "shot": 746,
+          "duration": [
+            4458.537416666666,
+            4517.554708333333
+          ],
+          "sentences": [
+            "We were en route...",
+            "from Memphis for 11 and a half hours.",
+            "About 475 miles an hour.",
+            "So they think that we are right here.",
+            "But...",
+            "we went out of radio contact...",
+            "and flew around that storm for about an hour.",
+            "So that's a distance of what, 400 miles?",
+            "Four hundred miles squared.",
+            "That's 160,000...",
+            "times pi... 3.14.",
+            "[Mumbling]",
+            "Five hundred and two thousand, four...",
+            "That's a search area of 500,000 square miles.",
+            "That's twice the size ofTexas.",
+            "They may never find us.",
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 747,
+          "duration": [
+            4517.596416666666,
+            4522.226041666667
+          ],
+          "sentences": [
+            "[Thunderclaps]",
+            "[Groaning]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0006",
+      "shot": [
+        770,
+        856
+      ],
+      "frame": [
+        113925,
+        129283
+      ],
+      "duration": [
+        4751.6392129999995,
+        5392.158417
+      ],
+      "consistency": 0.9874971773680032,
+      "description": "Four years pass. Chuck has lost more than 50 pounds and his hair and beard are long and unkempt. He survives day-to-day. During a storm two of the walls of a broken fiberglass portable toilet are tossed on shore. When he sees it blown by the wind, he realizes he might be able to use it as a sail. He is suddenly energized with the idea of building a raft that will use the fiberglass walls like a makeshift sail. He chops down trees and lays out his raft. To tie the poles together, he braids rope from local tree bark and from video tape he found in one of the parcels. He counts the days necessary to catch the northeast trade winds that he hopes will take him into the shipping lanes and rescue. Chuck isn't certain where he is headed but figures that he would rather die at sea that spend the rest of his life alone on the island.",
+      "subtitle": [
+        {
+          "shot": 788,
+          "duration": [
+            4814.976833333333,
+            4818.355208333333
+          ],
+          "sentences": [
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 789,
+          "duration": [
+            4818.396916666667,
+            4819.064249999999
+          ],
+          "sentences": [
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 790,
+          "duration": [
+            4819.105958333333,
+            4819.815
+          ],
+          "sentences": [
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 791,
+          "duration": [
+            4819.856708333333,
+            4820.774291666667
+          ],
+          "sentences": [
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 792,
+          "duration": [
+            4820.816,
+            4829.0325416666665
+          ],
+          "sentences": [
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 801,
+          "duration": [
+            4876.371499999999,
+            4902.772875
+          ],
+          "sentences": [
+            "[Clattering]",
+            "[Clattering Continues]"
+          ]
+        },
+        {
+          "shot": 802,
+          "duration": [
+            4902.814583333333,
+            4905.942708333333
+          ],
+          "sentences": [
+            "[Clattering Continues]",
+            "Shut up!"
+          ]
+        },
+        {
+          "shot": 803,
+          "duration": [
+            4905.984416666666,
+            4907.110541666666
+          ],
+          "sentences": [
+            "Shut up!"
+          ]
+        },
+        {
+          "shot": 805,
+          "duration": [
+            4910.071833333333,
+            4911.615041666666
+          ],
+          "sentences": [
+            "[Clattering Continues]"
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            4911.65675,
+            4915.827583333333
+          ],
+          "sentences": [
+            "[Clattering Continues]"
+          ]
+        },
+        {
+          "shot": 810,
+          "duration": [
+            4954.1575416666665,
+            4974.094125
+          ],
+          "sentences": [
+            "\"Bakersfield\"?"
+          ]
+        },
+        {
+          "shot": 811,
+          "duration": [
+            4974.135833333333,
+            4981.101124999999
+          ],
+          "sentences": [
+            "Bakersfield!"
+          ]
+        },
+        {
+          "shot": 823,
+          "duration": [
+            5031.77675,
+            5043.371666666666
+          ],
+          "sentences": [
+            "This could work.",
+            "[Softly] This could work."
+          ]
+        },
+        {
+          "shot": 831,
+          "duration": [
+            5073.860458333333,
+            5080.992583333333
+          ],
+          "sentences": [
+            "Twenty-two... Forty-four lashings."
+          ]
+        },
+        {
+          "shot": 832,
+          "duration": [
+            5081.034291666666,
+            5089.375958333333
+          ],
+          "sentences": [
+            "Forty-four lashings. So...",
+            "We have to make rope again."
+          ]
+        },
+        {
+          "shot": 834,
+          "duration": [
+            5091.795041666666,
+            5095.673916666667
+          ],
+          "sentences": [
+            "Wilson, we're gonna have to make a hell of a lot of rope."
+          ]
+        },
+        {
+          "shot": 836,
+          "duration": [
+            5100.512083333333,
+            5102.013583333333
+          ],
+          "sentences": [
+            "Eight lashings of these structurals."
+          ]
+        },
+        {
+          "shot": 837,
+          "duration": [
+            5102.055291666667,
+            5111.481374999999
+          ],
+          "sentences": [
+            "Eight lashings of these structurals.",
+            "That's 24 apiece.",
+            "That'll be 100... 160.",
+            "Here we are today."
+          ]
+        },
+        {
+          "shot": 838,
+          "duration": [
+            5111.523083333333,
+            5113.566791666666
+          ],
+          "sentences": [
+            "Here we are today.",
+            "That gives us another month and a half until we're into March and April,"
+          ]
+        },
+        {
+          "shot": 839,
+          "duration": [
+            5113.608499999999,
+            5149.102291666666
+          ],
+          "sentences": [
+            "That gives us another month and a half until we're into March and April,",
+            "which is our best chances for the high tides and the offshore breezes.",
+            "We need... We need 424 feet...",
+            "of good rope, plus another 50 feet, say, for miscellaneous.",
+            "Round that off to 475 feet of good rope.",
+            "Now, if we average 15 feet a day...",
+            "Plus, we have to build it,",
+            "we have to stock it, we have to launch it."
+          ]
+        },
+        {
+          "shot": 840,
+          "duration": [
+            5149.143999999999,
+            5152.772625
+          ],
+          "sentences": [
+            "That's gonna be tight."
+          ]
+        },
+        {
+          "shot": 841,
+          "duration": [
+            5152.814333333333,
+            5178.548374999999
+          ],
+          "sentences": [
+            "That's gonna be tight.",
+            "That is not much time.",
+            "But we...",
+            "We live and we die by time, don't we?",
+            "Now, let's not commit the sin of turning our back on time.",
+            "[Laughs]",
+            "I know.",
+            "I know."
+          ]
+        },
+        {
+          "shot": 844,
+          "duration": [
+            5189.934749999999,
+            5197.859333333333
+          ],
+          "sentences": [
+            "This is it."
+          ]
+        },
+        {
+          "shot": 845,
+          "duration": [
+            5197.901041666666,
+            5230.934041666666
+          ],
+          "sentences": [
+            "This is it.",
+            "That's all that's left.",
+            "I checked over the whole island, and that is all that's left.",
+            "So we're gonna be short.",
+            "Short.",
+            "We'll just have to make some more out of the videotape.",
+            "Yes. No, we have time.",
+            "We do. We have time. Look!",
+            "The wind's still blowing in from the west."
+          ]
+        },
+        {
+          "shot": 846,
+          "duration": [
+            5230.97575,
+            5236.689791666667
+          ],
+          "sentences": [
+            "The wind's still blowing in from the west."
+          ]
+        },
+        {
+          "shot": 848,
+          "duration": [
+            5238.608375,
+            5248.910333333333
+          ],
+          "sentences": [
+            "I know!",
+            "Yeah, I know... I know where there's 30 feet of extra rope!",
+            "But... But I'm not going back up there."
+          ]
+        },
+        {
+          "shot": 855,
+          "duration": [
+            5320.857208333333,
+            5392.053333333333
+          ],
+          "sentences": [
+            "There, there. There, you see? Huh?",
+            "There. Are you happy?",
+            "Do you have to keep bringing that up? Can't you just forget it?",
+            "Huh? You were right.",
+            "You were right. It was a good thing that we did a test,",
+            "'cause it wasn't gonna be just a quick little snap.",
+            "I would have landed on the rocks.",
+            "Broken my leg or my back or my neck. Bled to death.",
+            "But it was the only option I had at the time though, okay?",
+            "It was what, a year ago?",
+            "So let's just forget it.",
+            "And what is your point?",
+            "Well...",
+            "we might just make it.",
+            "Did that thought ever cross your brain?",
+            "Well, regardless, I would rather take my chance out there on the ocean...",
+            "than to stay here and die on this shithole island,",
+            "spending the rest of my life talking to a goddamn volleyball!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0007",
+      "shot": [
+        879,
+        1056
+      ],
+      "frame": [
+        131739,
+        154373
+      ],
+      "duration": [
+        5494.650465666667,
+        6438.606106666666
+      ],
+      "consistency": 0.9334407664183879,
+      "description": "Chuck prepares food, water, and other necessities for his escape. He ties his 'companion' Wilson and the FedEx parcel decorated with wings to the raft. With the aid ofthe toilet stall walls as a sail and a pair of makeshift oars, he's able to sail over the reef surf and escape the island and lagoon. He sails for many days and during a storm, the ball named Wilson floats away while Chuck is asleep. Chuck is awakened by water in his face, apparently from the spout of a whale, and sees Wilson floating away. He tries to rescue Wilson, but afraid of losing the raft, he is forced to let Wilson go. He is despondent over losing Wilson. A storm wrecks Chuck's raft and it slowly begins to break apart. He has nearly given up hope of rescue when he is wakened by another whale's spout. He turns over to see a container ship passing close by. They signal that they've seen him.",
+      "subtitle": [
+        {
+          "shot": 884,
+          "duration": [
+            5576.612708333333,
+            5616.527583333333
+          ],
+          "sentences": [
+            "You still awake?",
+            "Me too.",
+            "You scared?",
+            "Me too.",
+            "[Wind Howling]"
+          ]
+        },
+        {
+          "shot": 893,
+          "duration": [
+            5687.306624999999,
+            5690.559875
+          ],
+          "sentences": [
+            "Okay. Here we go, Wilson."
+          ]
+        },
+        {
+          "shot": 894,
+          "duration": [
+            5690.601583333333,
+            5692.770416666666
+          ],
+          "sentences": [
+            "Okay. Here we go, Wilson.",
+            "You don't have to worry about anything."
+          ]
+        },
+        {
+          "shot": 895,
+          "duration": [
+            5692.8121249999995,
+            5700.319624999999
+          ],
+          "sentences": [
+            "You don't have to worry about anything.",
+            "I'll do all the paddling.",
+            "You just hang on."
+          ]
+        },
+        {
+          "shot": 914,
+          "duration": [
+            5744.822416666666,
+            5746.031958333333
+          ],
+          "sentences": [
+            "Not yet! Hold on!"
+          ]
+        },
+        {
+          "shot": 915,
+          "duration": [
+            5746.073666666666,
+            5747.366625
+          ],
+          "sentences": [
+            "Not yet! Hold on!"
+          ]
+        },
+        {
+          "shot": 916,
+          "duration": [
+            5747.408333333333,
+            5749.2435
+          ],
+          "sentences": [
+            "Not yet! Hold on!"
+          ]
+        },
+        {
+          "shot": 922,
+          "duration": [
+            5758.836416666666,
+            5760.212791666666
+          ],
+          "sentences": [
+            "Not yet! Not yet!"
+          ]
+        },
+        {
+          "shot": 923,
+          "duration": [
+            5760.2545,
+            5763.424333333333
+          ],
+          "sentences": [
+            "Not yet! Not yet!"
+          ]
+        },
+        {
+          "shot": 924,
+          "duration": [
+            5763.466041666667,
+            5764.675583333333
+          ],
+          "sentences": [
+            "Not yet!"
+          ]
+        },
+        {
+          "shot": 925,
+          "duration": [
+            5764.717291666666,
+            5765.551458333333
+          ],
+          "sentences": [
+            "Not yet!"
+          ]
+        },
+        {
+          "shot": 926,
+          "duration": [
+            5765.593166666667,
+            5766.7609999999995
+          ],
+          "sentences": [
+            "Not yet!"
+          ]
+        },
+        {
+          "shot": 928,
+          "duration": [
+            5767.9288333333325,
+            5771.390625
+          ],
+          "sentences": [
+            "Stand by, Wilson!"
+          ]
+        },
+        {
+          "shot": 929,
+          "duration": [
+            5771.432333333333,
+            5773.51775
+          ],
+          "sentences": [
+            "Stand by, Wilson!",
+            "Hold on! Hold on, Wilson!"
+          ]
+        },
+        {
+          "shot": 930,
+          "duration": [
+            5773.559458333333,
+            5775.352916666666
+          ],
+          "sentences": [
+            "Hold on! Hold on, Wilson!"
+          ]
+        },
+        {
+          "shot": 931,
+          "duration": [
+            5775.394625,
+            5776.395624999999
+          ],
+          "sentences": [
+            "Hold on! Hold on, Wilson!"
+          ]
+        },
+        {
+          "shot": 939,
+          "duration": [
+            5792.1196666666665,
+            5796.916125
+          ],
+          "sentences": [
+            "[Laughing] I think we did it!"
+          ]
+        },
+        {
+          "shot": 940,
+          "duration": [
+            5796.957833333333,
+            5806.383916666667
+          ],
+          "sentences": [
+            "I think we did it!",
+            "Wilson!",
+            "I think we did it!"
+          ]
+        },
+        {
+          "shot": 941,
+          "duration": [
+            5806.425625,
+            5813.015541666667
+          ],
+          "sentences": [
+            "I think we did it!"
+          ]
+        },
+        {
+          "shot": 949,
+          "duration": [
+            5910.905,
+            5924.1265416666665
+          ],
+          "sentences": [
+            "[Whale Calling]"
+          ]
+        },
+        {
+          "shot": 960,
+          "duration": [
+            5984.645333333333,
+            5994.863875
+          ],
+          "sentences": [
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 961,
+          "duration": [
+            5994.905583333333,
+            5996.031708333333
+          ],
+          "sentences": [
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 962,
+          "duration": [
+            5996.073416666666,
+            5997.074416666666
+          ],
+          "sentences": [
+            "[Thunderclaps]"
+          ]
+        },
+        {
+          "shot": 980,
+          "duration": [
+            6016.510499999999,
+            6019.430083333333
+          ],
+          "sentences": [
+            "Oh! They're gone!"
+          ]
+        },
+        {
+          "shot": 981,
+          "duration": [
+            6019.471791666666,
+            6020.180833333333
+          ],
+          "sentences": [
+            "Oh! They're gone!"
+          ]
+        },
+        {
+          "shot": 982,
+          "duration": [
+            6020.222541666666,
+            6020.973291666666
+          ],
+          "sentences": [
+            "Oh! They're gone!"
+          ]
+        },
+        {
+          "shot": 983,
+          "duration": [
+            6021.014999999999,
+            6022.26625
+          ],
+          "sentences": [
+            "Oh! They're gone!"
+          ]
+        },
+        {
+          "shot": 984,
+          "duration": [
+            6022.307958333333,
+            6024.560208333333
+          ],
+          "sentences": [
+            "Oh! They're gone!"
+          ]
+        },
+        {
+          "shot": 987,
+          "duration": [
+            6027.896874999999,
+            6029.022999999999
+          ],
+          "sentences": [
+            "I don't know why!"
+          ]
+        },
+        {
+          "shot": 988,
+          "duration": [
+            6029.064708333333,
+            6030.649625
+          ],
+          "sentences": [
+            "I don't know why!"
+          ]
+        },
+        {
+          "shot": 993,
+          "duration": [
+            6077.654916666666,
+            6088.457375
+          ],
+          "sentences": [
+            "[Whale Spouting]"
+          ]
+        },
+        {
+          "shot": 998,
+          "duration": [
+            6111.522083333333,
+            6127.996875
+          ],
+          "sentences": [
+            "Where's Wilson?",
+            "Where's Wilson?",
+            "Wilson, where are you?",
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 999,
+          "duration": [
+            6128.038583333333,
+            6131.041583333333
+          ],
+          "sentences": [
+            "Wilson!",
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1000,
+          "duration": [
+            6131.083291666666,
+            6133.37725
+          ],
+          "sentences": [
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1010,
+          "duration": [
+            6157.442958333333,
+            6162.531375
+          ],
+          "sentences": [
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1011,
+          "duration": [
+            6162.573083333333,
+            6165.033874999999
+          ],
+          "sentences": [
+            "I'm comin'!"
+          ]
+        },
+        {
+          "shot": 1012,
+          "duration": [
+            6165.075583333333,
+            6166.952458333333
+          ],
+          "sentences": [
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1013,
+          "duration": [
+            6166.994166666666,
+            6168.787625
+          ],
+          "sentences": [
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1025,
+          "duration": [
+            6187.848333333332,
+            6189.141291666666
+          ],
+          "sentences": [
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1026,
+          "duration": [
+            6189.183,
+            6190.267416666667
+          ],
+          "sentences": [
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1027,
+          "duration": [
+            6190.309125,
+            6191.310125
+          ],
+          "sentences": [
+            "Wilson!",
+            "Wilson... [Gurgling]"
+          ]
+        },
+        {
+          "shot": 1028,
+          "duration": [
+            6191.351833333333,
+            6195.6894999999995
+          ],
+          "sentences": [
+            "Wilson... [Gurgling]"
+          ]
+        },
+        {
+          "shot": 1030,
+          "duration": [
+            6198.400541666666,
+            6199.651791666666
+          ],
+          "sentences": [
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1031,
+          "duration": [
+            6199.693499999999,
+            6200.94475
+          ],
+          "sentences": [
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1035,
+          "duration": [
+            6205.44925,
+            6207.200999999999
+          ],
+          "sentences": [
+            "Wilson! Wilson!"
+          ]
+        },
+        {
+          "shot": 1036,
+          "duration": [
+            6207.242708333333,
+            6208.994458333333
+          ],
+          "sentences": [
+            "Wilson! Wilson!"
+          ]
+        },
+        {
+          "shot": 1037,
+          "duration": [
+            6209.036166666666,
+            6214.291416666666
+          ],
+          "sentences": [
+            "Wilson! Wilson!"
+          ]
+        },
+        {
+          "shot": 1041,
+          "duration": [
+            6218.629083333333,
+            6219.7135
+          ],
+          "sentences": [
+            "[Gasping, Panting]"
+          ]
+        },
+        {
+          "shot": 1042,
+          "duration": [
+            6219.755208333333,
+            6223.383833333333
+          ],
+          "sentences": [
+            "[Gasping, Panting]",
+            "[Coughs] Wilson!"
+          ]
+        },
+        {
+          "shot": 1043,
+          "duration": [
+            6223.4255416666665,
+            6228.555666666666
+          ],
+          "sentences": [
+            "[Coughs] Wilson!",
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1044,
+          "duration": [
+            6228.597374999999,
+            6229.3481249999995
+          ],
+          "sentences": [
+            "Wilson!",
+            "I'm sorry!"
+          ]
+        },
+        {
+          "shot": 1045,
+          "duration": [
+            6229.389833333333,
+            6231.7255
+          ],
+          "sentences": [
+            "I'm sorry!"
+          ]
+        },
+        {
+          "shot": 1046,
+          "duration": [
+            6231.767208333333,
+            6235.479249999999
+          ],
+          "sentences": [
+            "I'm sorry, Wilson!"
+          ]
+        },
+        {
+          "shot": 1047,
+          "duration": [
+            6235.520958333333,
+            6238.1068749999995
+          ],
+          "sentences": [
+            "Wilson, I'm sorry!"
+          ]
+        },
+        {
+          "shot": 1049,
+          "duration": [
+            6238.982749999999,
+            6241.48525
+          ],
+          "sentences": [
+            "I'm sorry!"
+          ]
+        },
+        {
+          "shot": 1050,
+          "duration": [
+            6241.526958333333,
+            6246.114874999999
+          ],
+          "sentences": [
+            "I'm sorry!",
+            "Wilson!",
+            "[Sobbing] I can't!"
+          ]
+        },
+        {
+          "shot": 1051,
+          "duration": [
+            6246.1565833333325,
+            6252.871625
+          ],
+          "sentences": [
+            "Wilson!",
+            "Wilson!"
+          ]
+        },
+        {
+          "shot": 1052,
+          "duration": [
+            6252.913333333333,
+            6303.130166666666
+          ],
+          "sentences": [
+            "[Sobbing Loudly]",
+            "I'm... I'm sorry.",
+            "I'm sorry.",
+            "I'm sorry."
+          ]
+        },
+        {
+          "shot": 1054,
+          "duration": [
+            6321.398416666666,
+            6431.133041666666
+          ],
+          "sentences": [
+            "[Whale Calls, Spouts]",
+            "[Whale Spouts]",
+            "[Horn Blows]",
+            "[Alarm Blaring]",
+            "[Whispers] Kelly.",
+            "Kelly."
+          ]
+        },
+        {
+          "shot": 1055,
+          "duration": [
+            6431.174749999999,
+            6437.9315
+          ],
+          "sentences": [
+            "Kelly.",
+            "Kelly.",
+            "[Ringing]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0008",
+      "shot": [
+        1059,
+        1087
+      ],
+      "frame": [
+        154995,
+        163296
+      ],
+      "duration": [
+        6464.616623,
+        6810.7866269999995
+      ],
+      "consistency": 0.9361115817533411,
+      "description": "Chuck flies home to Memphis and is the guest of honor at a large company-organized welcome reception. He learns that Kelly has married and has a daughter. Kelly intended to meet Chuck at the celebration but she is feeling very confused. Her husband, an orthodontist that did dental work on Chuck, apologizes for her absence. He tells Chuck that Kelly is having a difficult time coping with the his sudden reappearance. He asks Chuck to give her more time. Looking out of the window he sees Kelly in tears, comforted by her husband, and watches her get in a car and leave.",
+      "subtitle": [
+        {
+          "shot": 1059,
+          "duration": [
+            6459.4529999999995,
+            6543.078208333332
+          ],
+          "sentences": [
+            "Forty-five minutes.",
+            "One Dr. Pepper.",
+            "Two cups of ice.",
+            "I like ice.",
+            "Well, here's the drill.",
+            "Um, plane pulls in, we get off,",
+            "and there's a little ceremony right there in the hangar.",
+            "Fred Smith will say a few words.",
+            "All you have to do is smile and say \"thank you.\"",
+            "Then we'll take you over to see Kelly.",
+            "She's actually gonna be there, huh?",
+            "Well, that's what we have arranged.",
+            "I mean, if you're sure you wanna do that.",
+            "Oh, yeah, yeah. Yes.",
+            "I don't know what I'm gonna say to her.",
+            "What in the world am I gonna say to her?"
+          ]
+        },
+        {
+          "shot": 1060,
+          "duration": [
+            6543.1199166666665,
+            6550.335458333333
+          ],
+          "sentences": [
+            "Chuck, Kelly had to let you go.",
+            "You know?"
+          ]
+        },
+        {
+          "shot": 1061,
+          "duration": [
+            6550.377166666666,
+            6559.30275
+          ],
+          "sentences": [
+            "You know?",
+            "She thought you were dead.",
+            "And we buried you.",
+            "We had a funeral and a coffin and a gravestone."
+          ]
+        },
+        {
+          "shot": 1062,
+          "duration": [
+            6559.344458333333,
+            6563.348458333333
+          ],
+          "sentences": [
+            "We had a funeral and a coffin and a gravestone.",
+            "The whole thing."
+          ]
+        },
+        {
+          "shot": 1063,
+          "duration": [
+            6563.390166666666,
+            6573.233333333333
+          ],
+          "sentences": [
+            "The whole thing.",
+            "You had a coffin?",
+            "What was in it?"
+          ]
+        },
+        {
+          "shot": 1064,
+          "duration": [
+            6573.275041666666,
+            6582.117208333333
+          ],
+          "sentences": [
+            "Well, everybody put something in.",
+            "You know, just a cell phone or a beeper, some pictures.",
+            "I put in some Elvis CDs."
+          ]
+        },
+        {
+          "shot": 1065,
+          "duration": [
+            6582.158916666666,
+            6594.212624999999
+          ],
+          "sentences": [
+            "I put in some Elvis CDs.",
+            "So you had my funeral...",
+            "and then you had Mary's funeral."
+          ]
+        },
+        {
+          "shot": 1067,
+          "duration": [
+            6597.549291666666,
+            6608.935666666666
+          ],
+          "sentences": [
+            "Stan, I'm so sorry I wasn't around when Mary died.",
+            "I should've been there for you, and I wasn't."
+          ]
+        },
+        {
+          "shot": 1068,
+          "duration": [
+            6608.9773749999995,
+            6612.230624999999
+          ],
+          "sentences": [
+            "I'm so sorry."
+          ]
+        },
+        {
+          "shot": 1069,
+          "duration": [
+            6612.272333333332,
+            6615.275333333333
+          ],
+          "sentences": [
+            "I'm so sorry.",
+            "Four years ago,"
+          ]
+        },
+        {
+          "shot": 1070,
+          "duration": [
+            6615.317041666666,
+            6625.1185
+          ],
+          "sentences": [
+            "Four years ago,",
+            "the FedEx family lost five of our sons.",
+            "That was a terrible and tragic day."
+          ]
+        },
+        {
+          "shot": 1071,
+          "duration": [
+            6625.160208333333,
+            6682.801125
+          ],
+          "sentences": [
+            "But today, one of those sons,",
+            "Chuck Noland, has been returned to us.",
+            "Chuck, welcome home.",
+            "[Applause]",
+            "[Male Newscaster] Just moments ago, Fred Smith welcomed home Chuck Noland.",
+            "- How about it, Michelle? - It's such an incredible and amazing story...",
+            "- to come back from the dead. - Well, it's so amazing that Smith himself welcomed him back.",
+            "And Fred acknowledged that, \"While time waits for no man,",
+            "we take time to pause to honor one of our own. \"",
+            "Now, that's an expensive pause.",
+            "[TVContinues]",
+            "I'm-I'm sorry. I must be in the wrong place.",
+            "No, you're in the right place.",
+            "You probably don't remember me. I actually did root canal on you about five years ago.",
+            "Jim Spaulding referred you."
+          ]
+        },
+        {
+          "shot": 1072,
+          "duration": [
+            6682.842833333333,
+            6688.93225
+          ],
+          "sentences": [
+            "Jim Spaulding referred you.",
+            "Oh, yeah, yeah."
+          ]
+        },
+        {
+          "shot": 1073,
+          "duration": [
+            6688.973958333333,
+            6695.772416666666
+          ],
+          "sentences": [
+            "I'm Kelly's husband."
+          ]
+        },
+        {
+          "shot": 1074,
+          "duration": [
+            6695.814125,
+            6716.042666666666
+          ],
+          "sentences": [
+            "Jerry Lovett.",
+            "Kelly wanted...",
+            "Kelly wanted to be here...",
+            "Look, this is very hard for everyone.",
+            "I can't even imagine how hard it is for you."
+          ]
+        },
+        {
+          "shot": 1075,
+          "duration": [
+            6716.084374999999,
+            6731.349625
+          ],
+          "sentences": [
+            "Kelly, uh...",
+            "She's had it rough.",
+            "First when she thought she lost you,",
+            "and now dealing with all of this.",
+            "It's-It's confusing. It's very emotional for her."
+          ]
+        },
+        {
+          "shot": 1076,
+          "duration": [
+            6731.391333333333,
+            6742.318916666666
+          ],
+          "sentences": [
+            "It's-It's confusing. It's very emotional for her.",
+            "She's...",
+            "She's... sort of lost."
+          ]
+        },
+        {
+          "shot": 1077,
+          "duration": [
+            6742.360624999999,
+            6745.655583333333
+          ],
+          "sentences": [
+            "Maybe you could just give her a little more time."
+          ]
+        },
+        {
+          "shot": 1079,
+          "duration": [
+            6749.075666666667,
+            6761.921833333333
+          ],
+          "sentences": [
+            "Anyway, uh,",
+            "I'm sorry that..."
+          ]
+        },
+        {
+          "shot": 1082,
+          "duration": [
+            6782.942833333333,
+            6785.5287499999995
+          ],
+          "sentences": [
+            "[Inaudible]"
+          ]
+        },
+        {
+          "shot": 1083,
+          "duration": [
+            6785.570458333333,
+            6793.870416666666
+          ],
+          "sentences": [
+            "[Inaudible]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0009",
+      "shot": [
+        1090,
+        1125
+      ],
+      "frame": [
+        166129,
+        180582
+      ],
+      "duration": [
+        6928.978493,
+        7531.7677189999995
+      ],
+      "consistency": 0.9282708231417525,
+      "description": "Later that evening, Chuck takes a taxi to Kelly's home. She seems to be expecting him and invites him inside. They talk about little things and he discovers how much her life and ambitions have changed and how she coped with his presumed death. Chuck gives Kelly back the watch she had given him telling her that it is a family heirloom and should remain in her family. She tells him that the company presumed a hazardous package caught fire and caused the crash. She shows him that his island was more than 600 miles from the Cook Islands around which the search had been conducted. He had drifted 500 miles in his raft before he was found. He decides to keep her picture. She gives him the keys to his car that she has kept. They apologize to each other for all that has happened and he drives off slowly in the pouring rain.",
+      "subtitle": [
+        {
+          "shot": 1093,
+          "duration": [
+            6974.008708333333,
+            6984.435791666666
+          ],
+          "sentences": [
+            "How long are you gonna be, man?",
+            "Well...",
+            "- how long will that buy me? - About ten minutes."
+          ]
+        },
+        {
+          "shot": 1095,
+          "duration": [
+            7004.372375,
+            7012.7974583333325
+          ],
+          "sentences": [
+            "I'm awake.",
+            "I saw your taxi drive up."
+          ]
+        },
+        {
+          "shot": 1096,
+          "duration": [
+            7012.839166666666,
+            7022.223541666666
+          ],
+          "sentences": [
+            "Get in here out of the rain."
+          ]
+        },
+        {
+          "shot": 1097,
+          "duration": [
+            7022.2652499999995,
+            7031.649624999999
+          ],
+          "sentences": [
+            "I saw you down at the hub today,",
+            "so I know you were down there."
+          ]
+        },
+        {
+          "shot": 1100,
+          "duration": [
+            7045.621916666666,
+            7050.5435
+          ],
+          "sentences": [
+            "Let me get you a towel."
+          ]
+        },
+        {
+          "shot": 1101,
+          "duration": [
+            7050.585208333333,
+            7092.543791666666
+          ],
+          "sentences": [
+            "They're sleeping.",
+            "If you come in, I'll make you some coffee.",
+            "It's a nice house.",
+            "Yeah, we got a nice mortgage too."
+          ]
+        },
+        {
+          "shot": 1102,
+          "duration": [
+            7092.585499999999,
+            7124.283833333333
+          ],
+          "sentences": [
+            "What's your daughter's name?",
+            "Katie.",
+            "Katie.",
+            "- She's a beautiful little girl. - She's a handful.",
+            "Just let me get one thing straight here."
+          ]
+        },
+        {
+          "shot": 1104,
+          "duration": [
+            7129.038583333333,
+            7137.505375
+          ],
+          "sentences": [
+            "We have a pro football team now, but they're in Nashville?"
+          ]
+        },
+        {
+          "shot": 1105,
+          "duration": [
+            7137.547083333333,
+            7148.182708333333
+          ],
+          "sentences": [
+            "[Sighs, Chuckles]",
+            "Um, yeah. Oh, my God. Okay. They used to be in Houston."
+          ]
+        },
+        {
+          "shot": 1106,
+          "duration": [
+            7148.224416666666,
+            7155.147999999999
+          ],
+          "sentences": [
+            "First they were the Oilers, and now they're the Titans.",
+            "The Houston Oilers are the Tennessee Titans?",
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 1107,
+          "duration": [
+            7155.189708333332,
+            7195.062875
+          ],
+          "sentences": [
+            "Yeah.",
+            "But that's not all.",
+            "They went to the Super Bowl last year.",
+            "- And I missed that. - You would've died. It was so exciting.",
+            "They almost won by one yard. One lousy yard right at the end.",
+            "I got whole milk, 2% and nonfat.",
+            "I don't have any half-and-half, and that's what you like.",
+            "That'll do fine.",
+            "What happened to you becoming a professor?"
+          ]
+        },
+        {
+          "shot": 1109,
+          "duration": [
+            7197.023166666666,
+            7200.860333333333
+          ],
+          "sentences": [
+            "You're not Dr. Kelly Frears-Lovett?"
+          ]
+        },
+        {
+          "shot": 1110,
+          "duration": [
+            7200.902041666666,
+            7217.084875
+          ],
+          "sentences": [
+            "When you, um...",
+            "When your plane went down,",
+            "everything just sort of got put on hold.",
+            "I think about taking it up again, though."
+          ]
+        },
+        {
+          "shot": 1114,
+          "duration": [
+            7226.510958333332,
+            7249.200291666666
+          ],
+          "sentences": [
+            "I came out here to give you this.",
+            "Oh, my God.",
+            "I'm sorry it doesn't work.",
+            "And I, uh, I kept the picture.",
+            "It was all faded anyway.",
+            "I want you to have it. I gave it to you."
+          ]
+        },
+        {
+          "shot": 1115,
+          "duration": [
+            7249.241999999999,
+            7271.389125
+          ],
+          "sentences": [
+            "I want you to have it. I gave it to you.",
+            "That's a family heirloom, and it should stay in your family.",
+            "That's everything I have from when you went down to now.",
+            "They said they never figured out what caused the crash."
+          ]
+        },
+        {
+          "shot": 1116,
+          "duration": [
+            7271.430833333333,
+            7327.862208333333
+          ],
+          "sentences": [
+            "Probably some mislabeled hazardous material caught fire.",
+            "So here's where that ship found you.",
+            "You drifted about 500 miles.",
+            "This is where your island was,",
+            "about 600 miles south of the Cook Islands.",
+            "And these are the search grids.",
+            "Ships went back and forth for weeks looking for you.",
+            "I never should've gotten on that plane.",
+            "I never should've gotten out of the car.",
+            "I wanna show you something.",
+            "Come here."
+          ]
+        },
+        {
+          "shot": 1117,
+          "duration": [
+            7327.903916666666,
+            7481.7659583333325
+          ],
+          "sentences": [
+            "This is... This is our car.",
+            "You kept our car.",
+            "All right, now, this is weird.",
+            "It's a good car.",
+            "Had a lot of memories in this car.",
+            "Two very nice memories.",
+            "Oh, that trip down to the Gulf, yeah.",
+            "So, can I drive it?",
+            "It's your car.",
+            "That's good, 'cause my... my taxi's gone.",
+            "Um...",
+            "Let me get some stuff out of the back.",
+            "You think you're gonna have more kids?",
+            "I don't know.",
+            "It's kind of confusing right now.",
+            "Well, you should.",
+            "I mean, really, you should.",
+            "I would.",
+            "So, what now?",
+            "I don't know.",
+            "I really don't know.",
+            "[Starts Engine]",
+            "You said you'd be right back.",
+            "I'm so sorry.",
+            "Me too."
+          ]
+        },
+        {
+          "shot": 1124,
+          "duration": [
+            7530.439583333333,
+            7539.698833333333
+          ],
+          "sentences": [
+            "Chuck!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0010",
+      "shot": [
+        1125,
+        1140
+      ],
+      "frame": [
+        180760,
+        183720
+      ],
+      "duration": [
+        7539.230966666666,
+        7662.614997666666
+      ],
+      "consistency": 0.9822805027337816,
+      "description": "Kelly suddenly runs after him, shouting his name. He backs up and they embrace fiercely in the pouring rain. She tells him that she always believed he was alive, but that others said she had to move on. She tells him that he's the love of her life. He says he loves her too. They talk for a few more minutes in his car but Chuck tells Kelly that she needs to go home.",
+      "subtitle": [
+        {
+          "shot": 1125,
+          "duration": [
+            7539.740541666666,
+            7542.618416666666
+          ],
+          "sentences": [
+            "Chuck!"
+          ]
+        },
+        {
+          "shot": 1127,
+          "duration": [
+            7543.619416666666,
+            7545.496291666666
+          ],
+          "sentences": [
+            "Chuck!"
+          ]
+        },
+        {
+          "shot": 1128,
+          "duration": [
+            7545.538,
+            7555.7148333333325
+          ],
+          "sentences": [
+            "Chuck!",
+            "Chuck!"
+          ]
+        },
+        {
+          "shot": 1131,
+          "duration": [
+            7562.137916666667,
+            7568.5192916666665
+          ],
+          "sentences": [
+            "I always knew you were alive."
+          ]
+        },
+        {
+          "shot": 1132,
+          "duration": [
+            7568.561,
+            7580.906666666666
+          ],
+          "sentences": [
+            "I knew it.",
+            "But everybody said I had to stop saying that...",
+            "that I had to let you go.",
+            "I love you.",
+            "You're the love of my life."
+          ]
+        },
+        {
+          "shot": 1133,
+          "duration": [
+            7580.948374999999,
+            7589.873958333333
+          ],
+          "sentences": [
+            "You're the love of my life.",
+            "I love you too, Kelly.",
+            "More than you'll ever know."
+          ]
+        },
+        {
+          "shot": 1138,
+          "duration": [
+            7649.5585833333325,
+            7656.982666666666
+          ],
+          "sentences": [
+            "Chuck?"
+          ]
+        },
+        {
+          "shot": 1139,
+          "duration": [
+            7657.024374999999,
+            7662.529874999999
+          ],
+          "sentences": [
+            "You have to go home."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0011",
+      "shot": [
+        1144,
+        1146
+      ],
+      "frame": [
+        184829,
+        190402
+      ],
+      "duration": [
+        7708.914385333333,
+        7941.329759333333
+      ],
+      "consistency": 0.9292218164534991,
+      "description": "Chuck later describes the meeting with Kelly to a colleague and friend, and how he understands and accepts that while they will always love each other, their lives have gone in different directions and they cannot be together. He confesses to the utter despair and helplessness he felt on the island, describes his failed attempt at suicide, and how he received assurance that he was supposed to live and came to terms with his isolation. While he has just lost her again, he accepts it and understands he has to take live one day at a time because you never know what the tide will bring.",
+      "subtitle": [
+        {
+          "shot": 1144,
+          "duration": [
+            7707.574874999999,
+            7717.668291666666
+          ],
+          "sentences": [
+            "We both had done the math, and...",
+            "Kelly added it all up."
+          ]
+        },
+        {
+          "shot": 1145,
+          "duration": [
+            7717.709999999999,
+            7941.683749999999
+          ],
+          "sentences": [
+            "She knew she had to let me go.",
+            "I added it up, knew that I'd...",
+            "I'd lost her.",
+            "'Cause I was never gonna get off that island.",
+            "I was gonna die there,",
+            "totally alone.",
+            "I mean, I was gonna get sick or I was gonna get injured or something.",
+            "The only choice I had,",
+            "the only thing I could control...",
+            "was when and how...",
+            "and where that was gonna happen.",
+            "So... I made a rope.",
+            "And I went up to the summit to hang myself.",
+            "But I had to test it, you know?",
+            "Of course. You know me.",
+            "And the weight of the log...",
+            "snapped the limb of the tree.",
+            "So l-l...",
+            "I couldn't even kill myself the way I wanted to.",
+            "I had power over nothing.",
+            "And that's when this feeling came over me like a warm blanket.",
+            "I knew...",
+            "somehow...",
+            "that I had to stay alive.",
+            "Somehow.",
+            "I had to keep breathing,",
+            "even though there was no reason to hope.",
+            "And all my logic said that I would never see this place again.",
+            "So that's what I did.",
+            "I stayed alive.",
+            "I kept breathing.",
+            "And then one day that logic was proven all wrong,",
+            "because the tide...",
+            "came in, gave me a sail.",
+            "And now, here I am.",
+            "I'm back...",
+            "in Memphis, talking to you.",
+            "I have ice in my glass.",
+            "And I've lost her all over again.",
+            "I'm so sad that I don't have Kelly.",
+            "But I'm so grateful that she was with me on that island.",
+            "And I know what I have to do now.",
+            "I gotta keep breathing.",
+            "Because tomorrow, the sun will rise.",
+            "Who knows what the tide could bring?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0162222_0012",
+      "shot": [
+        1147,
+        1176
+      ],
+      "frame": [
+        190650,
+        196932
+      ],
+      "duration": [
+        7951.70475,
+        8213.667861
+      ],
+      "consistency": 0.9857093924953418,
+      "description": "He drives to Texas with the FedEx package decorated with wings in his Jeep. He attempts to deliver it but no one is there. He leaves it at the door with a note stating that the parcel saved his life. He drives south and at a four-way intersection and gets out of his car to look at a map. A friendly, pretty woman in an old pick-up truck stops and asks him if he is lost. He confesses he hasn't made up his mind where he was going. She tells him where the four roads lead, and that north, the direction Chuck had just come from, leads to a whole lot of nothingness. She drives north and as she pulls away, Chuck is surprised to see the same pair of wings that were on the package on the tail gate of her truck. Chuck walks to the center of the intersection and looks in each direction for a few seconds. He then turns north and his gaze lingers in the direction the woman drove.",
+      "subtitle": [
+        {
+          "shot": 1147,
+          "duration": [
+            7951.693749999999,
+            7963.747458333332
+          ],
+          "sentences": [
+            "[Elvis Presley] I gave a letter to the postman \u000e",
+            "\u000e He put it in his sack \u000e",
+            "\u000e Bright and early next morning \u000e",
+            "\u000e He brought my letter back \u000e"
+          ]
+        },
+        {
+          "shot": 1148,
+          "duration": [
+            7963.7891666666665,
+            7976.968999999999
+          ],
+          "sentences": [
+            "\u000e She wrote upon it \u000e",
+            "\u000e Return to sender \u000e",
+            "\u000e Address unknown \u000e",
+            "\u000e No such number \u000e \u000e"
+          ]
+        },
+        {
+          "shot": 1150,
+          "duration": [
+            7999.700041666666,
+            8020.303958333333
+          ],
+          "sentences": [
+            "Hello!",
+            "Hello!",
+            "[Whistles]",
+            "FedEx!"
+          ]
+        },
+        {
+          "shot": 1152,
+          "duration": [
+            8047.080708333333,
+            8062.637916666666
+          ],
+          "sentences": [
+            "[Door Alarm Beeping]"
+          ]
+        },
+        {
+          "shot": 1156,
+          "duration": [
+            8086.32825,
+            8089.247833333333
+          ],
+          "sentences": [
+            "- You look lost. - I do?"
+          ]
+        },
+        {
+          "shot": 1157,
+          "duration": [
+            8089.289541666666,
+            8090.999583333332
+          ],
+          "sentences": [
+            "- You look lost. - I do?"
+          ]
+        },
+        {
+          "shot": 1158,
+          "duration": [
+            8091.041291666666,
+            8093.335249999999
+          ],
+          "sentences": [
+            "Where are you headed?"
+          ]
+        },
+        {
+          "shot": 1159,
+          "duration": [
+            8093.376958333332,
+            8098.965875
+          ],
+          "sentences": [
+            "Well, I was just about to figure that out."
+          ]
+        },
+        {
+          "shot": 1160,
+          "duration": [
+            8099.007583333333,
+            8101.927166666666
+          ],
+          "sentences": [
+            "Well, that's 83 South."
+          ]
+        },
+        {
+          "shot": 1161,
+          "duration": [
+            8101.968875,
+            8107.057291666666
+          ],
+          "sentences": [
+            "Well, that's 83 South.",
+            "And this road here will hook you up with l-40 East."
+          ]
+        },
+        {
+          "shot": 1162,
+          "duration": [
+            8107.098999999999,
+            8115.190416666666
+          ],
+          "sentences": [
+            "If you turn right,",
+            "that'll take you to Amarillo, Flagstaff,",
+            "California."
+          ]
+        },
+        {
+          "shot": 1163,
+          "duration": [
+            8115.2321249999995,
+            8118.276833333332
+          ],
+          "sentences": [
+            "And if you head back that direction,"
+          ]
+        },
+        {
+          "shot": 1164,
+          "duration": [
+            8118.3185416666665,
+            8125.367249999999
+          ],
+          "sentences": [
+            "you'll find a whole lotta nothin' all the way to Canada.",
+            "I got it."
+          ]
+        },
+        {
+          "shot": 1165,
+          "duration": [
+            8125.4089583333325,
+            8132.082291666666
+          ],
+          "sentences": [
+            "All right, then.",
+            "Good luck, cowboy."
+          ]
+        },
+        {
+          "shot": 1166,
+          "duration": [
+            8132.124,
+            8134.000875
+          ],
+          "sentences": [
+            "- [Starts Engine] - Thank you."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

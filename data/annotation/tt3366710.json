@@ -1,0 +1,151 @@
+{
+  "imdb_id": "tt3366710",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 18,
+        "scale": "closeup",
+        "movement": "pull"
+      },
+      {
+        "shot": 36,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 41,
+        "scale": "extreme_closeup",
+        "movement": "moving"
+      },
+      {
+        "shot": 48,
+        "scale": "extreme_closeup",
+        "movement": "moving"
+      },
+      {
+        "shot": 50,
+        "scale": "extreme_closeup",
+        "movement": "multi_movement"
+      },
+      {
+        "shot": 51,
+        "scale": "extreme_closeup",
+        "movement": "moving"
+      },
+      {
+        "shot": 52,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 55,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 61,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 65,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 66,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 68,
+        "scale": "long",
+        "movement": "static"
+      },
+      {
+        "shot": 73,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 82,
+        "scale": "extreme_closeup",
+        "movement": "moving"
+      },
+      {
+        "shot": 91,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 104,
+        "scale": "long",
+        "movement": "static"
+      },
+      {
+        "shot": 108,
+        "scale": "extreme_closeup",
+        "movement": "moving"
+      },
+      {
+        "shot": 125,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 128,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 131,
+        "scale": "medium",
+        "movement": "moving"
+      },
+      {
+        "shot": 132,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 133,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 141,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 146,
+        "scale": "long",
+        "movement": "static"
+      },
+      {
+        "shot": 147,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 148,
+        "scale": "long",
+        "movement": "multi_movement"
+      },
+      {
+        "shot": 157,
+        "scale": "closeup",
+        "movement": "moving"
+      },
+      {
+        "shot": 159,
+        "scale": "closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

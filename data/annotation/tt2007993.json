@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt2007993",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 45,
+        "scale": "long",
+        "movement": "moving"
+      }
+    ]
+  }
+}

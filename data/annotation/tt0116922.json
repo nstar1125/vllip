@@ -1,0 +1,5893 @@
+{
+  "imdb_id": "tt0116922",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0116922_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        340
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0001",
+      "shot": [
+        1,
+        27
+      ],
+      "frame": [
+        340,
+        3910
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0002",
+      "shot": [
+        27,
+        54
+      ],
+      "frame": [
+        3910,
+        9919
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0003",
+      "shot": [
+        54,
+        89
+      ],
+      "frame": [
+        9919,
+        18267
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0004",
+      "shot": [
+        89,
+        138
+      ],
+      "frame": [
+        18267,
+        26899
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0005",
+      "shot": [
+        138,
+        140
+      ],
+      "frame": [
+        26899,
+        28150
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0006",
+      "shot": [
+        140,
+        159
+      ],
+      "frame": [
+        28150,
+        31472
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0007",
+      "shot": [
+        159,
+        207
+      ],
+      "frame": [
+        31472,
+        37909
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0008",
+      "shot": [
+        207,
+        208
+      ],
+      "frame": [
+        37909,
+        39031
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0009",
+      "shot": [
+        208,
+        209
+      ],
+      "frame": [
+        39031,
+        39091
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0010",
+      "shot": [
+        209,
+        210
+      ],
+      "frame": [
+        39091,
+        39303
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0011",
+      "shot": [
+        210,
+        267
+      ],
+      "frame": [
+        39303,
+        48994
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0012",
+      "shot": [
+        267,
+        273
+      ],
+      "frame": [
+        48994,
+        52206
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0013",
+      "shot": [
+        273,
+        305
+      ],
+      "frame": [
+        52206,
+        59840
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0014",
+      "shot": [
+        305,
+        393
+      ],
+      "frame": [
+        59840,
+        76065
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0015",
+      "shot": [
+        393,
+        407
+      ],
+      "frame": [
+        76065,
+        79451
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0016",
+      "shot": [
+        407,
+        421
+      ],
+      "frame": [
+        79451,
+        83084
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0017",
+      "shot": [
+        421,
+        435
+      ],
+      "frame": [
+        83084,
+        86141
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0018",
+      "shot": [
+        435,
+        438
+      ],
+      "frame": [
+        86141,
+        86505
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0019",
+      "shot": [
+        438,
+        448
+      ],
+      "frame": [
+        86505,
+        88262
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0020",
+      "shot": [
+        448,
+        450
+      ],
+      "frame": [
+        88262,
+        88956
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0021",
+      "shot": [
+        450,
+        547
+      ],
+      "frame": [
+        88956,
+        97101
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0022",
+      "shot": [
+        547,
+        552
+      ],
+      "frame": [
+        97101,
+        97825
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0023",
+      "shot": [
+        552,
+        553
+      ],
+      "frame": [
+        97825,
+        98886
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0024",
+      "shot": [
+        553,
+        568
+      ],
+      "frame": [
+        98886,
+        102697
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0025",
+      "shot": [
+        568,
+        569
+      ],
+      "frame": [
+        102697,
+        103411
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0026",
+      "shot": [
+        569,
+        598
+      ],
+      "frame": [
+        103411,
+        107944
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0027",
+      "shot": [
+        598,
+        600
+      ],
+      "frame": [
+        107944,
+        108480
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0028",
+      "shot": [
+        600,
+        630
+      ],
+      "frame": [
+        108480,
+        113714
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0029",
+      "shot": [
+        630,
+        633
+      ],
+      "frame": [
+        113714,
+        113975
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0030",
+      "shot": [
+        633,
+        638
+      ],
+      "frame": [
+        113975,
+        115975
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0031",
+      "shot": [
+        638,
+        648
+      ],
+      "frame": [
+        115975,
+        117091
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0032",
+      "shot": [
+        648,
+        650
+      ],
+      "frame": [
+        117091,
+        117239
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0033",
+      "shot": [
+        650,
+        661
+      ],
+      "frame": [
+        117239,
+        118631
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0034",
+      "shot": [
+        661,
+        674
+      ],
+      "frame": [
+        118631,
+        120052
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0035",
+      "shot": [
+        674,
+        676
+      ],
+      "frame": [
+        120052,
+        120523
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0036",
+      "shot": [
+        676,
+        678
+      ],
+      "frame": [
+        120523,
+        120644
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0037",
+      "shot": [
+        678,
+        679
+      ],
+      "frame": [
+        120644,
+        120701
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0038",
+      "shot": [
+        679,
+        680
+      ],
+      "frame": [
+        120701,
+        120942
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0039",
+      "shot": [
+        680,
+        682
+      ],
+      "frame": [
+        120942,
+        121281
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0040",
+      "shot": [
+        682,
+        701
+      ],
+      "frame": [
+        121281,
+        124493
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0041",
+      "shot": [
+        701,
+        706
+      ],
+      "frame": [
+        124493,
+        124607
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0042",
+      "shot": [
+        706,
+        708
+      ],
+      "frame": [
+        124607,
+        124881
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0043",
+      "shot": [
+        708,
+        727
+      ],
+      "frame": [
+        124881,
+        126880
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0044",
+      "shot": [
+        727,
+        728
+      ],
+      "frame": [
+        126880,
+        127075
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0045",
+      "shot": [
+        728,
+        746
+      ],
+      "frame": [
+        127075,
+        131507
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0046",
+      "shot": [
+        746,
+        750
+      ],
+      "frame": [
+        131507,
+        132133
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0047",
+      "shot": [
+        750,
+        776
+      ],
+      "frame": [
+        132133,
+        135726
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0048",
+      "shot": [
+        776,
+        785
+      ],
+      "frame": [
+        135726,
+        138494
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0049",
+      "shot": [
+        785,
+        815
+      ],
+      "frame": [
+        138494,
+        141570
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0050",
+      "shot": [
+        815,
+        838
+      ],
+      "frame": [
+        141570,
+        144571
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0051",
+      "shot": [
+        838,
+        839
+      ],
+      "frame": [
+        144571,
+        145409
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0052",
+      "shot": [
+        839,
+        840
+      ],
+      "frame": [
+        145409,
+        145759
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0053",
+      "shot": [
+        840,
+        845
+      ],
+      "frame": [
+        145759,
+        146410
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0054",
+      "shot": [
+        845,
+        950
+      ],
+      "frame": [
+        146410,
+        158084
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0055",
+      "shot": [
+        950,
+        960
+      ],
+      "frame": [
+        158084,
+        159346
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0056",
+      "shot": [
+        960,
+        963
+      ],
+      "frame": [
+        159346,
+        160472
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0057",
+      "shot": [
+        963,
+        988
+      ],
+      "frame": [
+        160472,
+        164298
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0058",
+      "shot": [
+        988,
+        1056
+      ],
+      "frame": [
+        164298,
+        171892
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0059",
+      "shot": [
+        1056,
+        1060
+      ],
+      "frame": [
+        171892,
+        172249
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0060",
+      "shot": [
+        1060,
+        1066
+      ],
+      "frame": [
+        172249,
+        172572
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0061",
+      "shot": [
+        1066,
+        1074
+      ],
+      "frame": [
+        172572,
+        173297
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0062",
+      "shot": [
+        1074,
+        1075
+      ],
+      "frame": [
+        173297,
+        173986
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0063",
+      "shot": [
+        1075,
+        1081
+      ],
+      "frame": [
+        173986,
+        175363
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0064",
+      "shot": [
+        1081,
+        1118
+      ],
+      "frame": [
+        175363,
+        179272
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0065",
+      "shot": [
+        1118,
+        1147
+      ],
+      "frame": [
+        179272,
+        182251
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0066",
+      "shot": [
+        1147,
+        1154
+      ],
+      "frame": [
+        182251,
+        183295
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0067",
+      "shot": [
+        1154,
+        1155
+      ],
+      "frame": [
+        183295,
+        184270
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0068",
+      "shot": [
+        1155,
+        1157
+      ],
+      "frame": [
+        184270,
+        184605
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0069",
+      "shot": [
+        1157,
+        1158
+      ],
+      "frame": [
+        184605,
+        184725
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0116922_0070",
+      "shot": [
+        1158,
+        1211
+      ],
+      "frame": [
+        184725,
+        187426
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0116922_0000",
+      "shot": [
+        27,
+        46
+      ],
+      "frame": [
+        4140,
+        7481
+      ],
+      "duration": [
+        172.53310166666668,
+        311.668308
+      ],
+      "consistency": 0.9453662888999101,
+      "description": "In the opening scene, Fred Madison , a saxophonist, is seen sitting in his house one morning, smoking a cigarette, looking disheveled when the intercom from the front door of his house buzzes. Over the intercom, a distorted man's voice says: \"Dick Laurent is dead.\" When Fred looks out a window, police sirens are heard in the distance, but the streets outside his house are empty.",
+      "subtitle": [
+        {
+          "shot": 32,
+          "duration": [
+            235.70833333333334,
+            244.91666666666666
+          ],
+          "sentences": [
+            "Dick Laurent is dead."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0001",
+      "shot": [
+        48,
+        75
+      ],
+      "frame": [
+        7917,
+        13918
+      ],
+      "duration": [
+        329.88390733333335,
+        579.9001263333333
+      ],
+      "consistency": 0.9169881934739601,
+      "description": "Fred's wife Renee  opts out of coming to the club to watch him and his band play; instead she plans to stay at home and read, an excuse Fred obviously finds flimsy. Red-faced and sweating, Fred plays discordant acid jazz at the Luna Club while the audience goes wild. He calls his house during a break, but Renee does not answer (several different phones at the house are seen to be ringing). Arriving home later, Fred sees Renee asleep in bed. Fred's expression shows his lingering doubts about Renee's faithfulness.",
+      "subtitle": [
+        {
+          "shot": 49,
+          "duration": [
+            346.7916666666667,
+            352.25
+          ],
+          "sentences": [
+            "You don't mind that I'm not coming to the club tonight?"
+          ]
+        },
+        {
+          "shot": 50,
+          "duration": [
+            352.2916666666667,
+            358.0416666666667
+          ],
+          "sentences": [
+            "You don't mind that I'm not coming to the club tonight?",
+            "What are you going to do?"
+          ]
+        },
+        {
+          "shot": 51,
+          "duration": [
+            358.0833333333333,
+            362.2916666666667
+          ],
+          "sentences": [
+            "Stay home, read."
+          ]
+        },
+        {
+          "shot": 52,
+          "duration": [
+            362.3333333333333,
+            369.0416666666667
+          ],
+          "sentences": [
+            "Read?"
+          ]
+        },
+        {
+          "shot": 53,
+          "duration": [
+            369.0833333333333,
+            413.25
+          ],
+          "sentences": [
+            "Read?",
+            "Read what, Renee?",
+            "It's nice to know I can still make you laugh.",
+            "I like to laugh, Fred.",
+            "That's why I married you.",
+            "You can wake me up when you get home if you want to."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0002",
+      "shot": [
+        74,
+        88
+      ],
+      "frame": [
+        14010,
+        17820
+      ],
+      "duration": [
+        583.7557043333334,
+        742.4651483333333
+      ],
+      "consistency": 0.9732668901543124,
+      "description": "The next morning, a mysterious package arrives on the front doorstep containing a videotape. Renee doesn't mention the tape, but Fred sees it and demands that they watch it. The tape only displays a 20-second image of the outside of their home. The relieved Renee tells a perplexed Fred that the tape \"might have been from a real estate agent.\"",
+      "subtitle": [
+        {
+          "shot": 79,
+          "duration": [
+            625.75,
+            693.5
+          ],
+          "sentences": [
+            "What is that?",
+            "A videotape.",
+            "I found it outside on the steps.",
+            "Who's it from?",
+            "I don't know.",
+            "There isn't anything on the envelope.",
+            "Does it say anything on the tape?",
+            "No. Nothing.",
+            "Well, see what's on it."
+          ]
+        },
+        {
+          "shot": 80,
+          "duration": [
+            693.5416666666666,
+            699.9583333333334
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            729.2916666666666,
+            743.4166666666666
+          ],
+          "sentences": [
+            "Must be from a real estate agent.",
+            "Maybe."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0003",
+      "shot": [
+        98,
+        138
+      ],
+      "frame": [
+        19491,
+        26884
+      ],
+      "duration": [
+        812.156986,
+        1120.137515
+      ],
+      "consistency": 0.9086041832209466,
+      "description": "One night Fred tries to make love to Renee, but gives up in failure, humiliated when she pats him on the back and dispassionately consoles him. He tells her about a dream he had: she was crying out for him, \"Fred, where are you?\" He couldn't find her and says that he saw someone in bed that looked like her but wasn't her. The Renee in the dream screams in terror as Fred approaches her in bed. Fred then seems to wake up in bed lying next to Renee, but when he turns to look at her, he sees not her face but the pale, frightening looking face of a man superimposed on her silhouette. Bill startles out of the nightmare, now fully awake for real.",
+      "subtitle": [
+        {
+          "shot": 111,
+          "duration": [
+            948.0,
+            955.875
+          ],
+          "sentences": [
+            "It's OK.",
+            "It's OK."
+          ]
+        },
+        {
+          "shot": 112,
+          "duration": [
+            955.9166666666666,
+            959.5
+          ],
+          "sentences": [
+            "It's OK.",
+            "It's OK."
+          ]
+        },
+        {
+          "shot": 113,
+          "duration": [
+            959.5416666666666,
+            967.9583333333334
+          ],
+          "sentences": [
+            "It's OK."
+          ]
+        },
+        {
+          "shot": 117,
+          "duration": [
+            996.25,
+            1016.125
+          ],
+          "sentences": [
+            "I had a dream last night."
+          ]
+        },
+        {
+          "shot": 119,
+          "duration": [
+            1016.9166666666666,
+            1029.8333333333333
+          ],
+          "sentences": [
+            "You were inside the house...",
+            "You were calling my name..."
+          ]
+        },
+        {
+          "shot": 120,
+          "duration": [
+            1029.875,
+            1033.9583333333333
+          ],
+          "sentences": [
+            "You were calling my name..."
+          ]
+        },
+        {
+          "shot": 121,
+          "duration": [
+            1034.0,
+            1035.9583333333333
+          ],
+          "sentences": [
+            "Fred."
+          ]
+        },
+        {
+          "shot": 122,
+          "duration": [
+            1036.0,
+            1040.1666666666667
+          ],
+          "sentences": [
+            "Fred."
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            1040.2083333333333,
+            1050.75
+          ],
+          "sentences": [
+            "Fred.",
+            "Where are you."
+          ]
+        },
+        {
+          "shot": 124,
+          "duration": [
+            1050.7916666666667,
+            1060.7916666666667
+          ],
+          "sentences": [
+            "I couldn't find you."
+          ]
+        },
+        {
+          "shot": 125,
+          "duration": [
+            1060.8333333333333,
+            1085.4166666666667
+          ],
+          "sentences": [
+            "Then there you were...",
+            "...Iying in bed.",
+            "It wasn't you.",
+            "It looked like you, but it wasn't."
+          ]
+        },
+        {
+          "shot": 134,
+          "duration": [
+            1106.25,
+            1109.4166666666667
+          ],
+          "sentences": [
+            "Fred, are you all right?"
+          ]
+        },
+        {
+          "shot": 135,
+          "duration": [
+            1109.4583333333333,
+            1112.7916666666667
+          ],
+          "sentences": [
+            "Fred, are you all right?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0004",
+      "shot": [
+        138,
+        208
+      ],
+      "frame": [
+        27057,
+        38476
+      ],
+      "duration": [
+        1127.4092679999999,
+        1603.133049
+      ],
+      "consistency": 0.978004986469238,
+      "description": "As the days pass, a second tape arrives, showing the interior of their house-- the unseen intruder also films them in bed, sleeping. Fred and Renee call the police. Two detectives, Al and Ed (John Roselius and Louis Eppolito), watch the video. They recommend that Fred and Renee resume using their security system, and search the house for signs of forced entry. The departing cops say \"We'll keep watch over the house. We'll do the best we can,\" having neither found nor resolved anything.",
+      "subtitle": [
+        {
+          "shot": 140,
+          "duration": [
+            1172.9166666666667,
+            1251.7083333333333
+          ],
+          "sentences": [
+            "You're up early.",
+            "That dog woke me.",
+            "Who the hell owns that dog?",
+            "What's that?",
+            "Another videotape.",
+            "Yes.",
+            "Don't you want to watch it?",
+            "I guess so."
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            1251.75,
+            1254.1666666666667
+          ],
+          "sentences": [
+            "Well, don't you want to watch it?"
+          ]
+        },
+        {
+          "shot": 142,
+          "duration": [
+            1254.2083333333333,
+            1264.4166666666667
+          ],
+          "sentences": [
+            "Well, don't you want to watch it?",
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            1268.0833333333333,
+            1270.75
+          ],
+          "sentences": [
+            "It's the same thing."
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            1272.7916666666667,
+            1276.75
+          ],
+          "sentences": [
+            "No, it isn't."
+          ]
+        },
+        {
+          "shot": 147,
+          "duration": [
+            1276.7916666666667,
+            1284.625
+          ],
+          "sentences": [
+            "No, it isn't."
+          ]
+        },
+        {
+          "shot": 148,
+          "duration": [
+            1284.6666666666667,
+            1286.25
+          ],
+          "sentences": [
+            "Fred?"
+          ]
+        },
+        {
+          "shot": 149,
+          "duration": [
+            1286.2916666666667,
+            1287.4583333333333
+          ],
+          "sentences": [
+            "Fred?"
+          ]
+        },
+        {
+          "shot": 150,
+          "duration": [
+            1287.5,
+            1290.5
+          ],
+          "sentences": [
+            "Fred?"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            1300.5,
+            1303.2083333333333
+          ],
+          "sentences": [
+            "What?"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            1303.25,
+            1305.3333333333333
+          ],
+          "sentences": [
+            "What?"
+          ]
+        },
+        {
+          "shot": 159,
+          "duration": [
+            1311.3333333333333,
+            1317.5416666666667
+          ],
+          "sentences": [
+            "We have to call the police."
+          ]
+        },
+        {
+          "shot": 160,
+          "duration": [
+            1317.5833333333333,
+            1319.8333333333333
+          ],
+          "sentences": [
+            "That's right. Yes."
+          ]
+        },
+        {
+          "shot": 161,
+          "duration": [
+            1319.875,
+            1322.375
+          ],
+          "sentences": [
+            "That's right. Yes."
+          ]
+        },
+        {
+          "shot": 162,
+          "duration": [
+            1322.4166666666667,
+            1327.0416666666667
+          ],
+          "sentences": [
+            "Someone broke in and taped us while we slept. Isn't that enough?"
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            1327.0833333333333,
+            1329.4583333333333
+          ],
+          "sentences": [
+            "Someone broke in and taped us while we slept. Isn't that enough?"
+          ]
+        },
+        {
+          "shot": 164,
+          "duration": [
+            1329.5,
+            1336.2916666666667
+          ],
+          "sentences": [
+            "Someone broke in and taped us while we slept. Isn't that enough?",
+            "7035 Hollis."
+          ]
+        },
+        {
+          "shot": 165,
+          "duration": [
+            1336.3333333333333,
+            1343.2916666666667
+          ],
+          "sentences": [
+            "Near the observatory.",
+            "Yes."
+          ]
+        },
+        {
+          "shot": 166,
+          "duration": [
+            1343.3333333333333,
+            1347.0833333333333
+          ],
+          "sentences": [
+            "Yes.",
+            "We'll be here."
+          ]
+        },
+        {
+          "shot": 167,
+          "duration": [
+            1347.125,
+            1351.0416666666667
+          ],
+          "sentences": [
+            "So?"
+          ]
+        },
+        {
+          "shot": 168,
+          "duration": [
+            1351.0833333333333,
+            1355.9583333333333
+          ],
+          "sentences": [
+            "So?",
+            "They're sending 2 detectives out."
+          ]
+        },
+        {
+          "shot": 174,
+          "duration": [
+            1367.8333333333333,
+            1421.125
+          ],
+          "sentences": [
+            "That's it.",
+            "What do you think.",
+            "I really don't know.",
+            "Let's check the hallway and the bedroom.",
+            "This is the bedroom?",
+            "You sleep here in this room. Both of yous."
+          ]
+        },
+        {
+          "shot": 175,
+          "duration": [
+            1421.1666666666667,
+            1426.25
+          ],
+          "sentences": [
+            "This is our bedroom."
+          ]
+        },
+        {
+          "shot": 177,
+          "duration": [
+            1427.5833333333333,
+            1429.6666666666667
+          ],
+          "sentences": [
+            "There's no other bedroom?"
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            1429.7083333333333,
+            1441.7083333333333
+          ],
+          "sentences": [
+            "There's no other bedroom?",
+            "No.",
+            "I mean, I use it as a practice room.",
+            "It's soundproof."
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            1441.75,
+            1443.8333333333333
+          ],
+          "sentences": [
+            "It's soundproof.",
+            "You're a musician?"
+          ]
+        },
+        {
+          "shot": 180,
+          "duration": [
+            1443.875,
+            1445.75
+          ],
+          "sentences": [
+            "You're a musician?",
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 181,
+          "duration": [
+            1445.7916666666667,
+            1448.8333333333333
+          ],
+          "sentences": [
+            "Yeah.",
+            "What's your axe?",
+            "Tenor. Tenor-Saxophone."
+          ]
+        },
+        {
+          "shot": 182,
+          "duration": [
+            1448.875,
+            1453.25
+          ],
+          "sentences": [
+            "Tenor. Tenor-Saxophone.",
+            "Do you... - No... Tone deaf."
+          ]
+        },
+        {
+          "shot": 183,
+          "duration": [
+            1453.2916666666667,
+            1459.4583333333333
+          ],
+          "sentences": [
+            "Do you... - No... Tone deaf.",
+            "Do you own a video camera?",
+            "No."
+          ]
+        },
+        {
+          "shot": 184,
+          "duration": [
+            1459.5,
+            1465.5416666666667
+          ],
+          "sentences": [
+            "No.",
+            "Fred hates them."
+          ]
+        },
+        {
+          "shot": 186,
+          "duration": [
+            1467.75,
+            1473.4166666666667
+          ],
+          "sentences": [
+            "I like to remember things my own way."
+          ]
+        },
+        {
+          "shot": 187,
+          "duration": [
+            1473.4583333333333,
+            1476.5416666666667
+          ],
+          "sentences": [
+            "What do you mean by that?"
+          ]
+        },
+        {
+          "shot": 188,
+          "duration": [
+            1476.5833333333333,
+            1483.5416666666667
+          ],
+          "sentences": [
+            "What do you mean by that?",
+            "How I remembered them... Not necessarily the way they happened."
+          ]
+        },
+        {
+          "shot": 189,
+          "duration": [
+            1483.5833333333333,
+            1491.375
+          ],
+          "sentences": [
+            "How I remembered them... Not necessarily the way they happened.",
+            "You have an alarm system?",
+            "Yes. Actually, we do."
+          ]
+        },
+        {
+          "shot": 190,
+          "duration": [
+            1491.4166666666667,
+            1496.2916666666667
+          ],
+          "sentences": [
+            "Yes. Actually, we do.",
+            "But we haven't been using it lately."
+          ]
+        },
+        {
+          "shot": 191,
+          "duration": [
+            1496.3333333333333,
+            1499.4166666666667
+          ],
+          "sentences": [
+            "Why not?"
+          ]
+        },
+        {
+          "shot": 192,
+          "duration": [
+            1499.4583333333333,
+            1508.1666666666667
+          ],
+          "sentences": [
+            "It kept going off...",
+            "For some reason. False alarms."
+          ]
+        },
+        {
+          "shot": 193,
+          "duration": [
+            1508.2083333333333,
+            1512.0833333333333
+          ],
+          "sentences": [
+            "Might want to try and use it again."
+          ]
+        },
+        {
+          "shot": 194,
+          "duration": [
+            1512.125,
+            1513.875
+          ],
+          "sentences": [
+            "Might want to try and use it again.",
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 195,
+          "duration": [
+            1513.9166666666667,
+            1518.75
+          ],
+          "sentences": [
+            "Yeah.",
+            "OK?"
+          ]
+        },
+        {
+          "shot": 196,
+          "duration": [
+            1518.7916666666667,
+            1520.7916666666667
+          ],
+          "sentences": [
+            "OK?"
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            1520.8333333333333,
+            1524.9166666666667
+          ],
+          "sentences": [
+            "We're going to check the windows and doors,"
+          ]
+        },
+        {
+          "shot": 198,
+          "duration": [
+            1524.9583333333333,
+            1530.5
+          ],
+          "sentences": [
+            "We're going to check the windows and doors,",
+            "see if anybody tried to break in."
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            1579.5416666666667,
+            1626.25
+          ],
+          "sentences": [
+            "We'll keep watch over the house. - We'll do the best we can.",
+            "If anything else happens, you'll call us. - We will.",
+            "Thanks, guys. - It's what we do."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0005",
+      "shot": [
+        210,
+        261
+      ],
+      "frame": [
+        39303,
+        47659
+      ],
+      "duration": [
+        1637.643,
+        1985.764391
+      ],
+      "consistency": 0.9881532014216272,
+      "description": "That evening, Fred and Renee go out to a party held by Andy  an old friend of Renee's. Renee drunkenly stumbles, giggling, into Andy's arms while pleading with Fred to get her another drink. A jealous Fred goes to the bar for a drink where he meets a Mystery Man , who tells Fred that they've met before and that he is at his house right now. It was in fact the face of the Mystery Man that Fred saw in place of Renee's in his nightmare. Fred phones his house and the voice of the Mystery Man answers at the house while he's standing right in front of Fred. Shaken, Fred asks Andy who the Mystery Man is and is told that he is a friend of Dick Laurent. When Fred repeats the message he heard on the intercom, that \"Dick Laurent is dead,\" Andy nervously asks how Fred knows Dick Laurent and insists that \"Dick can't be dead.\" Fred then forcibly grabs Renee and they leave the party.",
+      "subtitle": [
+        {
+          "shot": 210,
+          "duration": [
+            1637.625,
+            1731.5833333333333
+          ],
+          "sentences": [
+            "Hey, Andy. Welcome to my party.",
+            "You look ravishing. - Thank you.",
+            "Fred.",
+            "Please.",
+            "Please.",
+            "Hey.",
+            "2 double scotches, neat. - OK."
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            1750.125,
+            1755.7083333333333
+          ],
+          "sentences": [
+            "We've met before, haven't we?"
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            1755.75,
+            1764.8333333333333
+          ],
+          "sentences": [
+            "I don't think so.",
+            "Where was it you think we met?"
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            1764.875,
+            1769.875
+          ],
+          "sentences": [
+            "At your house. Don't you remember?"
+          ]
+        },
+        {
+          "shot": 218,
+          "duration": [
+            1769.9166666666667,
+            1776.6666666666667
+          ],
+          "sentences": [
+            "No. No, I don't.",
+            "Are you sure?"
+          ]
+        },
+        {
+          "shot": 219,
+          "duration": [
+            1776.7083333333333,
+            1785.875
+          ],
+          "sentences": [
+            "Are you sure?",
+            "Of course.",
+            "As a matter of fact, I'm there right now."
+          ]
+        },
+        {
+          "shot": 220,
+          "duration": [
+            1785.9166666666667,
+            1793.9166666666667
+          ],
+          "sentences": [
+            "What do you mean? You're where right now?"
+          ]
+        },
+        {
+          "shot": 221,
+          "duration": [
+            1793.9583333333333,
+            1798.2916666666667
+          ],
+          "sentences": [
+            "At your house."
+          ]
+        },
+        {
+          "shot": 222,
+          "duration": [
+            1798.3333333333333,
+            1805.1666666666667
+          ],
+          "sentences": [
+            "That's fucking crazy, man."
+          ]
+        },
+        {
+          "shot": 225,
+          "duration": [
+            1811.75,
+            1814.75
+          ],
+          "sentences": [
+            "Call me."
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            1818.5833333333333,
+            1820.9583333333333
+          ],
+          "sentences": [
+            "Dial your number."
+          ]
+        },
+        {
+          "shot": 228,
+          "duration": [
+            1821.0,
+            1824.75
+          ],
+          "sentences": [
+            "Dial your number."
+          ]
+        },
+        {
+          "shot": 229,
+          "duration": [
+            1824.7916666666667,
+            1827.9166666666667
+          ],
+          "sentences": [
+            "Go ahead."
+          ]
+        },
+        {
+          "shot": 230,
+          "duration": [
+            1827.9583333333333,
+            1828.7083333333333
+          ],
+          "sentences": [
+            "Go ahead."
+          ]
+        },
+        {
+          "shot": 233,
+          "duration": [
+            1839.5,
+            1840.5416666666667
+          ],
+          "sentences": [
+            "I told you I was here."
+          ]
+        },
+        {
+          "shot": 234,
+          "duration": [
+            1840.5833333333333,
+            1849.7916666666667
+          ],
+          "sentences": [
+            "I told you I was here.",
+            "How'd you do that?"
+          ]
+        },
+        {
+          "shot": 235,
+          "duration": [
+            1849.8333333333333,
+            1853.8333333333333
+          ],
+          "sentences": [
+            "Ask me."
+          ]
+        },
+        {
+          "shot": 236,
+          "duration": [
+            1853.875,
+            1862.8333333333333
+          ],
+          "sentences": [
+            "How'd you get inside my house?",
+            "You invited me. It is not my custom to go where I'm not wanted."
+          ]
+        },
+        {
+          "shot": 237,
+          "duration": [
+            1862.875,
+            1866.2083333333333
+          ],
+          "sentences": [
+            "You invited me. It is not my custom to go where I'm not wanted."
+          ]
+        },
+        {
+          "shot": 238,
+          "duration": [
+            1866.25,
+            1871.0
+          ],
+          "sentences": [
+            "You invited me. It is not my custom to go where I'm not wanted.",
+            "Who are you?",
+            "Hm."
+          ]
+        },
+        {
+          "shot": 239,
+          "duration": [
+            1871.0416666666667,
+            1873.9166666666667
+          ],
+          "sentences": [
+            "Hm."
+          ]
+        },
+        {
+          "shot": 241,
+          "duration": [
+            1875.7916666666667,
+            1879.375
+          ],
+          "sentences": [
+            "Give me back my phone."
+          ]
+        },
+        {
+          "shot": 243,
+          "duration": [
+            1885.875,
+            1897.875
+          ],
+          "sentences": [
+            "It's been a pleasure talking to you."
+          ]
+        },
+        {
+          "shot": 246,
+          "duration": [
+            1905.625,
+            1918.4583333333333
+          ],
+          "sentences": [
+            "I thought you were getting me a drink. - Hang on just a minute.",
+            "Andy, who's the guy on the stairs? Guy in black?"
+          ]
+        },
+        {
+          "shot": 247,
+          "duration": [
+            1918.5,
+            1921.375
+          ],
+          "sentences": [
+            "Andy, who's the guy on the stairs? Guy in black?"
+          ]
+        },
+        {
+          "shot": 248,
+          "duration": [
+            1921.4166666666667,
+            1932.5
+          ],
+          "sentences": [
+            "I don't know his name. He's a friend of Dick Laurent, I think.",
+            "Dick Laurent?",
+            "Yeah. I believe so."
+          ]
+        },
+        {
+          "shot": 249,
+          "duration": [
+            1932.5416666666667,
+            1936.6666666666667
+          ],
+          "sentences": [
+            "Yeah. I believe so."
+          ]
+        },
+        {
+          "shot": 251,
+          "duration": [
+            1939.0416666666667,
+            1944.0
+          ],
+          "sentences": [
+            "But Dick Laurent is dead, isn't he?"
+          ]
+        },
+        {
+          "shot": 252,
+          "duration": [
+            1944.0416666666667,
+            1951.6666666666667
+          ],
+          "sentences": [
+            "He is?",
+            "I didn't think you knew Dick. How do you know he's dead?"
+          ]
+        },
+        {
+          "shot": 253,
+          "duration": [
+            1951.7083333333333,
+            1959.5833333333333
+          ],
+          "sentences": [
+            "I didn't think you knew Dick. How do you know he's dead?",
+            "I don't.",
+            "I don't know him."
+          ]
+        },
+        {
+          "shot": 254,
+          "duration": [
+            1959.625,
+            1965.2083333333333
+          ],
+          "sentences": [
+            "I don't know him.",
+            "Dick can't be dead.",
+            "Who told you he was dead?"
+          ]
+        },
+        {
+          "shot": 255,
+          "duration": [
+            1965.25,
+            1966.375
+          ],
+          "sentences": [
+            "Who told you he was dead?",
+            "Who, honey? Who's dead?"
+          ]
+        },
+        {
+          "shot": 256,
+          "duration": [
+            1966.4166666666667,
+            1967.875
+          ],
+          "sentences": [
+            "Who, honey? Who's dead?"
+          ]
+        },
+        {
+          "shot": 257,
+          "duration": [
+            1967.9166666666667,
+            1971.75
+          ],
+          "sentences": [
+            "Who, honey? Who's dead?"
+          ]
+        },
+        {
+          "shot": 258,
+          "duration": [
+            1971.7916666666667,
+            1973.5416666666667
+          ],
+          "sentences": [
+            "Let's go home."
+          ]
+        },
+        {
+          "shot": 259,
+          "duration": [
+            1973.5833333333333,
+            1979.0416666666667
+          ],
+          "sentences": [
+            "Let's go home.",
+            "But... - Now. We're leaving now."
+          ]
+        },
+        {
+          "shot": 260,
+          "duration": [
+            1979.0833333333333,
+            1985.7083333333333
+          ],
+          "sentences": [
+            "We never should have come here in the first place."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0006",
+      "shot": [
+        261,
+        293
+      ],
+      "frame": [
+        47660,
+        57318
+      ],
+      "duration": [
+        1985.835769,
+        2388.217038
+      ],
+      "consistency": 0.9586208522047293,
+      "description": "Driving home, Fred questions Renee about Andy and her past connection to him. Renee answers vaguely, failing to alleviate Fred's jealous suspicions. Arriving back at their house, Fred makes Renee wait in the driveway while he checks inside for intruders and finds no one. While Renee prepares for bed and removes her makeup in the bathroom, Fred walks around the dimly lit house and finds himself standing in front of a dark hallway. Fred walks down the hallway and disappears, eventually encountering a mirror reflection of himself. Renee walks out of the bedroom and stands at the base of the hallway. She calls out for Fred, just as in his dream, earlier. Shortly before Fred emerges from the darkness of the long hallway, we see a shadow moving through another part of the house.",
+      "subtitle": [
+        {
+          "shot": 261,
+          "duration": [
+            1985.75,
+            2009.125
+          ],
+          "sentences": [
+            "So, how'd you meet that asshole Andy anyway?",
+            "It was a long time ago.",
+            "We met at a place called Moke's.",
+            "We became friends.",
+            "He told me about a job."
+          ]
+        },
+        {
+          "shot": 262,
+          "duration": [
+            2009.1666666666667,
+            2012.0
+          ],
+          "sentences": [
+            "He told me about a job.",
+            "What job?"
+          ]
+        },
+        {
+          "shot": 263,
+          "duration": [
+            2012.0416666666667,
+            2027.125
+          ],
+          "sentences": [
+            "What job?",
+            "I don't remember.",
+            "Anyway...Andy's OK.",
+            "Well, He's got some pretty fucked-up friends."
+          ]
+        },
+        {
+          "shot": 264,
+          "duration": [
+            2027.1666666666667,
+            2032.875
+          ],
+          "sentences": [
+            "Well, He's got some pretty fucked-up friends."
+          ]
+        },
+        {
+          "shot": 266,
+          "duration": [
+            2036.7916666666667,
+            2041.375
+          ],
+          "sentences": [
+            "Hey... Hey...",
+            "Stay in the car."
+          ]
+        },
+        {
+          "shot": 267,
+          "duration": [
+            2041.4166666666667,
+            2068.125
+          ],
+          "sentences": [
+            "Stay in the car."
+          ]
+        },
+        {
+          "shot": 272,
+          "duration": [
+            2125.375,
+            2175.2083333333335
+          ],
+          "sentences": [
+            "I told you to stay in the car.",
+            "Why? What is it?",
+            "Why did you make me stay out here?",
+            "I'll tell you why, because I thought someone was inside the house.",
+            "Was there?",
+            "No, of course not."
+          ]
+        },
+        {
+          "shot": 290,
+          "duration": [
+            2316.5,
+            2323.75
+          ],
+          "sentences": [
+            "Fred?"
+          ]
+        },
+        {
+          "shot": 291,
+          "duration": [
+            2323.7916666666665,
+            2334.9166666666665
+          ],
+          "sentences": [
+            "Fred, where are you?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0007",
+      "shot": [
+        292,
+        318
+      ],
+      "frame": [
+        57322,
+        60618
+      ],
+      "duration": [
+        2388.450233,
+        2525.718234
+      ],
+      "consistency": 0.9339443939305272,
+      "description": "The next morning, another tape arrives and Fred watches it alone. To his horror it contains gory images of him killing Renee. Time jumps abruptly and suddenly Fred is being beaten in an interrogation room by the same two detectives, Al and Ed, who earlier offered to watch the house and now accuse him of killing his wife. A terrified Fred claims that he didn't kill Renee. But seconds later he becomes confused and pleads to the detectives, \"Tell me I didn't kill her!\"",
+      "subtitle": [
+        {
+          "shot": 311,
+          "duration": [
+            2505.3333333333335,
+            2510.6666666666665
+          ],
+          "sentences": [
+            "Renee."
+          ]
+        },
+        {
+          "shot": 312,
+          "duration": [
+            2510.7083333333335,
+            2511.625
+          ],
+          "sentences": [
+            "Renee."
+          ]
+        },
+        {
+          "shot": 313,
+          "duration": [
+            2511.6666666666665,
+            2512.8333333333335
+          ],
+          "sentences": [
+            "Renee.",
+            "Sit down, Killer."
+          ]
+        },
+        {
+          "shot": 314,
+          "duration": [
+            2512.875,
+            2516.9166666666665
+          ],
+          "sentences": [
+            "Sit down, Killer."
+          ]
+        },
+        {
+          "shot": 315,
+          "duration": [
+            2516.9583333333335,
+            2521.2083333333335
+          ],
+          "sentences": [
+            "I didn't kill her."
+          ]
+        },
+        {
+          "shot": 317,
+          "duration": [
+            2523.4583333333335,
+            2573.4166666666665
+          ],
+          "sentences": [
+            "Tell me I didn't kill her.",
+            "We, the jury, find the defendant guilty of murder in the first degree.",
+            "Fred Madison, the jury having found you guilty of murder in the first degree,",
+            "it is my order that you be put to death in the electric chair.",
+            "Make yourself to home, fella."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0008",
+      "shot": [
+        317,
+        362
+      ],
+      "frame": [
+        60783,
+        71786
+      ],
+      "duration": [
+        2532.6490583333334,
+        2991.0681473333334
+      ],
+      "consistency": 0.9600293368237114,
+      "description": "Tried, found guilty and sentenced to death, Fred, still dazed and confused, is locked away on death row for the murder of Renee. Shortly after arriving, Fred is plagued by frequent headaches. After he collapses in the prison yard, he's brought into the infirmary where he complains to the prison doctor that he can't sleep. The doctor doses Fred with a sedative and he's locked back in his cell, where his headache continues to rage and he hallucinates strange visions of the Mystery Man, a burning cabin in the desert, and a dark stretch of highway.",
+      "subtitle": [
+        {
+          "shot": 317,
+          "duration": [
+            2523.4583333333335,
+            2573.4166666666665
+          ],
+          "sentences": [
+            "Tell me I didn't kill her.",
+            "We, the jury, find the defendant guilty of murder in the first degree.",
+            "Fred Madison, the jury having found you guilty of murder in the first degree,",
+            "it is my order that you be put to death in the electric chair.",
+            "Make yourself to home, fella."
+          ]
+        },
+        {
+          "shot": 318,
+          "duration": [
+            2573.4583333333335,
+            2577.5
+          ],
+          "sentences": [
+            "Make yourself to home, fella."
+          ]
+        },
+        {
+          "shot": 320,
+          "duration": [
+            2581.0,
+            2586.5
+          ],
+          "sentences": [
+            "Stick your hand out, chief."
+          ]
+        },
+        {
+          "shot": 321,
+          "duration": [
+            2586.5416666666665,
+            2591.625
+          ],
+          "sentences": [
+            "Stick your hand out, chief."
+          ]
+        },
+        {
+          "shot": 332,
+          "duration": [
+            2719.2916666666665,
+            2722.2916666666665
+          ],
+          "sentences": [
+            "Something wrong?"
+          ]
+        },
+        {
+          "shot": 333,
+          "duration": [
+            2722.3333333333335,
+            2757.2083333333335
+          ],
+          "sentences": [
+            "Something wrong?",
+            "It's...my head.",
+            "You sleeping OK?"
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            2757.25,
+            2765.125
+          ],
+          "sentences": [
+            "You sleeping OK?",
+            "No.",
+            "I can't sleep."
+          ]
+        },
+        {
+          "shot": 337,
+          "duration": [
+            2794.6666666666665,
+            2824.875
+          ],
+          "sentences": [
+            "You'll sleep now.",
+            "Take him back to his cell.",
+            "Let's go."
+          ]
+        },
+        {
+          "shot": 338,
+          "duration": [
+            2824.9166666666665,
+            2834.125
+          ],
+          "sentences": [
+            "Guard."
+          ]
+        },
+        {
+          "shot": 339,
+          "duration": [
+            2834.1666666666665,
+            2847.5
+          ],
+          "sentences": [
+            "Guard.",
+            "Guard."
+          ]
+        },
+        {
+          "shot": 340,
+          "duration": [
+            2847.5416666666665,
+            2857.4583333333335
+          ],
+          "sentences": [
+            "Guard."
+          ]
+        },
+        {
+          "shot": 341,
+          "duration": [
+            2857.5,
+            2860.875
+          ],
+          "sentences": [
+            "Hey."
+          ]
+        },
+        {
+          "shot": 342,
+          "duration": [
+            2860.9166666666665,
+            2866.6666666666665
+          ],
+          "sentences": [
+            "What do you want?",
+            "Aspirin. My head."
+          ]
+        },
+        {
+          "shot": 343,
+          "duration": [
+            2866.7083333333335,
+            2869.125
+          ],
+          "sentences": [
+            "Aspirin. My head."
+          ]
+        },
+        {
+          "shot": 344,
+          "duration": [
+            2869.1666666666665,
+            2874.8333333333335
+          ],
+          "sentences": [
+            "Hey. Hey."
+          ]
+        },
+        {
+          "shot": 346,
+          "duration": [
+            2882.375,
+            2898.375
+          ],
+          "sentences": [
+            "Shit. That wife killer's looking pretty fucked up.",
+            "Which one?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0009",
+      "shot": [
+        387,
+        407
+      ],
+      "frame": [
+        73867,
+        79373
+      ],
+      "duration": [
+        3077.8169226666664,
+        3307.1776076666665
+      ],
+      "consistency": 0.9930292979374382,
+      "description": "The next morning, during a routine check of the cells, the prison guards are shocked to find that the man in Fred's cell is not Fred. The man is discovered to be Pete Dayton  a young, confused auto mechanic whom the prison officials discover has a past record for auto theft. Since Pete has committed no crime aside from the auto theft five years earlier, he is released into the care of his parents Bill and Candace and, who come to collect Pete dressed like bikers in black leather jackets, jeans and dark glasses. The Dayton family return home to their house in Van Nuys. At the same time, Pete is being followed by two detectives, named Hank and Lou (Carl Sundstrom and John Solari), to find out why and how Pete ended up in Fred Madison's prison cell.",
+      "subtitle": [
+        {
+          "shot": 388,
+          "duration": [
+            3094.9166666666665,
+            3102.375
+          ],
+          "sentences": [
+            "Fuck me."
+          ]
+        },
+        {
+          "shot": 389,
+          "duration": [
+            3102.4166666666665,
+            3142.2916666666665
+          ],
+          "sentences": [
+            "All right. What's the situation?",
+            "I'm not entirely certain, captain. You'll have to see for yourself.",
+            "Right here.",
+            "That's not Fred Madison.",
+            "No, Sir. It's not."
+          ]
+        },
+        {
+          "shot": 391,
+          "duration": [
+            3144.75,
+            3159.0833333333335
+          ],
+          "sentences": [
+            "Who is it? - I couldn't say, Sir.",
+            "Captain Luneau?",
+            "Yeah, Mike?",
+            "Captain...",
+            "This is some spooky shit we got here."
+          ]
+        },
+        {
+          "shot": 392,
+          "duration": [
+            3159.125,
+            3169.3333333333335
+          ],
+          "sentences": [
+            "This is some spooky shit we got here.",
+            "Well, Gentlemen, we know who the stranger is."
+          ]
+        },
+        {
+          "shot": 393,
+          "duration": [
+            3169.375,
+            3176.0833333333335
+          ],
+          "sentences": [
+            "Well, Gentlemen, we know who the stranger is.",
+            "His name is Peter Raymond Dayton. 24 years old."
+          ]
+        },
+        {
+          "shot": 394,
+          "duration": [
+            3176.125,
+            3184.2083333333335
+          ],
+          "sentences": [
+            "His name is Peter Raymond Dayton. 24 years old.",
+            "Arrested 5 years ago for auto theft...",
+            "...for which he was put on probation for 1 year."
+          ]
+        },
+        {
+          "shot": 395,
+          "duration": [
+            3184.25,
+            3191.9166666666665
+          ],
+          "sentences": [
+            "...for which he was put on probation for 1 year.",
+            "He lives with his parents. William and Candace Dayton, at 814 Garland Avenue."
+          ]
+        },
+        {
+          "shot": 396,
+          "duration": [
+            3191.9583333333335,
+            3194.1666666666665
+          ],
+          "sentences": [
+            "He lives with his parents. William and Candace Dayton, at 814 Garland Avenue."
+          ]
+        },
+        {
+          "shot": 404,
+          "duration": [
+            3223.6666666666665,
+            3270.2916666666665
+          ],
+          "sentences": [
+            "So..."
+          ]
+        },
+        {
+          "shot": 405,
+          "duration": [
+            3270.3333333333335,
+            3299.25
+          ],
+          "sentences": [
+            "Here. - Thanks, Lou."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0010",
+      "shot": [
+        411,
+        422
+      ],
+      "frame": [
+        81501,
+        84187
+      ],
+      "duration": [
+        3395.8912763333333,
+        3507.750849
+      ],
+      "consistency": 0.9760617149744281,
+      "description": "Pete goes out that evening with his friends Steve V , Teddy, (Scott Coffey), Lanie (Heather Stephens) and Carl (Al Garrett) along with Pete's girlfriend Sheila . At a bowling alley with a bar in the back, they have drinks and dance. Sheila asks Pete about his whereabouts for the last several days, but Pete can't remember.",
+      "subtitle": [
+        {
+          "shot": 412,
+          "duration": [
+            3398.375,
+            3413.0833333333335
+          ],
+          "sentences": [
+            "Where the fuck have you been, man?",
+            "Hey. -Hiya. -Hi. - Hey, guy.",
+            "Hey, man. - What's up man?",
+            "Well, you look like shit.",
+            "Yeah. What happened?"
+          ]
+        },
+        {
+          "shot": 413,
+          "duration": [
+            3413.125,
+            3418.75
+          ],
+          "sentences": [
+            "Yeah. What happened?",
+            "Just haven't been feeling so good.",
+            "You're not contagious, are you?"
+          ]
+        },
+        {
+          "shot": 414,
+          "duration": [
+            3418.7916666666665,
+            3423.5
+          ],
+          "sentences": [
+            "You're not contagious, are you?",
+            "No. Uh-uh. Don't think so.",
+            "All right. Well, let's go for a drive then."
+          ]
+        },
+        {
+          "shot": 415,
+          "duration": [
+            3423.5416666666665,
+            3425.2916666666665
+          ],
+          "sentences": [
+            "All right. Well, let's go for a drive then.",
+            "Different kinds of fruits grow and ripen."
+          ]
+        },
+        {
+          "shot": 416,
+          "duration": [
+            3425.3333333333335,
+            3426.625
+          ],
+          "sentences": [
+            "Different kinds of fruits grow and ripen."
+          ]
+        },
+        {
+          "shot": 417,
+          "duration": [
+            3426.6666666666665,
+            3432.4583333333335
+          ],
+          "sentences": [
+            "Different kinds of fruits grow and ripen.",
+            "It takes many strawberries to fill a bucket.",
+            "But it's worth it when you know that..."
+          ]
+        },
+        {
+          "shot": 418,
+          "duration": [
+            3432.5,
+            3436.8333333333335
+          ],
+          "sentences": [
+            "But it's worth it when you know that...",
+            "Come on. - Hoh.",
+            "Come on. I'll lead."
+          ]
+        },
+        {
+          "shot": 419,
+          "duration": [
+            3436.875,
+            3459.75
+          ],
+          "sentences": [
+            "Come on. I'll lead.",
+            "...and a glass of fresh, cold milk from grandmother's cow.",
+            "See ya later.",
+            "I'm gonna go out with these clowns for a while.",
+            "That should do you some good.",
+            "Good night. -See ya. - Good night."
+          ]
+        },
+        {
+          "shot": 421,
+          "duration": [
+            3461.8333333333335,
+            3508.0
+          ],
+          "sentences": [
+            "What's happening to you?",
+            "What happened to your face?",
+            "I don't know? - What do you mean, you don't know?",
+            "You've been acting strange lately.",
+            "Like the other night.",
+            "What night?",
+            "The last time I saw you.",
+            "I don't remember."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0011",
+      "shot": [
+        426,
+        551
+      ],
+      "frame": [
+        84812,
+        97680
+      ],
+      "duration": [
+        3533.8377426666666,
+        4069.9922146666668
+      ],
+      "consistency": 0.9772517200975613,
+      "description": "The next day, Pete returns to work at the garage where he is welcomed back by the owner Arnie  and his co-workers including veteran mechanic Phil . Pete is called on by Mr. Eddy , a charming but hot-tempered gangster, to tune up his Mercedes. Mr. Eddy takes Pete for a drive so that he can listen to the problem in the engine, during which a motorist tailgates their vehicle, causing the gangster to erupt into a fit of road rage. Mr. Eddy chases down the tailgater, forces him off the road, drags the man out of his car and pistol whips him while berating him about road safety, a display of violence that shocks Pete. Mr. Eddy drops Pete back at the garage where he is spotted by the two detectives, Hank and Lou. Hank identifies Mr. Eddy as a certain criminal named Dick Laurent.",
+      "subtitle": [
+        {
+          "shot": 427,
+          "duration": [
+            3545.9166666666665,
+            3563.7916666666665
+          ],
+          "sentences": [
+            "Pete.",
+            "Arnie. - Where you been?",
+            "How you doing? - It's good you're back...",
+            "...Wonderful. - Good to see you, man.",
+            "Listen, man, a lot of people...",
+            "...gonna be real happy that you're back, including me."
+          ]
+        },
+        {
+          "shot": 428,
+          "duration": [
+            3563.8333333333335,
+            3565.5
+          ],
+          "sentences": [
+            "Well, it's good to be back."
+          ]
+        },
+        {
+          "shot": 429,
+          "duration": [
+            3565.5416666666665,
+            3567.4583333333335
+          ],
+          "sentences": [
+            "Well, it's good to be back.",
+            "Mr. Smith has been waiting for you."
+          ]
+        },
+        {
+          "shot": 430,
+          "duration": [
+            3567.5,
+            3570.4166666666665
+          ],
+          "sentences": [
+            "Mr. Smith has been waiting for you.",
+            "Yeah, I'll take care of him.",
+            "And Mr. Eddy called."
+          ]
+        },
+        {
+          "shot": 431,
+          "duration": [
+            3570.4583333333335,
+            3574.4583333333335
+          ],
+          "sentences": [
+            "And Mr. Eddy called.",
+            "Can I call him and tell him to come in? - Yeah. Call him. Tell him I'm back."
+          ]
+        },
+        {
+          "shot": 432,
+          "duration": [
+            3574.5,
+            3581.9583333333335
+          ],
+          "sentences": [
+            "Can I call him and tell him to come in? - Yeah. Call him. Tell him I'm back.",
+            "And, uh, you know, I'm ready to work. - You're ready to work?",
+            "Yeah.",
+            "Well, let's go to work. - All right, Buddy."
+          ]
+        },
+        {
+          "shot": 433,
+          "duration": [
+            3582.0,
+            3584.6666666666665
+          ],
+          "sentences": [
+            "Well, let's go to work. - All right, Buddy."
+          ]
+        },
+        {
+          "shot": 434,
+          "duration": [
+            3584.7083333333335,
+            3589.1666666666665
+          ],
+          "sentences": [
+            "Petey's back."
+          ]
+        },
+        {
+          "shot": 438,
+          "duration": [
+            3604.375,
+            3615.6666666666665
+          ],
+          "sentences": [
+            "There's 9 People down here.",
+            "And you're gonna ask 7 of them. If you get that price from one of them,...",
+            "...I'll let you ask the other 2."
+          ]
+        },
+        {
+          "shot": 439,
+          "duration": [
+            3615.7083333333335,
+            3635.875
+          ],
+          "sentences": [
+            "...I'll let you ask the other 2.",
+            "Hey, Pete.",
+            "Pete.",
+            "Where's Pete?"
+          ]
+        },
+        {
+          "shot": 440,
+          "duration": [
+            3635.9166666666665,
+            3638.0416666666665
+          ],
+          "sentences": [
+            "Where's Pete?",
+            "He's back there."
+          ]
+        },
+        {
+          "shot": 441,
+          "duration": [
+            3638.0833333333335,
+            3640.6666666666665
+          ],
+          "sentences": [
+            "He's back there.",
+            "Mr. Eddy."
+          ]
+        },
+        {
+          "shot": 442,
+          "duration": [
+            3640.7083333333335,
+            3643.5416666666665
+          ],
+          "sentences": [
+            "Hey."
+          ]
+        },
+        {
+          "shot": 443,
+          "duration": [
+            3643.5833333333335,
+            3649.375
+          ],
+          "sentences": [
+            "What happened?",
+            "Somebody giving you trouble? - No. No trouble."
+          ]
+        },
+        {
+          "shot": 444,
+          "duration": [
+            3649.4166666666665,
+            3653.125
+          ],
+          "sentences": [
+            "Somebody giving you trouble? - No. No trouble.",
+            "'Cause if somebody's giving you trouble, Pete,..."
+          ]
+        },
+        {
+          "shot": 445,
+          "duration": [
+            3653.1666666666665,
+            3665.875
+          ],
+          "sentences": [
+            "'Cause if somebody's giving you trouble, Pete,...",
+            "...I can take care of the problem... Like that.",
+            "No. I'm fine, Mr. Eddy. - I mean it, Pete. Like...that.",
+            "Thank you. Really. I'm fine. So, uh, what do you want,...",
+            "...just a regular tune-up? - I want you to take a ride with me."
+          ]
+        },
+        {
+          "shot": 446,
+          "duration": [
+            3665.9166666666665,
+            3675.3333333333335
+          ],
+          "sentences": [
+            "...just a regular tune-up? - I want you to take a ride with me.",
+            "I don't like the sound of something.",
+            "OK. I got to check in with the boss. - It's OK with Arnie. Come on, let's go."
+          ]
+        },
+        {
+          "shot": 447,
+          "duration": [
+            3675.375,
+            3677.5416666666665
+          ],
+          "sentences": [
+            "OK. I got to check in with the boss. - It's OK with Arnie. Come on, let's go."
+          ]
+        },
+        {
+          "shot": 448,
+          "duration": [
+            3677.5833333333335,
+            3691.2916666666665
+          ],
+          "sentences": [
+            "OK. I got to check in with the boss. - It's OK with Arnie. Come on, let's go."
+          ]
+        },
+        {
+          "shot": 451,
+          "duration": [
+            3710.2916666666665,
+            3714.0416666666665
+          ],
+          "sentences": [
+            "Pull it over, but keep it running."
+          ]
+        },
+        {
+          "shot": 457,
+          "duration": [
+            3733.9166666666665,
+            3736.0
+          ],
+          "sentences": [
+            "Best goddamn ears in town."
+          ]
+        },
+        {
+          "shot": 458,
+          "duration": [
+            3736.0416666666665,
+            3741.25
+          ],
+          "sentences": [
+            "Best goddamn ears in town."
+          ]
+        },
+        {
+          "shot": 461,
+          "duration": [
+            3746.8333333333335,
+            3754.0
+          ],
+          "sentences": [
+            "Give that a try."
+          ]
+        },
+        {
+          "shot": 464,
+          "duration": [
+            3756.5416666666665,
+            3770.625
+          ],
+          "sentences": [
+            "Beautiful...Smooth as shit from a duck's ass.",
+            "Let's take a ride. - Whatever you say, Mr. Eddy."
+          ]
+        },
+        {
+          "shot": 465,
+          "duration": [
+            3770.6666666666665,
+            3771.3333333333335
+          ],
+          "sentences": [
+            "Let's take a ride. - Whatever you say, Mr. Eddy."
+          ]
+        },
+        {
+          "shot": 468,
+          "duration": [
+            3783.0833333333335,
+            3786.9166666666665
+          ],
+          "sentences": [
+            "It's a beautiful day."
+          ]
+        },
+        {
+          "shot": 470,
+          "duration": [
+            3790.0416666666665,
+            3794.875
+          ],
+          "sentences": [
+            "You did a great job, Pete. - Yeah."
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            3794.9166666666665,
+            3799.625
+          ],
+          "sentences": [
+            "You did a great job, Pete. - Yeah.",
+            "Well, you know I like working on this car, Mr. Eddy."
+          ]
+        },
+        {
+          "shot": 472,
+          "duration": [
+            3799.6666666666665,
+            3804.3333333333335
+          ],
+          "sentences": [
+            "Well, you know I like working on this car, Mr. Eddy."
+          ]
+        },
+        {
+          "shot": 476,
+          "duration": [
+            3815.375,
+            3819.8333333333335
+          ],
+          "sentences": [
+            "Shit. That cocksucker doing what I think he's doing?"
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            3819.875,
+            3822.0
+          ],
+          "sentences": [
+            "Shit. That cocksucker doing what I think he's doing?"
+          ]
+        },
+        {
+          "shot": 489,
+          "duration": [
+            3848.2083333333335,
+            3853.25
+          ],
+          "sentences": [
+            "This is where mechanical excellence..."
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            3853.2916666666665,
+            3856.9166666666665
+          ],
+          "sentences": [
+            "This is where mechanical excellence...",
+            "...and 1400 horsepower pays off."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            3856.9583333333335,
+            3857.7083333333335
+          ],
+          "sentences": [
+            "...and 1400 horsepower pays off."
+          ]
+        },
+        {
+          "shot": 492,
+          "duration": [
+            3857.75,
+            3859.0
+          ],
+          "sentences": [
+            "...and 1400 horsepower pays off."
+          ]
+        },
+        {
+          "shot": 514,
+          "duration": [
+            3892.4166666666665,
+            3893.375
+          ],
+          "sentences": [
+            "Ahh...Oh, oh, God."
+          ]
+        },
+        {
+          "shot": 515,
+          "duration": [
+            3893.4166666666665,
+            3894.75
+          ],
+          "sentences": [
+            "Ahh...Oh, oh, God."
+          ]
+        },
+        {
+          "shot": 516,
+          "duration": [
+            3894.7916666666665,
+            3895.9166666666665
+          ],
+          "sentences": [
+            "Ahh...Oh, oh, God."
+          ]
+        },
+        {
+          "shot": 518,
+          "duration": [
+            3899.25,
+            3900.7083333333335
+          ],
+          "sentences": [
+            "Don't you ever fucking tailgate."
+          ]
+        },
+        {
+          "shot": 519,
+          "duration": [
+            3900.75,
+            3904.5
+          ],
+          "sentences": [
+            "Don't you ever fucking tailgate."
+          ]
+        },
+        {
+          "shot": 520,
+          "duration": [
+            3904.5416666666665,
+            3906.375
+          ],
+          "sentences": [
+            "Don't you ever fucking tailgate.",
+            "Ever. - Tell him you won't tailgate."
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            3906.4166666666665,
+            3907.9583333333335
+          ],
+          "sentences": [
+            "Ever. - Tell him you won't tailgate.",
+            "Ever."
+          ]
+        },
+        {
+          "shot": 522,
+          "duration": [
+            3908.0,
+            3909.0833333333335
+          ],
+          "sentences": [
+            "Ever.",
+            "I won't ever..."
+          ]
+        },
+        {
+          "shot": 523,
+          "duration": [
+            3909.125,
+            3916.8333333333335
+          ],
+          "sentences": [
+            "I won't ever...",
+            "Do you know how many fucking car lengths it takes...",
+            "...to stop a car at 35 miles an hour?.",
+            "6 fucking car lengths. That's 106 fucking feet, Mister."
+          ]
+        },
+        {
+          "shot": 524,
+          "duration": [
+            3916.875,
+            3919.3333333333335
+          ],
+          "sentences": [
+            "6 fucking car lengths. That's 106 fucking feet, Mister."
+          ]
+        },
+        {
+          "shot": 525,
+          "duration": [
+            3919.375,
+            3921.2916666666665
+          ],
+          "sentences": [
+            "6 fucking car lengths. That's 106 fucking feet, Mister.",
+            "If I had to stop suddenly, you would've hit me."
+          ]
+        },
+        {
+          "shot": 526,
+          "duration": [
+            3921.3333333333335,
+            3922.375
+          ],
+          "sentences": [
+            "If I had to stop suddenly, you would've hit me."
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            3922.4166666666665,
+            3924.6666666666665
+          ],
+          "sentences": [
+            "If I had to stop suddenly, you would've hit me.",
+            "I want you to get a fucking driver's manual. I want you to study that motherfucker."
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            3924.7083333333335,
+            3927.0833333333335
+          ],
+          "sentences": [
+            "I want you to get a fucking driver's manual. I want you to study that motherfucker."
+          ]
+        },
+        {
+          "shot": 529,
+          "duration": [
+            3927.125,
+            3934.7916666666665
+          ],
+          "sentences": [
+            "I want you to get a fucking driver's manual. I want you to study that motherfucker.",
+            "And I want you to obey the goddamn rules.",
+            "50 fucking thousand people were killed on the highway last",
+            "Because of fucking assholes like you."
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            3934.8333333333335,
+            3945.0833333333335
+          ],
+          "sentences": [
+            "Because of fucking assholes like you.",
+            "Tell me you're going to get a manual. - I will ge-get a manual."
+          ]
+        },
+        {
+          "shot": 531,
+          "duration": [
+            3945.125,
+            3947.1666666666665
+          ],
+          "sentences": [
+            "Fucking ldiot."
+          ]
+        },
+        {
+          "shot": 532,
+          "duration": [
+            3947.2083333333335,
+            3951.4166666666665
+          ],
+          "sentences": [
+            "Fucking ldiot.",
+            "Oh.. Aah.. Oh, Gooood."
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            3951.4583333333335,
+            3958.7916666666665
+          ],
+          "sentences": [
+            "Oh.. Aah.. Oh, Gooood."
+          ]
+        },
+        {
+          "shot": 537,
+          "duration": [
+            3986.5833333333335,
+            3996.6666666666665
+          ],
+          "sentences": [
+            "I'm sorry about that, Pete.",
+            "But tailgating is one thing I cannot tolerate."
+          ]
+        },
+        {
+          "shot": 538,
+          "duration": [
+            3996.7083333333335,
+            4000.9166666666665
+          ],
+          "sentences": [
+            "But tailgating is one thing I cannot tolerate.",
+            "Yeah, I can see that."
+          ]
+        },
+        {
+          "shot": 539,
+          "duration": [
+            4000.9583333333335,
+            4010.8333333333335
+          ],
+          "sentences": [
+            "Yeah, I can see that."
+          ]
+        },
+        {
+          "shot": 540,
+          "duration": [
+            4010.875,
+            4016.5
+          ],
+          "sentences": [
+            "Wait a minute."
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            4016.5416666666665,
+            4019.2083333333335
+          ],
+          "sentences": [
+            "Thanks, Mr. Eddy. - No, thank you."
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            4019.25,
+            4025.875
+          ],
+          "sentences": [
+            "Thanks, Mr. Eddy. - No, thank you.",
+            "I'm bringing the Caddy by tomorrow.",
+            "You like pornos?"
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            4025.9166666666665,
+            4027.9166666666665
+          ],
+          "sentences": [
+            "You like pornos?",
+            "Pornos? - Give you a boner?"
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            4027.9583333333335,
+            4029.0833333333335
+          ],
+          "sentences": [
+            "Pornos? - Give you a boner?"
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            4029.125,
+            4033.0416666666665
+          ],
+          "sentences": [
+            "Pornos? - Give you a boner?",
+            "Uh, No, No thanks. No."
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            4033.0833333333335,
+            4045.8333333333335
+          ],
+          "sentences": [
+            "Uh, No, No thanks. No.",
+            "Suit yourself, champ.",
+            "Well, Uh, I-I'll see you then. - You will."
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            4045.875,
+            4048.5
+          ],
+          "sentences": [
+            "Damn."
+          ]
+        },
+        {
+          "shot": 548,
+          "duration": [
+            4048.5416666666665,
+            4057.5
+          ],
+          "sentences": [
+            "Damn.",
+            "Lou, you recognize that guy?"
+          ]
+        },
+        {
+          "shot": 549,
+          "duration": [
+            4057.5416666666665,
+            4063.0833333333335
+          ],
+          "sentences": [
+            "Lou, you recognize that guy?",
+            "Yeah...Laurent."
+          ]
+        },
+        {
+          "shot": 550,
+          "duration": [
+            4063.125,
+            4073.2916666666665
+          ],
+          "sentences": [
+            "Yeah...Laurent."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0013",
+      "shot": [
+        569,
+        648
+      ],
+      "frame": [
+        103412,
+        116945
+      ],
+      "duration": [
+        4308.848971666667,
+        4872.689212666667
+      ],
+      "consistency": 0.9857626249134633,
+      "description": "The next day, Mr. Eddy returns to the garage with his Cadillac for Pete to repair, accompanied by his beautiful blonde girlfriend, Alice Wakefield (also Patricia Arquette). She and Pete make eye contact and we feel the chemistry ignite between these two characters. At the end of the day, Alice returns to the garage and invites Pete out for dinner. Against his better judgement, Pete begins a secret liaison with Alice, meeting her at the Starlite Motel. Hank and Lou continue to keep tabs on Pete, his affair with Alice giving them even more reason to connect him with Mr. Eddy / Dick Laurent and possible criminal activity.",
+      "subtitle": [
+        {
+          "shot": 574,
+          "duration": [
+            4341.333333333333,
+            4344.166666666667
+          ],
+          "sentences": [
+            "What'd you change it for?"
+          ]
+        },
+        {
+          "shot": 575,
+          "duration": [
+            4344.208333333333,
+            4351.708333333333
+          ],
+          "sentences": [
+            "What'd you change it for?",
+            "I like that.",
+            "Well, I don't."
+          ]
+        },
+        {
+          "shot": 577,
+          "duration": [
+            4358.958333333333,
+            4366.708333333333
+          ],
+          "sentences": [
+            "I like that."
+          ]
+        },
+        {
+          "shot": 585,
+          "duration": [
+            4392.041666666667,
+            4398.166666666667
+          ],
+          "sentences": [
+            "I'm leaving the Caddy like I told you."
+          ]
+        },
+        {
+          "shot": 586,
+          "duration": [
+            4398.208333333333,
+            4405.333333333333
+          ],
+          "sentences": [
+            "I'm leaving the Caddy like I told you.",
+            "Think you'll get a chance to give her the once-over today?",
+            "Sure.",
+            "Uh, you want to pick it up later on ...or in the morning?"
+          ]
+        },
+        {
+          "shot": 587,
+          "duration": [
+            4405.375,
+            4408.916666666667
+          ],
+          "sentences": [
+            "Uh, you want to pick it up later on ...or in the morning?",
+            "Well, if you think you can finish it, I'll be back later today."
+          ]
+        },
+        {
+          "shot": 588,
+          "duration": [
+            4408.958333333333,
+            4414.0
+          ],
+          "sentences": [
+            "Well, if you think you can finish it, I'll be back later today.",
+            "It'll be done. - You're my man, Pete."
+          ]
+        },
+        {
+          "shot": 600,
+          "duration": [
+            4520.0,
+            4524.625
+          ],
+          "sentences": [
+            "Don't let that thing upset you."
+          ]
+        },
+        {
+          "shot": 601,
+          "duration": [
+            4524.666666666667,
+            4532.958333333333
+          ],
+          "sentences": [
+            "Don't let that thing upset you."
+          ]
+        },
+        {
+          "shot": 605,
+          "duration": [
+            4550.25,
+            4555.25
+          ],
+          "sentences": [
+            "Holy smokes."
+          ]
+        },
+        {
+          "shot": 611,
+          "duration": [
+            4579.75,
+            4581.875
+          ],
+          "sentences": [
+            "Hey."
+          ]
+        },
+        {
+          "shot": 612,
+          "duration": [
+            4581.916666666667,
+            4590.708333333333
+          ],
+          "sentences": [
+            "Hey.",
+            "I'm Alice Wakefield.",
+            "Pete Dayton.",
+            "I was here earlier. - Yeah, I remember."
+          ]
+        },
+        {
+          "shot": 613,
+          "duration": [
+            4590.75,
+            4595.041666666667
+          ],
+          "sentences": [
+            "I was here earlier. - Yeah, I remember."
+          ]
+        },
+        {
+          "shot": 614,
+          "duration": [
+            4595.083333333333,
+            4602.083333333333
+          ],
+          "sentences": [
+            "How'd you like to take me to dinner?"
+          ]
+        },
+        {
+          "shot": 615,
+          "duration": [
+            4602.125,
+            4608.458333333333
+          ],
+          "sentences": [
+            "How'd you like to take me to dinner?",
+            "I don't know."
+          ]
+        },
+        {
+          "shot": 616,
+          "duration": [
+            4608.5,
+            4618.041666666667
+          ],
+          "sentences": [
+            "OK.",
+            "Why don't I take you to dinner?"
+          ]
+        },
+        {
+          "shot": 617,
+          "duration": [
+            4618.083333333333,
+            4627.208333333333
+          ],
+          "sentences": [
+            "Look, I don't think this is a very good idea."
+          ]
+        },
+        {
+          "shot": 618,
+          "duration": [
+            4627.25,
+            4634.416666666667
+          ],
+          "sentences": [
+            "Do you have a phone?"
+          ]
+        },
+        {
+          "shot": 619,
+          "duration": [
+            4634.458333333333,
+            4641.416666666667
+          ],
+          "sentences": [
+            "Yeah.",
+            "It's right...lt's right there."
+          ]
+        },
+        {
+          "shot": 620,
+          "duration": [
+            4641.458333333333,
+            4652.333333333333
+          ],
+          "sentences": [
+            "I have to call myself another taxi."
+          ]
+        },
+        {
+          "shot": 621,
+          "duration": [
+            4652.375,
+            4655.375
+          ],
+          "sentences": [
+            "Hello? Van Nuys?"
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            4655.416666666667,
+            4661.708333333333
+          ],
+          "sentences": [
+            "Hello? Van Nuys?",
+            "Can I have the number for Vanguard Cab?"
+          ]
+        },
+        {
+          "shot": 626,
+          "duration": [
+            4672.666666666667,
+            4703.458333333333
+          ],
+          "sentences": [
+            "Hello. Yes, I need a Taxi. Arnie's garage, the corner of fifth...",
+            "Hello. Yeah, we're not going to need that cab.",
+            "Thanks.",
+            "Maybe we should just skip dinner."
+          ]
+        },
+        {
+          "shot": 629,
+          "duration": [
+            4726.916666666667,
+            4738.041666666667
+          ],
+          "sentences": [
+            "Take my clothes off."
+          ]
+        },
+        {
+          "shot": 630,
+          "duration": [
+            4738.083333333333,
+            4740.458333333333
+          ],
+          "sentences": [
+            "Take my clothes off."
+          ]
+        },
+        {
+          "shot": 631,
+          "duration": [
+            4740.5,
+            4746.458333333333
+          ],
+          "sentences": [
+            "Fucker gets more pussy than a toilet seat."
+          ]
+        },
+        {
+          "shot": 635,
+          "duration": [
+            4794.541666666667,
+            4818.25
+          ],
+          "sentences": [
+            "I want more. - Me, too.",
+            "Can I call you?",
+            "Yeah. Call me at home. I'll give you the number.",
+            "OK, Baby."
+          ]
+        },
+        {
+          "shot": 636,
+          "duration": [
+            4818.291666666667,
+            4830.291666666667
+          ],
+          "sentences": [
+            "OK, Baby."
+          ]
+        },
+        {
+          "shot": 638,
+          "duration": [
+            4832.291666666667,
+            4846.416666666667
+          ],
+          "sentences": [
+            "Hey. Up here. Come on up, Baby. I already got the room."
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            4846.458333333333,
+            4847.583333333333
+          ],
+          "sentences": [
+            "Hey. Up here. Come on up, Baby. I already got the room."
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            4847.625,
+            4849.416666666667
+          ],
+          "sentences": [
+            "Hey. Up here. Come on up, Baby. I already got the room."
+          ]
+        },
+        {
+          "shot": 641,
+          "duration": [
+            4849.458333333333,
+            4851.416666666667
+          ],
+          "sentences": [
+            "Hey. Up here. Come on up, Baby. I already got the room."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0015",
+      "shot": [
+        682,
+        708
+      ],
+      "frame": [
+        121504,
+        124790
+      ],
+      "duration": [
+        5062.679046333333,
+        5199.551497333333
+      ],
+      "consistency": 0.9828423617547418,
+      "description": "Pete returns home to find his worried parents waiting to confront him about the night he vanished. Pete continues to claim that he has no memory about that night, except for flashes of being on the front lawn of his house with Sheila and his parents running after him. Bill and Candace indicate that they saw more but refuse to discuss whatever they saw with Pete.",
+      "subtitle": [
+        {
+          "shot": 682,
+          "duration": [
+            5053.375,
+            5086.208333333333
+          ],
+          "sentences": [
+            "Hey. - Sit down a minute.",
+            "What's up? - Sit down.",
+            "You don't look so good.",
+            "No, I just...just have a headache.",
+            "What's going on?",
+            "The police called us."
+          ]
+        },
+        {
+          "shot": 683,
+          "duration": [
+            5086.25,
+            5089.291666666667
+          ],
+          "sentences": [
+            "What'd they want?"
+          ]
+        },
+        {
+          "shot": 684,
+          "duration": [
+            5089.333333333333,
+            5099.916666666667
+          ],
+          "sentences": [
+            "They want to know if we had a chance...",
+            "...to find out what happened to you the other night.",
+            "And they want to know if you remembered anything."
+          ]
+        },
+        {
+          "shot": 685,
+          "duration": [
+            5099.958333333333,
+            5110.25
+          ],
+          "sentences": [
+            "But I don't remember anything.",
+            "What'd you tell them?"
+          ]
+        },
+        {
+          "shot": 686,
+          "duration": [
+            5110.291666666667,
+            5121.041666666667
+          ],
+          "sentences": [
+            "We're not going to say anything...",
+            "...about that night to the police."
+          ]
+        },
+        {
+          "shot": 687,
+          "duration": [
+            5121.083333333333,
+            5126.333333333333
+          ],
+          "sentences": [
+            "We saw you that night, Pete."
+          ]
+        },
+        {
+          "shot": 688,
+          "duration": [
+            5126.375,
+            5130.75
+          ],
+          "sentences": [
+            "You came home with your friend Sheila."
+          ]
+        },
+        {
+          "shot": 689,
+          "duration": [
+            5130.791666666667,
+            5135.5
+          ],
+          "sentences": [
+            "You came home with your friend Sheila.",
+            "Sheila?"
+          ]
+        },
+        {
+          "shot": 690,
+          "duration": [
+            5135.541666666667,
+            5140.0
+          ],
+          "sentences": [
+            "Yeah. There was a man with you."
+          ]
+        },
+        {
+          "shot": 691,
+          "duration": [
+            5140.041666666667,
+            5146.625
+          ],
+          "sentences": [
+            "What is this? I mean, why didn't you tell me anything?"
+          ]
+        },
+        {
+          "shot": 693,
+          "duration": [
+            5149.083333333333,
+            5152.833333333333
+          ],
+          "sentences": [
+            "Who's the man?"
+          ]
+        },
+        {
+          "shot": 694,
+          "duration": [
+            5152.875,
+            5157.375
+          ],
+          "sentences": [
+            "I've never seen him before in my life."
+          ]
+        },
+        {
+          "shot": 695,
+          "duration": [
+            5157.416666666667,
+            5164.333333333333
+          ],
+          "sentences": [
+            "What happened to me?"
+          ]
+        },
+        {
+          "shot": 697,
+          "duration": [
+            5166.666666666667,
+            5169.041666666667
+          ],
+          "sentences": [
+            "Please, please, Dad, Tell me."
+          ]
+        },
+        {
+          "shot": 698,
+          "duration": [
+            5169.083333333333,
+            5178.791666666667
+          ],
+          "sentences": [
+            "Please, please, Dad, Tell me."
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            5188.958333333333,
+            5189.958333333333
+          ],
+          "sentences": [
+            "Hey, Pete. Hey."
+          ]
+        },
+        {
+          "shot": 704,
+          "duration": [
+            5190.0,
+            5191.041666666667
+          ],
+          "sentences": [
+            "Hey, Pete. Hey."
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            5191.083333333333,
+            5191.916666666667
+          ],
+          "sentences": [
+            "Hey."
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            5191.958333333333,
+            5192.791666666667
+          ],
+          "sentences": [
+            "Hey."
+          ]
+        },
+        {
+          "shot": 707,
+          "duration": [
+            5192.833333333333,
+            5203.333333333333
+          ],
+          "sentences": [
+            "Hey."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0016",
+      "shot": [
+        708,
+        723
+      ],
+      "frame": [
+        124883,
+        126178
+      ],
+      "duration": [
+        5203.4683393333335,
+        5257.404543333333
+      ],
+      "consistency": 0.9439474272234646,
+      "description": "The next day, Mr. Eddy pays Pete another visit at the garage where he brandishes a gun while making a veiled threat on Pete's life. He claims that he would kill anyone whom he caught fooling around with Alice.",
+      "subtitle": [
+        {
+          "shot": 708,
+          "duration": [
+            5203.375,
+            5209.125
+          ],
+          "sentences": [
+            "Hey.",
+            "Mr. Eddy."
+          ]
+        },
+        {
+          "shot": 711,
+          "duration": [
+            5216.666666666667,
+            5218.375
+          ],
+          "sentences": [
+            "Hey, Pete."
+          ]
+        },
+        {
+          "shot": 712,
+          "duration": [
+            5218.416666666667,
+            5220.708333333333
+          ],
+          "sentences": [
+            "Hey, Pete."
+          ]
+        },
+        {
+          "shot": 713,
+          "duration": [
+            5220.75,
+            5221.583333333333
+          ],
+          "sentences": [
+            "How you doing? - I'm OK."
+          ]
+        },
+        {
+          "shot": 714,
+          "duration": [
+            5221.625,
+            5223.458333333333
+          ],
+          "sentences": [
+            "How you doing? - I'm OK.",
+            "I'm sure you noticed that girl who was with me the other day."
+          ]
+        },
+        {
+          "shot": 715,
+          "duration": [
+            5223.5,
+            5227.541666666667
+          ],
+          "sentences": [
+            "I'm sure you noticed that girl who was with me the other day.",
+            "Good looking Blonde. She stayed in the car."
+          ]
+        },
+        {
+          "shot": 716,
+          "duration": [
+            5227.583333333333,
+            5229.416666666667
+          ],
+          "sentences": [
+            "Good looking Blonde. She stayed in the car."
+          ]
+        },
+        {
+          "shot": 717,
+          "duration": [
+            5229.458333333333,
+            5244.791666666667
+          ],
+          "sentences": [
+            "Good looking Blonde. She stayed in the car.",
+            "Her name is Alice. I swear, I love that girl to death.",
+            "If I ever found out somebody was making out with her...",
+            "I'd take this..."
+          ]
+        },
+        {
+          "shot": 718,
+          "duration": [
+            5244.833333333333,
+            5246.0
+          ],
+          "sentences": [
+            "I'd take this..."
+          ]
+        },
+        {
+          "shot": 719,
+          "duration": [
+            5246.041666666667,
+            5249.333333333333
+          ],
+          "sentences": [
+            "I'd take this...",
+            "...and I'd shove it so far up his ass, it would come out his mouth."
+          ]
+        },
+        {
+          "shot": 720,
+          "duration": [
+            5249.375,
+            5252.791666666667
+          ],
+          "sentences": [
+            "...and I'd shove it so far up his ass, it would come out his mouth.",
+            "And then you know what I'd do? - What?"
+          ]
+        },
+        {
+          "shot": 721,
+          "duration": [
+            5252.833333333333,
+            5254.75
+          ],
+          "sentences": [
+            "And then you know what I'd do? - What?"
+          ]
+        },
+        {
+          "shot": 722,
+          "duration": [
+            5254.791666666667,
+            5261.958333333333
+          ],
+          "sentences": [
+            "I'd blow his fucking brains out."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0017",
+      "shot": [
+        726,
+        785
+      ],
+      "frame": [
+        126846,
+        138485
+      ],
+      "duration": [
+        5285.268377666667,
+        5770.192770666667
+      ],
+      "consistency": 0.9782176785649966,
+      "description": "After work, Pete secretly visits Alice at the Starlight. She tells him that Mr. Eddy suspects her and Pete of seeing each other. Alice reveals to Pete that Mr. Eddy is actually a porno producer named Dick Laurent. She tells Pete a story about how Mr. Eddy coerced her into a relationship with him by literally holding a gun to her head, but Pete remains unconvinced that Alice is only a reluctant partner in this relationship, insisting \"you liked it, huh?\" Alice presents Pete with a plan to steal money from a friend of hers so they can leave town. She tells Pete that on the following night, she will meet with Mr. Eddy's associate Andy (the same Andy who knew Renee in the first half of the story) at Andy's house. She'll facilitate Pete's entry into the house so that they can both rob Andy and use the money to run away together. Pete is wary of trusting Alice, but also overwhelmed by his desire to have her.",
+      "subtitle": [
+        {
+          "shot": 726,
+          "duration": [
+            5277.5,
+            5286.625
+          ],
+          "sentences": [
+            "I'll get it.",
+            "Hello?"
+          ]
+        },
+        {
+          "shot": 727,
+          "duration": [
+            5286.666666666667,
+            5294.75
+          ],
+          "sentences": [
+            "Hello?",
+            "Meet me at the Starlight Hotel on Sycamore in 20 minutes."
+          ]
+        },
+        {
+          "shot": 728,
+          "duration": [
+            5294.791666666667,
+            5296.416666666667
+          ],
+          "sentences": [
+            "Meet me at the Starlight Hotel on Sycamore in 20 minutes."
+          ]
+        },
+        {
+          "shot": 730,
+          "duration": [
+            5299.625,
+            5301.916666666667
+          ],
+          "sentences": [
+            "He'll kill us."
+          ]
+        },
+        {
+          "shot": 731,
+          "duration": [
+            5301.958333333333,
+            5310.708333333333
+          ],
+          "sentences": [
+            "He'll kill us.",
+            "Are you...",
+            "...positive that he knows?"
+          ]
+        },
+        {
+          "shot": 732,
+          "duration": [
+            5310.75,
+            5335.458333333333
+          ],
+          "sentences": [
+            "...positive that he knows?",
+            "I'm not positive, but he knows.",
+            "So...What are we supposed to do?",
+            "I don't know."
+          ]
+        },
+        {
+          "shot": 735,
+          "duration": [
+            5342.291666666667,
+            5366.583333333333
+          ],
+          "sentences": [
+            "If we could just get some money, we could go away together."
+          ]
+        },
+        {
+          "shot": 736,
+          "duration": [
+            5366.625,
+            5388.875
+          ],
+          "sentences": [
+            "I know a guy.",
+            "He pays girls to party with him.",
+            "He's always got a lot of cash.",
+            "He'd be easy to rob.",
+            "Then we'd have the money. We could go away."
+          ]
+        },
+        {
+          "shot": 737,
+          "duration": [
+            5388.916666666667,
+            5403.333333333333
+          ],
+          "sentences": [
+            "We could be together.",
+            "Have you partied with him?"
+          ]
+        },
+        {
+          "shot": 739,
+          "duration": [
+            5406.875,
+            5419.5
+          ],
+          "sentences": [
+            "Did you like it?",
+            "No.",
+            "It was part of the deal.",
+            "What deal?"
+          ]
+        },
+        {
+          "shot": 740,
+          "duration": [
+            5419.541666666667,
+            5429.75
+          ],
+          "sentences": [
+            "What deal?",
+            "He works for Mr. Eddy. - Yeah?",
+            "And what's he do? - He makes films for Mr. Eddy."
+          ]
+        },
+        {
+          "shot": 741,
+          "duration": [
+            5429.791666666667,
+            5442.541666666667
+          ],
+          "sentences": [
+            "And what's he do? - He makes films for Mr. Eddy.",
+            "Pornos? - Yeah.",
+            "How did you get in with these fucking people, Alice?",
+            "Pete... - No. Pete. I want to know how it happened."
+          ]
+        },
+        {
+          "shot": 742,
+          "duration": [
+            5442.583333333333,
+            5458.083333333333
+          ],
+          "sentences": [
+            "It was a long time ago.",
+            "I met this guy at a place called Moke's. We became friends.",
+            "He told me about a job."
+          ]
+        },
+        {
+          "shot": 743,
+          "duration": [
+            5458.125,
+            5465.083333333333
+          ],
+          "sentences": [
+            "In pornos?"
+          ]
+        },
+        {
+          "shot": 744,
+          "duration": [
+            5465.125,
+            5476.0
+          ],
+          "sentences": [
+            "In pornos?",
+            "No. Just a job. I didn't know what."
+          ]
+        },
+        {
+          "shot": 745,
+          "duration": [
+            5476.041666666667,
+            5479.416666666667
+          ],
+          "sentences": [
+            "He made an appointment for me to see a man."
+          ]
+        },
+        {
+          "shot": 746,
+          "duration": [
+            5479.458333333333,
+            5487.958333333333
+          ],
+          "sentences": [
+            "He made an appointment for me to see a man.",
+            "I went to this place.",
+            "They made me wait there forever."
+          ]
+        },
+        {
+          "shot": 747,
+          "duration": [
+            5488.0,
+            5493.041666666667
+          ],
+          "sentences": [
+            "There was a guy guarding the door."
+          ]
+        },
+        {
+          "shot": 748,
+          "duration": [
+            5493.083333333333,
+            5499.291666666667
+          ],
+          "sentences": [
+            "In another room, there was this other guy lifting weights."
+          ]
+        },
+        {
+          "shot": 749,
+          "duration": [
+            5499.333333333333,
+            5505.5
+          ],
+          "sentences": [
+            "In another room, there was this other guy lifting weights."
+          ]
+        },
+        {
+          "shot": 750,
+          "duration": [
+            5505.541666666667,
+            5524.333333333333
+          ],
+          "sentences": [
+            "I started getting nervous.",
+            "When it got dark...",
+            "...they brought me into this other room."
+          ]
+        },
+        {
+          "shot": 776,
+          "duration": [
+            5655.25,
+            5664.541666666667
+          ],
+          "sentences": [
+            "Why didn't you just leave?"
+          ]
+        },
+        {
+          "shot": 778,
+          "duration": [
+            5669.458333333333,
+            5675.0
+          ],
+          "sentences": [
+            "You liked it, huh?"
+          ]
+        },
+        {
+          "shot": 779,
+          "duration": [
+            5675.041666666667,
+            5684.958333333333
+          ],
+          "sentences": [
+            "If you want me to go away, I'll go away."
+          ]
+        },
+        {
+          "shot": 780,
+          "duration": [
+            5685.0,
+            5689.125
+          ],
+          "sentences": [
+            "I don't want you to go away."
+          ]
+        },
+        {
+          "shot": 781,
+          "duration": [
+            5689.166666666667,
+            5703.958333333333
+          ],
+          "sentences": [
+            "I don't want you to go away.",
+            "I don't want you to go away."
+          ]
+        },
+        {
+          "shot": 782,
+          "duration": [
+            5704.0,
+            5726.666666666667
+          ],
+          "sentences": [
+            "I love you, Alice.",
+            "Should I call Andy? - Andy?",
+            "That's his name, Andy. Our ticket out of here.",
+            "Yeah. Call him.",
+            "I'll set it up for tomorrow night."
+          ]
+        },
+        {
+          "shot": 783,
+          "duration": [
+            5726.708333333333,
+            5763.041666666667
+          ],
+          "sentences": [
+            "I'll set it up for tomorrow night.",
+            "You meet me at his place at 11:00.",
+            "Don't drive, take the bus. Make sure no one follows you.",
+            "His address is easy to remember. It's 2224 Deep Dell Place.",
+            "It's a white Stucco job on the south side of the street.",
+            "I'll be upstairs with Andy. The back door will be open.",
+            "Go through the kitchen into the living room. There's a bar there.",
+            "At 11:15, I'll send Andy down to fix me a drink.",
+            "And when he does, you crack him on the head, OK?"
+          ]
+        },
+        {
+          "shot": 784,
+          "duration": [
+            5763.083333333333,
+            5770.541666666667
+          ],
+          "sentences": [
+            "OK."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0018",
+      "shot": [
+        785,
+        839
+      ],
+      "frame": [
+        138494,
+        144909
+      ],
+      "duration": [
+        5770.608297,
+        6037.85247
+      ],
+      "consistency": 0.9087514585397533,
+      "description": "That same evening when Pete comes home, he is confronted by an enraged Sheila over his infidelity. She accuses him of being \"different,\" and tries to persuade Bill and Candace to tell Pete the truth about \"that night,\" but they remain close-lipped. As Sheila runs off into the night, the phone rings inside Pete's house. The caller is Mr. Eddy, who, along with his associate, the Mystery Man, threatens Pete again, this time more directly. Frightened, Pete calls Alice and agrees to help with her plan.",
+      "subtitle": [
+        {
+          "shot": 787,
+          "duration": [
+            5796.0,
+            5797.708333333333
+          ],
+          "sentences": [
+            "You're fucking somebody else, aren't you? - Sheila."
+          ]
+        },
+        {
+          "shot": 788,
+          "duration": [
+            5797.75,
+            5799.5
+          ],
+          "sentences": [
+            "You're fucking somebody else, aren't you? - Sheila."
+          ]
+        },
+        {
+          "shot": 789,
+          "duration": [
+            5799.541666666667,
+            5803.666666666667
+          ],
+          "sentences": [
+            "You're fucking somebody else, aren't you? - Sheila.",
+            "You fuck me whenever you want. Sheila. Sheila, stop it.",
+            "You don't call. Who is she? - Stop it."
+          ]
+        },
+        {
+          "shot": 790,
+          "duration": [
+            5803.708333333333,
+            5808.666666666667
+          ],
+          "sentences": [
+            "You don't call. Who is she? - Stop it.",
+            "What's the bitch's name? - I'm sorry.",
+            "Oh, you're sorry?"
+          ]
+        },
+        {
+          "shot": 791,
+          "duration": [
+            5808.708333333333,
+            5810.416666666667
+          ],
+          "sentences": [
+            "Go home. - You're sorry?",
+            "Sheila, stop it."
+          ]
+        },
+        {
+          "shot": 792,
+          "duration": [
+            5810.458333333333,
+            5813.833333333333
+          ],
+          "sentences": [
+            "Sheila, stop it.",
+            "You're sorry, you piece of shit.",
+            "You're sorry? - Go home."
+          ]
+        },
+        {
+          "shot": 793,
+          "duration": [
+            5813.875,
+            5816.291666666667
+          ],
+          "sentences": [
+            "You're sorry? - Go home.",
+            "Fuck you...Fuck you. - Sheila, stop, Sheila.",
+            "Fuck you... Fuck you."
+          ]
+        },
+        {
+          "shot": 794,
+          "duration": [
+            5816.333333333333,
+            5818.416666666667
+          ],
+          "sentences": [
+            "Fuck you... Fuck you.",
+            "Fuck you...Fuck you. - Sheila...Sheila."
+          ]
+        },
+        {
+          "shot": 795,
+          "duration": [
+            5818.458333333333,
+            5819.166666666667
+          ],
+          "sentences": [
+            "Fuck you...Fuck you. - Sheila...Sheila."
+          ]
+        },
+        {
+          "shot": 796,
+          "duration": [
+            5819.208333333333,
+            5826.666666666667
+          ],
+          "sentences": [
+            "Fuck you...Fuck you. - Sheila...Sheila.",
+            "Sheila. Let's both go in and talk about this quietly.",
+            "Sheila, come on."
+          ]
+        },
+        {
+          "shot": 797,
+          "duration": [
+            5826.708333333333,
+            5830.5
+          ],
+          "sentences": [
+            "You are different. - Sheila."
+          ]
+        },
+        {
+          "shot": 798,
+          "duration": [
+            5830.541666666667,
+            5833.125
+          ],
+          "sentences": [
+            "You are different. - Sheila.",
+            "Tell him...Tell him."
+          ]
+        },
+        {
+          "shot": 799,
+          "duration": [
+            5833.166666666667,
+            5833.958333333333
+          ],
+          "sentences": [
+            "Tell him...Tell him.",
+            "Sheila, don't. Don't."
+          ]
+        },
+        {
+          "shot": 800,
+          "duration": [
+            5834.0,
+            5838.458333333333
+          ],
+          "sentences": [
+            "Sheila, don't. Don't.",
+            "I don't care anymore anyway. I'm sorry, Mr. Dayton."
+          ]
+        },
+        {
+          "shot": 801,
+          "duration": [
+            5838.5,
+            5844.583333333333
+          ],
+          "sentences": [
+            "I don't care anymore anyway. I'm sorry, Mr. Dayton."
+          ]
+        },
+        {
+          "shot": 802,
+          "duration": [
+            5844.625,
+            5847.625
+          ],
+          "sentences": [
+            "I don't care anymore anyway. I'm sorry, Mr. Dayton.",
+            "I won't bother you, or any member of your family ever again."
+          ]
+        },
+        {
+          "shot": 803,
+          "duration": [
+            5847.666666666667,
+            5851.833333333333
+          ],
+          "sentences": [
+            "I won't bother you, or any member of your family ever again."
+          ]
+        },
+        {
+          "shot": 809,
+          "duration": [
+            5864.416666666667,
+            5869.958333333333
+          ],
+          "sentences": [
+            "Pete?"
+          ]
+        },
+        {
+          "shot": 810,
+          "duration": [
+            5870.0,
+            5872.083333333333
+          ],
+          "sentences": [
+            "There's a man on the phone."
+          ]
+        },
+        {
+          "shot": 811,
+          "duration": [
+            5872.125,
+            5878.166666666667
+          ],
+          "sentences": [
+            "There's a man on the phone.",
+            "He's called a couple of times tonight.",
+            "Who is it?"
+          ]
+        },
+        {
+          "shot": 812,
+          "duration": [
+            5878.208333333333,
+            5882.125
+          ],
+          "sentences": [
+            "Who is it?",
+            "He won't give his name."
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            5898.75,
+            5912.083333333333
+          ],
+          "sentences": [
+            "Hello?",
+            "Hey, Pete, how you doing?",
+            "Who is this? - You know who it is."
+          ]
+        },
+        {
+          "shot": 817,
+          "duration": [
+            5913.958333333333,
+            5916.583333333333
+          ],
+          "sentences": [
+            "Mr. Eddy?"
+          ]
+        },
+        {
+          "shot": 818,
+          "duration": [
+            5916.625,
+            5925.458333333333
+          ],
+          "sentences": [
+            "Mr. Eddy?",
+            "Yeah. How you doing, Pete?",
+            "OK. - You're doing OK? That's good, Pete."
+          ]
+        },
+        {
+          "shot": 819,
+          "duration": [
+            5925.5,
+            5931.125
+          ],
+          "sentences": [
+            "Look, it's late Mr. Eddy, I... - I'm really glad to know you're doing OK."
+          ]
+        },
+        {
+          "shot": 820,
+          "duration": [
+            5931.166666666667,
+            5939.75
+          ],
+          "sentences": [
+            "Look, it's late Mr. Eddy, I... - I'm really glad to know you're doing OK.",
+            "You're sure you're OK? Everything all right?"
+          ]
+        },
+        {
+          "shot": 821,
+          "duration": [
+            5939.791666666667,
+            5945.041666666667
+          ],
+          "sentences": [
+            "You're sure you're OK? Everything all right?",
+            "Yeah.",
+            "I'm really glad to know you're doing good, Pete. Hey."
+          ]
+        },
+        {
+          "shot": 822,
+          "duration": [
+            5945.083333333333,
+            5950.583333333333
+          ],
+          "sentences": [
+            "I'm really glad to know you're doing good, Pete. Hey.",
+            "I want you to talk to a friend of mine."
+          ]
+        },
+        {
+          "shot": 823,
+          "duration": [
+            5950.625,
+            5957.833333333333
+          ],
+          "sentences": [
+            "I want you to talk to a friend of mine.",
+            "We've met before, haven't we?"
+          ]
+        },
+        {
+          "shot": 824,
+          "duration": [
+            5957.875,
+            5964.416666666667
+          ],
+          "sentences": [
+            "We've met before, haven't we?",
+            "I don't think so.",
+            "Where is it you think we've met?"
+          ]
+        },
+        {
+          "shot": 825,
+          "duration": [
+            5964.458333333333,
+            5969.916666666667
+          ],
+          "sentences": [
+            "Where is it you think we've met?",
+            "At your house. Don't you remember?"
+          ]
+        },
+        {
+          "shot": 827,
+          "duration": [
+            5971.5,
+            5974.333333333333
+          ],
+          "sentences": [
+            "No. No, I don't."
+          ]
+        },
+        {
+          "shot": 828,
+          "duration": [
+            5974.375,
+            5977.416666666667
+          ],
+          "sentences": [
+            "No. No, I don't."
+          ]
+        },
+        {
+          "shot": 829,
+          "duration": [
+            5977.458333333333,
+            5987.291666666667
+          ],
+          "sentences": [
+            "No. No, I don't.",
+            "In the East, the far East...",
+            "...when a person is sentenced to death,",
+            "they're sent to a place where they can't escape."
+          ]
+        },
+        {
+          "shot": 830,
+          "duration": [
+            5987.333333333333,
+            5991.958333333333
+          ],
+          "sentences": [
+            "they're sent to a place where they can't escape.",
+            "Never knowing when an executioner may step up behind them..."
+          ]
+        },
+        {
+          "shot": 831,
+          "duration": [
+            5992.0,
+            5995.666666666667
+          ],
+          "sentences": [
+            "Never knowing when an executioner may step up behind them...",
+            "...and fire a bullet into the back of their head."
+          ]
+        },
+        {
+          "shot": 832,
+          "duration": [
+            5995.708333333333,
+            5999.0
+          ],
+          "sentences": [
+            "...and fire a bullet into the back of their head.",
+            "What's going on?"
+          ]
+        },
+        {
+          "shot": 833,
+          "duration": [
+            5999.041666666667,
+            6001.333333333333
+          ],
+          "sentences": [
+            "It's been a pleasure talking to you."
+          ]
+        },
+        {
+          "shot": 834,
+          "duration": [
+            6001.375,
+            6003.166666666667
+          ],
+          "sentences": [
+            "It's been a pleasure talking to you.",
+            "Pete, I just wanted to jump on and tell you that I'm really glad you're doing OK."
+          ]
+        },
+        {
+          "shot": 835,
+          "duration": [
+            6003.208333333333,
+            6009.791666666667
+          ],
+          "sentences": [
+            "Pete, I just wanted to jump on and tell you that I'm really glad you're doing OK."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0019",
+      "shot": [
+        838,
+        937
+      ],
+      "frame": [
+        144943,
+        155693
+      ],
+      "duration": [
+        6039.304403666667,
+        6487.194639666667
+      ],
+      "consistency": 0.9254742025677912,
+      "description": "The next night, Pete sneaks out of his house and away from the two detectives in their squad car. He takes a local bus to Andy's house and enters through the back door that Alice has left unlocked. As planned, Alice sends Andy downstairs to fix her a drink and Pete knocks him unconscious. On a huge projection screen in the center of the living room, a porno of Alice having sex plays in a loop. Pete also sees a framed group photo of Andy, Mr. Eddy, Alice and Renee, and asks Alice whether the nearly identical women are both her. She simply points to the blonde woman and tells Pete that it's her, mentioning nothing about the dark-haired Renee. Andy comes to and attacks Pete. Pete pushes Andy off of him, throwing the man across the room where he impales his forehead on the corner of a glass coffee table, a freak accident that kills him instantly. Pete, now suffering a nosebleed, is horrified by the nasty turn of events, but Alice seems untroubled, coolly removing Andy's jewelry and gathering other valuables. Pete stumbles upstairs, hallucinating a motel where a nightmarish version of Alice taunts Pete while having sex with a faceless man.",
+      "subtitle": [
+        {
+          "shot": 867,
+          "duration": [
+            6203.416666666667,
+            6204.416666666667
+          ],
+          "sentences": [
+            "You got him."
+          ]
+        },
+        {
+          "shot": 868,
+          "duration": [
+            6204.458333333333,
+            6206.166666666667
+          ],
+          "sentences": [
+            "You got him.",
+            "Alice."
+          ]
+        },
+        {
+          "shot": 869,
+          "duration": [
+            6206.208333333333,
+            6214.041666666667
+          ],
+          "sentences": [
+            "Alice."
+          ]
+        },
+        {
+          "shot": 880,
+          "duration": [
+            6256.958333333333,
+            6283.166666666667
+          ],
+          "sentences": [
+            "Wow.",
+            "We killed him.",
+            "You killed him."
+          ]
+        },
+        {
+          "shot": 881,
+          "duration": [
+            6283.208333333333,
+            6287.958333333333
+          ],
+          "sentences": [
+            "Alice?"
+          ]
+        },
+        {
+          "shot": 882,
+          "duration": [
+            6288.0,
+            6298.083333333333
+          ],
+          "sentences": [
+            "Alice?",
+            "What do we do?",
+            "What do we do?"
+          ]
+        },
+        {
+          "shot": 883,
+          "duration": [
+            6298.125,
+            6302.166666666667
+          ],
+          "sentences": [
+            "What do we do?",
+            "We have to get the stuff."
+          ]
+        },
+        {
+          "shot": 884,
+          "duration": [
+            6302.208333333333,
+            6309.875
+          ],
+          "sentences": [
+            "We have to get the stuff.",
+            "We have to get out of here."
+          ]
+        },
+        {
+          "shot": 887,
+          "duration": [
+            6318.125,
+            6322.666666666667
+          ],
+          "sentences": [
+            "Ah, fuck."
+          ]
+        },
+        {
+          "shot": 888,
+          "duration": [
+            6322.708333333333,
+            6327.625
+          ],
+          "sentences": [
+            "Ah, fuck."
+          ]
+        },
+        {
+          "shot": 895,
+          "duration": [
+            6352.625,
+            6361.208333333333
+          ],
+          "sentences": [
+            "Is that you?"
+          ]
+        },
+        {
+          "shot": 896,
+          "duration": [
+            6361.25,
+            6366.041666666667
+          ],
+          "sentences": [
+            "Is that you?",
+            "Are both of them you?"
+          ]
+        },
+        {
+          "shot": 897,
+          "duration": [
+            6366.083333333333,
+            6373.541666666667
+          ],
+          "sentences": [
+            "That's me."
+          ]
+        },
+        {
+          "shot": 898,
+          "duration": [
+            6373.583333333333,
+            6375.875
+          ],
+          "sentences": [
+            "That's me."
+          ]
+        },
+        {
+          "shot": 899,
+          "duration": [
+            6375.916666666667,
+            6398.041666666667
+          ],
+          "sentences": [
+            "Honey, are you all right?",
+            "Where's the bathroom?",
+            "It's upstairs, down the hall."
+          ]
+        },
+        {
+          "shot": 929,
+          "duration": [
+            6445.708333333333,
+            6450.75
+          ],
+          "sentences": [
+            "Did you want to talk to me?"
+          ]
+        },
+        {
+          "shot": 931,
+          "duration": [
+            6452.416666666667,
+            6454.291666666667
+          ],
+          "sentences": [
+            "Did you want to ask me, why?"
+          ]
+        },
+        {
+          "shot": 932,
+          "duration": [
+            6454.333333333333,
+            6463.708333333333
+          ],
+          "sentences": [
+            "Did you want to ask me, why?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0020",
+      "shot": [
+        950,
+        998
+      ],
+      "frame": [
+        158094,
+        167312
+      ],
+      "duration": [
+        6587.286495,
+        6971.309729
+      ],
+      "consistency": 0.9839792037166184,
+      "description": "Pete and Alice flee in Andy's red sports car. They arrive at a cabin in the desert seen in both Fred's and Pete's visions. This is where Alice plans to meet the \"fence\" who will give them cash for the stolen goods. Alice looks around but finds the cabin empty. While waiting for the arrival of the fence, Alice and Pete make love on the desert sand. In the throes of passion, Pete whispers to Alice over and over that he wants her. Alice finally replies coldly: \"you'll never have me.\"",
+      "subtitle": [
+        {
+          "shot": 950,
+          "duration": [
+            6586.833333333333,
+            6598.375
+          ],
+          "sentences": [
+            "Pete, you drive."
+          ]
+        },
+        {
+          "shot": 952,
+          "duration": [
+            6604.541666666667,
+            6607.291666666667
+          ],
+          "sentences": [
+            "Where the fuck are we going, Alice?"
+          ]
+        },
+        {
+          "shot": 953,
+          "duration": [
+            6607.333333333333,
+            6617.291666666667
+          ],
+          "sentences": [
+            "Where the fuck are we going, Alice?",
+            "Where the fuck are we going?",
+            "We have to go to the desert, Baby."
+          ]
+        },
+        {
+          "shot": 954,
+          "duration": [
+            6617.333333333333,
+            6620.208333333333
+          ],
+          "sentences": [
+            "We have to go to the desert, Baby.",
+            "The fence I told you about..."
+          ]
+        },
+        {
+          "shot": 955,
+          "duration": [
+            6620.25,
+            6627.458333333333
+          ],
+          "sentences": [
+            "The fence I told you about...",
+            "He's at his cabin."
+          ]
+        },
+        {
+          "shot": 956,
+          "duration": [
+            6627.5,
+            6628.791666666667
+          ],
+          "sentences": [
+            "He's at his cabin."
+          ]
+        },
+        {
+          "shot": 966,
+          "duration": [
+            6699.375,
+            6704.041666666667
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 974,
+          "duration": [
+            6745.083333333333,
+            6752.75
+          ],
+          "sentences": [
+            "We'll have to wait."
+          ]
+        },
+        {
+          "shot": 975,
+          "duration": [
+            6752.791666666667,
+            6756.458333333333
+          ],
+          "sentences": [
+            "We'll have to wait."
+          ]
+        },
+        {
+          "shot": 977,
+          "duration": [
+            6761.291666666667,
+            6780.583333333333
+          ],
+          "sentences": [
+            "Why me, Alice? Why choose me?"
+          ]
+        },
+        {
+          "shot": 978,
+          "duration": [
+            6780.625,
+            6786.333333333333
+          ],
+          "sentences": [
+            "You still want me, don't you, Pete?"
+          ]
+        },
+        {
+          "shot": 979,
+          "duration": [
+            6786.375,
+            6788.875
+          ],
+          "sentences": [
+            "You still want me, don't you, Pete?"
+          ]
+        },
+        {
+          "shot": 980,
+          "duration": [
+            6788.916666666667,
+            6798.875
+          ],
+          "sentences": [
+            "More than ever."
+          ]
+        },
+        {
+          "shot": 990,
+          "duration": [
+            6910.916666666667,
+            6914.875
+          ],
+          "sentences": [
+            "I want you."
+          ]
+        },
+        {
+          "shot": 991,
+          "duration": [
+            6914.916666666667,
+            6922.833333333333
+          ],
+          "sentences": [
+            "I want you."
+          ]
+        },
+        {
+          "shot": 992,
+          "duration": [
+            6922.875,
+            6924.625
+          ],
+          "sentences": [
+            "I want you."
+          ]
+        },
+        {
+          "shot": 993,
+          "duration": [
+            6924.666666666667,
+            6941.583333333333
+          ],
+          "sentences": [
+            "I want you."
+          ]
+        },
+        {
+          "shot": 994,
+          "duration": [
+            6941.625,
+            6960.541666666667
+          ],
+          "sentences": [
+            "I want you.",
+            "I want you."
+          ]
+        },
+        {
+          "shot": 997,
+          "duration": [
+            6967.166666666667,
+            6971.0
+          ],
+          "sentences": [
+            "You'll never have me."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0021",
+      "shot": [
+        999,
+        1051
+      ],
+      "frame": [
+        167572,
+        171718
+      ],
+      "duration": [
+        6982.195251666667,
+        7154.886667666667
+      ],
+      "consistency": 0.9913554128249247,
+      "description": "Alice gets up and walks away, stark nude, into the desert cabin, leaving Pete lying on the sand. The man who rises from the sand is not Pete, but Fred Madison, who seems to have exchanged places with Pete once again. Fred puts his clothes on and searches the desert cabin. He sees no trace of Alice-- instead he meets the Mystery Man again, who angrily informs Fred that Alice's name is not Alice, it's Renee, and demands to know who Fred is. The Mystery Man then points a video camera at Fred and begins to film him, slowly coming closer and closer. Fred flees the menacing gaze of the man and the camera, running back to Andy's car and driving away just before the Mystery Man's outstretched arm reaches him.",
+      "subtitle": [
+        {
+          "shot": 1007,
+          "duration": [
+            7031.958333333333,
+            7037.25
+          ],
+          "sentences": [
+            "Here I am."
+          ]
+        },
+        {
+          "shot": 1008,
+          "duration": [
+            7037.291666666667,
+            7038.666666666667
+          ],
+          "sentences": [
+            "Here I am."
+          ]
+        },
+        {
+          "shot": 1019,
+          "duration": [
+            7086.041666666667,
+            7090.708333333333
+          ],
+          "sentences": [
+            "Where's Alice? - Alice who? Her name is Renee."
+          ]
+        },
+        {
+          "shot": 1020,
+          "duration": [
+            7090.75,
+            7098.833333333333
+          ],
+          "sentences": [
+            "Where's Alice? - Alice who? Her name is Renee.",
+            "If she told you her name is Alice, she's lying."
+          ]
+        },
+        {
+          "shot": 1021,
+          "duration": [
+            7098.875,
+            7101.041666666667
+          ],
+          "sentences": [
+            "If she told you her name is Alice, she's lying."
+          ]
+        },
+        {
+          "shot": 1022,
+          "duration": [
+            7101.083333333333,
+            7107.25
+          ],
+          "sentences": [
+            "And your name? What the fuck is your name?."
+          ]
+        },
+        {
+          "shot": 1023,
+          "duration": [
+            7107.291666666667,
+            7109.541666666667
+          ],
+          "sentences": [
+            "And your name? What the fuck is your name?."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0022",
+      "shot": [
+        1047,
+        1091
+      ],
+      "frame": [
+        171648,
+        176516
+      ],
+      "duration": [
+        7152.036246333333,
+        7354.809627333333
+      ],
+      "consistency": 0.9072521013002186,
+      "description": "Fred drives to the Lost Highway Motel, a nightmarish place in the middle of the desert, and sees Renee check into a room with Mr. Eddy / Dick Laurent. Fred enters the adjoining room and hears them having sex. A while later, Renee leaves Mr. Eddy and drives away. Fred then breaks into Mr. Eddy's room and grabs him. The Mystery Man watches from Fred's room as Fred forces Mr. Eddy into the trunk of the Mercedes and drives off.",
+      "subtitle": [
+        {
+          "shot": 1081,
+          "duration": [
+            7306.791666666667,
+            7315.375
+          ],
+          "sentences": [
+            "Renee?"
+          ]
+        },
+        {
+          "shot": 1085,
+          "duration": [
+            7320.916666666667,
+            7322.5
+          ],
+          "sentences": [
+            "You're coming with me."
+          ]
+        },
+        {
+          "shot": 1086,
+          "duration": [
+            7322.541666666667,
+            7323.625
+          ],
+          "sentences": [
+            "You're coming with me."
+          ]
+        },
+        {
+          "shot": 1087,
+          "duration": [
+            7323.666666666667,
+            7324.375
+          ],
+          "sentences": [
+            "You're coming with me."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0023",
+      "shot": [
+        1092,
+        1147
+      ],
+      "frame": [
+        177034,
+        182248
+      ],
+      "duration": [
+        7376.426064333333,
+        7593.638741333333
+      ],
+      "consistency": 0.9810372808029045,
+      "description": "Somewhere in the desert, Fred stops the car and gets out to open the trunk, at which point Mr. Eddy leaps out and attacks him. The Mystery Man suddenly appears and gives Fred a knife to slash Mr. Eddy's throat. In answer to Mr. Eddy's question \"What do you guys want?\" the Mystery Man produces a mini TV, the screen of which shows Renee and Mr. Eddy watching a snuff film while engaged in foreplay. The Mystery Man shoots Mr. Eddy to death and whispers something inaudible to Fred. The Mystery Man disappears and Fred (now holding the gun) drives off in Mr. Eddy's Mercedes, leaving Mr. Eddy's body in the desert wilderness.",
+      "subtitle": [
+        {
+          "shot": 1113,
+          "duration": [
+            7444.958333333333,
+            7448.916666666667
+          ],
+          "sentences": [
+            "What do you guys want?"
+          ]
+        },
+        {
+          "shot": 1114,
+          "duration": [
+            7448.958333333333,
+            7456.375
+          ],
+          "sentences": [
+            "What do you guys want?"
+          ]
+        },
+        {
+          "shot": 1134,
+          "duration": [
+            7523.291666666667,
+            7528.625
+          ],
+          "sentences": [
+            "Now you can hand it back."
+          ]
+        },
+        {
+          "shot": 1135,
+          "duration": [
+            7528.666666666667,
+            7548.083333333333
+          ],
+          "sentences": [
+            "You and me, Mister...",
+            "We can really outugly them sumbitches...",
+            "Can't we?"
+          ]
+        },
+        {
+          "shot": 1136,
+          "duration": [
+            7548.125,
+            7551.041666666667
+          ],
+          "sentences": [
+            "Can't we?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0024",
+      "shot": [
+        1147,
+        1154
+      ],
+      "frame": [
+        182252,
+        183293
+      ],
+      "duration": [
+        7593.859464,
+        7637.192885
+      ],
+      "consistency": 0.9724765556820456,
+      "description": "Back at Andy's house, all four of the detectives, Al and Ed, Hank and Lou, investigate the crime scene. One of them notices the group photo of Renee, Mr. Eddy / Dick Laurent and Andy. Alice is no longer in the photo. The detectives identify the woman in the photo as Renee, \"Fred Madison's wife\" and note that the photo links her with Dick Laurent. However, the fingerprints all over the crime scene belong to Pete Dayton, now the prime suspect in Andy's murder. One of the detective's states: \"You know what I think? I think there's no such thing as a bad coincidence.\"",
+      "subtitle": [
+        {
+          "shot": 1149,
+          "duration": [
+            7602.791666666667,
+            7612.333333333333
+          ],
+          "sentences": [
+            "Ed...Take a look at this."
+          ]
+        },
+        {
+          "shot": 1150,
+          "duration": [
+            7612.375,
+            7616.083333333333
+          ],
+          "sentences": [
+            "Yeah. That's her all right."
+          ]
+        },
+        {
+          "shot": 1151,
+          "duration": [
+            7616.125,
+            7621.916666666667
+          ],
+          "sentences": [
+            "That's Fred Madison's wife with Dick Laurent.",
+            "And Mr. Dent-Head over there."
+          ]
+        },
+        {
+          "shot": 1152,
+          "duration": [
+            7621.958333333333,
+            7623.833333333333
+          ],
+          "sentences": [
+            "And Mr. Dent-Head over there."
+          ]
+        },
+        {
+          "shot": 1153,
+          "duration": [
+            7623.875,
+            7637.25
+          ],
+          "sentences": [
+            "We got Pete Dayton's prints all over this place.",
+            "You know what I think, Ed?",
+            "What is it, AI? What do you think?",
+            "I think there's no such thing as a bad coincidence."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0116922_0025",
+      "shot": [
+        1154,
+        1212
+      ],
+      "frame": [
+        183928,
+        187475
+      ],
+      "duration": [
+        7663.683047,
+        7811.425669
+      ],
+      "consistency": 0.8877548551967652,
+      "description": "In the final scene, things come full circle as Fred, still driving Mr. Eddy's Mercedes and wearing Pete's clothes, drives to his house where it's revealed that he is the person who left the cryptic message Fred heard through the intercom at the beginning of the movie: \"Dick Laurent is dead.\" The two police detectives, Al and Ed, pull up in their squad car. Seeing the detectives advancing towards him, Fred runs back to his car and drives off with the detectives in hot pursuit. As darkness falls, Fred speeds down the desert highway with several police cars close behind. He screams as his head begins to shake and his features blur. The scream fades and we're left with the image from the opening credits, a dark, two-lane highway that rushes silently past with no surrounding landscape or apparent destination.",
+      "subtitle": [
+        {
+          "shot": 1154,
+          "duration": [
+            7637.291666666667,
+            7677.875
+          ],
+          "sentences": [
+            "I think there's no such thing as a bad coincidence."
+          ]
+        },
+        {
+          "shot": 1159,
+          "duration": [
+            7699.458333333333,
+            7704.458333333333
+          ],
+          "sentences": [
+            "Dick Laurent is dead."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

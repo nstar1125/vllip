@@ -1,0 +1,36 @@
+{
+  "imdb_id": "tt2329188",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 14,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 24,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 51,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 59,
+        "scale": "medium",
+        "movement": "moving"
+      },
+      {
+        "shot": 72,
+        "scale": "full",
+        "movement": "pull"
+      }
+    ]
+  }
+}

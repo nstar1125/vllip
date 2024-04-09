@@ -1,0 +1,51 @@
+{
+  "imdb_id": "tt2008655",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 2,
+        "scale": "closeup",
+        "movement": "moving"
+      },
+      {
+        "shot": 14,
+        "scale": "medium",
+        "movement": "moving"
+      },
+      {
+        "shot": 24,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 37,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 43,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 44,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 65,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 72,
+        "scale": "full",
+        "movement": "static"
+      }
+    ]
+  }
+}

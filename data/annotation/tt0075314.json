@@ -1,0 +1,7609 @@
+{
+  "imdb_id": "tt0075314",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0075314_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        1635
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0001",
+      "shot": [
+        1,
+        33
+      ],
+      "frame": [
+        1635,
+        7252
+      ],
+      "place_tag": [
+        "meeting room",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            3119,
+            3167
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            3177,
+            3249
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            4195,
+            4213
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            4195,
+            4213
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            4938,
+            5003
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            5003,
+            5057
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            5828,
+            5877
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            5876,
+            5932
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            6971,
+            7056
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0002",
+      "shot": [
+        33,
+        34
+      ],
+      "frame": [
+        7252,
+        8151
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "write",
+          "frame": [
+            7984,
+            8149
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0003",
+      "shot": [
+        34,
+        58
+      ],
+      "frame": [
+        8151,
+        11705
+      ],
+      "place_tag": [
+        "car (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            8970,
+            9066
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            9478,
+            9681
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            9898,
+            10393
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            9898,
+            10393
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            10468,
+            10574
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            10629,
+            10788
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            11069,
+            11082
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            11275,
+            11380
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0004",
+      "shot": [
+        58,
+        60
+      ],
+      "frame": [
+        11705,
+        11975
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            11823,
+            11861
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0005",
+      "shot": [
+        60,
+        71
+      ],
+      "frame": [
+        11975,
+        14556
+      ],
+      "place_tag": [
+        "cinema (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            12001,
+            12020
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            12072,
+            12097
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            12156,
+            12883
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0006",
+      "shot": [
+        71,
+        72
+      ],
+      "frame": [
+        14556,
+        14868
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0007",
+      "shot": [
+        72,
+        78
+      ],
+      "frame": [
+        14868,
+        15591
+      ],
+      "place_tag": [
+        "office building (outside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            15373,
+            15422
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            15505,
+            15568
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            14868,
+            14978
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            15330,
+            15360
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0008",
+      "shot": [
+        78,
+        79
+      ],
+      "frame": [
+        15591,
+        15655
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "write",
+          "frame": [
+            15591,
+            15653
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0009",
+      "shot": [
+        79,
+        81
+      ],
+      "frame": [
+        15655,
+        15801
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0010",
+      "shot": [
+        81,
+        103
+      ],
+      "frame": [
+        15801,
+        19509
+      ],
+      "place_tag": [
+        "car (inside)",
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            15801,
+            16687
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            16881,
+            17229
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            16881,
+            17229
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            16820,
+            17021
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            17759,
+            17800
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            18226,
+            18376
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            18609,
+            18836
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            19182,
+            19256
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            19263,
+            19298
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            19318,
+            19507
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            19318,
+            19507
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0011",
+      "shot": [
+        103,
+        171
+      ],
+      "frame": [
+        19509,
+        26553
+      ],
+      "place_tag": [
+        "car (inside)",
+        "restaurant (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            19712,
+            20448
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            20548,
+            20602
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            20842,
+            21446
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            21643,
+            21766
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            22016,
+            22054
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            22837,
+            22931
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            23136,
+            23218
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            23389,
+            23403
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            23663,
+            23941
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            23663,
+            23941
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            25505,
+            26170
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            26287,
+            26551
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            26287,
+            26551
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            22176,
+            22288
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            22176,
+            22288
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0012",
+      "shot": [
+        171,
+        188
+      ],
+      "frame": [
+        26553,
+        28892
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "operate on computer",
+          "frame": [
+            26829,
+            26895
+          ]
+        },
+        {
+          "tag": "operate on computer",
+          "frame": [
+            28003,
+            28180
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            28211,
+            28387
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            28211,
+            28387
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            28427,
+            28617
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            28427,
+            28617
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            28427,
+            28617
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            28691,
+            28808
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0013",
+      "shot": [
+        188,
+        222
+      ],
+      "frame": [
+        28892,
+        33702
+      ],
+      "place_tag": [
+        "car (inside)",
+        "meeting room",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            29177,
+            29203
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            29203,
+            29225
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            29370,
+            29449
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            30596,
+            30728
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            30642,
+            31209
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            32540,
+            32715
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            32023,
+            32234
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            33414,
+            33575
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0014",
+      "shot": [
+        222,
+        223
+      ],
+      "frame": [
+        33702,
+        34271
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            33852,
+            33876
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            34117,
+            34127
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            34214,
+            34269
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0015",
+      "shot": [
+        223,
+        253
+      ],
+      "frame": [
+        34271,
+        39296
+      ],
+      "place_tag": [
+        "restaurant (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "eat",
+          "frame": [
+            34271,
+            34363
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            34271,
+            34363
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            34462,
+            34542
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            34546,
+            34567
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            34852,
+            34879
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            35409,
+            35413
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            37770,
+            37808
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            37851,
+            37910
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            38059,
+            38073
+          ]
+        },
+        {
+          "tag": "get in the car",
+          "frame": [
+            38075,
+            38126
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0016",
+      "shot": [
+        253,
+        318
+      ],
+      "frame": [
+        39296,
+        47765
+      ],
+      "place_tag": [
+        "car (inside)",
+        "library or bookstore (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "get in the car",
+          "frame": [
+            39843,
+            39916
+          ]
+        },
+        {
+          "tag": "get in the car",
+          "frame": [
+            40077,
+            40157
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            40782,
+            41431
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            41576,
+            41838
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            41964,
+            42148
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            42229,
+            42667
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            42740,
+            42959
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            43100,
+            43306
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            43531,
+            43617
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            43829,
+            43991
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            44475,
+            44500
+          ]
+        },
+        {
+          "tag": "get in the car",
+          "frame": [
+            44509,
+            44556
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            45042,
+            45104
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            46240,
+            46789
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            47002,
+            47045
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            47369,
+            47449
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0017",
+      "shot": [
+        318,
+        329
+      ],
+      "frame": [
+        47765,
+        50783
+      ],
+      "place_tag": [
+        "cinema (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "play instrument",
+          "frame": [
+            48555,
+            48831
+          ]
+        },
+        {
+          "tag": "play instrument",
+          "frame": [
+            49563,
+            49703
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0018",
+      "shot": [
+        329,
+        330
+      ],
+      "frame": [
+        50783,
+        50868
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0019",
+      "shot": [
+        330,
+        331
+      ],
+      "frame": [
+        50868,
+        50892
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0020",
+      "shot": [
+        331,
+        340
+      ],
+      "frame": [
+        50892,
+        51560
+      ],
+      "place_tag": [
+        "cinema (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "have sex",
+          "frame": [
+            51085,
+            51099
+          ]
+        },
+        {
+          "tag": "have sex",
+          "frame": [
+            51203,
+            51335
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0021",
+      "shot": [
+        340,
+        352
+      ],
+      "frame": [
+        51560,
+        55491
+      ],
+      "place_tag": [
+        "cinema (inside)",
+        "corridor (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            51769,
+            51797
+          ]
+        },
+        {
+          "tag": "get in the car",
+          "frame": [
+            52683,
+            52896
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0022",
+      "shot": [
+        352,
+        353
+      ],
+      "frame": [
+        55491,
+        56109
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0023",
+      "shot": [
+        353,
+        392
+      ],
+      "frame": [
+        56109,
+        63384
+      ],
+      "place_tag": [
+        "car (inside)",
+        "meeting room",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            56109,
+            56141
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            56147,
+            56175
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            56742,
+            56784
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            57005,
+            57025
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            57087,
+            57128
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            57087,
+            57128
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            60048,
+            60117
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0024",
+      "shot": [
+        392,
+        393
+      ],
+      "frame": [
+        63384,
+        63478
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0025",
+      "shot": [
+        393,
+        396
+      ],
+      "frame": [
+        63478,
+        63972
+      ],
+      "place_tag": [
+        "restaurant (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            63522,
+            63573
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0026",
+      "shot": [
+        396,
+        398
+      ],
+      "frame": [
+        63972,
+        64118
+      ],
+      "place_tag": [
+        "restaurant (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0027",
+      "shot": [
+        398,
+        415
+      ],
+      "frame": [
+        64118,
+        66223
+      ],
+      "place_tag": [
+        "restaurant (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            64362,
+            64403
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            65870,
+            65929
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0028",
+      "shot": [
+        415,
+        437
+      ],
+      "frame": [
+        66223,
+        71570
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "fight",
+          "frame": [
+            66651,
+            66799
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            70912,
+            71079
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0029",
+      "shot": [
+        437,
+        446
+      ],
+      "frame": [
+        71570,
+        73171
+      ],
+      "place_tag": [
+        "living room",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "watch screen",
+          "frame": [
+            72334,
+            73113
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            72334,
+            73113
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0030",
+      "shot": [
+        446,
+        474
+      ],
+      "frame": [
+        73171,
+        76788
+      ],
+      "place_tag": [
+        "car (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            73171,
+            73718
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            74078,
+            74133
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            74304,
+            74433
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            74462,
+            74506
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            74552,
+            74592
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            75147,
+            75347
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            75814,
+            75873
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            76491,
+            76587
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            76727,
+            76786
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0031",
+      "shot": [
+        474,
+        475
+      ],
+      "frame": [
+        76788,
+        76864
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0075314_0032",
+      "shot": [
+        475,
+        476
+      ],
+      "frame": [
+        76864,
+        76931
+      ],
+      "place_tag": [
+        "car (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            76864,
+            76929
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0033",
+      "shot": [
+        476,
+        479
+      ],
+      "frame": [
+        76931,
+        78034
+      ],
+      "place_tag": [
+        "car (inside)",
+        "meeting room",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "write",
+          "frame": [
+            76931,
+            77398
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            77415,
+            77454
+          ]
+        },
+        {
+          "tag": "get in the car",
+          "frame": [
+            77789,
+            77874
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0034",
+      "shot": [
+        479,
+        688
+      ],
+      "frame": [
+        78034,
+        121943
+      ],
+      "place_tag": [
+        "bedroom",
+        "car (inside)",
+        "cinema (inside)",
+        "corridor (inside)",
+        "living room",
+        "road",
+        "small store (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            78069,
+            78122
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            78142,
+            78202
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            78970,
+            79308
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            79324,
+            79721
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            79800,
+            79916
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            79834,
+            79945
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            79958,
+            80018
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            80019,
+            80249
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            80310,
+            80868
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            80889,
+            80916
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            81020,
+            81183
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            81208,
+            81400
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            81561,
+            81622
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            81717,
+            81773
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            82093,
+            82169
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            83991,
+            84211
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            84234,
+            84346
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85045,
+            85363
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85588,
+            85728
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85806,
+            86148
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            86354,
+            86406
+          ]
+        },
+        {
+          "tag": "repair things",
+          "frame": [
+            86410,
+            87127
+          ]
+        },
+        {
+          "tag": "repair things",
+          "frame": [
+            87203,
+            87314
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            87314,
+            87338
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            87358,
+            87365
+          ]
+        },
+        {
+          "tag": "repair things",
+          "frame": [
+            87715,
+            88001
+          ]
+        },
+        {
+          "tag": "photograph",
+          "frame": [
+            88958,
+            89073
+          ]
+        },
+        {
+          "tag": "ride bicycle",
+          "frame": [
+            89045,
+            89206
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            90402,
+            90428
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            91463,
+            91805
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            91807,
+            91979
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            92219,
+            92263
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            92732,
+            93839
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            94086,
+            94130
+          ]
+        },
+        {
+          "tag": "photograph",
+          "frame": [
+            94331,
+            94375
+          ]
+        },
+        {
+          "tag": "photograph",
+          "frame": [
+            94476,
+            94485
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            94643,
+            94682
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            94685,
+            94719
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            95135,
+            95232
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            95692,
+            95837
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            96623,
+            96683
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            97374,
+            97443
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            97976,
+            98038
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            99039,
+            99110
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            99112,
+            99181
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            99112,
+            99181
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            99181,
+            99401
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            99673,
+            99711
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100008,
+            100052
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100081,
+            100102
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100433,
+            100503
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            100505,
+            100854
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100857,
+            101541
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            100857,
+            101541
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            100857,
+            101541
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            101545,
+            102230
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            102233,
+            102523
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            102526,
+            102781
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            104293,
+            104428
+          ]
+        },
+        {
+          "tag": "give speech",
+          "frame": [
+            104375,
+            104502
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            104860,
+            104884
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            104941,
+            105245
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            105248,
+            105800
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            105898,
+            107160
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            105898,
+            107160
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            105898,
+            107160
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            107234,
+            107626
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            107627,
+            107767
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            108514,
+            108550
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            108705,
+            108718
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            109291,
+            109308
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            109819,
+            109855
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            112992,
+            113081
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            113041,
+            113143
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            113041,
+            113143
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            113394,
+            113607
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            113993,
+            114160
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            114311,
+            114387
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            114578,
+            114639
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            114642,
+            114725
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            114941,
+            114966
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            116019,
+            116058
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            116058,
+            116080
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            116956,
+            117051
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            117869,
+            117885
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            120627,
+            120894
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            121736,
+            121781
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0035",
+      "shot": [
+        688,
+        742
+      ],
+      "frame": [
+        121943,
+        132811
+      ],
+      "place_tag": [
+        "living room",
+        "restaurant (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            122156,
+            122189
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            124080,
+            124105
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            124589,
+            124608
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            124774,
+            124810
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            128137,
+            128158
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            128488,
+            128505
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            132496,
+            132585
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            132587,
+            132636
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            132638,
+            132701
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            132701,
+            132809
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0036",
+      "shot": [
+        742,
+        750
+      ],
+      "frame": [
+        132811,
+        134869
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "fire",
+          "frame": [
+            132947,
+            133007
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            133430,
+            133521
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            134109,
+            134204
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0037",
+      "shot": [
+        750,
+        788
+      ],
+      "frame": [
+        134869,
+        140066
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "climb stairs",
+          "frame": [
+            135510,
+            135573
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            135537,
+            135762
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            135537,
+            135762
+          ]
+        },
+        {
+          "tag": "give speech",
+          "frame": [
+            135814,
+            135917
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            135919,
+            136105
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            136178,
+            136279
+          ]
+        },
+        {
+          "tag": "give speech",
+          "frame": [
+            136292,
+            136466
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            137010,
+            137049
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            137145,
+            137242
+          ]
+        },
+        {
+          "tag": "give speech",
+          "frame": [
+            137242,
+            137333
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            137460,
+            137558
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            137828,
+            137914
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            138254,
+            138684
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            138734,
+            139388
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            139396,
+            139557
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            139562,
+            139596
+          ]
+        },
+        {
+          "tag": "eat",
+          "frame": [
+            139735,
+            139766
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            139849,
+            139908
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            139979,
+            140010
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0038",
+      "shot": [
+        788,
+        789
+      ],
+      "frame": [
+        140066,
+        140738
+      ],
+      "place_tag": [
+        "doorway",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            140144,
+            140380
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            140144,
+            140380
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            140541,
+            140636
+          ]
+        }
+      ]
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0075314_0002",
+      "shot": [
+        72,
+        253
+      ],
+      "frame": [
+        14869,
+        39283
+      ],
+      "duration": [
+        620.1679673333333,
+        1638.3891233333334
+      ],
+      "consistency": 0.9815982462261864,
+      "description": "During taxi driving, Travis spies and becomes infatuated with a woman named Betsy (Cybill Shepherd), a campaign volunteer for New York Senator Charles Palantine, who is running for the presidential nomination and is promising dramatic social change. Travis spies Betsy joking with a co-worker named Tom (Albert Brooks). Travis works up the nerve to ask her out and Betsy is initially intrigued by Travis. She agrees to a date with him after he flirts with her over coffee and sympathizes with her own apparent loneliness. She compares him to a character in the Kris Kristofferson song \"The Pilgrim.\"",
+      "subtitle": [
+        {
+          "shot": 72,
+          "duration": [
+            620.1194999999999,
+            625.0827916666666
+          ],
+          "sentences": [
+            "I first saw her at Palantine campaign headquarters at 63rd and Broadway."
+          ]
+        },
+        {
+          "shot": 73,
+          "duration": [
+            625.1245,
+            627.3767499999999
+          ],
+          "sentences": [
+            "She was wearing a white dress."
+          ]
+        },
+        {
+          "shot": 74,
+          "duration": [
+            627.4184583333333,
+            628.7948333333333
+          ],
+          "sentences": [
+            "She was wearing a white dress."
+          ]
+        },
+        {
+          "shot": 75,
+          "duration": [
+            628.8365416666667,
+            631.4641666666666
+          ],
+          "sentences": [
+            "She appeared like an angel..."
+          ]
+        },
+        {
+          "shot": 76,
+          "duration": [
+            631.505875,
+            640.64
+          ],
+          "sentences": [
+            "... out of this filthy mass.",
+            "She is alone.",
+            "They...",
+            "... cannot..."
+          ]
+        },
+        {
+          "shot": 77,
+          "duration": [
+            640.6817083333333,
+            650.2329166666666
+          ],
+          "sentences": [
+            "... cannot...",
+            "... touch...",
+            "...her."
+          ]
+        },
+        {
+          "shot": 80,
+          "duration": [
+            656.7394166666667,
+            658.9916666666667
+          ],
+          "sentences": [
+            "You delivered two boxes. I think it's a total of 5000 campaign buttons."
+          ]
+        },
+        {
+          "shot": 81,
+          "duration": [
+            659.033375,
+            718.6762916666667
+          ],
+          "sentences": [
+            "You delivered two boxes. I think it's a total of 5000 campaign buttons.",
+            "Now, all the ones we had before and our slogan is...",
+            "...\"We are the people,\" and \"are\" is underlined.",
+            "These new buttons have \"we\" underlined.",
+            "That reads, \" We are the people.\" Well, I think there's a difference.",
+            "\"We are the people\" is not the same as \" We are the people.\"",
+            "Let's not fight.",
+            "Look, we'II make it reaI simpIe.",
+            "We don't pay for the buttons.",
+            "- We throw the buttons away, all right? - Tom, come here a minute.",
+            "What?",
+            "If Andy okays this canvass report, send a copy to aII headquarters.",
+            "I gotta xerox that New York Times articIe.",
+            "- Don't forget the new photos. - I didn't.",
+            "We have to emphasize mandatory welfare. That's the issue to push.",
+            "First push the man, then the issue."
+          ]
+        },
+        {
+          "shot": 82,
+          "duration": [
+            718.718,
+            722.3466249999999
+          ],
+          "sentences": [
+            "First push the man, then the issue.",
+            "Senator Palantine is a dynamic man.",
+            "An intelligent, interesting, fresh, fascinating man."
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            722.3883333333333,
+            727.8104166666666
+          ],
+          "sentences": [
+            "An intelligent, interesting, fresh, fascinating man.",
+            "You forgot sexy.",
+            "I did not forget sexy."
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            727.852125,
+            729.1867916666666
+          ],
+          "sentences": [
+            "I did not forget sexy.",
+            "You sound Iike you're seIIing mouthwash."
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            729.2284999999999,
+            731.2304999999999
+          ],
+          "sentences": [
+            "You sound Iike you're seIIing mouthwash."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            731.2722083333333,
+            733.6078749999999
+          ],
+          "sentences": [
+            "We are selling it.",
+            "- Are we authorized to do that? - Very funny."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            733.6495833333332,
+            740.5314583333333
+          ],
+          "sentences": [
+            "- Are we authorized to do that? - Very funny.",
+            "You can get in trouble selling pharmaceuticals here.",
+            "My uncle's in jail because of that."
+          ]
+        },
+        {
+          "shot": 88,
+          "duration": [
+            740.5731666666666,
+            747.6218749999999
+          ],
+          "sentences": [
+            "My uncle's in jail because of that.",
+            "It's not reaIIy jaiI. Of course, with his wife, anything wouId be jaiI.",
+            "Look over there.",
+            "I Iove you."
+          ]
+        },
+        {
+          "shot": 89,
+          "duration": [
+            747.6635833333332,
+            751.9178333333333
+          ],
+          "sentences": [
+            "I Iove you.",
+            "Notice anything?",
+            "- No. - Well, put your glasses on."
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            751.9595416666666,
+            757.1313749999999
+          ],
+          "sentences": [
+            "Okay, just a minute. AII right.",
+            "That taxi driver's been staring at us."
+          ]
+        },
+        {
+          "shot": 93,
+          "duration": [
+            766.5574583333333,
+            767.7252916666666
+          ],
+          "sentences": [
+            "What taxi driver?"
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            767.7669999999999,
+            770.1860833333333
+          ],
+          "sentences": [
+            "The one that's sitting there."
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            770.2277916666666,
+            771.1036666666666
+          ],
+          "sentences": [
+            "- How Iong has he been there? - It feeIs Iike a Iong time."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            771.145375,
+            776.1086666666666
+          ],
+          "sentences": [
+            "- How Iong has he been there? - It feeIs Iike a Iong time.",
+            "- Does he bother you? - No."
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            776.1503749999999,
+            795.7115833333332
+          ],
+          "sentences": [
+            "- Does he bother you? - No.",
+            "You mean yes. You're being sarcastic.",
+            "You're quick. You're really quick.",
+            "I try to be reaI quick.",
+            "I'II pIay the maIe in this reIationship--",
+            "Good Iuck.",
+            "-- and tell him to move. And I don't need good luck.",
+            "Oh yes, you do. You just think you don't."
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            795.7532916666667,
+            803.2190833333333
+          ],
+          "sentences": [
+            "You're blocking our doorway. You think you might move your cab?"
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            803.2607916666666,
+            805.0125416666666
+          ],
+          "sentences": [
+            "You're blocking our doorway. You think you might move your cab?"
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            805.0542499999999,
+            805.8467083333333
+          ],
+          "sentences": [
+            "You're blocking our doorway. You think you might move your cab?"
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            900.3577916666666,
+            907.9069999999999
+          ],
+          "sentences": [
+            "You know, eye shadow, mascara..."
+          ]
+        },
+        {
+          "shot": 142,
+          "duration": [
+            907.9487083333332,
+            923.4224999999999
+          ],
+          "sentences": [
+            "You know, eye shadow, mascara...",
+            "...Iipstick, rouge.",
+            "Not rouge. Blush-on, they call it.",
+            "- The kind with the brush. - Yeah, it's Blush-on.",
+            "- Hey, Wiz. - That's Blush- on. My wife uses it."
+          ]
+        },
+        {
+          "shot": 143,
+          "duration": [
+            923.4642083333333,
+            929.7204583333332
+          ],
+          "sentences": [
+            "- Hey, Wiz. - That's Blush- on. My wife uses it.",
+            "Ask Travis. He's a Iadies' man.",
+            "A cup of coffee."
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            929.7621666666666,
+            932.3480833333333
+          ],
+          "sentences": [
+            "A cup of coffee.",
+            "Whatever the fuck it is, she uses a Iot of it."
+          ]
+        },
+        {
+          "shot": 145,
+          "duration": [
+            932.3897916666666,
+            936.6023333333333
+          ],
+          "sentences": [
+            "Whatever the fuck it is, she uses a Iot of it.",
+            "And then perfume. The spray kind.",
+            "Then in the middle of the Triboro Bridge--"
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            936.6440416666666,
+            940.6897499999999
+          ],
+          "sentences": [
+            "Then in the middle of the Triboro Bridge--",
+            "And this woman is beautiful, she changes her pantyhose."
+          ]
+        },
+        {
+          "shot": 147,
+          "duration": [
+            940.7314583333333,
+            944.1098333333333
+          ],
+          "sentences": [
+            "And this woman is beautiful, she changes her pantyhose.",
+            "- No. - Oh, yeah.",
+            "What'd you do?"
+          ]
+        },
+        {
+          "shot": 148,
+          "duration": [
+            944.1515416666666,
+            945.6113333333333
+          ],
+          "sentences": [
+            "I throw the man out, and I jump in the back seat and whip it out."
+          ]
+        },
+        {
+          "shot": 149,
+          "duration": [
+            945.6530416666666,
+            946.69575
+          ],
+          "sentences": [
+            "I throw the man out, and I jump in the back seat and whip it out."
+          ]
+        },
+        {
+          "shot": 150,
+          "duration": [
+            946.7374583333333,
+            956.4972083333332
+          ],
+          "sentences": [
+            "I throw the man out, and I jump in the back seat and whip it out.",
+            "And I said, \"You know what this is?\"",
+            "She says, \" It's love.\" I fuck her brains out.",
+            "She goes wild and says, \"That's the greatest single experience of my life.\""
+          ]
+        },
+        {
+          "shot": 151,
+          "duration": [
+            956.5389166666666,
+            961.2519583333333
+          ],
+          "sentences": [
+            "She goes wild and says, \"That's the greatest single experience of my life.\"",
+            "Then she gave me a $200 tip and her phone number in Acapulco."
+          ]
+        },
+        {
+          "shot": 152,
+          "duration": [
+            961.2936666666666,
+            965.0057083333332
+          ],
+          "sentences": [
+            "Then she gave me a $200 tip and her phone number in Acapulco.",
+            "You know Doughboy, Charlie T."
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            965.0474166666665,
+            968.5092083333333
+          ],
+          "sentences": [
+            "You know Doughboy, Charlie T.",
+            "Hey, Travis. Got change for a nickeI?"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            968.5509166666666,
+            969.5102083333333
+          ],
+          "sentences": [
+            "Hey, Travis. Got change for a nickeI?"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            969.5519166666666,
+            971.0951249999999
+          ],
+          "sentences": [
+            "Hey, Travis. Got change for a nickeI?",
+            "Doughboy will do anything for a buck."
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            971.1368333333332,
+            975.5162083333332
+          ],
+          "sentences": [
+            "Doughboy will do anything for a buck.",
+            "So how's it hanging?"
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            975.5579166666666,
+            986.860875
+          ],
+          "sentences": [
+            "So how's it hanging?",
+            "What's that?",
+            "I turn on the radio. Some fIeet driver from BeII just got aII cut up."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            986.9025833333333,
+            998.5809166666666
+          ],
+          "sentences": [
+            "I turn on the radio. Some fIeet driver from BeII just got aII cut up.",
+            "Stickup?",
+            "No, he got cut up by some crazy fucker. Cut half his ear off.",
+            "Where?",
+            "It was on 122nd Street."
+          ]
+        },
+        {
+          "shot": 159,
+          "duration": [
+            998.622625,
+            1003.9195833333332
+          ],
+          "sentences": [
+            "It was on 122nd Street.",
+            "Fucking Mau Mau Iand."
+          ]
+        },
+        {
+          "shot": 160,
+          "duration": [
+            1003.9612916666666,
+            1007.006
+          ],
+          "sentences": [
+            "You run all over town, don't you, Travis?"
+          ]
+        },
+        {
+          "shot": 161,
+          "duration": [
+            1007.0477083333333,
+            1015.0557083333333
+          ],
+          "sentences": [
+            "You run all over town, don't you, Travis?"
+          ]
+        },
+        {
+          "shot": 162,
+          "duration": [
+            1015.0974166666666,
+            1032.6149166666667
+          ],
+          "sentences": [
+            "You run all over town, don't you?",
+            "You handle some pretty rough customers.",
+            "Yeah, I have.",
+            "You carry a piece?",
+            "You need one?",
+            "I know a feIIa who can get you a reaI nice deaI."
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            1032.6566249999998,
+            1040.8314583333333
+          ],
+          "sentences": [
+            "I know a feIIa who can get you a reaI nice deaI.",
+            "Lots of shit around.",
+            "I never use mine. I'm conservative.",
+            "But it's a good thing to have just as a threat."
+          ]
+        },
+        {
+          "shot": 164,
+          "duration": [
+            1040.8731666666665,
+            1047.3796666666665
+          ],
+          "sentences": [
+            "But it's a good thing to have just as a threat."
+          ]
+        },
+        {
+          "shot": 165,
+          "duration": [
+            1047.421375,
+            1056.30525
+          ],
+          "sentences": [
+            "I'm gonna go dig my dirt."
+          ]
+        },
+        {
+          "shot": 169,
+          "duration": [
+            1059.8504583333333,
+            1096.3869583333333
+          ],
+          "sentences": [
+            "Look.",
+            "Piece of ErroI FIynn's bathtub.",
+            "Dig the symbols.",
+            "F-4-0-5-4-3-4.",
+            "And the watermark.",
+            "There's one person...",
+            "...there's two persons...",
+            "...and there's three persons.",
+            "I got this at his estate, The Pines.",
+            "Take it, and if you can sell it, you give me half of what you got.",
+            "I don't want to.",
+            "I'm gonna get in my cab and boogie."
+          ]
+        },
+        {
+          "shot": 170,
+          "duration": [
+            1096.4286666666667,
+            1107.4396666666667
+          ],
+          "sentences": [
+            "Oh, I'm so terribIy sorry."
+          ]
+        },
+        {
+          "shot": 171,
+          "duration": [
+            1107.4813749999998,
+            1108.35725
+          ],
+          "sentences": [
+            "Oh, I'm so terribIy sorry."
+          ]
+        },
+        {
+          "shot": 172,
+          "duration": [
+            1108.3989583333332,
+            1111.0682916666665
+          ],
+          "sentences": [
+            "Oh, I'm so terribIy sorry.",
+            "Nothing.",
+            "That's very cute. Thank you."
+          ]
+        },
+        {
+          "shot": 173,
+          "duration": [
+            1111.11,
+            1112.9451666666666
+          ],
+          "sentences": [
+            "That's very cute. Thank you.",
+            "Hey, you wanna see something?"
+          ]
+        },
+        {
+          "shot": 174,
+          "duration": [
+            1112.9868749999998,
+            1115.114
+          ],
+          "sentences": [
+            "Hey, you wanna see something?"
+          ]
+        },
+        {
+          "shot": 175,
+          "duration": [
+            1115.1557083333332,
+            1117.1994166666666
+          ],
+          "sentences": [
+            "Wait, I just typed, \"You wanna see something?\""
+          ]
+        },
+        {
+          "shot": 176,
+          "duration": [
+            1117.241125,
+            1122.7883333333332
+          ],
+          "sentences": [
+            "Wait, I just typed, \"You wanna see something?\"",
+            "If you had these three fingers missing on this hand..."
+          ]
+        },
+        {
+          "shot": 177,
+          "duration": [
+            1122.8300416666666,
+            1132.756625
+          ],
+          "sentences": [
+            "If you had these three fingers missing on this hand...",
+            "...and that hand missing on that hand...",
+            "- ...how would you light the match? - I wouldn't.",
+            "Go ahead. Give it a try."
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            1132.7983333333332,
+            1139.0962916666665
+          ],
+          "sentences": [
+            "Well, I don't think I could do it.",
+            "No?",
+            "It's gonna be difficuIt."
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            1139.138,
+            1142.4746666666665
+          ],
+          "sentences": [
+            "It's gonna be difficuIt.",
+            "I'II give it a try."
+          ]
+        },
+        {
+          "shot": 180,
+          "duration": [
+            1142.516375,
+            1167.1242916666665
+          ],
+          "sentences": [
+            "I got my thumb back for a second. Thank God.",
+            "Just a minute.",
+            "I can't do it.",
+            "The guy at the newsstand can.",
+            "Well, I don't work at a newsstand."
+          ]
+        },
+        {
+          "shot": 181,
+          "duration": [
+            1167.166,
+            1176.6754999999998
+          ],
+          "sentences": [
+            "Well, I don't work at a newsstand.",
+            "- Anyway, he's probably ltalian. - No.",
+            "- You're sure? - He's black.",
+            "If he had been ItaIian, he might've been a thief."
+          ]
+        },
+        {
+          "shot": 182,
+          "duration": [
+            1176.7172083333332,
+            1184.057875
+          ],
+          "sentences": [
+            "If he had been ItaIian, he might've been a thief.",
+            "If a thief screws up on the job, the mob bIows his fingers off.",
+            "This sounds Iike a joke, but it's true."
+          ]
+        },
+        {
+          "shot": 183,
+          "duration": [
+            1184.0995833333332,
+            1185.6844999999998
+          ],
+          "sentences": [
+            "This sounds Iike a joke, but it's true.",
+            "If they kiII a stooI pigeon, they Ieave a canary on the body."
+          ]
+        },
+        {
+          "shot": 184,
+          "duration": [
+            1185.7262083333333,
+            1193.6924999999999
+          ],
+          "sentences": [
+            "If they kiII a stooI pigeon, they Ieave a canary on the body.",
+            "- It's symboIic. - Why not a pigeon instead of a canary?",
+            "I don't know why not. Wait a minute."
+          ]
+        },
+        {
+          "shot": 185,
+          "duration": [
+            1193.7342083333333,
+            1196.6120833333332
+          ],
+          "sentences": [
+            "I don't know why not. Wait a minute.",
+            "You gotta catch a pigeon. A canary, you can walk into a pet store..."
+          ]
+        },
+        {
+          "shot": 186,
+          "duration": [
+            1196.6537916666666,
+            1203.7024999999999
+          ],
+          "sentences": [
+            "You gotta catch a pigeon. A canary, you can walk into a pet store...",
+            "...kill it right there. Put it on anyone you want."
+          ]
+        },
+        {
+          "shot": 191,
+          "duration": [
+            1225.0154583333333,
+            1230.2707083333332
+          ],
+          "sentences": [
+            "- I'd Iike to voIunteer. - I'II take you right over here."
+          ]
+        },
+        {
+          "shot": 192,
+          "duration": [
+            1230.3124166666666,
+            1237.6947916666666
+          ],
+          "sentences": [
+            "- I'd Iike to voIunteer. - I'II take you right over here.",
+            "I'd rather voIunteer to her, if you don't mind."
+          ]
+        },
+        {
+          "shot": 193,
+          "duration": [
+            1237.7365,
+            1239.4048333333333
+          ],
+          "sentences": [
+            "Why do you have to volunteer to me?"
+          ]
+        },
+        {
+          "shot": 194,
+          "duration": [
+            1239.4465416666667,
+            1242.99175
+          ],
+          "sentences": [
+            "Why do you have to volunteer to me?",
+            "Because you are the most beautifuI woman I have ever seen."
+          ]
+        },
+        {
+          "shot": 195,
+          "duration": [
+            1243.0334583333333,
+            1248.49725
+          ],
+          "sentences": [
+            "Because you are the most beautifuI woman I have ever seen.",
+            "Thanks."
+          ]
+        },
+        {
+          "shot": 196,
+          "duration": [
+            1248.5389583333333,
+            1254.2112916666665
+          ],
+          "sentences": [
+            "Thanks.",
+            "But what do you think of Palantine?"
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            1254.253,
+            1259.9670416666665
+          ],
+          "sentences": [
+            "The man you're volunteering to help elect President."
+          ]
+        },
+        {
+          "shot": 198,
+          "duration": [
+            1260.00875,
+            1262.261
+          ],
+          "sentences": [
+            "I don't know what his poIicies are, but I'm sure he'II make a good one."
+          ]
+        },
+        {
+          "shot": 199,
+          "duration": [
+            1262.3027083333332,
+            1273.3554166666665
+          ],
+          "sentences": [
+            "I don't know what his poIicies are, but I'm sure he'II make a good one.",
+            "- Do you want to canvass? - Yeah, I'II canvass.",
+            "How do you feeI about his stand on weIfare?"
+          ]
+        },
+        {
+          "shot": 200,
+          "duration": [
+            1273.397125,
+            1276.1498749999998
+          ],
+          "sentences": [
+            "How do you feeI about his stand on weIfare?",
+            "I don't reaIIy know his stand on weIfare, but I'm sure it's a good stand."
+          ]
+        },
+        {
+          "shot": 201,
+          "duration": [
+            1276.1915833333333,
+            1301.7587916666666
+          ],
+          "sentences": [
+            "I don't reaIIy know his stand on weIfare, but I'm sure it's a good stand.",
+            "You're sure of that?",
+            "We all work together here, day and night...",
+            "...so I'm sure the gentIemen wiII sign you up over there.",
+            "The thing is, I drive a taxi at night, so it's kind of hard for me...",
+            "...to work in the day.",
+            "Then what exactly do you want?",
+            "Would you like to have coffee and pie with me?"
+          ]
+        },
+        {
+          "shot": 202,
+          "duration": [
+            1301.8004999999998,
+            1305.3457083333333
+          ],
+          "sentences": [
+            "Would you like to have coffee and pie with me?",
+            "Why?",
+            "Why? I'II teII you why."
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            1305.3874166666665,
+            1309.2245833333332
+          ],
+          "sentences": [
+            "Why? I'II teII you why.",
+            "I think you're a IoneIy person."
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            1309.2662916666666,
+            1312.5195416666666
+          ],
+          "sentences": [
+            "I think you're a IoneIy person.",
+            "I drive by a Iot, and I see you here."
+          ]
+        },
+        {
+          "shot": 205,
+          "duration": [
+            1312.56125,
+            1315.3557083333333
+          ],
+          "sentences": [
+            "I drive by a Iot, and I see you here.",
+            "I see a Iot of peopIe around you...",
+            "...and I see these phones and aII this stuff on your desk..."
+          ]
+        },
+        {
+          "shot": 206,
+          "duration": [
+            1315.3974166666667,
+            1317.6079583333333
+          ],
+          "sentences": [
+            "...and I see these phones and aII this stuff on your desk..."
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            1317.6496666666665,
+            1320.9029166666667
+          ],
+          "sentences": [
+            "...and I see these phones and aII this stuff on your desk...",
+            "...and it means nothing.",
+            "And when I came inside and met you..."
+          ]
+        },
+        {
+          "shot": 208,
+          "duration": [
+            1320.9446249999999,
+            1335.5842499999999
+          ],
+          "sentences": [
+            "And when I came inside and met you...",
+            "...I saw in your eyes and how you carried yourseIf...",
+            "...that you're not a happy person.",
+            "And I think you need something.",
+            "If you wanna caII it a friend, you can caII it that.",
+            "You're gonna be my friend?"
+          ]
+        },
+        {
+          "shot": 209,
+          "duration": [
+            1335.6259583333333,
+            1344.4681249999999
+          ],
+          "sentences": [
+            "You're gonna be my friend?"
+          ]
+        },
+        {
+          "shot": 210,
+          "duration": [
+            1344.5098333333333,
+            1357.1474583333331
+          ],
+          "sentences": [
+            "What do you say?",
+            "It's a IittIe hard standing here and asking you, so..."
+          ]
+        },
+        {
+          "shot": 211,
+          "duration": [
+            1357.1891666666666,
+            1365.11375
+          ],
+          "sentences": [
+            "Five minutes, that's all. Just outside. Right around here.",
+            "I'm there to protect you."
+          ]
+        },
+        {
+          "shot": 212,
+          "duration": [
+            1365.1554583333332,
+            1371.7036666666665
+          ],
+          "sentences": [
+            "Come on. Just take a IittIe break."
+          ]
+        },
+        {
+          "shot": 213,
+          "duration": [
+            1371.745375,
+            1379.2945833333333
+          ],
+          "sentences": [
+            "Come on. Just take a IittIe break.",
+            "I have a break at 4:00. If you're here--",
+            "4:00 today?"
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            1379.3362916666665,
+            1381.9222083333332
+          ],
+          "sentences": [
+            "4:00 today?",
+            "- I'II be here. - I'm sure you wiII."
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            1381.9639166666666,
+            1382.8815
+          ],
+          "sentences": [
+            "- I'II be here. - I'm sure you wiII."
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            1382.9232083333332,
+            1383.9242083333331
+          ],
+          "sentences": [
+            "- I'II be here. - I'm sure you wiII.",
+            "- AII right. Four p.m. - Right."
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            1383.9659166666665,
+            1389.1377499999999
+          ],
+          "sentences": [
+            "- AII right. Four p.m. - Right.",
+            "- Outside in the front? - Yes."
+          ]
+        },
+        {
+          "shot": 218,
+          "duration": [
+            1389.1794583333333,
+            1395.2271666666666
+          ],
+          "sentences": [
+            "- Outside in the front? - Yes.",
+            "Oh, my name is Travis. Betsy?"
+          ]
+        },
+        {
+          "shot": 219,
+          "duration": [
+            1395.268875,
+            1398.0633333333333
+          ],
+          "sentences": [
+            "I appreciate this, Betsy."
+          ]
+        },
+        {
+          "shot": 220,
+          "duration": [
+            1398.1050416666665,
+            1402.9015
+          ],
+          "sentences": [
+            "I appreciate this, Betsy."
+          ]
+        },
+        {
+          "shot": 222,
+          "duration": [
+            1405.6542499999998,
+            1429.3445833333333
+          ],
+          "sentences": [
+            "May 26th, four o'clock p.m.",
+            "I took Betsy to Charles' Coffee Shop on Columbus Circle.",
+            "I had black coffee and apple pie with a slice of melted yellow cheese.",
+            "I think that was a good selection.",
+            "Betsy had coffee and a fruit salad dish."
+          ]
+        },
+        {
+          "shot": 223,
+          "duration": [
+            1429.3862916666665,
+            1434.6415416666666
+          ],
+          "sentences": [
+            "Betsy had coffee and a fruit salad dish.",
+            "She could've had anything she wanted.",
+            "15,000 volunteers in New York alone isn't bad."
+          ]
+        },
+        {
+          "shot": 224,
+          "duration": [
+            1434.6832499999998,
+            1439.6048333333333
+          ],
+          "sentences": [
+            "15,000 volunteers in New York alone isn't bad.",
+            "But the organizationaI probIems!",
+            "Yeah, I know what you mean. I got the same probIems."
+          ]
+        },
+        {
+          "shot": 225,
+          "duration": [
+            1439.6465416666665,
+            1469.2594583333332
+          ],
+          "sentences": [
+            "Yeah, I know what you mean. I got the same probIems.",
+            "I gotta get organized. LittIe things, Iike my apartment, my possessions.",
+            "I should get a sign: \"One of these days, I'll get organiz-ized.\"",
+            "You mean \"organized\"?",
+            "Organiz-ized.",
+            "Organiz-ized. It's a joke.",
+            "O-R-G-A-N-E-Z-I-E-Z-D.",
+            "You mean \"organiz-ized.\" Like those signs in offices that say, \"Thimk.\""
+          ]
+        },
+        {
+          "shot": 226,
+          "duration": [
+            1469.3011666666666,
+            1476.850375
+          ],
+          "sentences": [
+            "Do you Iike where you work?",
+            "We've got some good people. Palantine's got a good chance."
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            1476.8920833333332,
+            1482.1890416666665
+          ],
+          "sentences": [
+            "We've got some good people. Palantine's got a good chance."
+          ]
+        },
+        {
+          "shot": 228,
+          "duration": [
+            1482.23075,
+            1487.861375
+          ],
+          "sentences": [
+            "You know you have beautifuI eyes?"
+          ]
+        },
+        {
+          "shot": 230,
+          "duration": [
+            1491.23975,
+            1502.1673333333333
+          ],
+          "sentences": [
+            "Do you Iike the guy you work with?",
+            "He's okay.",
+            "But do you Iike him?",
+            "He's funny and very good at his job. Though he does have a few problems."
+          ]
+        },
+        {
+          "shot": 231,
+          "duration": [
+            1502.2090416666665,
+            1507.1306249999998
+          ],
+          "sentences": [
+            "He's funny and very good at his job. Though he does have a few problems.",
+            "I'd say he has quite a few probIems."
+          ]
+        },
+        {
+          "shot": 232,
+          "duration": [
+            1507.1723333333332,
+            1509.5079999999998
+          ],
+          "sentences": [
+            "His energy seems to go in the wrong places."
+          ]
+        },
+        {
+          "shot": 233,
+          "duration": [
+            1509.5497083333332,
+            1510.7175416666666
+          ],
+          "sentences": [
+            "His energy seems to go in the wrong places."
+          ]
+        },
+        {
+          "shot": 234,
+          "duration": [
+            1510.7592499999998,
+            1517.7245416666665
+          ],
+          "sentences": [
+            "His energy seems to go in the wrong places.",
+            "When I waIked in and I saw you two sitting there...",
+            "...I couId just teII that there was no connection..."
+          ]
+        },
+        {
+          "shot": 235,
+          "duration": [
+            1517.76625,
+            1520.8109583333332
+          ],
+          "sentences": [
+            "...I couId just teII that there was no connection...",
+            "...whatsoever.",
+            "And when I waIked in, there was something between us."
+          ]
+        },
+        {
+          "shot": 236,
+          "duration": [
+            1520.8526666666667,
+            1545.5439999999999
+          ],
+          "sentences": [
+            "And when I waIked in, there was something between us.",
+            "There was an impulse we were both following.",
+            "So that gave me the right to talk to you.",
+            "Otherwise, I never wouId've had the right to taIk to you.",
+            "I never wouId've had the courage to taIk to you.",
+            "And with him, I feIt there was nothing.",
+            "When I waIked in, I knew I was right. Did you feeI that way?"
+          ]
+        },
+        {
+          "shot": 237,
+          "duration": [
+            1545.5857083333333,
+            1551.424875
+          ],
+          "sentences": [
+            "I wouIdn't be here if I didn't.",
+            "Where are you from?"
+          ]
+        },
+        {
+          "shot": 238,
+          "duration": [
+            1551.4665833333331,
+            1555.0117916666666
+          ],
+          "sentences": [
+            "Where are you from?",
+            "Upstate."
+          ]
+        },
+        {
+          "shot": 240,
+          "duration": [
+            1556.7635416666665,
+            1565.6474166666665
+          ],
+          "sentences": [
+            "That fellow, I don't like him.",
+            "Not that I don't Iike him, I just think he's siIIy.",
+            "I don't think he respects you."
+          ]
+        },
+        {
+          "shot": 241,
+          "duration": [
+            1565.6891249999999,
+            1567.3574583333332
+          ],
+          "sentences": [
+            "I don't think he respects you."
+          ]
+        },
+        {
+          "shot": 242,
+          "duration": [
+            1567.3991666666666,
+            1569.31775
+          ],
+          "sentences": [
+            "I don't think he respects you.",
+            "I don't beIieve I've ever met anyone quite Iike you."
+          ]
+        },
+        {
+          "shot": 243,
+          "duration": [
+            1569.3594583333331,
+            1574.6147083333333
+          ],
+          "sentences": [
+            "I don't beIieve I've ever met anyone quite Iike you."
+          ]
+        },
+        {
+          "shot": 244,
+          "duration": [
+            1574.6564166666665,
+            1603.1849166666666
+          ],
+          "sentences": [
+            "You wanna go to...",
+            "...a movie with me?",
+            "- I have to go back to work now. - I don't mean now. Another time?",
+            "Sure. You know what you remind me of?",
+            "What?"
+          ]
+        },
+        {
+          "shot": 245,
+          "duration": [
+            1603.2266249999998,
+            1607.480875
+          ],
+          "sentences": [
+            "What?",
+            "That song...",
+            "...by Kris Kristofferson."
+          ]
+        },
+        {
+          "shot": 246,
+          "duration": [
+            1607.5225833333332,
+            1611.735125
+          ],
+          "sentences": [
+            "...by Kris Kristofferson."
+          ]
+        },
+        {
+          "shot": 247,
+          "duration": [
+            1611.7768333333331,
+            1615.1135
+          ],
+          "sentences": [
+            "Who's that?",
+            "The songwriter.",
+            "\" He's a prophet..."
+          ]
+        },
+        {
+          "shot": 248,
+          "duration": [
+            1615.1552083333331,
+            1625.2903333333331
+          ],
+          "sentences": [
+            "\" He's a prophet...",
+            "He's a prophet and a pusher...",
+            "...partly truth, partly fiction, a walking contradiction.\"",
+            "You saying that about me?"
+          ]
+        },
+        {
+          "shot": 249,
+          "duration": [
+            1625.3320416666666,
+            1627.9596666666666
+          ],
+          "sentences": [
+            "You saying that about me?",
+            "Who else would I be talking about?"
+          ]
+        },
+        {
+          "shot": 250,
+          "duration": [
+            1628.0013749999998,
+            1630.2953333333332
+          ],
+          "sentences": [
+            "I'm no pusher. I've never pushed."
+          ]
+        },
+        {
+          "shot": 251,
+          "duration": [
+            1630.3370416666667,
+            1632.5892916666664
+          ],
+          "sentences": [
+            "Just the part about the contradictions."
+          ]
+        },
+        {
+          "shot": 252,
+          "duration": [
+            1632.6309999999999,
+            1638.9289583333332
+          ],
+          "sentences": [
+            "Just the part about the contradictions.",
+            "You are that."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0003",
+      "shot": [
+        280,
+        316
+      ],
+      "frame": [
+        42793,
+        47391
+      ],
+      "duration": [
+        1784.8447876666664,
+        1976.5776156666666
+      ],
+      "consistency": 0.9714618354244472,
+      "description": "Travis is further revolted by what he considers the moral decay around him. One night while on shift, Iris (Jodie Foster), a 12-year-old child prostitute, gets in his cab, attempting to escape her pimp. Shocked by the occurrence Travis fails to drive off quickly enough and her pimp, \"Sport\" (Harvey Keitel), reaches the cab. Sport forcibly grabs Iris away with him and gives Travis a crumpled twenty dollar bill as a bribe not to say anything, which haunts Travis with the memory of his failure to help the girl.",
+      "subtitle": [
+        {
+          "shot": 280,
+          "duration": [
+            1782.655875,
+            1791.8317083333332
+          ],
+          "sentences": [
+            "...really clean it up. You know?",
+            "Sometimes I go out and I smeII it. I get headaches, it's so bad.",
+            "And they just never go away, you know?"
+          ]
+        },
+        {
+          "shot": 281,
+          "duration": [
+            1791.8734166666666,
+            1797.6708749999998
+          ],
+          "sentences": [
+            "And they just never go away, you know?",
+            "I think that the President shouId just...",
+            "...clean up this mess. He should flush it right down the fucking toilet."
+          ]
+        },
+        {
+          "shot": 282,
+          "duration": [
+            1797.7125833333332,
+            1806.3462083333332
+          ],
+          "sentences": [
+            "...clean up this mess. He should flush it right down the fucking toilet."
+          ]
+        },
+        {
+          "shot": 283,
+          "duration": [
+            1806.3879166666666,
+            1815.6054583333332
+          ],
+          "sentences": [
+            "I think I know what you mean, Travis.",
+            "But it's not gonna be easy.",
+            "- We'II have to make radicaI changes. - Damn straight."
+          ]
+        },
+        {
+          "shot": 284,
+          "duration": [
+            1815.6471666666666,
+            1819.2340833333333
+          ],
+          "sentences": [
+            "- We'II have to make radicaI changes. - Damn straight.",
+            "Here you go. Keep the change."
+          ]
+        },
+        {
+          "shot": 285,
+          "duration": [
+            1819.2757916666665,
+            1827.8677083333332
+          ],
+          "sentences": [
+            "Here you go. Keep the change.",
+            "Thank you.",
+            "- Nice talking to you. - Nice talking to you.",
+            "You're a good man. I know you're gonna win."
+          ]
+        },
+        {
+          "shot": 286,
+          "duration": [
+            1827.9094166666666,
+            1834.4993333333332
+          ],
+          "sentences": [
+            "You're a good man. I know you're gonna win.",
+            "Thank you, I think."
+          ]
+        },
+        {
+          "shot": 289,
+          "duration": [
+            1847.2620833333333,
+            1854.9364166666664
+          ],
+          "sentences": [
+            "Just get me outta here, all right?"
+          ]
+        },
+        {
+          "shot": 290,
+          "duration": [
+            1854.9781249999999,
+            1859.60775
+          ],
+          "sentences": [
+            "Just get me outta here, all right?"
+          ]
+        },
+        {
+          "shot": 291,
+          "duration": [
+            1859.6494583333333,
+            1862.6941666666664
+          ],
+          "sentences": [
+            "Come on!"
+          ]
+        },
+        {
+          "shot": 292,
+          "duration": [
+            1862.7358749999999,
+            1868.3247916666664
+          ],
+          "sentences": [
+            "Come on, baby. This is a reaI drag.",
+            "Now, come on! Don't make a scene."
+          ]
+        },
+        {
+          "shot": 293,
+          "duration": [
+            1868.3664999999999,
+            1870.1599583333332
+          ],
+          "sentences": [
+            "You wanna get busted?"
+          ]
+        },
+        {
+          "shot": 294,
+          "duration": [
+            1870.2016666666666,
+            1871.6614583333333
+          ],
+          "sentences": [
+            "You wanna get busted?",
+            "Bitch, be cooI!"
+          ]
+        },
+        {
+          "shot": 295,
+          "duration": [
+            1871.7031666666664,
+            1873.246375
+          ],
+          "sentences": [
+            "Bitch, be cooI!"
+          ]
+        },
+        {
+          "shot": 298,
+          "duration": [
+            1878.62675,
+            1887.760875
+          ],
+          "sentences": [
+            "Don't start no trouble.",
+            "Cabbie, just forget about this.",
+            "Be cool, bitch!"
+          ]
+        },
+        {
+          "shot": 309,
+          "duration": [
+            1938.2279583333332,
+            1942.4822083333331
+          ],
+          "sentences": [
+            "Get your ass out of here!"
+          ]
+        },
+        {
+          "shot": 310,
+          "duration": [
+            1942.5239166666665,
+            1946.5279166666664
+          ],
+          "sentences": [
+            "Get your ass out of here!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0004",
+      "shot": [
+        265,
+        283
+      ],
+      "frame": [
+        40919,
+        43283
+      ],
+      "duration": [
+        1706.6692916666666,
+        1805.2270696666665
+      ],
+      "consistency": 0.8783492359172308,
+      "description": "During one of his shifts, Travis picks up Senator Palantine himself (Leonard Harris) and an aide. He tells the senator he plans to vote for him and the senator, acting like a real politician, tells Travis he learns more from cab drivers than limo drivers. The senator asks Travis \"what's the one thing that bugs you the most?\" and Travis responds that he would like the next president to \"clean the scum off New York City.\"",
+      "subtitle": [
+        {
+          "shot": 265,
+          "duration": [
+            1706.6632916666665,
+            1708.2482083333332
+          ],
+          "sentences": [
+            "Listen, I think we shouId've waited for the Iimo.",
+            "I don't mind the cab, but I mind..."
+          ]
+        },
+        {
+          "shot": 266,
+          "duration": [
+            1708.2899166666666,
+            1709.3326249999998
+          ],
+          "sentences": [
+            "I don't mind the cab, but I mind..."
+          ]
+        },
+        {
+          "shot": 267,
+          "duration": [
+            1709.3743333333332,
+            1721.9285416666664
+          ],
+          "sentences": [
+            "I don't mind the cab, but I mind...",
+            "...going to California without the right preparation.",
+            "Are you Charles Palantine, the candidate?",
+            "Yes, I am.",
+            "I teII everybody that comes in this taxi that they have to vote for you."
+          ]
+        },
+        {
+          "shot": 268,
+          "duration": [
+            1721.9702499999999,
+            1728.101375
+          ],
+          "sentences": [
+            "I teII everybody that comes in this taxi that they have to vote for you.",
+            "Why, thank you..."
+          ]
+        },
+        {
+          "shot": 269,
+          "duration": [
+            1728.1430833333332,
+            1729.8948333333333
+          ],
+          "sentences": [
+            "...Travis."
+          ]
+        },
+        {
+          "shot": 270,
+          "duration": [
+            1729.9365416666665,
+            1730.7289999999998
+          ],
+          "sentences": [
+            "...Travis.",
+            "I'm sure you'II win. Everybody I know wiII vote for you."
+          ]
+        },
+        {
+          "shot": 271,
+          "duration": [
+            1730.7707083333332,
+            1731.7299999999998
+          ],
+          "sentences": [
+            "I'm sure you'II win. Everybody I know wiII vote for you."
+          ]
+        },
+        {
+          "shot": 272,
+          "duration": [
+            1731.7717083333332,
+            1734.0239583333332
+          ],
+          "sentences": [
+            "I'm sure you'II win. Everybody I know wiII vote for you.",
+            "I was gonna put your sticker in my taxi..."
+          ]
+        },
+        {
+          "shot": 273,
+          "duration": [
+            1734.0656666666666,
+            1744.9515416666666
+          ],
+          "sentences": [
+            "I was gonna put your sticker in my taxi...",
+            "...but the company said it was against their policy.",
+            "They're a bunch of jerks.",
+            "Let me tell you, I have learned more about America...",
+            "...from riding in cabs than in all the limos in the U.S."
+          ]
+        },
+        {
+          "shot": 274,
+          "duration": [
+            1744.99325,
+            1750.2067916666665
+          ],
+          "sentences": [
+            "...from riding in cabs than in all the limos in the U.S.",
+            "- Oh, yeah? - That's true."
+          ]
+        },
+        {
+          "shot": 275,
+          "duration": [
+            1750.2485,
+            1751.8334166666666
+          ],
+          "sentences": [
+            "- Oh, yeah? - That's true."
+          ]
+        },
+        {
+          "shot": 276,
+          "duration": [
+            1751.8751249999998,
+            1758.00625
+          ],
+          "sentences": [
+            "- Oh, yeah? - That's true.",
+            "- Can I ask you something, Travis? - Sure.",
+            "What bugs you the most about this country?"
+          ]
+        },
+        {
+          "shot": 277,
+          "duration": [
+            1758.047958333333,
+            1761.3429166666665
+          ],
+          "sentences": [
+            "What bugs you the most about this country?",
+            "Well, I don't know. I don't follow political issues that closely, sir."
+          ]
+        },
+        {
+          "shot": 278,
+          "duration": [
+            1761.384625,
+            1779.6528749999998
+          ],
+          "sentences": [
+            "Well, I don't know. I don't follow political issues that closely, sir.",
+            "Well, there must be something.",
+            "Well, whatever it is, he should clean up this city here...",
+            "...because it's Iike an open sewer. It's fuII of fiIth and scum.",
+            "Sometimes I can hardIy take it.",
+            "Whatever becomes the President should just..."
+          ]
+        },
+        {
+          "shot": 279,
+          "duration": [
+            1779.6945833333332,
+            1782.6141666666665
+          ],
+          "sentences": [
+            "Whatever becomes the President should just..."
+          ]
+        },
+        {
+          "shot": 280,
+          "duration": [
+            1782.655875,
+            1791.8317083333332
+          ],
+          "sentences": [
+            "...really clean it up. You know?",
+            "Sometimes I go out and I smeII it. I get headaches, it's so bad.",
+            "And they just never go away, you know?"
+          ]
+        },
+        {
+          "shot": 281,
+          "duration": [
+            1791.8734166666666,
+            1797.6708749999998
+          ],
+          "sentences": [
+            "And they just never go away, you know?",
+            "I think that the President shouId just...",
+            "...clean up this mess. He should flush it right down the fucking toilet."
+          ]
+        },
+        {
+          "shot": 282,
+          "duration": [
+            1797.7125833333332,
+            1806.3462083333332
+          ],
+          "sentences": [
+            "...clean up this mess. He should flush it right down the fucking toilet."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0005",
+      "shot": [
+        322,
+        356
+      ],
+      "frame": [
+        48864,
+        56907
+      ],
+      "duration": [
+        2038.046064333333,
+        2373.494853333333
+      ],
+      "consistency": 0.9983644418522563,
+      "description": "On their date, however due to his lack of social skills, Travis takes Betsy to a porno theater to view a hardcore Swedish \"sex education\" film (titled: Language of Love). Offended, she leaves him and takes a taxi home alone. The next day he tries to reconcile with Betsy, phoning her and sending her flowers, but all of his attempts are in vain and she refuses to speak with him. Going back into the campaign office, Travis confronts Betsy and shouts that she will \"burn in hell like the rest of them\".",
+      "subtitle": [
+        {
+          "shot": 322,
+          "duration": [
+            2036.7430416666666,
+            2067.190125
+          ],
+          "sentences": [
+            "Why'd you do that?",
+            "What else am I gonna do with my money?",
+            "I wish you'd have Iistened to this.",
+            "I wouId have, except my record pIayer doesn't work now.",
+            "Your stereo's broken?",
+            "How do you stand it? I can't Iive without music.",
+            "I don't foIIow music too much, but I wouId reaIIy Iike to.",
+            "Then you haven't played this record yet.",
+            "But I was thinking maybe we couId Iisten to it on your record pIayer.",
+            "Now, going back through 40 years of Chick Webb."
+          ]
+        },
+        {
+          "shot": 323,
+          "duration": [
+            2067.2318333333333,
+            2073.1544166666663
+          ],
+          "sentences": [
+            "Now, going back through 40 years of Chick Webb."
+          ]
+        },
+        {
+          "shot": 324,
+          "duration": [
+            2073.196125,
+            2086.5845
+          ],
+          "sentences": [
+            "You gotta be kidding.",
+            "What?"
+          ]
+        },
+        {
+          "shot": 325,
+          "duration": [
+            2086.626208333333,
+            2109.6909166666665
+          ],
+          "sentences": [
+            "What?",
+            "This is a dirty movie.",
+            "No, no. This is a movie that a Iot of coupIes come to.",
+            "- AII kinds of coupIes go here. - You sure about that?",
+            "Yeah, I see them aII the time.",
+            "Come on."
+          ]
+        },
+        {
+          "shot": 339,
+          "duration": [
+            2145.059583333333,
+            2150.4399583333334
+          ],
+          "sentences": [
+            "- Where are you going? - I have to Ieave."
+          ]
+        },
+        {
+          "shot": 340,
+          "duration": [
+            2150.4816666666666,
+            2172.7539166666666
+          ],
+          "sentences": [
+            "- Why? - I don't know why I came in here.",
+            "- I don't Iike these movies. - WeII, I mean--",
+            "I didn't know you'd feeI that way about this movie.",
+            "- If I had-- - Are these the onIy movies you go to?",
+            "Yeah, I mean I come and-- This is not so bad.",
+            "Taking me here is as exciting to me as saying, \" Let's fuck.\""
+          ]
+        },
+        {
+          "shot": 341,
+          "duration": [
+            2172.7956249999997,
+            2181.7629166666666
+          ],
+          "sentences": [
+            "There are other movies I can take you to.",
+            "I don't know much about them, but I can take you other pIaces.",
+            "We're just different.",
+            "- Wait a second. - I have to go."
+          ]
+        },
+        {
+          "shot": 342,
+          "duration": [
+            2181.8046249999998,
+            2183.055875
+          ],
+          "sentences": [
+            "- Wait a second. - I have to go."
+          ]
+        },
+        {
+          "shot": 343,
+          "duration": [
+            2183.097583333333,
+            2186.559375
+          ],
+          "sentences": [
+            "- Wait a second. - I have to go.",
+            "I've got to go now.",
+            "- Wait a second, I want to taIk. - But I have to go."
+          ]
+        },
+        {
+          "shot": 344,
+          "duration": [
+            2186.601083333333,
+            2187.9774583333333
+          ],
+          "sentences": [
+            "- Wait a second, I want to taIk. - But I have to go."
+          ]
+        },
+        {
+          "shot": 345,
+          "duration": [
+            2188.0191666666665,
+            2190.6050833333334
+          ],
+          "sentences": [
+            "- Wait a second, I want to taIk. - But I have to go.",
+            "Taxi!"
+          ]
+        },
+        {
+          "shot": 346,
+          "duration": [
+            2190.6467916666666,
+            2191.814625
+          ],
+          "sentences": [
+            "Taxi!",
+            "Can I taIk to you at Ieast? Won't you at Ieast to taIk to me?"
+          ]
+        },
+        {
+          "shot": 347,
+          "duration": [
+            2191.856333333333,
+            2199.4472499999997
+          ],
+          "sentences": [
+            "Can I taIk to you at Ieast? Won't you at Ieast to taIk to me?",
+            "Take the record.",
+            "- I've aIready got it. - But, pIease."
+          ]
+        },
+        {
+          "shot": 348,
+          "duration": [
+            2199.4889583333334,
+            2200.6985
+          ],
+          "sentences": [
+            "- I bought it for you, Betsy. - Okay, now I've got two. Let's go."
+          ]
+        },
+        {
+          "shot": 349,
+          "duration": [
+            2200.740208333333,
+            2211.45925
+          ],
+          "sentences": [
+            "- I bought it for you, Betsy. - Okay, now I've got two. Let's go.",
+            "Can I caII you?",
+            "Jesus Christ, I got a taxi."
+          ]
+        },
+        {
+          "shot": 350,
+          "duration": [
+            2211.500958333333,
+            2216.5476666666664
+          ],
+          "sentences": [
+            "Hello, Betsy."
+          ]
+        },
+        {
+          "shot": 351,
+          "duration": [
+            2216.589375,
+            2314.3954166666663
+          ],
+          "sentences": [
+            "Hi, it's Travis.",
+            "Listen, I'm sorry about the other night.",
+            "I didn't know that was the way you feIt about it.",
+            "Well, I didn't know. If I-- I'd have taken you somewhere else.",
+            "Are you feeling better or...?",
+            "Maybe you had a virus or something. A 24-hour virus, you know.",
+            "It can happen. Yeah.",
+            "You've been working hard, huh?",
+            "Would you like to have some dinner with me...",
+            "...in the next few days or something?",
+            "How about a cup of coffee?",
+            "I couId come by the headquarters or something, and we couId...",
+            "Okay, okay.",
+            "Did you get my flowers and the...?",
+            "You didn't get them? But I sent some fIowers.",
+            "Can I caII you again?",
+            "Tomorrow or the next day?",
+            "No, I'm gonna-- Okay, yeah, sure.",
+            "So Iong.",
+            "I tried several times to call her...",
+            "...but after the first call, she wouldn't come to the phone.",
+            "I also sent flowers, but with no luck.",
+            "The smell of the flowers made me sicker."
+          ]
+        },
+        {
+          "shot": 352,
+          "duration": [
+            2314.437125,
+            2340.1711666666665
+          ],
+          "sentences": [
+            "The smell of the flowers made me sicker.",
+            "The headaches got worse. I think I got stomach cancer.",
+            "I shouldn't complain, though.",
+            "You're only as healthy...",
+            "You're only as healthy as you feel.",
+            "You're only...",
+            "...as healthy...",
+            "...as...",
+            "...you...",
+            "... feel."
+          ]
+        },
+        {
+          "shot": 354,
+          "duration": [
+            2346.9279166666665,
+            2349.2218749999997
+          ],
+          "sentences": [
+            "- Let's not have trouble. - Why won't you talk to me?"
+          ]
+        },
+        {
+          "shot": 355,
+          "duration": [
+            2349.2635833333334,
+            2379.752375
+          ],
+          "sentences": [
+            "- Let's not have trouble. - Why won't you talk to me?",
+            "You think I don't know you're here?",
+            "You think I don't know?",
+            "- Please leave. - Take your hands off!",
+            "I just want you to know--",
+            "Please. This is no place to do this.",
+            "- Take your hands off! - Just Ieave.",
+            "- AII right, Ieave, then! - I wanna teII you...",
+            "...you're in hell! And you'll die in hell.",
+            "- There's a cop over there. - You're Iike the rest of them.",
+            "Look, I'm caIIing the cop. Officer!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0006",
+      "shot": [
+        358,
+        386
+      ],
+      "frame": [
+        57712,
+        61868
+      ],
+      "duration": [
+        2407.0821116666666,
+        2580.3770826666664
+      ],
+      "consistency": 0.9083026362028708,
+      "description": "Rejected and depressed, Travis later picks up a man (director Martin Scorsese) who appears to be as mentally unbalanced as he is. The man tells Travis to park outside an apartment building while letting the meter run. He tells Travis to look at the woman in the window and tells him that's his wife in her boyfriend's apartment. He tells Travis he plans to kill them both with a .44 Magnum.",
+      "subtitle": [
+        {
+          "shot": 358,
+          "duration": [
+            2401.64925,
+            2409.5321249999997
+          ],
+          "sentences": [
+            "Pull over to the curb over there. Right over there."
+          ]
+        },
+        {
+          "shot": 359,
+          "duration": [
+            2409.5738333333334,
+            2417.331583333333
+          ],
+          "sentences": [
+            "Pull over to the curb over there. Right over there.",
+            "No, don't."
+          ]
+        },
+        {
+          "shot": 360,
+          "duration": [
+            2417.3732916666663,
+            2418.8747916666666
+          ],
+          "sentences": [
+            "The fucking meter. What are you doing?"
+          ]
+        },
+        {
+          "shot": 361,
+          "duration": [
+            2418.9165,
+            2424.9642083333333
+          ],
+          "sentences": [
+            "The fucking meter. What are you doing?",
+            "What are you doing with the meter?",
+            "Did I teII you to do that with the meter?"
+          ]
+        },
+        {
+          "shot": 362,
+          "duration": [
+            2425.0059166666665,
+            2433.6812499999996
+          ],
+          "sentences": [
+            "Did I teII you to do that with the meter?",
+            "Put the meter back. I don't care what I have to pay.",
+            "I'm not getting out. Put the meter back on."
+          ]
+        },
+        {
+          "shot": 363,
+          "duration": [
+            2433.7229583333333,
+            2436.3088749999997
+          ],
+          "sentences": [
+            "Put it down.",
+            "That's right."
+          ]
+        },
+        {
+          "shot": 364,
+          "duration": [
+            2436.3505833333334,
+            2437.5184166666663
+          ],
+          "sentences": [
+            "That's right.",
+            "Put it down!"
+          ]
+        },
+        {
+          "shot": 365,
+          "duration": [
+            2437.560125,
+            2439.854083333333
+          ],
+          "sentences": [
+            "Put it down!"
+          ]
+        },
+        {
+          "shot": 366,
+          "duration": [
+            2439.8957916666664,
+            2443.1490416666666
+          ],
+          "sentences": [
+            "That's right.",
+            "Why are you writing? Don't write!"
+          ]
+        },
+        {
+          "shot": 367,
+          "duration": [
+            2443.1907499999998,
+            2448.4042916666663
+          ],
+          "sentences": [
+            "Why are you writing? Don't write!",
+            "Put the thing down. Just sit."
+          ]
+        },
+        {
+          "shot": 369,
+          "duration": [
+            2450.1560416666666,
+            2453.2841666666664
+          ],
+          "sentences": [
+            "I didn't tell you to write. I just said, \" Pull over.\""
+          ]
+        },
+        {
+          "shot": 370,
+          "duration": [
+            2453.325875,
+            2468.841375
+          ],
+          "sentences": [
+            "I didn't tell you to write. I just said, \" Pull over.\"",
+            "Pull over to the curb and sit here.",
+            "We're gonna sit."
+          ]
+        },
+        {
+          "shot": 373,
+          "duration": [
+            2477.641833333333,
+            2480.1860416666664
+          ],
+          "sentences": [
+            "Cabbie, you see that Iight up there? In the window?"
+          ]
+        },
+        {
+          "shot": 374,
+          "duration": [
+            2480.22775,
+            2489.5287083333333
+          ],
+          "sentences": [
+            "Cabbie, you see that Iight up there? In the window?",
+            "The Iight? The window in the second fIoor."
+          ]
+        },
+        {
+          "shot": 375,
+          "duration": [
+            2489.5704166666665,
+            2492.531708333333
+          ],
+          "sentences": [
+            "The one that's closest to the edge of the building."
+          ]
+        },
+        {
+          "shot": 376,
+          "duration": [
+            2492.5734166666666,
+            2507.4215833333333
+          ],
+          "sentences": [
+            "The one that's closest to the edge of the building.",
+            "The Iight up in the window. Second story.",
+            "What are you, blind?",
+            "Do you see the Iight?",
+            "Yeah, you see it. Good."
+          ]
+        },
+        {
+          "shot": 377,
+          "duration": [
+            2507.4632916666665,
+            2512.9687916666667
+          ],
+          "sentences": [
+            "See the woman?",
+            "Do you see the woman in the window?"
+          ]
+        },
+        {
+          "shot": 378,
+          "duration": [
+            2513.0105,
+            2518.307458333333
+          ],
+          "sentences": [
+            "Do you see the woman in the window?",
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 379,
+          "duration": [
+            2518.3491666666664,
+            2521.1853333333333
+          ],
+          "sentences": [
+            "Yeah.",
+            "I want you to see that woman because that's my wife."
+          ]
+        },
+        {
+          "shot": 380,
+          "duration": [
+            2521.2270416666665,
+            2531.445583333333
+          ],
+          "sentences": [
+            "I want you to see that woman because that's my wife.",
+            "But that's not my apartment.",
+            "It's not my apartment. You know who Iives there?"
+          ]
+        },
+        {
+          "shot": 381,
+          "duration": [
+            2531.4872916666664,
+            2544.083208333333
+          ],
+          "sentences": [
+            "It's not my apartment. You know who Iives there?",
+            "No, you wouldn't know. But you know who lives there?",
+            "A nigger Iives there.",
+            "How do you Iike that?"
+          ]
+        },
+        {
+          "shot": 383,
+          "duration": [
+            2547.29475,
+            2563.7695416666666
+          ],
+          "sentences": [
+            "And I'm gonna kiII her.",
+            "There's nothing else. I'm gonna kill her.",
+            "What do you think of that?",
+            "I said, \"What do you think of that?\""
+          ]
+        },
+        {
+          "shot": 384,
+          "duration": [
+            2563.8112499999997,
+            2568.5242916666666
+          ],
+          "sentences": [
+            "Don't answer.",
+            "You don't have to answer everything."
+          ]
+        },
+        {
+          "shot": 385,
+          "duration": [
+            2568.566,
+            2596.7608333333333
+          ],
+          "sentences": [
+            "I'm gonna kiII her with a .44 Magnum pistoI.",
+            "I have a .44 Magnum pistoI. I'm gonna kiII her with that gun.",
+            "Did you ever see what a .44 Magnum can do to a woman's face?",
+            "It'd fucking destroy it. Just bIow it right apart.",
+            "That's what it can do to a face.",
+            "Did you ever see what it can do to a woman's pussy?",
+            "You should see what a .44 Magnum's gonna do to a woman's pussy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0007",
+      "shot": [
+        409,
+        433
+      ],
+      "frame": [
+        65815,
+        70257
+      ],
+      "duration": [
+        2745.063421333333,
+        2930.284480333333
+      ],
+      "consistency": 0.9548415874244642,
+      "description": "One evening at the diner, Travis approaches and tries to express his despair to Wizard, but when Wizard makes a half-hearted response to Travis' problems with the teen prostitute and others, Travis angrily responds with: \"that's just about the stupidest thing I ever heard\".",
+      "subtitle": [
+        {
+          "shot": 409,
+          "duration": [
+            2738.98625,
+            2747.3279166666666
+          ],
+          "sentences": [
+            "I took them into Manhattan by way of Long Beach, tipped me $5.",
+            "How's the action around?",
+            "It's very sIow.",
+            "I'm shoving on."
+          ]
+        },
+        {
+          "shot": 410,
+          "duration": [
+            2747.369625,
+            2749.913833333333
+          ],
+          "sentences": [
+            "Hey, Wiz, wait."
+          ]
+        },
+        {
+          "shot": 411,
+          "duration": [
+            2749.9555416666662,
+            2752.4580416666663
+          ],
+          "sentences": [
+            "- Can I taIk to you for a second? - Bye, KiIIer."
+          ]
+        },
+        {
+          "shot": 412,
+          "duration": [
+            2752.49975,
+            2756.7122916666663
+          ],
+          "sentences": [
+            "- Can I taIk to you for a second? - Bye, KiIIer."
+          ]
+        },
+        {
+          "shot": 418,
+          "duration": [
+            2771.4770416666665,
+            2775.3976249999996
+          ],
+          "sentences": [
+            "You can have them!"
+          ]
+        },
+        {
+          "shot": 419,
+          "duration": [
+            2775.4393333333333,
+            2786.1166666666663
+          ],
+          "sentences": [
+            "You can have them!",
+            "Hey, don't be hitting my man!",
+            "You better take your ass out, boy!"
+          ]
+        },
+        {
+          "shot": 420,
+          "duration": [
+            2786.158375,
+            2799.3799166666663
+          ],
+          "sentences": [
+            "I know you and I ain't taIked too much, you know.",
+            "But you've been around, so...",
+            "Shoot, that's why they call me the Wizard.",
+            "I got..."
+          ]
+        },
+        {
+          "shot": 421,
+          "duration": [
+            2799.421625,
+            2811.4753333333333
+          ],
+          "sentences": [
+            "It's just that I got a...",
+            "Things got you down?",
+            "Yeah, happens to the best of them.",
+            "Yeah, they got me reaI down. ReaI..."
+          ]
+        },
+        {
+          "shot": 422,
+          "duration": [
+            2811.5170416666665,
+            2816.480333333333
+          ],
+          "sentences": [
+            "Yeah, they got me reaI down. ReaI..."
+          ]
+        },
+        {
+          "shot": 423,
+          "duration": [
+            2816.5220416666666,
+            2819.358208333333
+          ],
+          "sentences": [
+            "I just want to go out..."
+          ]
+        },
+        {
+          "shot": 424,
+          "duration": [
+            2819.3999166666663,
+            2827.825
+          ],
+          "sentences": [
+            "I just want to go out...",
+            "...and you know, really, really do something.",
+            "Taxi Iife, you mean?"
+          ]
+        },
+        {
+          "shot": 425,
+          "duration": [
+            2827.866708333333,
+            2831.6621666666665
+          ],
+          "sentences": [
+            "No, it's..."
+          ]
+        },
+        {
+          "shot": 426,
+          "duration": [
+            2831.7038749999997,
+            2856.3952083333334
+          ],
+          "sentences": [
+            "No, it's...",
+            "I don't know.",
+            "I just want to go out...",
+            "I reaIIy want to...",
+            "I got some bad ideas in my head.",
+            "Look at it this way.",
+            "A man takes a job."
+          ]
+        },
+        {
+          "shot": 427,
+          "duration": [
+            2856.4369166666665,
+            2908.15525
+          ],
+          "sentences": [
+            "A man takes a job.",
+            "And that job...",
+            "...you know, that becomes what he is.",
+            "You know, Iike...",
+            "You do a thing, and that's what you are.",
+            "I've been a cabbie for 17 years. Ten years at night.",
+            "And I stiII don't own my own cab. You know why?",
+            "Because I don't want to. That must be what I want.",
+            "To be on the night shift, driving somebody else's cab.",
+            "You understand?",
+            "You get a job, you become the job.",
+            "One guy Iives in BrookIyn, one guy Iives in Sutton PIace.",
+            "You get a Iawyer, another guy's a doctor.",
+            "Another guy dies, another guy gets well...",
+            "...and people are born.",
+            "I envy you, your youth."
+          ]
+        },
+        {
+          "shot": 428,
+          "duration": [
+            2908.196958333333,
+            2911.283375
+          ],
+          "sentences": [
+            "Go out and get Iaid. Get drunk. Do anything."
+          ]
+        },
+        {
+          "shot": 429,
+          "duration": [
+            2911.325083333333,
+            2915.1205416666667
+          ],
+          "sentences": [
+            "Go out and get Iaid. Get drunk. Do anything.",
+            "You got no choice, anyway. I mean, we're aII fucked."
+          ]
+        },
+        {
+          "shot": 430,
+          "duration": [
+            2915.16225,
+            2920.7511666666664
+          ],
+          "sentences": [
+            "You got no choice, anyway. I mean, we're aII fucked.",
+            "More or Iess, you know?"
+          ]
+        },
+        {
+          "shot": 431,
+          "duration": [
+            2920.7928749999996,
+            2925.2556666666665
+          ],
+          "sentences": [
+            "More or Iess, you know?"
+          ]
+        },
+        {
+          "shot": 432,
+          "duration": [
+            2925.2973749999996,
+            2933.055125
+          ],
+          "sentences": [
+            "I don't know. That's about the dumbest thing I ever heard of.",
+            "It's not Bertrand RusseII, but what do you want? I'm a cabbie."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0008",
+      "shot": [
+        454,
+        506
+      ],
+      "frame": [
+        74391,
+        82694
+      ],
+      "duration": [
+        3102.749855,
+        3449.0154979999998
+      ],
+      "consistency": 0.927286591930232,
+      "description": "Travis's thoughts turn more violent. Disgusted by the petty street crime (especially prostitution) that he witnesses while driving through the city, he now finds a focus for his frustration and buys a number of pistols from an illegal drug/weapons dealer (Steven Prince).",
+      "subtitle": [
+        {
+          "shot": 461,
+          "duration": [
+            3124.7049166666666,
+            3134.297833333333
+          ],
+          "sentences": [
+            "That bitch! I'II bIow her brains out!",
+            "I'II kiII her, goddamn it! I'm gonna get my hands and kiII her!"
+          ]
+        },
+        {
+          "shot": 462,
+          "duration": [
+            3134.3395416666663,
+            3138.510375
+          ],
+          "sentences": [
+            "I'II kiII her, goddamn it! I'm gonna get my hands and kiII her!"
+          ]
+        },
+        {
+          "shot": 463,
+          "duration": [
+            3138.552083333333,
+            3139.8867499999997
+          ],
+          "sentences": [
+            "Shoot, goddamn it!"
+          ]
+        },
+        {
+          "shot": 466,
+          "duration": [
+            3142.7229166666666,
+            3162.0755833333333
+          ],
+          "sentences": [
+            "Hey, Sport.",
+            "- That guy keeps following us. - Don't look at him."
+          ]
+        },
+        {
+          "shot": 468,
+          "duration": [
+            3164.703208333333,
+            3181.7619166666664
+          ],
+          "sentences": [
+            "Hey, guys.",
+            "Wanna take a walk?"
+          ]
+        },
+        {
+          "shot": 470,
+          "duration": [
+            3183.7639166666663,
+            3190.312125
+          ],
+          "sentences": [
+            "Loneliness has followed me my whole life, everywhere."
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            3190.353833333333,
+            3194.44125
+          ],
+          "sentences": [
+            "Loneliness has followed me my whole life, everywhere.",
+            "In bars, in cars..."
+          ]
+        },
+        {
+          "shot": 472,
+          "duration": [
+            3194.482958333333,
+            3200.1135833333333
+          ],
+          "sentences": [
+            "...sidewalks, stores, everywhere.",
+            "There's no escape."
+          ]
+        },
+        {
+          "shot": 473,
+          "duration": [
+            3200.1552916666665,
+            3202.6577916666665
+          ],
+          "sentences": [
+            "I'm God's lonely man."
+          ]
+        },
+        {
+          "shot": 474,
+          "duration": [
+            3202.6994999999997,
+            3205.827625
+          ],
+          "sentences": [
+            "I'm God's lonely man."
+          ]
+        },
+        {
+          "shot": 475,
+          "duration": [
+            3205.869333333333,
+            3208.622083333333
+          ],
+          "sentences": [
+            "June 8th."
+          ]
+        },
+        {
+          "shot": 476,
+          "duration": [
+            3208.6637916666664,
+            3228.266708333333
+          ],
+          "sentences": [
+            "My life has taken another turn again.",
+            "The days move along with regularity, over and over...",
+            "... one day indistinguishable from the next.",
+            "A long, continuous chain.",
+            "And then suddenly...",
+            "... there is change."
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            3228.3084166666663,
+            3246.409833333333
+          ],
+          "sentences": [
+            "This here's Easy Andy. He's a traveling salesman.",
+            "How are you doing, Travis?"
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            3254.668083333333,
+            3277.315708333333
+          ],
+          "sentences": [
+            "- You got a .44 Magnum? - It's an expensive weapon.",
+            "It's aII right. I got money.",
+            "It's a reaI monster.",
+            "Stop a car at 100 yards, put a round right through the engine."
+          ]
+        },
+        {
+          "shot": 480,
+          "duration": [
+            3277.3574166666663,
+            3280.7774999999997
+          ],
+          "sentences": [
+            "Stop a car at 100 yards, put a round right through the engine."
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            3280.819208333333,
+            3292.747791666666
+          ],
+          "sentences": [
+            "Here you go.",
+            "It's a premium, high resaIe weapon."
+          ]
+        },
+        {
+          "shot": 482,
+          "duration": [
+            3292.7895,
+            3297.669375
+          ],
+          "sentences": [
+            "It's a premium, high resaIe weapon."
+          ]
+        },
+        {
+          "shot": 483,
+          "duration": [
+            3297.711083333333,
+            3303.967333333333
+          ],
+          "sentences": [
+            "Look at that.",
+            "That's a beauty."
+          ]
+        },
+        {
+          "shot": 486,
+          "duration": [
+            3308.55525,
+            3311.099458333333
+          ],
+          "sentences": [
+            "I couId seII this gun to some jungIe bunny in HarIem for $500."
+          ]
+        },
+        {
+          "shot": 487,
+          "duration": [
+            3311.1411666666663,
+            3314.936625
+          ],
+          "sentences": [
+            "I couId seII this gun to some jungIe bunny in HarIem for $500.",
+            "But I just deaI high-quaIity goods to the right peopIe."
+          ]
+        },
+        {
+          "shot": 488,
+          "duration": [
+            3314.978333333333,
+            3322.1521666666663
+          ],
+          "sentences": [
+            "But I just deaI high-quaIity goods to the right peopIe.",
+            "How about that?",
+            "This might be too big for practicaI purposes."
+          ]
+        },
+        {
+          "shot": 489,
+          "duration": [
+            3322.193875,
+            3325.1134583333333
+          ],
+          "sentences": [
+            "This might be too big for practicaI purposes.",
+            "In which case, for you, I'd recommend..."
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            3325.1551666666664,
+            3327.5742499999997
+          ],
+          "sentences": [
+            "...38 snub-nosed."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            3327.6159583333333,
+            3329.7847916666665
+          ],
+          "sentences": [
+            "Look at this."
+          ]
+        },
+        {
+          "shot": 492,
+          "duration": [
+            3329.8264999999997,
+            3333.204875
+          ],
+          "sentences": [
+            "Look at this.",
+            "That's a beautifuI IittIe gun."
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            3333.246583333333,
+            3334.873208333333
+          ],
+          "sentences": [
+            "That's a beautifuI IittIe gun."
+          ]
+        },
+        {
+          "shot": 494,
+          "duration": [
+            3334.9149166666666,
+            3347.135458333333
+          ],
+          "sentences": [
+            "That's a beautifuI IittIe gun.",
+            "It's nickeI-pIated, snub-nosed, but basicaIIy a service revoIver.",
+            "It'II stop anything that moves.",
+            "The Magnum, they use that in Africa for killing elephants.",
+            "That .38..."
+          ]
+        },
+        {
+          "shot": 495,
+          "duration": [
+            3347.1771666666664,
+            3349.5962499999996
+          ],
+          "sentences": [
+            "That .38...",
+            "...that's a funny gun."
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            3349.6379583333332,
+            3372.8695
+          ],
+          "sentences": [
+            "Some of these guns are Iike toys.",
+            "That .38, you go out and hammer nails with it all day...",
+            "...come back and it'II cut dead center on target every time.",
+            "It's got a reaIIy nice action to it and a heck of a waIIop.",
+            "You interested in an automatic?"
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            3372.911208333333,
+            3375.163458333333
+          ],
+          "sentences": [
+            "It's a CoIt .25 automatic. It's a nice IittIe gun."
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            3375.2051666666666,
+            3386.0076249999997
+          ],
+          "sentences": [
+            "It's a CoIt .25 automatic. It's a nice IittIe gun.",
+            "It's a beautifuI gun.",
+            "Holds six shots in the clip, one in the chamber.",
+            "If you're dumb enough to put one there.",
+            "Here.",
+            "Look at this."
+          ]
+        },
+        {
+          "shot": 499,
+          "duration": [
+            3386.049333333333,
+            3388.426708333333
+          ],
+          "sentences": [
+            "Look at this.",
+            ".380 Walther."
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            3388.4684166666666,
+            3410.698958333333
+          ],
+          "sentences": [
+            ".380 Walther.",
+            "Holds eight shots in the clip.",
+            "That's a nice gun.",
+            "That's a beautifuI IittIe gun. Look at that.",
+            "During World War ll, they used this gun to replace the P 38.",
+            "Just given out to officers."
+          ]
+        },
+        {
+          "shot": 501,
+          "duration": [
+            3410.7406666666666,
+            3426.5064166666666
+          ],
+          "sentences": [
+            "Ain't that a IittIe honey?",
+            "- How much for everything? - AII together?"
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            3426.548125,
+            3430.2601666666665
+          ],
+          "sentences": [
+            "- How much for everything? - AII together?",
+            "Only a jackass would carry that cannon in the streets like that."
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            3430.3018749999997,
+            3435.0566249999997
+          ],
+          "sentences": [
+            "Only a jackass would carry that cannon in the streets like that.",
+            "Here's a beautifuI handmade hoIster I had made in Mexico."
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            3435.098333333333,
+            3441.7716666666665
+          ],
+          "sentences": [
+            "Here's a beautifuI handmade hoIster I had made in Mexico.",
+            "Forty dollars.",
+            "Three-fifty for the Magnum, two-fifty for the .38..."
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            3441.8133749999997,
+            3448.7786666666666
+          ],
+          "sentences": [
+            "Three-fifty for the Magnum, two-fifty for the .38...",
+            "...one and a quarter for the .25, one- fifty for the .380.",
+            "Take this and wait here. I'II waIk down with you."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0009",
+      "shot": [
+        512,
+        563
+      ],
+      "frame": [
+        83231,
+        94638
+      ],
+      "duration": [
+        3471.465859666667,
+        3947.1928196666668
+      ],
+      "consistency": 0.9586718104014968,
+      "description": "Travis develops an ominously intense interest in Senator Palantine's public appearances and it seems that he somehow blames the presidential hopeful for his own failure at wooing Betsy and maybe hopes to include her boss in his growing list of targets. Back at his apartment with his newly purchased guns, he begins a program of intense physical training and practices a menacing speech in the mirror, while pulling out a pistol that he attached to a home-made sliding action holster on his right arm (\"You talkin' to me?\"). Later, he hangs around a Palantine rally and asks a suspicious secret service man about joining the service before disappearing into the crowd.",
+      "subtitle": [
+        {
+          "shot": 514,
+          "duration": [
+            3475.3051666666665,
+            3477.891083333333
+          ],
+          "sentences": [
+            "June 29th."
+          ]
+        },
+        {
+          "shot": 515,
+          "duration": [
+            3477.9327916666666,
+            3481.6865416666665
+          ],
+          "sentences": [
+            "June 29th.",
+            "I gotta get in shape. Too much sitting has ruined my body."
+          ]
+        },
+        {
+          "shot": 516,
+          "duration": [
+            3481.7282499999997,
+            3491.0709166666666
+          ],
+          "sentences": [
+            "I gotta get in shape. Too much sitting has ruined my body.",
+            "Too much abuse has gone on for too long.",
+            "From now on, it'll be 50 pushups each morning.",
+            "Fifty pull-ups. There will be no more pills."
+          ]
+        },
+        {
+          "shot": 517,
+          "duration": [
+            3491.1126249999998,
+            3503.0829166666663
+          ],
+          "sentences": [
+            "Fifty pull-ups. There will be no more pills.",
+            "There will be no more bad food, no more destroyers of my body.",
+            "It'll be total organization. Every muscle must be tight."
+          ]
+        },
+        {
+          "shot": 526,
+          "duration": [
+            3517.055208333333,
+            3518.0144999999998
+          ],
+          "sentences": [
+            "Look at the size of that. Oh, yeah."
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            3518.056208333333,
+            3542.914375
+          ],
+          "sentences": [
+            "Look at the size of that. Oh, yeah.",
+            "Oh, it looks so good.",
+            "It's getting harder and harder, and it's throbbing now.",
+            "The idea had been growing in my brain for some time.",
+            "True force.",
+            "All the king's men cannot put it back together again."
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            3542.956083333333,
+            3547.0434999999998
+          ],
+          "sentences": [
+            "All the king's men cannot put it back together again."
+          ]
+        },
+        {
+          "shot": 529,
+          "duration": [
+            3547.085208333333,
+            3569.857958333333
+          ],
+          "sentences": [
+            "All the king's men cannot put it back together again."
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            3665.745416666666,
+            3670.458458333333
+          ],
+          "sentences": [
+            "- Where do we get more? - Where do you think? At headquarters."
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            3670.5001666666662,
+            3676.964958333333
+          ],
+          "sentences": [
+            "- Where do we get more? - Where do you think? At headquarters.",
+            "AII the way back there?",
+            "- Come on. - They'II work.",
+            "- Maybe it's the speakers. - I've done this 100 times."
+          ]
+        },
+        {
+          "shot": 548,
+          "duration": [
+            3677.006666666666,
+            3686.9332499999996
+          ],
+          "sentences": [
+            "- Maybe it's the speakers. - I've done this 100 times.",
+            "- You've done this before? - Yes, don't worry.",
+            "- When was the Iast time? - I've never done this before."
+          ]
+        },
+        {
+          "shot": 549,
+          "duration": [
+            3686.9749583333332,
+            3691.0623749999995
+          ],
+          "sentences": [
+            "What?",
+            "Come here, come here."
+          ]
+        },
+        {
+          "shot": 550,
+          "duration": [
+            3691.104083333333,
+            3731.144083333333
+          ],
+          "sentences": [
+            "Come here, come here."
+          ]
+        },
+        {
+          "shot": 551,
+          "duration": [
+            3731.1857916666663,
+            3773.561458333333
+          ],
+          "sentences": [
+            "You're a Secret Service man, aren't you?",
+            "Just waiting for the senator.",
+            "You're waiting for the senator?",
+            "That's a very good answer.",
+            "Shit, man.",
+            "I'm waiting for the sun to shine."
+          ]
+        },
+        {
+          "shot": 552,
+          "duration": [
+            3773.6031666666663,
+            3792.330208333333
+          ],
+          "sentences": [
+            "No, the reason I asked if you were a Secret Service man--",
+            "I won't say anything--",
+            "Is because I--",
+            "I saw some suspicious-Iooking peopIe over there.",
+            "- You did? - They were right over there."
+          ]
+        },
+        {
+          "shot": 553,
+          "duration": [
+            3792.3719166666665,
+            3813.226083333333
+          ],
+          "sentences": [
+            "They were just here.",
+            "They were very, very...",
+            "Suspicious.",
+            "Where did they go?",
+            "Is it hard to get to be in the Secret Service?"
+          ]
+        },
+        {
+          "shot": 554,
+          "duration": [
+            3813.267791666666,
+            3829.07525
+          ],
+          "sentences": [
+            "Is it hard to get to be in the Secret Service?",
+            "Why?",
+            "I was just curious, because I think I'd be good at it.",
+            "I'm very observant.",
+            "I was in the Marine Corps, you know.",
+            "I'm good with crowds.",
+            "I noticed your IittIe pin there. It's Iike a signaI, isn't it?"
+          ]
+        },
+        {
+          "shot": 555,
+          "duration": [
+            3829.116958333333,
+            3839.4189166666665
+          ],
+          "sentences": [
+            "I noticed your IittIe pin there. It's Iike a signaI, isn't it?",
+            "Sort of.",
+            "A signaI. A secret signaI for the Secret Service."
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            3839.4606249999997,
+            3864.3187916666666
+          ],
+          "sentences": [
+            "What kind of guns you guys carry?",
+            ".38s? .45s? .357 Magnums? Something bigger, maybe?",
+            "Look, if you're really interested, if you give me your name and address...",
+            "...we'II send you aII the information on how to appIy. How's that?",
+            "- You will? - Sure.",
+            "Why not?"
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            3864.3605,
+            3934.4305
+          ],
+          "sentences": [
+            "My name is Henry...",
+            "...Krinkle. K-R-I-N-K-L-E.",
+            "154 Hopper Avenue.",
+            "Hopper?",
+            "You know, Iike a rabbit? Hip, hop.",
+            "Fair Lawn, New Jersey.",
+            "Is there a zip code?",
+            "6-1- 0-4-5-2.",
+            "That's six digits. 6, 1...",
+            "Oh, well, 6-1- 0-4-5.",
+            "I was thinking of my teIephone number.",
+            "Well, I've got it all.",
+            "Henry, we'II get aII the stuff right out to you.",
+            "Thanks a Iot. Hey, great. Thanks a Iot. HeII. Jesus.",
+            "- Be carefuI today. - Right. WiII do.",
+            "You have to be carefuI around a pIace Iike this. Bye."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0010",
+      "shot": [
+        576,
+        591
+      ],
+      "frame": [
+        98033,
+        100435
+      ],
+      "duration": [
+        4088.8001516666664,
+        4188.974357666666
+      ],
+      "consistency": 0.9088820329656576,
+      "description": "In an accidental warm-up, Travis randomly walks into a robbery in a run-down grocery store and shoots the would-be thief (Nat Grant) in the face; adding to the bizarre violence, the sympathetic grocery owner (Victor Argo) encourages Travis (who has no permit for his guns) to flee the scene and then proceeds to club the near-dead stickup man to death with a steel pole.",
+      "subtitle": [
+        {
+          "shot": 576,
+          "duration": [
+            4086.499083333333,
+            4091.754333333333
+          ],
+          "sentences": [
+            "Hey, Travis, qu\u00e9 pasa?"
+          ]
+        },
+        {
+          "shot": 577,
+          "duration": [
+            4091.7960416666665,
+            4133.754625
+          ],
+          "sentences": [
+            "Hey, Travis, qu\u00e9 pasa?",
+            "Hi, Melio. Qu\u00e9 pasa?",
+            "Yeah, man?",
+            "Shut your fucking mouth and give me the cash out the drawer. Come on!",
+            "- Let's go. Give me the damn cash. - Don't shoot.",
+            "Stop taking so Iong. Come on!",
+            "Let me have it. Give me the bread.",
+            "- This all you got? - That's it.",
+            "I don't have any more money, man.",
+            "- That's all I got! - You got more.",
+            "- I teII you, I got no money! - Reach in your sock.",
+            "Give me the rest of the fucking bread."
+          ]
+        },
+        {
+          "shot": 578,
+          "duration": [
+            4133.796333333333,
+            4145.933458333333
+          ],
+          "sentences": [
+            "- Did you get him? - Yeah, I got him.",
+            "Shit, man."
+          ]
+        },
+        {
+          "shot": 579,
+          "duration": [
+            4145.975166666666,
+            4148.727916666667
+          ],
+          "sentences": [
+            "- Is he dead? - I don't know. His eyes are moving."
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            4148.769625,
+            4153.524375
+          ],
+          "sentences": [
+            "- Is he dead? - I don't know. His eyes are moving."
+          ]
+        },
+        {
+          "shot": 581,
+          "duration": [
+            4153.566083333333,
+            4157.4449583333335
+          ],
+          "sentences": [
+            "I ain't got a permit. I don't know what I'm gonna do."
+          ]
+        },
+        {
+          "shot": 582,
+          "duration": [
+            4157.486666666667,
+            4159.280124999999
+          ],
+          "sentences": [
+            "I ain't got a permit. I don't know what I'm gonna do."
+          ]
+        },
+        {
+          "shot": 583,
+          "duration": [
+            4159.321833333333,
+            4162.950458333333
+          ],
+          "sentences": [
+            "I ain't got a permit. I don't know what I'm gonna do."
+          ]
+        },
+        {
+          "shot": 584,
+          "duration": [
+            4162.992166666666,
+            4171.000166666667
+          ],
+          "sentences": [
+            "Don't worry. I'II take care of it.",
+            "Can I pay you?",
+            "Just get out of here.",
+            "No, man. I'II take care of it. Go ahead."
+          ]
+        },
+        {
+          "shot": 585,
+          "duration": [
+            4171.041875,
+            4178.841333333333
+          ],
+          "sentences": [
+            "No, man. I'II take care of it. Go ahead.",
+            "That's the fifth motherfucker this year!"
+          ]
+        },
+        {
+          "shot": 586,
+          "duration": [
+            4178.883041666666,
+            4182.511666666666
+          ],
+          "sentences": [
+            "That's the fifth motherfucker this year!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0011",
+      "shot": [
+        619,
+        680
+      ],
+      "frame": [
+        107634,
+        120927
+      ],
+      "duration": [
+        4489.254247333333,
+        5043.636342999999
+      ],
+      "consistency": 0.9368219002613827,
+      "description": "Later, seeing Iris on the street, he follows her. Another day later, Travis asks to pay for her time, and is sent to Sport. A tense conversation ensues but Sport sends Travis up to Iris's room. Once in her room, Travis does not have sex with her and instead tries to convince her to leave this way of life behind.",
+      "subtitle": [
+        {
+          "shot": 619,
+          "duration": [
+            4489.026208333333,
+            4524.353166666667
+          ],
+          "sentences": [
+            "- Are you Iooking for some action? - Yeah."
+          ]
+        },
+        {
+          "shot": 620,
+          "duration": [
+            4524.394875,
+            4649.561583333333
+          ],
+          "sentences": [
+            "- Are you Iooking for some action? - Yeah.",
+            "See that guy over there?",
+            "Go talk to him. His name is Matthew.",
+            "I'II be over there waiting for you.",
+            "Your name Matthew? I want some action.",
+            "Officer.",
+            "I swear I'm cIean. I'm just waiting here for a friend.",
+            "You're gonna bust me for nothing, man?",
+            "I'm not a cop. I ain't a--",
+            "Then why are you asking me for action?",
+            "Because she sent me over.",
+            "I suppose that ain't a .38 you got in your sock.",
+            ".38?",
+            "I'm cIean, man.",
+            "Shit, you're a reaI cowboy?",
+            "That's nice, man. AII right. That's aII right.",
+            "15 dollars, 15 minutes. 25 dollars, half an hour.",
+            "Shit.",
+            "Cowboy, huh?",
+            "I once had a horse. On Coney IsIand.",
+            "She got hit by a car.",
+            "Well, take it or leave it.",
+            "If you wanna save yourseIf some money, don't fuck her.",
+            "She'II be back for more.",
+            "She's 12 years old. You ain't never had no pussy like that.",
+            "Do anything you want. Come on her...",
+            "...fuck her in the mouth, in the ass. Come on her face.",
+            "She'II get your cock so hard, she'II make it expIode.",
+            "But no rough stuff. AII right?",
+            "AII right, I'II take it.",
+            "Hey, man! Don't take out no money over here.",
+            "You gonna fuck me?",
+            "You're gonna fuck her. You give her the money.",
+            "Catch you Iater, copper.",
+            "What'd you say?",
+            "See you Iater, copper.",
+            "I'm no cop, man."
+          ]
+        },
+        {
+          "shot": 621,
+          "duration": [
+            4649.603291666666,
+            4653.023375
+          ],
+          "sentences": [
+            "I'm no cop, man.",
+            "Well, if you are, it's entrapment already."
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            4653.065083333333,
+            4659.529874999999
+          ],
+          "sentences": [
+            "Well, if you are, it's entrapment already.",
+            "I'm hip."
+          ]
+        },
+        {
+          "shot": 623,
+          "duration": [
+            4659.571583333333,
+            4661.948958333333
+          ],
+          "sentences": [
+            "Funny, you don't Iook hip."
+          ]
+        },
+        {
+          "shot": 624,
+          "duration": [
+            4661.990666666667,
+            4665.827833333333
+          ],
+          "sentences": [
+            "Funny, you don't Iook hip."
+          ]
+        },
+        {
+          "shot": 625,
+          "duration": [
+            4665.869541666666,
+            4668.664
+          ],
+          "sentences": [
+            "Have yourself a good time. Go ahead, man."
+          ]
+        },
+        {
+          "shot": 628,
+          "duration": [
+            4676.254916666667,
+            4711.832125
+          ],
+          "sentences": [
+            "You're a funny guy.",
+            "But Iooks aren't everything.",
+            "Go ahead, man. Have a good time."
+          ]
+        },
+        {
+          "shot": 630,
+          "duration": [
+            4725.929541666666,
+            4752.622875
+          ],
+          "sentences": [
+            "The room'II cost you ten bucks.",
+            "I'm timing you too."
+          ]
+        },
+        {
+          "shot": 631,
+          "duration": [
+            4752.664583333333,
+            4761.840416666666
+          ],
+          "sentences": [
+            "I'm timing you too."
+          ]
+        },
+        {
+          "shot": 634,
+          "duration": [
+            4771.057958333333,
+            4778.815708333333
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 635,
+          "duration": [
+            4778.857416666667,
+            4785.113666666666
+          ],
+          "sentences": [
+            "Are you really twelve?"
+          ]
+        },
+        {
+          "shot": 636,
+          "duration": [
+            4785.155374999999,
+            4814.309499999999
+          ],
+          "sentences": [
+            "Listen, mister, it's your time. 15 minutes ain't Iong.",
+            "When that cigarette burns out, your time is up.",
+            "How old are you?",
+            "You won't tell me?",
+            "What's your name?",
+            "Easy.",
+            "That's not any kind of name.",
+            "It's easy to remember.",
+            "Yeah, but what's your reaI name?"
+          ]
+        },
+        {
+          "shot": 637,
+          "duration": [
+            4814.351208333333,
+            4820.3155
+          ],
+          "sentences": [
+            "Yeah, but what's your reaI name?",
+            "I don't Iike my reaI name.",
+            "What's your reaI name?"
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            4822.567749999999,
+            4828.156666666667
+          ],
+          "sentences": [
+            "Iris.",
+            "What's wrong? It's a nice name.",
+            "That's what you think."
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            4828.198375,
+            4830.283791666667
+          ],
+          "sentences": [
+            "That's what you think."
+          ]
+        },
+        {
+          "shot": 643,
+          "duration": [
+            4836.373208333333,
+            4839.543041666666
+          ],
+          "sentences": [
+            "No, don't do that. Don't you remember me?"
+          ]
+        },
+        {
+          "shot": 644,
+          "duration": [
+            4839.58475,
+            4840.460625
+          ],
+          "sentences": [
+            "No, don't do that. Don't you remember me?"
+          ]
+        },
+        {
+          "shot": 645,
+          "duration": [
+            4840.502333333333,
+            4842.921416666666
+          ],
+          "sentences": [
+            "Remember when you got into a taxi? It was a checkered taxi."
+          ]
+        },
+        {
+          "shot": 646,
+          "duration": [
+            4842.963124999999,
+            4853.59875
+          ],
+          "sentences": [
+            "Remember when you got into a taxi? It was a checkered taxi.",
+            "You got in and that guy Matthew came by...",
+            "...and he said he wanted to take you away.",
+            "He pulled you away.",
+            "I don't remember that."
+          ]
+        },
+        {
+          "shot": 647,
+          "duration": [
+            4853.640458333333,
+            4856.977124999999
+          ],
+          "sentences": [
+            "I don't remember that.",
+            "You don't remember?"
+          ]
+        },
+        {
+          "shot": 649,
+          "duration": [
+            4859.563041666666,
+            4861.3565
+          ],
+          "sentences": [
+            "I'm gonna get you out of here."
+          ]
+        },
+        {
+          "shot": 650,
+          "duration": [
+            4861.398208333333,
+            4864.317791666666
+          ],
+          "sentences": [
+            "We better make it or Sport will get mad.",
+            "- How do you wanna make it? - I don't want to. Who's Sport?"
+          ]
+        },
+        {
+          "shot": 651,
+          "duration": [
+            4864.3595,
+            4882.12725
+          ],
+          "sentences": [
+            "- How do you wanna make it? - I don't want to. Who's Sport?",
+            "That's Matthew. I caII him Sport.",
+            "Wanna make it Iike this?"
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            4882.168958333333,
+            4884.296083333333
+          ],
+          "sentences": [
+            "Listen, I..."
+          ]
+        },
+        {
+          "shot": 653,
+          "duration": [
+            4884.337791666666,
+            4891.094541666666
+          ],
+          "sentences": [
+            "Can't you understand something?",
+            "You came into my cab.",
+            "You wanted to get out of here.",
+            "I must've been stoned."
+          ]
+        },
+        {
+          "shot": 654,
+          "duration": [
+            4891.13625,
+            4892.929708333333
+          ],
+          "sentences": [
+            "I must've been stoned.",
+            "Why? They drug you?"
+          ]
+        },
+        {
+          "shot": 655,
+          "duration": [
+            4892.971416666666,
+            4894.598041666666
+          ],
+          "sentences": [
+            "Why? They drug you?",
+            "Come off it, man."
+          ]
+        },
+        {
+          "shot": 656,
+          "duration": [
+            4894.639749999999,
+            4904.274375
+          ],
+          "sentences": [
+            "Come off it, man.",
+            "What are you doing?",
+            "Don't you wanna make it?"
+          ]
+        },
+        {
+          "shot": 657,
+          "duration": [
+            4904.316083333333,
+            4906.568333333333
+          ],
+          "sentences": [
+            "I don't wanna make it. I wanna heIp you."
+          ]
+        },
+        {
+          "shot": 658,
+          "duration": [
+            4906.610041666666,
+            4909.6130416666665
+          ],
+          "sentences": [
+            "Well, I could help you."
+          ]
+        },
+        {
+          "shot": 659,
+          "duration": [
+            4909.65475,
+            4914.618041666667
+          ],
+          "sentences": [
+            "Damn, man!"
+          ]
+        },
+        {
+          "shot": 660,
+          "duration": [
+            4914.65975,
+            4916.161249999999
+          ],
+          "sentences": [
+            "Damn, man!",
+            "Goddamn it!"
+          ]
+        },
+        {
+          "shot": 661,
+          "duration": [
+            4916.202958333333,
+            4917.329083333333
+          ],
+          "sentences": [
+            "Goddamn it!"
+          ]
+        },
+        {
+          "shot": 662,
+          "duration": [
+            4917.370791666666,
+            4918.079833333333
+          ],
+          "sentences": [
+            "Goddamn it!"
+          ]
+        },
+        {
+          "shot": 663,
+          "duration": [
+            4918.121541666666,
+            4924.4195
+          ],
+          "sentences": [
+            "Shit, man. What the hell's the matter with you?"
+          ]
+        },
+        {
+          "shot": 664,
+          "duration": [
+            4924.461208333333,
+            4930.508916666667
+          ],
+          "sentences": [
+            "Shit, man. What the hell's the matter with you?",
+            "We don't have to make it, mister.",
+            "Damn it! Don't you want out of here?"
+          ]
+        },
+        {
+          "shot": 665,
+          "duration": [
+            4930.550625,
+            4932.719458333333
+          ],
+          "sentences": [
+            "Can you understand why I'm here?"
+          ]
+        },
+        {
+          "shot": 666,
+          "duration": [
+            4932.761166666666,
+            4935.263666666667
+          ],
+          "sentences": [
+            "Can you understand why I'm here?"
+          ]
+        },
+        {
+          "shot": 667,
+          "duration": [
+            4935.305375,
+            4937.18225
+          ],
+          "sentences": [
+            "I think I understand."
+          ]
+        },
+        {
+          "shot": 668,
+          "duration": [
+            4937.223958333333,
+            4944.147541666666
+          ],
+          "sentences": [
+            "I think I understand.",
+            "I tried to get into your cab...",
+            "...and now you wanna come and take me away."
+          ]
+        },
+        {
+          "shot": 669,
+          "duration": [
+            4944.189249999999,
+            4948.068125
+          ],
+          "sentences": [
+            "Is that it?",
+            "Yeah, but don't you wanna go?"
+          ]
+        },
+        {
+          "shot": 670,
+          "duration": [
+            4948.109833333333,
+            4949.736458333333
+          ],
+          "sentences": [
+            "Yeah, but don't you wanna go?",
+            "I can Ieave any time I want."
+          ]
+        },
+        {
+          "shot": 671,
+          "duration": [
+            4949.778166666666,
+            4960.955999999999
+          ],
+          "sentences": [
+            "I can Ieave any time I want.",
+            "Then what about that one night?",
+            "Look, I was stoned.",
+            "That's why they stopped me."
+          ]
+        },
+        {
+          "shot": 672,
+          "duration": [
+            4960.997708333333,
+            4969.339375
+          ],
+          "sentences": [
+            "That's why they stopped me.",
+            "When I'm not stoned I got no pIace eIse to go.",
+            "So they just..."
+          ]
+        },
+        {
+          "shot": 673,
+          "duration": [
+            4969.381083333333,
+            4972.592624999999
+          ],
+          "sentences": [
+            "So they just...",
+            "...protect me from myself."
+          ]
+        },
+        {
+          "shot": 674,
+          "duration": [
+            4972.634333333333,
+            4988.650333333333
+          ],
+          "sentences": [
+            "I don't know.",
+            "I don't know. Okay, I tried.",
+            "I understand."
+          ]
+        },
+        {
+          "shot": 675,
+          "duration": [
+            4988.692041666666,
+            4989.275958333333
+          ],
+          "sentences": [
+            "I understand."
+          ]
+        },
+        {
+          "shot": 676,
+          "duration": [
+            4989.317666666666,
+            5002.539208333333
+          ],
+          "sentences": [
+            "And it means something, really.",
+            "Well look, can I see you again?",
+            "- That's not hard to do. - Not Iike that.",
+            "I mean, you know, reguIarIy. This is nothing for a person to do."
+          ]
+        },
+        {
+          "shot": 677,
+          "duration": [
+            5002.580916666666,
+            5008.75375
+          ],
+          "sentences": [
+            "I mean, you know, reguIarIy. This is nothing for a person to do.",
+            "How about breakfast tomorrow?",
+            "- Tomorrow? - I get up at 1:00.",
+            "One o'clock?"
+          ]
+        },
+        {
+          "shot": 678,
+          "duration": [
+            5008.795458333333,
+            5030.77575
+          ],
+          "sentences": [
+            "One o'clock?",
+            "Well, I got that thing. I don't know--",
+            "Do you want to or not?",
+            "Yeah, I want-- Okay, aII right.",
+            "- One o'clock. - One o'clock.",
+            "Okay. See you tomorrow.",
+            "Oh, Iris. My name is Travis.",
+            "Thanks a Iot, Travis."
+          ]
+        },
+        {
+          "shot": 679,
+          "duration": [
+            5030.817458333333,
+            5051.755041666666
+          ],
+          "sentences": [
+            "Thanks a Iot, Travis.",
+            "So Iong, Iris. See you tomorrow.",
+            "Sweet Iris."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0012",
+      "shot": [
+        689,
+        750
+      ],
+      "frame": [
+        122176,
+        134868
+      ],
+      "duration": [
+        5095.762779333333,
+        5625.112462333333
+      ],
+      "consistency": 0.973135189352707,
+      "description": "The next day, Travis and Iris meet for breakfast at a local coffee shop and Travis becomes obsessed with saving this na\u00efve child-woman who thinks hanging out with hookers, pimps and drug dealers is more \"hip\" than dating young boys and going to school. Iris considers Travis's offer but then Sport seduces and convinces her to stay, while (seemingly) Travis spies into the window from his cab. Travis writes a note to Iris including all his money and stating that he doesn't intend to survive.",
+      "subtitle": [
+        {
+          "shot": 689,
+          "duration": [
+            5096.424666666666,
+            5114.484375
+          ],
+          "sentences": [
+            "Why do you want me to go back to my parents?",
+            "They hate me.",
+            "Why do you think I spIit? There ain't nothing there.",
+            "But you can't Iive Iike this. It's a heII.",
+            "A girI shouId Iive at home.",
+            "Didn't you ever hear of women's Iib?",
+            "What do you mean, \"women's lib\"?",
+            "You're a young girI. You shouId be at home now."
+          ]
+        },
+        {
+          "shot": 690,
+          "duration": [
+            5114.526083333333,
+            5123.660208333333
+          ],
+          "sentences": [
+            "You're a young girI. You shouId be at home now.",
+            "You should be dressed up, going out with boys.",
+            "You should be going to school.",
+            "- You know, that kind of stuff. - Oh, God, are you square."
+          ]
+        },
+        {
+          "shot": 691,
+          "duration": [
+            5123.701916666666,
+            5149.269125
+          ],
+          "sentences": [
+            "- You know, that kind of stuff. - Oh, God, are you square.",
+            "I'm not square. You're square.",
+            "You're full of shit, man.",
+            "What do you mean? You walk out with...",
+            "...fucking creeps, IowIifes and degenerates...",
+            "...and you sell your little pussy for nothing, man?",
+            "For some Iow-Iife pimp?",
+            "Stands in a hall.",
+            "I'm square? You're the one that's square, man.",
+            "I don't go screw and fuck with kiIIers and junkies Iike you."
+          ]
+        },
+        {
+          "shot": 692,
+          "duration": [
+            5149.310833333333,
+            5152.89775
+          ],
+          "sentences": [
+            "I don't go screw and fuck with kiIIers and junkies Iike you.",
+            "You call that being hip?"
+          ]
+        },
+        {
+          "shot": 693,
+          "duration": [
+            5152.939458333333,
+            5164.325833333333
+          ],
+          "sentences": [
+            "What world you from?",
+            "Who's a killer?",
+            "That guy Sport's a killer.",
+            "Sport never killed nobody."
+          ]
+        },
+        {
+          "shot": 694,
+          "duration": [
+            5164.3675416666665,
+            5166.536375
+          ],
+          "sentences": [
+            "Sport never killed nobody.",
+            "- He killed-- - He's a Libra."
+          ]
+        },
+        {
+          "shot": 695,
+          "duration": [
+            5166.578083333333,
+            5186.181
+          ],
+          "sentences": [
+            "- He killed-- - He's a Libra.",
+            "He's a what?",
+            "I'm a Libra too. That's why we get aIong so weII.",
+            "He Iooks Iike a kiIIer to me.",
+            "I think that Cancers make the best Iovers...",
+            "...but my whole family's air signs.",
+            "He's also a dope-shooter.",
+            "What makes you so high and mighty? Will you tell me that?"
+          ]
+        },
+        {
+          "shot": 696,
+          "duration": [
+            5186.222708333333,
+            5187.640791666667
+          ],
+          "sentences": [
+            "What makes you so high and mighty? Will you tell me that?"
+          ]
+        },
+        {
+          "shot": 697,
+          "duration": [
+            5187.6825,
+            5191.811624999999
+          ],
+          "sentences": [
+            "What makes you so high and mighty? Will you tell me that?",
+            "Don't you ever Iook at your own eyebaIIs in the mirror?"
+          ]
+        },
+        {
+          "shot": 698,
+          "duration": [
+            5191.853333333333,
+            5195.19
+          ],
+          "sentences": [
+            "Don't you ever Iook at your own eyebaIIs in the mirror?"
+          ]
+        },
+        {
+          "shot": 699,
+          "duration": [
+            5195.231708333333,
+            5198.276416666667
+          ],
+          "sentences": [
+            "What'II you do about Sport and that oId guy?"
+          ]
+        },
+        {
+          "shot": 700,
+          "duration": [
+            5198.318125,
+            5199.861333333333
+          ],
+          "sentences": [
+            "What'II you do about Sport and that oId guy?"
+          ]
+        },
+        {
+          "shot": 701,
+          "duration": [
+            5199.9030416666665,
+            5220.256708333333
+          ],
+          "sentences": [
+            "What'II you do about Sport and that oId guy?",
+            "- When? - When you Ieave.",
+            "I'II just Ieave them.",
+            "- Just Ieave? - They got other girIs.",
+            "You can't just do that. What are you gonna do?",
+            "Want me to call the cops?",
+            "The cops don't do nothing. You know that."
+          ]
+        },
+        {
+          "shot": 702,
+          "duration": [
+            5220.2984166666665,
+            5223.092874999999
+          ],
+          "sentences": [
+            "Sport never treated me bad. He didn't beat me up once."
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            5223.134583333333,
+            5227.347124999999
+          ],
+          "sentences": [
+            "Sport never treated me bad. He didn't beat me up once.",
+            "But you can't allow him to do the same to other girls."
+          ]
+        },
+        {
+          "shot": 704,
+          "duration": [
+            5227.3888333333325,
+            5232.7275
+          ],
+          "sentences": [
+            "But you can't allow him to do the same to other girls.",
+            "You can't allow him to do that.",
+            "He's the Iowest kind of person.",
+            "Somebody's got to do something to him."
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            5232.769208333333,
+            5237.273708333333
+          ],
+          "sentences": [
+            "Somebody's got to do something to him.",
+            "He's the scum of the earth.",
+            "He's the worst..."
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            5237.315416666666,
+            5244.530958333333
+          ],
+          "sentences": [
+            "He's the worst...",
+            "...sucking scum I have ever, ever seen.",
+            "You know what he told me about you?"
+          ]
+        },
+        {
+          "shot": 707,
+          "duration": [
+            5244.572666666666,
+            5260.880625
+          ],
+          "sentences": [
+            "You know what he told me about you?",
+            "He called you names. He called you a little piece of chicken.",
+            "He doesn't mean it.",
+            "I'II move up to one of them communes in Vermont."
+          ]
+        },
+        {
+          "shot": 708,
+          "duration": [
+            5260.922333333333,
+            5263.216291666667
+          ],
+          "sentences": [
+            "I'II move up to one of them communes in Vermont."
+          ]
+        },
+        {
+          "shot": 710,
+          "duration": [
+            5266.9700416666665,
+            5279.107166666667
+          ],
+          "sentences": [
+            "I never seen a commune before, but I don't know...",
+            "I saw...",
+            "...some photos once in a magazine. It didn't Iook very cIean.",
+            "Why don't you come with me?",
+            "What? Come to the commune with you? No, no."
+          ]
+        },
+        {
+          "shot": 711,
+          "duration": [
+            5279.148875,
+            5281.609666666666
+          ],
+          "sentences": [
+            "What? Come to the commune with you? No, no."
+          ]
+        },
+        {
+          "shot": 712,
+          "duration": [
+            5281.6513749999995,
+            5291.661375
+          ],
+          "sentences": [
+            "What? Come to the commune with you? No, no.",
+            "Why not?",
+            "I don't go to pIaces Iike that.",
+            "Come on, why not?",
+            "I don't get aIong with peopIe Iike that."
+          ]
+        },
+        {
+          "shot": 713,
+          "duration": [
+            5291.703083333333,
+            5292.787499999999
+          ],
+          "sentences": [
+            "I don't get aIong with peopIe Iike that.",
+            "Are you a Scorpion?"
+          ]
+        },
+        {
+          "shot": 714,
+          "duration": [
+            5292.829208333333,
+            5295.03975
+          ],
+          "sentences": [
+            "Are you a Scorpion?",
+            "That's it. You're a Scorpion. I can teII every time."
+          ]
+        },
+        {
+          "shot": 715,
+          "duration": [
+            5295.081458333333,
+            5301.838208333333
+          ],
+          "sentences": [
+            "That's it. You're a Scorpion. I can teII every time.",
+            "Besides, I gotta stay here.",
+            "Come on. Why?"
+          ]
+        },
+        {
+          "shot": 716,
+          "duration": [
+            5301.879916666666,
+            5307.176874999999
+          ],
+          "sentences": [
+            "Come on. Why?",
+            "I got something important to do.",
+            "So what's so important?"
+          ]
+        },
+        {
+          "shot": 717,
+          "duration": [
+            5307.218583333333,
+            5308.970333333333
+          ],
+          "sentences": [
+            "Doing something for the government."
+          ]
+        },
+        {
+          "shot": 718,
+          "duration": [
+            5309.012041666666,
+            5316.185874999999
+          ],
+          "sentences": [
+            "Doing something for the government.",
+            "The cab thing is just part-time.",
+            "Are you a narc?"
+          ]
+        },
+        {
+          "shot": 719,
+          "duration": [
+            5316.227583333333,
+            5318.855208333333
+          ],
+          "sentences": [
+            "Do I Iook Iike a narc?"
+          ]
+        },
+        {
+          "shot": 720,
+          "duration": [
+            5318.896916666667,
+            5322.483833333333
+          ],
+          "sentences": [
+            "Do I Iook Iike a narc?"
+          ]
+        },
+        {
+          "shot": 721,
+          "duration": [
+            5322.525541666666,
+            5337.457125
+          ],
+          "sentences": [
+            "I am a narc.",
+            "God! I don't know who's weirder, you or me.",
+            "- Sure you don't wanna come with me? - I'II give you the money to go."
+          ]
+        },
+        {
+          "shot": 722,
+          "duration": [
+            5337.498833333333,
+            5342.378708333333
+          ],
+          "sentences": [
+            "- Sure you don't wanna come with me? - I'II give you the money to go.",
+            "- You don't have to. - I want you to take it."
+          ]
+        },
+        {
+          "shot": 723,
+          "duration": [
+            5342.420416666666,
+            5345.631958333333
+          ],
+          "sentences": [
+            "- You don't have to. - I want you to take it.",
+            "I don't want you to take anything from them."
+          ]
+        },
+        {
+          "shot": 724,
+          "duration": [
+            5345.673666666667,
+            5348.634958333333
+          ],
+          "sentences": [
+            "And I wanna do it.",
+            "I don't have anything better to do with my money."
+          ]
+        },
+        {
+          "shot": 725,
+          "duration": [
+            5348.676666666666,
+            5353.431416666666
+          ],
+          "sentences": [
+            "I don't have anything better to do with my money.",
+            "I might be going away for a whiIe."
+          ]
+        },
+        {
+          "shot": 726,
+          "duration": [
+            5353.4731249999995,
+            5357.60225
+          ],
+          "sentences": [
+            "I might be going away for a whiIe."
+          ]
+        },
+        {
+          "shot": 729,
+          "duration": [
+            5365.151458333333,
+            5382.710666666666
+          ],
+          "sentences": [
+            "You're just a IittIe tense, that's aII."
+          ]
+        },
+        {
+          "shot": 730,
+          "duration": [
+            5382.752375,
+            5421.999916666667
+          ],
+          "sentences": [
+            "You're just a IittIe tense, that's aII.",
+            "I don't Iike what I'm doing, Sport.",
+            "Baby, I never wanted you to Iike what you're doing.",
+            "If you ever Iiked what you were doing, you wouIdn't be my woman.",
+            "You never spend any time with me anymore.",
+            "Well, I got to attend to business, baby.",
+            "You miss your man, don't you?",
+            "I don't Iike to be away from you either.",
+            "You know how I feeI about you.",
+            "I depend on you.",
+            "I'd be Iost without you.",
+            "Don't you ever forget that."
+          ]
+        },
+        {
+          "shot": 731,
+          "duration": [
+            5422.041625,
+            5431.592833333333
+          ],
+          "sentences": [
+            "Don't you ever forget that."
+          ]
+        },
+        {
+          "shot": 732,
+          "duration": [
+            5431.634541666666,
+            5439.350583333333
+          ],
+          "sentences": [
+            "How much I need you.",
+            "Come to me, baby."
+          ]
+        },
+        {
+          "shot": 735,
+          "duration": [
+            5442.270166666666,
+            5529.982791666666
+          ],
+          "sentences": [
+            "Let me hold you.",
+            "When you're close to me like this, I feel so good.",
+            "I onIy wish every man couId know what it's Iike to be Ioved by you.",
+            "That every woman, everywhere...",
+            "...had a man who Ioves her Iike I Iove you.",
+            "God, it's good so close.",
+            "You know, at times Iike this...",
+            "...I know I'm a Iucky man.",
+            "Touching a woman who wants me and needs me.",
+            "It's onIy you that keeps me together."
+          ]
+        },
+        {
+          "shot": 748,
+          "duration": [
+            5614.692416666666,
+            5621.157208333333
+          ],
+          "sentences": [
+            "Now I see it clearly. My whole life is pointed...",
+            "... in one direction. I see that now."
+          ]
+        },
+        {
+          "shot": 749,
+          "duration": [
+            5621.198916666666,
+            5625.1195
+          ],
+          "sentences": [
+            "... in one direction. I see that now.",
+            "There never has been any choice for me."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0014",
+      "shot": [
+        787,
+        844
+      ],
+      "frame": [
+        139626,
+        150869
+      ],
+      "duration": [
+        5823.571270333333,
+        6292.489017333332
+      ],
+      "consistency": 0.981276605425642,
+      "description": "Travis returns to his apartment to collect all his guns, then drives to \"Alphabet City\" (an area of New York's Lower East side consisting of Avenues A through E). He walks up to Sport and confronts him. When Sport flicks a lit cigarette at him, Travis says \"suck on this\" and shoots Sport in the belly. Storming into the brothel, Travis blows the bouncer's hand off. Sport, who has followed Travis, grazes Travis neck with a bullet (causing an arterial gush from his neck) but Travis unloads one of his guns into Sport, killing him. Travis again shoots the screaming bouncer who follows him up the stairs, slapping him. Iris' mafioso customer shoots Travis in the arm and Travis shoots his face off. The bouncer tackles Travis but Travis stabs him through the hand and finally kills the bouncer with a bullet to the brain. He then calmly tries repeatedly to fire a bullet into his own head under his chin but all the weapons are empty so he resigns himself to resting on a convenient sofa until police arrive. When they do, the blood-soaked Travis mimes shooting himself in the head and then blissfully thinks of the mayhem and carnage in his wake.",
+      "subtitle": [
+        {
+          "shot": 788,
+          "duration": [
+            5841.919416666667,
+            5869.905708333333
+          ],
+          "sentences": [
+            "What's happening?",
+            "Got the money?",
+            "Iris in her room?"
+          ]
+        },
+        {
+          "shot": 793,
+          "duration": [
+            5882.418208333333,
+            5976.428791666666
+          ],
+          "sentences": [
+            "Hey, Sport, how you doing?",
+            "Okay, okay, my man. How--",
+            "- Where do I know you from, man? - I don't know.",
+            "How's everything in the pimp business?",
+            "Do I know you?",
+            "No.",
+            "Do I know you?",
+            "Get out of here. Get Iost.",
+            "Do I know you?",
+            "How's Iris?",
+            "You know Iris.",
+            "No, I don't know nobody named Iris.",
+            "Iris? Come on, get out of here, man.",
+            "You don't know Iris?",
+            "I don't know nobody named Iris.",
+            "No?",
+            "Get back to your tribe before you get hurt.",
+            "I don't want no troubIe, okay?",
+            "You got a gun?",
+            "Get the fuck out of here, man. Get out of here.",
+            "Suck on this."
+          ]
+        },
+        {
+          "shot": 805,
+          "duration": [
+            6021.890874999999,
+            6025.018999999999
+          ],
+          "sentences": [
+            "You crazy son of a bitch!",
+            "Fucking son of a bitch!"
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            6025.0607083333325,
+            6029.5652083333325
+          ],
+          "sentences": [
+            "Fucking son of a bitch!",
+            "I'II kiII you!",
+            "I'II kiII you! I'II kiII you!"
+          ]
+        },
+        {
+          "shot": 807,
+          "duration": [
+            6029.606916666667,
+            6034.445083333333
+          ],
+          "sentences": [
+            "I'II kiII you! I'II kiII you!",
+            "I'II fucking kiII you!"
+          ]
+        },
+        {
+          "shot": 808,
+          "duration": [
+            6034.486791666666,
+            6035.7380416666665
+          ],
+          "sentences": [
+            "Son of a bitch!"
+          ]
+        },
+        {
+          "shot": 809,
+          "duration": [
+            6035.77975,
+            6036.989291666666
+          ],
+          "sentences": [
+            "I'II kiII you!"
+          ]
+        },
+        {
+          "shot": 820,
+          "duration": [
+            6054.715333333333,
+            6057.384666666666
+          ],
+          "sentences": [
+            "You fucking bastard! I'II kiII you!"
+          ]
+        },
+        {
+          "shot": 821,
+          "duration": [
+            6057.426375,
+            6066.727333333333
+          ],
+          "sentences": [
+            "You fucking bastard! I'II kiII you!",
+            "You crazy son of a bitch! I'II kiII you!"
+          ]
+        },
+        {
+          "shot": 830,
+          "duration": [
+            6084.036291666666,
+            6084.953874999999
+          ],
+          "sentences": [
+            "Don't shoot him!"
+          ]
+        },
+        {
+          "shot": 831,
+          "duration": [
+            6084.995583333333,
+            6086.455375
+          ],
+          "sentences": [
+            "Don't shoot him!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0075314_0015",
+      "shot": [
+        844,
+        880
+      ],
+      "frame": [
+        152456,
+        159502
+      ],
+      "duration": [
+        6358.716783333333,
+        6652.526220333333
+      ],
+      "consistency": 0.9606981105920039,
+      "description": "A brief epilogue shows Travis recuperating from the incident. He has received a handwritten letter from Iris' parents who thank him for saving their daughter, and the media (in newspaper clipping) hails him as a hero for saving her as well. Travis blithely returns to his job and suddenly seems on more friendly terms with the other cabbies. One night one of his fares happens to be Betsy. She comments about his saving of Iris and Travis' own media fame, yet Travis denies being any sort of hero. He drops her off without charging her. As he is driving off, he gets a strange look on his face and adjusts his cab's rear view mirror, giving the impression that his irrationality is about to break through again.",
+      "subtitle": [
+        {
+          "shot": 844,
+          "duration": [
+            6357.893208333333,
+            6454.865083333333
+          ],
+          "sentences": [
+            "Dear Mr. Bickle.",
+            "I can't say how happy Mrs. Steensma and I were...",
+            "... to hear that you are well and recuperating.",
+            "We tried to visit you at the hospital...",
+            "... when we were in New York to pick up Iris...",
+            "...but you were still in a coma.",
+            "There is no way we can repay you...",
+            "... for returning our Iris to us.",
+            "We thought we had lost her...",
+            "...and now our lives are full again.",
+            "Needless to say...",
+            "...you are something of a hero around this household.",
+            "I'm sure you want to know about Iris.",
+            "She's back in school and working hard.",
+            "The transition has been very hard for her...",
+            "...as you can well imagine.",
+            "But we have taken steps to see...",
+            "...she has never cause to run away again.",
+            "In conclusion...",
+            "...Mrs. Steensma and I would like to again thank you...",
+            "... from the bottom of our hearts.",
+            "Unfortunately, we cannot afford to come to New York again...",
+            "... to thank you in person, or we surely would.",
+            "But if you should ever come to Pittsburgh...",
+            "...you would find yourself a most welcome guest in our home.",
+            "Our deepest thanks, Burt and Ivy Steensma.",
+            "Eddie, the owner-operator, comes up and says, \" I want to swap tires.\""
+          ]
+        },
+        {
+          "shot": 845,
+          "duration": [
+            6454.906791666666,
+            6461.413291666666
+          ],
+          "sentences": [
+            "Eddie, the owner-operator, comes up and says, \" I want to swap tires.\"",
+            "I say, \"These are new tires.",
+            "Why not throw in something else, like your wife?\""
+          ]
+        },
+        {
+          "shot": 846,
+          "duration": [
+            6461.455,
+            6484.269458333333
+          ],
+          "sentences": [
+            "Why not throw in something else, like your wife?\"",
+            "She was Miss New Jersey, 1957.",
+            "That's why the fleet has no spares.",
+            "Doughboy, Wizard, Killer.",
+            "- Charlie T. - What's happening?",
+            "Hey, Travis, you got a fare.",
+            "Shit.",
+            "Well, see you later.",
+            "See you, Travis."
+          ]
+        },
+        {
+          "shot": 847,
+          "duration": [
+            6484.311166666666,
+            6513.798958333333
+          ],
+          "sentences": [
+            "Hello, Travis.",
+            "Hello."
+          ]
+        },
+        {
+          "shot": 849,
+          "duration": [
+            6523.558708333333,
+            6528.063208333333
+          ],
+          "sentences": [
+            "I hear PaIantine got the nomination."
+          ]
+        },
+        {
+          "shot": 850,
+          "duration": [
+            6528.104916666666,
+            6536.196333333333
+          ],
+          "sentences": [
+            "I hear PaIantine got the nomination.",
+            "Yeah, won't be Iong now. Seventeen days.",
+            "Well, I hope he wins."
+          ]
+        },
+        {
+          "shot": 851,
+          "duration": [
+            6536.2380416666665,
+            6538.8239583333325
+          ],
+          "sentences": [
+            "Well, I hope he wins."
+          ]
+        },
+        {
+          "shot": 855,
+          "duration": [
+            6549.834958333333,
+            6557.008791666666
+          ],
+          "sentences": [
+            "I read about you in the papers. How are you?",
+            "It was nothing, reaIIy. I got over that."
+          ]
+        },
+        {
+          "shot": 856,
+          "duration": [
+            6557.050499999999,
+            6557.759541666666
+          ],
+          "sentences": [
+            "It was nothing, reaIIy. I got over that."
+          ]
+        },
+        {
+          "shot": 857,
+          "duration": [
+            6557.8012499999995,
+            6566.977083333333
+          ],
+          "sentences": [
+            "It was nothing, reaIIy. I got over that.",
+            "Papers always blow these things up.",
+            "Just a IittIe stiffness. That's aII."
+          ]
+        },
+        {
+          "shot": 858,
+          "duration": [
+            6567.018791666666,
+            6567.769541666667
+          ],
+          "sentences": [
+            "Just a IittIe stiffness. That's aII."
+          ]
+        },
+        {
+          "shot": 859,
+          "duration": [
+            6567.81125,
+            6568.645416666666
+          ],
+          "sentences": [
+            "Just a IittIe stiffness. That's aII."
+          ]
+        },
+        {
+          "shot": 860,
+          "duration": [
+            6568.6871249999995,
+            6571.982083333333
+          ],
+          "sentences": [
+            "Just a IittIe stiffness. That's aII."
+          ]
+        },
+        {
+          "shot": 868,
+          "duration": [
+            6599.718124999999,
+            6606.349749999999
+          ],
+          "sentences": [
+            "Travis..."
+          ]
+        },
+        {
+          "shot": 869,
+          "duration": [
+            6606.391458333333,
+            6622.240624999999
+          ],
+          "sentences": [
+            "Travis...",
+            "I'm...",
+            "How much was it?"
+          ]
+        },
+        {
+          "shot": 870,
+          "duration": [
+            6622.282333333333,
+            6624.6179999999995
+          ],
+          "sentences": [
+            "So Iong."
+          ]
+        },
+        {
+          "shot": 871,
+          "duration": [
+            6624.659708333333,
+            6625.952666666666
+          ],
+          "sentences": [
+            "So Iong."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

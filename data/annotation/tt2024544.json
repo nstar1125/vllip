@@ -1,0 +1,7328 @@
+{
+  "imdb_id": "tt2024544",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt2024544_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        1021
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0001",
+      "shot": [
+        1,
+        2
+      ],
+      "frame": [
+        1021,
+        1782
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0002",
+      "shot": [
+        2,
+        8
+      ],
+      "frame": [
+        1782,
+        3389
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0003",
+      "shot": [
+        8,
+        12
+      ],
+      "frame": [
+        3389,
+        4440
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0004",
+      "shot": [
+        12,
+        14
+      ],
+      "frame": [
+        4440,
+        5395
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0005",
+      "shot": [
+        14,
+        18
+      ],
+      "frame": [
+        5395,
+        8591
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0006",
+      "shot": [
+        18,
+        33
+      ],
+      "frame": [
+        8591,
+        9564
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0007",
+      "shot": [
+        33,
+        39
+      ],
+      "frame": [
+        9564,
+        10224
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0008",
+      "shot": [
+        39,
+        40
+      ],
+      "frame": [
+        10224,
+        11229
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0009",
+      "shot": [
+        40,
+        41
+      ],
+      "frame": [
+        11229,
+        11898
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0010",
+      "shot": [
+        41,
+        42
+      ],
+      "frame": [
+        11898,
+        12471
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0011",
+      "shot": [
+        42,
+        51
+      ],
+      "frame": [
+        12471,
+        15060
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0012",
+      "shot": [
+        51,
+        56
+      ],
+      "frame": [
+        15060,
+        15879
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0013",
+      "shot": [
+        56,
+        59
+      ],
+      "frame": [
+        15879,
+        16815
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0014",
+      "shot": [
+        59,
+        67
+      ],
+      "frame": [
+        16815,
+        17503
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0015",
+      "shot": [
+        67,
+        68
+      ],
+      "frame": [
+        17503,
+        17667
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0016",
+      "shot": [
+        68,
+        74
+      ],
+      "frame": [
+        17667,
+        18105
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0017",
+      "shot": [
+        74,
+        75
+      ],
+      "frame": [
+        18105,
+        18663
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0018",
+      "shot": [
+        75,
+        79
+      ],
+      "frame": [
+        18663,
+        22864
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0019",
+      "shot": [
+        79,
+        80
+      ],
+      "frame": [
+        22864,
+        23608
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0020",
+      "shot": [
+        80,
+        95
+      ],
+      "frame": [
+        23608,
+        25268
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0021",
+      "shot": [
+        95,
+        101
+      ],
+      "frame": [
+        25268,
+        27424
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0022",
+      "shot": [
+        101,
+        104
+      ],
+      "frame": [
+        27424,
+        27785
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0023",
+      "shot": [
+        104,
+        115
+      ],
+      "frame": [
+        27785,
+        30159
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0024",
+      "shot": [
+        115,
+        123
+      ],
+      "frame": [
+        30159,
+        30584
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0025",
+      "shot": [
+        123,
+        137
+      ],
+      "frame": [
+        30584,
+        33390
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0026",
+      "shot": [
+        137,
+        138
+      ],
+      "frame": [
+        33390,
+        33526
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0027",
+      "shot": [
+        138,
+        142
+      ],
+      "frame": [
+        33526,
+        33689
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0028",
+      "shot": [
+        142,
+        150
+      ],
+      "frame": [
+        33689,
+        35206
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0029",
+      "shot": [
+        150,
+        153
+      ],
+      "frame": [
+        35206,
+        35982
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0030",
+      "shot": [
+        153,
+        175
+      ],
+      "frame": [
+        35982,
+        37499
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0031",
+      "shot": [
+        175,
+        177
+      ],
+      "frame": [
+        37499,
+        38507
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0032",
+      "shot": [
+        177,
+        188
+      ],
+      "frame": [
+        38507,
+        40003
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0033",
+      "shot": [
+        188,
+        198
+      ],
+      "frame": [
+        40003,
+        41179
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0034",
+      "shot": [
+        198,
+        199
+      ],
+      "frame": [
+        41179,
+        41408
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0035",
+      "shot": [
+        199,
+        200
+      ],
+      "frame": [
+        41408,
+        41689
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0036",
+      "shot": [
+        200,
+        202
+      ],
+      "frame": [
+        41689,
+        46225
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0037",
+      "shot": [
+        202,
+        210
+      ],
+      "frame": [
+        46225,
+        47383
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0038",
+      "shot": [
+        210,
+        212
+      ],
+      "frame": [
+        47383,
+        47638
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0039",
+      "shot": [
+        212,
+        219
+      ],
+      "frame": [
+        47638,
+        49108
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0040",
+      "shot": [
+        219,
+        230
+      ],
+      "frame": [
+        49108,
+        50512
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0041",
+      "shot": [
+        230,
+        233
+      ],
+      "frame": [
+        50512,
+        50960
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0042",
+      "shot": [
+        233,
+        246
+      ],
+      "frame": [
+        50960,
+        54266
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0043",
+      "shot": [
+        246,
+        249
+      ],
+      "frame": [
+        54266,
+        55562
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0044",
+      "shot": [
+        249,
+        250
+      ],
+      "frame": [
+        55562,
+        57042
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0045",
+      "shot": [
+        250,
+        264
+      ],
+      "frame": [
+        57042,
+        60284
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0046",
+      "shot": [
+        264,
+        268
+      ],
+      "frame": [
+        60284,
+        60917
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0047",
+      "shot": [
+        268,
+        280
+      ],
+      "frame": [
+        60917,
+        63466
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0048",
+      "shot": [
+        280,
+        282
+      ],
+      "frame": [
+        63466,
+        64864
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0049",
+      "shot": [
+        282,
+        283
+      ],
+      "frame": [
+        64864,
+        65136
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0050",
+      "shot": [
+        283,
+        284
+      ],
+      "frame": [
+        65136,
+        65304
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0051",
+      "shot": [
+        284,
+        285
+      ],
+      "frame": [
+        65304,
+        65373
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0052",
+      "shot": [
+        285,
+        299
+      ],
+      "frame": [
+        65373,
+        69177
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0053",
+      "shot": [
+        299,
+        332
+      ],
+      "frame": [
+        69177,
+        75442
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0054",
+      "shot": [
+        332,
+        341
+      ],
+      "frame": [
+        75442,
+        78502
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0055",
+      "shot": [
+        341,
+        344
+      ],
+      "frame": [
+        78502,
+        80135
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0056",
+      "shot": [
+        344,
+        346
+      ],
+      "frame": [
+        80135,
+        80815
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0057",
+      "shot": [
+        346,
+        354
+      ],
+      "frame": [
+        80815,
+        83689
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0058",
+      "shot": [
+        354,
+        358
+      ],
+      "frame": [
+        83689,
+        85466
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0059",
+      "shot": [
+        358,
+        359
+      ],
+      "frame": [
+        85466,
+        85691
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0060",
+      "shot": [
+        359,
+        363
+      ],
+      "frame": [
+        85691,
+        86375
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0061",
+      "shot": [
+        363,
+        380
+      ],
+      "frame": [
+        86375,
+        88880
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0062",
+      "shot": [
+        380,
+        381
+      ],
+      "frame": [
+        88880,
+        89055
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0063",
+      "shot": [
+        381,
+        382
+      ],
+      "frame": [
+        89055,
+        89189
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0064",
+      "shot": [
+        382,
+        383
+      ],
+      "frame": [
+        89189,
+        89287
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0065",
+      "shot": [
+        383,
+        385
+      ],
+      "frame": [
+        89287,
+        89660
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0066",
+      "shot": [
+        385,
+        392
+      ],
+      "frame": [
+        89660,
+        91114
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0067",
+      "shot": [
+        392,
+        402
+      ],
+      "frame": [
+        91114,
+        94017
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0068",
+      "shot": [
+        402,
+        405
+      ],
+      "frame": [
+        94017,
+        94669
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0069",
+      "shot": [
+        405,
+        407
+      ],
+      "frame": [
+        94669,
+        95054
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0070",
+      "shot": [
+        407,
+        409
+      ],
+      "frame": [
+        95054,
+        95489
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0071",
+      "shot": [
+        409,
+        411
+      ],
+      "frame": [
+        95489,
+        95991
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0072",
+      "shot": [
+        411,
+        414
+      ],
+      "frame": [
+        95991,
+        96530
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0073",
+      "shot": [
+        414,
+        440
+      ],
+      "frame": [
+        96530,
+        100596
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0074",
+      "shot": [
+        440,
+        441
+      ],
+      "frame": [
+        100596,
+        100722
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0075",
+      "shot": [
+        441,
+        465
+      ],
+      "frame": [
+        100722,
+        104727
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0076",
+      "shot": [
+        465,
+        466
+      ],
+      "frame": [
+        104727,
+        104956
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0077",
+      "shot": [
+        466,
+        474
+      ],
+      "frame": [
+        104956,
+        108556
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0078",
+      "shot": [
+        474,
+        478
+      ],
+      "frame": [
+        108556,
+        109091
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0079",
+      "shot": [
+        478,
+        479
+      ],
+      "frame": [
+        109091,
+        109600
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0080",
+      "shot": [
+        479,
+        488
+      ],
+      "frame": [
+        109600,
+        111332
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0081",
+      "shot": [
+        488,
+        501
+      ],
+      "frame": [
+        111332,
+        112972
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0082",
+      "shot": [
+        501,
+        502
+      ],
+      "frame": [
+        112972,
+        113221
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0083",
+      "shot": [
+        502,
+        510
+      ],
+      "frame": [
+        113221,
+        116636
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0084",
+      "shot": [
+        510,
+        511
+      ],
+      "frame": [
+        116636,
+        116816
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0085",
+      "shot": [
+        511,
+        514
+      ],
+      "frame": [
+        116816,
+        117268
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0086",
+      "shot": [
+        514,
+        515
+      ],
+      "frame": [
+        117268,
+        117410
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0087",
+      "shot": [
+        515,
+        517
+      ],
+      "frame": [
+        117410,
+        118040
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0088",
+      "shot": [
+        517,
+        520
+      ],
+      "frame": [
+        118040,
+        119434
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0089",
+      "shot": [
+        520,
+        521
+      ],
+      "frame": [
+        119434,
+        119820
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0090",
+      "shot": [
+        521,
+        523
+      ],
+      "frame": [
+        119820,
+        120002
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0091",
+      "shot": [
+        523,
+        525
+      ],
+      "frame": [
+        120002,
+        120287
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0092",
+      "shot": [
+        525,
+        528
+      ],
+      "frame": [
+        120287,
+        120520
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0093",
+      "shot": [
+        528,
+        533
+      ],
+      "frame": [
+        120520,
+        121941
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0094",
+      "shot": [
+        533,
+        535
+      ],
+      "frame": [
+        121941,
+        122875
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0095",
+      "shot": [
+        535,
+        537
+      ],
+      "frame": [
+        122875,
+        124339
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0096",
+      "shot": [
+        537,
+        546
+      ],
+      "frame": [
+        124339,
+        127046
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0097",
+      "shot": [
+        546,
+        550
+      ],
+      "frame": [
+        127046,
+        127756
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0098",
+      "shot": [
+        550,
+        554
+      ],
+      "frame": [
+        127756,
+        128864
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0099",
+      "shot": [
+        554,
+        560
+      ],
+      "frame": [
+        128864,
+        131449
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0100",
+      "shot": [
+        560,
+        561
+      ],
+      "frame": [
+        131449,
+        131754
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0101",
+      "shot": [
+        561,
+        590
+      ],
+      "frame": [
+        131754,
+        140850
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0102",
+      "shot": [
+        590,
+        591
+      ],
+      "frame": [
+        140850,
+        141613
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0103",
+      "shot": [
+        591,
+        594
+      ],
+      "frame": [
+        141613,
+        142472
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0104",
+      "shot": [
+        594,
+        602
+      ],
+      "frame": [
+        142472,
+        146313
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0105",
+      "shot": [
+        602,
+        603
+      ],
+      "frame": [
+        146313,
+        146501
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0106",
+      "shot": [
+        603,
+        638
+      ],
+      "frame": [
+        146501,
+        151502
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0107",
+      "shot": [
+        638,
+        640
+      ],
+      "frame": [
+        151502,
+        153459
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0108",
+      "shot": [
+        640,
+        646
+      ],
+      "frame": [
+        153459,
+        162795
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0109",
+      "shot": [
+        646,
+        650
+      ],
+      "frame": [
+        162795,
+        164048
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0110",
+      "shot": [
+        650,
+        657
+      ],
+      "frame": [
+        164048,
+        165111
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0111",
+      "shot": [
+        657,
+        683
+      ],
+      "frame": [
+        165111,
+        170661
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0112",
+      "shot": [
+        683,
+        684
+      ],
+      "frame": [
+        170661,
+        171188
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0113",
+      "shot": [
+        684,
+        685
+      ],
+      "frame": [
+        171188,
+        173160
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0114",
+      "shot": [
+        685,
+        716
+      ],
+      "frame": [
+        173160,
+        178559
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt2024544_0115",
+      "shot": [
+        716,
+        727
+      ],
+      "frame": [
+        178559,
+        183033
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt2024544_0000",
+      "shot": [
+        1,
+        111
+      ],
+      "frame": [
+        1518,
+        29616
+      ],
+      "duration": [
+        63.322043,
+        1235.230797
+      ],
+      "consistency": 0.9000252779065764,
+      "description": "The movie opens with a group of slaves receiving instruction on cutting sugar cane. A man sits languidly atop a wagon of the raw cane root, idly looking at the labor of the men. The scene shifts to a group of shacks. The slaves are eating. Solomon Northup notices the dark juice of blackberries and is inspired to create ink and a quill. Unfortunately, the scheme fails. The juice is too thin. Later, in the crowded slave quarters, a female stirs in her sleep and advances on Northup sexually, using his hand for release. Solomon flashes back to happier times with his wife and children and the title card flashes. We see snippets of Solomon's life as a free man. He plays the violin exquisitely and is much in demand as a performer in his home of Saratoga. Later that night, after settling the children in their beds, he talks with his wife, who will shortly take the children with her as she works as a cook. He playfully expresses jealousy at being deprived of her cooking. The following morning he sees them off in a carriage. Later that afternoon, he encounters a friend who introduces him to two travelers (Brown and Hamilton) claiming to work with a circus-like show. They promise him an outrageous sum to accompany them to Washington DC and promise his return before his wife gets back. He agrees to join them. We next see the trio at a restaurant in DC. His patrons plunk down a bag of coins in excess of their promised sum. They share wine and one of them watches closely as Solomon drains his glass. Everyone is having a great time. Suddenly, Solomon awakes in a dank cell, chained to the floor. In a series of flashbacks, we see his \"friends\" carry him up to his hotel room, excusing his drunken stupor to other patrons. Brown urges Hamilton that time is short, and they need to be done with it. Their departure ends the flashback, and we rejoin Solomon in the cell where he is told that he is a runaway Georgia slave. Despite his protests of being a free man, he has no papers. Solomon is mercilessly beaten and eventually sent into a slave pen with others.",
+      "subtitle": [
+        {
+          "shot": 1,
+          "duration": [
+            42.58420833333333,
+            74.28254166666666
+          ],
+          "sentences": [
+            "All right now. Y'all fresh niggers.",
+            "Y'all gonna be in a cutting gang."
+          ]
+        },
+        {
+          "shot": 2,
+          "duration": [
+            74.32424999999999,
+            96.971875
+          ],
+          "sentences": [
+            "Very simple. I want you to take your knife.",
+            "Get in them cane.",
+            "Make it sing.",
+            "Take the cane out.",
+            "Cut my tops.",
+            "Clean the shucks off.",
+            "Throw it on a pile for the planting gang.",
+            "Now, them cane ain't gonna jump up and bite you.",
+            "Don't shy back.",
+            "Rush here, boys! Rush here!"
+          ]
+        },
+        {
+          "shot": 3,
+          "duration": [
+            97.01358333333333,
+            105.18841666666665
+          ],
+          "sentences": [
+            "My Lord",
+            "Sunshine",
+            "My Lord",
+            "Lord, Lord"
+          ]
+        },
+        {
+          "shot": 4,
+          "duration": [
+            105.23012499999999,
+            122.70591666666665
+          ],
+          "sentences": [
+            "Lord, Lord",
+            "My ma",
+            "She dead",
+            "My pa",
+            "He dead",
+            "My Lord",
+            "Sunshine",
+            "My Lord",
+            "Sunshine",
+            "Is late",
+            "In high"
+          ]
+        },
+        {
+          "shot": 5,
+          "duration": [
+            122.74762499999999,
+            125.75062499999999
+          ],
+          "sentences": [
+            "My Lord",
+            "Sunshine"
+          ]
+        },
+        {
+          "shot": 6,
+          "duration": [
+            125.79233333333332,
+            135.17670833333332
+          ],
+          "sentences": [
+            "Sunshine",
+            "My Lord",
+            "Lord, Lord",
+            "My ma",
+            "She dead",
+            "My pa",
+            "He dead"
+          ]
+        },
+        {
+          "shot": 7,
+          "duration": [
+            135.21841666666666,
+            141.30783333333332
+          ],
+          "sentences": [
+            "He dead",
+            "My Lord",
+            "Sunshine",
+            "My Lord",
+            "Yes, sir"
+          ]
+        },
+        {
+          "shot": 39,
+          "duration": [
+            426.426,
+            468.30116666666663
+          ],
+          "sentences": [
+            "All right, all right, all right, all right.",
+            "Into bed.",
+            "Into bed. Thank you for the music.",
+            "Come on. Ouch.",
+            "Get in there. Come on.",
+            "Give me a kiss.",
+            "I love you, Margaret.",
+            "I love you, too.",
+            "Sleep well.",
+            "I'll take this.",
+            "I don't want to hear any more noise."
+          ]
+        },
+        {
+          "shot": 40,
+          "duration": [
+            468.342875,
+            496.2040416666666
+          ],
+          "sentences": [
+            "Three weeks and two days.",
+            "It is the custom.",
+            "I wonder what you will do without me.",
+            "I won't stay idle.",
+            "Darling, it's good money.",
+            "If only I didn't have to share your cooking with other people.",
+            "You don't."
+          ]
+        },
+        {
+          "shot": 41,
+          "duration": [
+            496.24575,
+            520.1029166666666
+          ],
+          "sentences": [
+            "Be good for your mother. Okay, Alonzo?",
+            "Can I get a kiss, please? Thank you.",
+            "Travel safely.",
+            "Stay safely.",
+            "Ready?"
+          ]
+        },
+        {
+          "shot": 42,
+          "duration": [
+            520.144625,
+            560.1429166666667
+          ],
+          "sentences": [
+            "Devil call his name, there he is now.",
+            "Mr. Northup!",
+            "I have two gentlemen whose acquaintance you should make.",
+            "Misters Brown and Hamilton.",
+            "Sir.",
+            "Mr. Northup, these two gentlemen...",
+            "were inquiring about distinguished individuals...",
+            "and I was just this very moment...",
+            "saying Solomon Northup is an expert player on the violin.",
+            "He was indeed.",
+            "Mr. Moon is being overly gracious.",
+            "Well, taking into consideration",
+            "his graciousness and your modesty...",
+            "may we trouble you for a moment of your time to converse, sir?",
+            "Of course.",
+            "Good day.",
+            "A circus?"
+          ]
+        },
+        {
+          "shot": 43,
+          "duration": [
+            560.184625,
+            574.1152083333333
+          ],
+          "sentences": [
+            "That is our usual employee.",
+            "The company currently in the city of Washington.",
+            "Circus is too constricting a word...",
+            "to describe the talented and merry band with which we travel.",
+            "It is a spectacle unlike most have ever witnessed.",
+            "Creatures from the darkest Africa",
+            "as yet unseen by civilized man."
+          ]
+        },
+        {
+          "shot": 44,
+          "duration": [
+            574.1569166666666,
+            587.7538333333333
+          ],
+          "sentences": [
+            "Acrobats from the Orient...",
+            "who contort themselves in the most confounding manners.",
+            "And I myself in aide of Mr. Brown...",
+            "an internationally renowned practitioner",
+            "in the art of prestidigitation.",
+            "We are on our way thither to rejoin",
+            "the company having left for a short time..."
+          ]
+        },
+        {
+          "shot": 45,
+          "duration": [
+            587.7955416666666,
+            591.8829583333332
+          ],
+          "sentences": [
+            "to make a small profit from our own exhibitions.",
+            "The reason for our inquiry with Mr. Moon..."
+          ]
+        },
+        {
+          "shot": 46,
+          "duration": [
+            591.9246666666667,
+            598.7648333333333
+          ],
+          "sentences": [
+            "Yes. We had just a devil of a time",
+            "in procuring music for our entertainments.",
+            "Men of true talents are seemingly in short supply.",
+            "Thank you, sir."
+          ]
+        },
+        {
+          "shot": 47,
+          "duration": [
+            598.8065416666666,
+            601.976375
+          ],
+          "sentences": [
+            "Thank you, sir.",
+            "If we could persuade you to accompany us as far as Washington..."
+          ]
+        },
+        {
+          "shot": 48,
+          "duration": [
+            602.0180833333333,
+            607.0230833333333
+          ],
+          "sentences": [
+            "We could give you one dollar for each day's services...",
+            "and three dollars for every night played at our performances."
+          ]
+        },
+        {
+          "shot": 49,
+          "duration": [
+            607.0647916666667,
+            613.4878749999999
+          ],
+          "sentences": [
+            "and three dollars for every night played at our performances.",
+            "In addition, we would provide sufficient pay...",
+            "for your return here to Saratoga, two weeks from today."
+          ]
+        },
+        {
+          "shot": 50,
+          "duration": [
+            613.5295833333333,
+            628.0857916666666
+          ],
+          "sentences": [
+            "Welcome to Washington, Solomon.",
+            "Hamilton, you know too much."
+          ]
+        },
+        {
+          "shot": 51,
+          "duration": [
+            628.1274999999999,
+            631.5475833333333
+          ],
+          "sentences": [
+            "Hamilton, you know too much.",
+            "Some say not enough.",
+            "Solomon, 43 dollars. All to you."
+          ]
+        },
+        {
+          "shot": 52,
+          "duration": [
+            631.5892916666667,
+            635.009375
+          ],
+          "sentences": [
+            "Solomon, 43 dollars. All to you."
+          ]
+        },
+        {
+          "shot": 53,
+          "duration": [
+            635.0510833333333,
+            639.3053333333332
+          ],
+          "sentences": [
+            "That is far more than my wages amount to.",
+            "It's been a most profitable week, sir."
+          ]
+        },
+        {
+          "shot": 54,
+          "duration": [
+            639.3470416666667,
+            648.7731249999999
+          ],
+          "sentences": [
+            "It's been a most profitable week, sir.",
+            "Cheers. Cheers.",
+            "Cheers.",
+            "Another."
+          ]
+        },
+        {
+          "shot": 55,
+          "duration": [
+            648.8148333333332,
+            662.2449166666667
+          ],
+          "sentences": [
+            "Gentlemen, your generosity is extraordinary.",
+            "And your talents are undeniable.",
+            "Mmm. To Solomon.",
+            "Cheers."
+          ]
+        },
+        {
+          "shot": 59,
+          "duration": [
+            701.325625,
+            709.5838749999999
+          ],
+          "sentences": [
+            "Ugh!",
+            "It's all right, Solomon.",
+            "There's no shame in it.",
+            "No shame at all."
+          ]
+        },
+        {
+          "shot": 67,
+          "duration": [
+            730.0209583333333,
+            736.8194166666666
+          ],
+          "sentences": [
+            "Hamilton, we must hurry.",
+            "One too many libation.",
+            "We're halfway there."
+          ]
+        },
+        {
+          "shot": 73,
+          "duration": [
+            751.3756249999999,
+            755.0876666666666
+          ],
+          "sentences": [
+            "So sorry..."
+          ]
+        },
+        {
+          "shot": 74,
+          "duration": [
+            755.129375,
+            778.3609166666666
+          ],
+          "sentences": [
+            "We won't hear it. We won't.",
+            "Let him sleep, Hamilton.",
+            "Mmm. A good night's rest.",
+            "And tomorrow...",
+            "tomorrow you will feel as well and refreshed",
+            "as if the earth were new again.",
+            "Hamilton, there's nothing more we can do for him.",
+            "Such is the pity."
+          ]
+        },
+        {
+          "shot": 77,
+          "duration": [
+            785.7432916666667,
+            868.4092083333333
+          ],
+          "sentences": [
+            "Well, boy, how do you feel now?",
+            "My name... My name is Solomon Northup.",
+            "I'm a free man. A resident of Saratoga, New York.",
+            "The residence of my wife and children who are equally free.",
+            "And you have no right whatsoever to detain me.",
+            "You're not any free man.",
+            "And I promise you...",
+            "I promise you upon my liberation",
+            "I will have satisfaction for this wrong.",
+            "Resolve this.",
+            "Produce your papers.",
+            "You're no free man.",
+            "And you ain't from Saratoga.",
+            "You're from Georgia.",
+            "You ain't a free man.",
+            "You're nothing but a Georgia runaway.",
+            "You're just a runaway nigger...",
+            "from Georgia."
+          ]
+        },
+        {
+          "shot": 78,
+          "duration": [
+            868.4509166666666,
+            953.5776249999999
+          ],
+          "sentences": [
+            "You're a slave!",
+            "You're a Georgia slave!",
+            "Are you a slave?",
+            "No."
+          ]
+        },
+        {
+          "shot": 79,
+          "duration": [
+            953.6193333333333,
+            984.608625
+          ],
+          "sentences": [
+            "Help.",
+            "Help me.",
+            "Help me!",
+            "Somebody help me!",
+            "Help!",
+            "Help!"
+          ]
+        },
+        {
+          "shot": 82,
+          "duration": [
+            991.9492916666666,
+            998.5392083333332
+          ],
+          "sentences": [
+            "That old thing of yours is just rags and tatters.",
+            "You need something proper to wear."
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            998.5809166666666,
+            1004.1698333333333
+          ],
+          "sentences": [
+            "You need something proper to wear.",
+            "Go on, put it on."
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            1004.2115416666666,
+            1015.9732916666666
+          ],
+          "sentences": [
+            "Go on, put it on."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            1022.9385833333332,
+            1034.658625
+          ],
+          "sentences": [
+            "There.",
+            "That's fine.",
+            "That's fine."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            1034.7003333333332,
+            1037.1194166666667
+          ],
+          "sentences": [
+            "Got no gratitude?"
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            1042.5414999999998,
+            1045.4610833333334
+          ],
+          "sentences": [
+            "No. That's from my wife.",
+            "Rags and tatters."
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            1045.5027916666666,
+            1047.921875
+          ],
+          "sentences": [
+            "Rags and tatters."
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            1053.8861666666667,
+            1067.4413749999999
+          ],
+          "sentences": [
+            "Go on, wash up.",
+            "The boy, too. Get him clean.",
+            "Scrub now."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            1067.4830833333333,
+            1089.7136249999999
+          ],
+          "sentences": [
+            "Scrub now.",
+            "Do you know when my mama will come?",
+            "Hush him up!",
+            "Mama! Mama!",
+            "Quiet.",
+            "Quiet, please. Mama!",
+            "Hush him up!",
+            "Your mother will come, I swear she will. But you must be silent.",
+            "Be silent."
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            1089.7553333333333,
+            1094.6352083333334
+          ],
+          "sentences": [
+            "We need a sympathetic ear.",
+            "An opportunity to explain our situation.",
+            "Who, in your estimation, is that sympathetic ear?"
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            1094.6769166666666,
+            1111.2768333333333
+          ],
+          "sentences": [
+            "Who, in your estimation, is that sympathetic ear?",
+            "The two men I journeyed with.",
+            "I'm certain they're making enquiries at this very moment.",
+            "I'd be just as certain they're counting",
+            "the money paid for delivering you to this place.",
+            "They were not kidnappers, they were artists. Fellow performers.",
+            "You know that?",
+            "You know for certain who they were?"
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            1111.3185416666665,
+            1136.8023333333333
+          ],
+          "sentences": [
+            "The reality to come is us being transported southward.",
+            "New Orleans, if I was to venture.",
+            "After we arrive, we'll be put to market.",
+            "And beyond that...",
+            "Well, I suppose once in a slave state, there's only one outcome.",
+            "No.",
+            "I don't say that to give you empty agitation, John.",
+            "For y'all, there ain't nothing but that.",
+            "But John wasn't kidnapped.",
+            "John's just being held as debt, that's all.",
+            "Master pay his debt and John be redeemed."
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            1136.8440416666665,
+            1143.767625
+          ],
+          "sentences": [
+            "Master pay his debt and John be redeemed.",
+            "Boy, our masters will not come for us.",
+            "John is sorry for y'all, but that's how it be.",
+            "Where you're going, you're going without John."
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            1143.8093333333331,
+            1147.146
+          ],
+          "sentences": [
+            "Mama! Randall!"
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            1147.1877083333331,
+            1148.6057916666666
+          ],
+          "sentences": [
+            "Mama!"
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            1148.6474999999998,
+            1158.8243333333332
+          ],
+          "sentences": [
+            "Mama!",
+            "Are you all right?",
+            "Are you all right?",
+            "Thank you, God."
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            1158.8660416666667,
+            1160.8263333333332
+          ],
+          "sentences": [
+            "Come on. Get up."
+          ]
+        },
+        {
+          "shot": 105,
+          "duration": [
+            1160.8680416666666,
+            1162.4112499999999
+          ],
+          "sentences": [
+            "Come on. Get up."
+          ]
+        },
+        {
+          "shot": 106,
+          "duration": [
+            1162.4529583333333,
+            1165.2057083333332
+          ],
+          "sentences": [
+            "I said, get up! No, don't...",
+            "I don't want to hear you talk! Get in the yard."
+          ]
+        },
+        {
+          "shot": 107,
+          "duration": [
+            1165.2474166666666,
+            1167.5830833333332
+          ],
+          "sentences": [
+            "I don't want to hear you talk! Get in the yard.",
+            "Not my children!"
+          ]
+        },
+        {
+          "shot": 108,
+          "duration": [
+            1167.6247916666666,
+            1175.2574166666666
+          ],
+          "sentences": [
+            "Ain't no need for all that. Just taking a little trip, that's all.",
+            "Don't want to frighten the children",
+            "over a little boat ride, do you?",
+            "John's master gonna pay his debt."
+          ]
+        },
+        {
+          "shot": 109,
+          "duration": [
+            1175.299125,
+            1190.2724166666667
+          ],
+          "sentences": [
+            "John's master gonna pay his debt.",
+            "Line up!",
+            "His master gonna pay his debt!",
+            "I don't want to hear a word out of none of you!",
+            "Not a one."
+          ]
+        },
+        {
+          "shot": 110,
+          "duration": [
+            1190.3141249999999,
+            1235.234
+          ],
+          "sentences": [
+            "All right, come on.",
+            "Move. Come on.",
+            "Come on, child. Come on.",
+            "Follow your mama.",
+            "Come on, boy.",
+            "Up these stairs.",
+            "Get down out of that wagon. Come on.",
+            "Come on. Move it!",
+            "Let's go!",
+            "Up, up, up the stairs.",
+            "Come on, let's go.",
+            "Come on, move it!",
+            "All right, come on."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt2024544_0001",
+      "shot": [
+        97,
+        198
+      ],
+      "frame": [
+        26145,
+        41158
+      ],
+      "duration": [
+        1090.4993706666667,
+        1716.6011596666667
+      ],
+      "consistency": 0.9554958403097613,
+      "description": "He discusses his situation with Clemens, an apparently educated slave who advises him on the dire nature of their situation. Soon a mother (Eliza) and daughter are brought to the pen to join a previously captured son. She tries to keep a brave face while understanding the forthcoming tragedy. Under cover of darkness, they are pulled from their cell, chained and transported to a river boat. They are led to the hold, crammed with other human cargo. Clemens reiterates his advice that Solomon maintain a low profile, denying his ability to read and write. The encounter another slave (Robert) who wants to revolt and take over the ship. They contemplate their odds before opting for caution. Later that night, a slaver visits the hold and awakens Eliza to rape her. Robert attempts to stop the rape but is stabbed and killed. Clemens and Solomon are charged with dropping the body in the river, prompting Clemens to remark that Robert is better off in death. Later, they arrive at a dock. Clemens's master is waiting for them and immediately demands the return of his stolen property. Clemens gratefully scampers down into the embrace of his master, abandoning all evidence of his previously displayed intellect. Solomon has lost his only friend. After disembarking, a slaver (ironically named Freeman) calls his new property to their feet by announcing their names. He calls Solomon \"Platt\" which he obviously doesn't recognize. Solomon is slapped for denying the name.",
+      "subtitle": [
+        {
+          "shot": 97,
+          "duration": [
+            1089.7553333333333,
+            1094.6352083333334
+          ],
+          "sentences": [
+            "We need a sympathetic ear.",
+            "An opportunity to explain our situation.",
+            "Who, in your estimation, is that sympathetic ear?"
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            1094.6769166666666,
+            1111.2768333333333
+          ],
+          "sentences": [
+            "Who, in your estimation, is that sympathetic ear?",
+            "The two men I journeyed with.",
+            "I'm certain they're making enquiries at this very moment.",
+            "I'd be just as certain they're counting",
+            "the money paid for delivering you to this place.",
+            "They were not kidnappers, they were artists. Fellow performers.",
+            "You know that?",
+            "You know for certain who they were?"
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            1111.3185416666665,
+            1136.8023333333333
+          ],
+          "sentences": [
+            "The reality to come is us being transported southward.",
+            "New Orleans, if I was to venture.",
+            "After we arrive, we'll be put to market.",
+            "And beyond that...",
+            "Well, I suppose once in a slave state, there's only one outcome.",
+            "No.",
+            "I don't say that to give you empty agitation, John.",
+            "For y'all, there ain't nothing but that.",
+            "But John wasn't kidnapped.",
+            "John's just being held as debt, that's all.",
+            "Master pay his debt and John be redeemed."
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            1136.8440416666665,
+            1143.767625
+          ],
+          "sentences": [
+            "Master pay his debt and John be redeemed.",
+            "Boy, our masters will not come for us.",
+            "John is sorry for y'all, but that's how it be.",
+            "Where you're going, you're going without John."
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            1143.8093333333331,
+            1147.146
+          ],
+          "sentences": [
+            "Mama! Randall!"
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            1147.1877083333331,
+            1148.6057916666666
+          ],
+          "sentences": [
+            "Mama!"
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            1148.6474999999998,
+            1158.8243333333332
+          ],
+          "sentences": [
+            "Mama!",
+            "Are you all right?",
+            "Are you all right?",
+            "Thank you, God."
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            1158.8660416666667,
+            1160.8263333333332
+          ],
+          "sentences": [
+            "Come on. Get up."
+          ]
+        },
+        {
+          "shot": 105,
+          "duration": [
+            1160.8680416666666,
+            1162.4112499999999
+          ],
+          "sentences": [
+            "Come on. Get up."
+          ]
+        },
+        {
+          "shot": 106,
+          "duration": [
+            1162.4529583333333,
+            1165.2057083333332
+          ],
+          "sentences": [
+            "I said, get up! No, don't...",
+            "I don't want to hear you talk! Get in the yard."
+          ]
+        },
+        {
+          "shot": 107,
+          "duration": [
+            1165.2474166666666,
+            1167.5830833333332
+          ],
+          "sentences": [
+            "I don't want to hear you talk! Get in the yard.",
+            "Not my children!"
+          ]
+        },
+        {
+          "shot": 108,
+          "duration": [
+            1167.6247916666666,
+            1175.2574166666666
+          ],
+          "sentences": [
+            "Ain't no need for all that. Just taking a little trip, that's all.",
+            "Don't want to frighten the children",
+            "over a little boat ride, do you?",
+            "John's master gonna pay his debt."
+          ]
+        },
+        {
+          "shot": 109,
+          "duration": [
+            1175.299125,
+            1190.2724166666667
+          ],
+          "sentences": [
+            "John's master gonna pay his debt.",
+            "Line up!",
+            "His master gonna pay his debt!",
+            "I don't want to hear a word out of none of you!",
+            "Not a one."
+          ]
+        },
+        {
+          "shot": 110,
+          "duration": [
+            1190.3141249999999,
+            1235.234
+          ],
+          "sentences": [
+            "All right, come on.",
+            "Move. Come on.",
+            "Come on, child. Come on.",
+            "Follow your mama.",
+            "Come on, boy.",
+            "Up these stairs.",
+            "Get down out of that wagon. Come on.",
+            "Come on. Move it!",
+            "Let's go!",
+            "Up, up, up the stairs.",
+            "Come on, let's go.",
+            "Come on, move it!",
+            "All right, come on."
+          ]
+        },
+        {
+          "shot": 111,
+          "duration": [
+            1235.2757083333333,
+            1243.1585833333334
+          ],
+          "sentences": [
+            "Hey, you. Get up.",
+            "Sit down, right there.",
+            "Come on."
+          ]
+        },
+        {
+          "shot": 112,
+          "duration": [
+            1243.2002916666665,
+            1248.5389583333333
+          ],
+          "sentences": [
+            "Right there. Just sit down."
+          ]
+        },
+        {
+          "shot": 125,
+          "duration": [
+            1282.1141666666665,
+            1285.0754583333332
+          ],
+          "sentences": [
+            "Cheer up and don't be so cast down."
+          ]
+        },
+        {
+          "shot": 127,
+          "duration": [
+            1288.7040833333333,
+            1310.183875
+          ],
+          "sentences": [
+            "If you want to survive, do and say as little as possible.",
+            "Tell no one who you really are and tell no one you can read and write.",
+            "Unless you want to be a dead nigger."
+          ]
+        },
+        {
+          "shot": 129,
+          "duration": [
+            1315.3557083333333,
+            1329.0360416666665
+          ],
+          "sentences": [
+            "Now keep your mouth shut."
+          ]
+        },
+        {
+          "shot": 132,
+          "duration": [
+            1335.0420416666666,
+            1339.4214166666666
+          ],
+          "sentences": [
+            "I say we fight.",
+            "The crew is fairly small."
+          ]
+        },
+        {
+          "shot": 133,
+          "duration": [
+            1339.463125,
+            1344.5098333333333
+          ],
+          "sentences": [
+            "Were it well planned, I believe they could be strong-armed.",
+            "Three can't go against the whole crew."
+          ]
+        },
+        {
+          "shot": 134,
+          "duration": [
+            1344.5515416666665,
+            1359.1494583333333
+          ],
+          "sentences": [
+            "The rest here are niggers.",
+            "Born and bred slaves.",
+            "Niggers ain't got no stomach for a fight.",
+            "Not a damn one.",
+            "All's I know, if we get where we're traveling...",
+            "we'll wish we'd died trying."
+          ]
+        },
+        {
+          "shot": 135,
+          "duration": [
+            1359.1911666666665,
+            1363.5288333333333
+          ],
+          "sentences": [
+            "Survival's not about certain death,",
+            "it's about keeping your head down."
+          ]
+        },
+        {
+          "shot": 136,
+          "duration": [
+            1363.5705416666665,
+            1392.5995416666665
+          ],
+          "sentences": [
+            "it's about keeping your head down.",
+            "Days ago, I was with my family...",
+            "in my home.",
+            "Now you tell me all is lost.",
+            "\"Tell no one who I am.\" That's the way to survive?",
+            "Well, I don't want to survive.",
+            "I want to live."
+          ]
+        },
+        {
+          "shot": 137,
+          "duration": [
+            1392.64125,
+            1398.271875
+          ],
+          "sentences": [
+            "I want to live."
+          ]
+        },
+        {
+          "shot": 151,
+          "duration": [
+            1476.2247499999999,
+            1490.6975416666667
+          ],
+          "sentences": [
+            "Better off.",
+            "Better than us."
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            1500.7492499999998,
+            1504.6698333333331
+          ],
+          "sentences": [
+            "I don't see him.",
+            "Clemens!"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            1504.7115416666666,
+            1508.2150416666666
+          ],
+          "sentences": [
+            "Clemens!",
+            "Clemens Ray! Master.",
+            "Clemens! Master Ray, sir!"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            1508.2567499999998,
+            1510.8426666666664
+          ],
+          "sentences": [
+            "Master Ray!",
+            "Who's in charge here?"
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            1510.8843749999999,
+            1513.26175
+          ],
+          "sentences": [
+            "I'm the captain!",
+            "I'm Mr. Jonus Ray."
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            1513.3034583333333,
+            1518.3084583333332
+          ],
+          "sentences": [
+            "My solicitor has documentation...",
+            "verifying the negro known as Clemens Ray is my property.",
+            "I know nothing of this arrangement."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            1518.3501666666666,
+            1520.5607083333332
+          ],
+          "sentences": [
+            "I know nothing of this arrangement."
+          ]
+        },
+        {
+          "shot": 159,
+          "duration": [
+            1520.6024166666666,
+            1524.1893333333333
+          ],
+          "sentences": [
+            "You are ordered to return that property",
+            "immediately or be charged with thievery."
+          ]
+        },
+        {
+          "shot": 160,
+          "duration": [
+            1524.2310416666667,
+            1526.0245
+          ],
+          "sentences": [
+            "immediately or be charged with thievery.",
+            "Free him!"
+          ]
+        },
+        {
+          "shot": 161,
+          "duration": [
+            1526.0662083333332,
+            1527.4008749999998
+          ],
+          "sentences": [
+            "Free him!"
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            1529.0275,
+            1530.6958333333332
+          ],
+          "sentences": [
+            "Master."
+          ]
+        },
+        {
+          "shot": 164,
+          "duration": [
+            1530.7375416666666,
+            1532.656125
+          ],
+          "sentences": [
+            "Master Ray, sir."
+          ]
+        },
+        {
+          "shot": 165,
+          "duration": [
+            1532.6978333333332,
+            1535.0335
+          ],
+          "sentences": [
+            "Master Ray, sir.",
+            "Clemens!"
+          ]
+        },
+        {
+          "shot": 166,
+          "duration": [
+            1535.0752083333332,
+            1536.0762083333332
+          ],
+          "sentences": [
+            "Clemens!",
+            "Clemens! Get him back!"
+          ]
+        },
+        {
+          "shot": 167,
+          "duration": [
+            1536.1179166666666,
+            1539.6214166666666
+          ],
+          "sentences": [
+            "Clemens! Get him back!",
+            "Clemens!",
+            "Clemens!"
+          ]
+        },
+        {
+          "shot": 168,
+          "duration": [
+            1539.6631249999998,
+            1541.3314583333333
+          ],
+          "sentences": [
+            "Clemens!"
+          ]
+        },
+        {
+          "shot": 169,
+          "duration": [
+            1541.3731666666665,
+            1549.0892083333333
+          ],
+          "sentences": [
+            "Clemens!"
+          ]
+        },
+        {
+          "shot": 177,
+          "duration": [
+            1606.0627916666665,
+            1630.754125
+          ],
+          "sentences": [
+            "Mr. Parker.",
+            "Ah, Mr. Northup. Mrs. Northup.",
+            "Solomon, could I interest you in a new cravat?",
+            "Pure silk, by way of the French.",
+            "We're in need of a fresh carryall for my Mrs.'s travels.",
+            "Nothing more.",
+            "The year has passed already.",
+            "Off to work at Sandy Hill again?",
+            "I am.",
+            "I have just the thing.",
+            "Something to suit your style...",
+            "and yet sturdy enough for the 40-mile round trip.",
+            "It's beautiful."
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            1630.7958333333331,
+            1635.7591249999998
+          ],
+          "sentences": [
+            "It's beautiful.",
+            "At what price?",
+            "We will take it.",
+            "Children, come see what you father has just purchased for me."
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            1635.8008333333332,
+            1638.2616249999999
+          ],
+          "sentences": [
+            "Children, come see what you father has just purchased for me.",
+            "One moment, sir, and you'll be assisted."
+          ]
+        },
+        {
+          "shot": 180,
+          "duration": [
+            1638.3033333333333,
+            1644.0590833333333
+          ],
+          "sentences": [
+            "One moment, sir, and you'll be assisted.",
+            "Mr. Parker. Sir?",
+            "If we could discuss the price.",
+            "Oh, forgive me, Solomon. Forgive me, Mrs. Northup.",
+            "A customer waits. Welcome, sir."
+          ]
+        },
+        {
+          "shot": 181,
+          "duration": [
+            1644.1007916666665,
+            1647.646
+          ],
+          "sentences": [
+            "A customer waits. Welcome, sir.",
+            "Shop well, sir, but mind your wallet."
+          ]
+        },
+        {
+          "shot": 182,
+          "duration": [
+            1647.6877083333331,
+            1650.023375
+          ],
+          "sentences": [
+            "Pay no attention to this gentleman's nonsense.",
+            "Jasper!"
+          ]
+        },
+        {
+          "shot": 183,
+          "duration": [
+            1650.0650833333332,
+            1653.9856666666665
+          ],
+          "sentences": [
+            "Jasper!",
+            "My regrets for the intrusion, sir."
+          ]
+        },
+        {
+          "shot": 184,
+          "duration": [
+            1654.027375,
+            1656.0710833333333
+          ],
+          "sentences": [
+            "My regrets for the intrusion, sir.",
+            "No intrusion."
+          ]
+        },
+        {
+          "shot": 186,
+          "duration": [
+            1658.1982083333332,
+            1663.9122499999999
+          ],
+          "sentences": [
+            "Good day, sir.",
+            "Good day.",
+            "Jasper, out."
+          ]
+        },
+        {
+          "shot": 187,
+          "duration": [
+            1663.9539583333333,
+            1668.4167499999999
+          ],
+          "sentences": [
+            "Jasper, out."
+          ]
+        },
+        {
+          "shot": 188,
+          "duration": [
+            1668.4584583333333,
+            1673.7137083333332
+          ],
+          "sentences": [
+            "Very good. Very good."
+          ]
+        },
+        {
+          "shot": 189,
+          "duration": [
+            1673.7554166666666,
+            1678.677
+          ],
+          "sentences": [
+            "Very good. Very good.",
+            "Let's see, here. Eliza!"
+          ]
+        },
+        {
+          "shot": 190,
+          "duration": [
+            1678.7187083333333,
+            1683.5985833333332
+          ],
+          "sentences": [
+            "Stand up when you hear your name. Eliza.",
+            "Lethe!"
+          ]
+        },
+        {
+          "shot": 191,
+          "duration": [
+            1683.6402916666666,
+            1687.0603749999998
+          ],
+          "sentences": [
+            "John."
+          ]
+        },
+        {
+          "shot": 192,
+          "duration": [
+            1687.1020833333332,
+            1687.6442916666665
+          ],
+          "sentences": [
+            "John."
+          ]
+        },
+        {
+          "shot": 193,
+          "duration": [
+            1687.686,
+            1694.7764166666666
+          ],
+          "sentences": [
+            "Oren.",
+            "Platt."
+          ]
+        },
+        {
+          "shot": 194,
+          "duration": [
+            1694.8181249999998,
+            1698.3216249999998
+          ],
+          "sentences": [
+            "Platt."
+          ]
+        },
+        {
+          "shot": 195,
+          "duration": [
+            1698.3633333333332,
+            1701.116083333333
+          ],
+          "sentences": [
+            "Stand up."
+          ]
+        },
+        {
+          "shot": 196,
+          "duration": [
+            1701.1577916666665,
+            1708.9989583333331
+          ],
+          "sentences": [
+            "Stand up.",
+            "You fit the description given.",
+            "Why didn't you answer when called?",
+            "My name is not Platt.",
+            "My name..."
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            1709.0406666666665,
+            1717.4657499999998
+          ],
+          "sentences": [
+            "My name...",
+            "Your name is Platt.",
+            "Captain, get these niggers to my cart."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt2024544_0002",
+      "shot": [
+        199,
+        238
+      ],
+      "frame": [
+        41408,
+        51977
+      ],
+      "duration": [
+        1727.0696723333333,
+        2167.8546533333333
+      ],
+      "consistency": 0.999281951487362,
+      "description": "The indignity of Freeman's slave operation is displayed as the naked slaves bath in buckets at his offices. Inside, he puts on his sales spiel to eager customers. A genteel plantation owner (Ford), expresses interest in Platt (Solomon) and Eliza. She begs him to take her children as well, but Freeman balks, swiftly selling her son to another buyer. Ford attempts to buy her daughter (clearly of mixed heritage), but again Freeman won't adjust his price. Ford can only afford to pay for the two. Eliza is distraught and wildly screams in her grief, upsetting the sale. Solomon is commanded to play the fiddle to lighten the mood. Ford transports his purchases back to his plantation. Eliza has been sobbing the whole trip. Ford's wife mentions that food and a night's rest will help her forget them. The next morning, the slaves are introduced to Tibeats, a slave handler, and Ford's overseer, Chapin. TIbeats sings a derisive song warning the slaves against escape as they perform their labor. They continue chopping timber and ultimately encounter a small band of native people with whom they share a brief respite. Solomon notices a stringed instrument and appears to remember his own violin.",
+      "subtitle": [
+        {
+          "shot": 199,
+          "duration": [
+            1727.0586666666666,
+            1738.7369999999999
+          ],
+          "sentences": [
+            "Mmm."
+          ]
+        },
+        {
+          "shot": 200,
+          "duration": [
+            1738.7787083333333,
+            1745.8274166666665
+          ],
+          "sentences": [
+            "Move.",
+            "I believe I have something very much"
+          ]
+        },
+        {
+          "shot": 201,
+          "duration": [
+            1745.869125,
+            1927.926
+          ],
+          "sentences": [
+            "I believe I have something very much",
+            "to your liking in the back room.",
+            "Follow me, please.",
+            "Yes. Now, inspect them at your leisure...",
+            "but I ask you to pay particular regard to young Ezra here.",
+            "Incredibly sound limbs.",
+            "I have never seen anything quite like him.",
+            "And this marvelous creature. Can you believe it? Mmm?",
+            "She'll make a fine lady's maid.",
+            "Madam?",
+            "So, inspect at your leisure.",
+            "Take your time. Help yourself to refreshments.",
+            "Gentlemen, what catches your fancy here? Hmm?",
+            "This boy? Yes?",
+            "Open your mouth. Open wider.",
+            "Look in there. Never been sick a day in his life.",
+            "And I call particular attention to Martha.",
+            "She is an excellent pastry cook.",
+            "Ah, Mr. Ford.",
+            "Splendid seeing you, sir. What catches your fancy?",
+            "This lad? He's very brawny.",
+            "How much for the ones Platt and Eliza?",
+            "Ah, yes.",
+            "A thousand for Platt. Uh... Oh.",
+            "This is a nigger of considerable talent, I assure you.",
+            "700 for Eliza.",
+            "My fairest price.",
+            "Mmm.",
+            "You will accept a note?",
+            "Please, sir. Do not divide my family.",
+            "Do not take me unless you take my children.",
+            "Eliza! Quiet!",
+            "You will have the most faithful slave in me.",
+            "The most faithful slave that has ever lived.",
+            "But I beg that you do not separate us.",
+            "Your price for the boy?",
+            "Eliza! Stop it!",
+            "I will give you something to cry about.",
+            "Randall, come forward. Come, come, come.",
+            "Now, do you see how fit this boy is?",
+            "Like ripe fruit.",
+            "May I take your stick a moment? Observe this.",
+            "Randall, jump, jump, jump. Run, run, run.",
+            "Very good! Higher.",
+            "Now, you see this.",
+            "It's very likely he will grow into a fine beast.",
+            "600 for the boy.",
+            "Fair and final.",
+            "Done.",
+            "Superb. A moment, please.",
+            "Mr. Ford.",
+            "Please. Eliza!",
+            "How much for the little girl?",
+            "Ah...",
+            "You have no use for her.",
+            "One so young will bring you no profit.",
+            "No, no, no. I cannot sell the girl.",
+            "No, there's heaps and piles of money to be made from her.",
+            "She's a beauty. One of the regular bloods.",
+            "None of your thick-lipped, bullet-heated, cotton-picking niggers, here.",
+            "Her child, man.",
+            "Please.",
+            "For God's sake, are you not sentimental in the least?",
+            "My sentimentality extends the length of a coin.",
+            "God, please.",
+            "Now do you take this lot, Mr. Ford, or do you pass on them?",
+            "Please, please. Please.",
+            "I will take the ones Platt and Eliza.",
+            "Sold, Eliza and Platt.",
+            "I will not go without my children!",
+            "Goddamn sniveling wench!",
+            "You will not take them from me!",
+            "God damn you! Get her out of here, Cape!",
+            "Please! No! No!",
+            "Get her out of here, god damn it!",
+            "Platt, get your fiddle. Play, play, play something.",
+            "I will give you something to cry about, you goddamned witch!",
+            "Get her out of here, Cape! Out, now!",
+            "Mama! Mama! Mama!",
+            "Yes.",
+            "Mr. Ford, a pleasure."
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            1934.0571249999998,
+            1943.1078333333332
+          ],
+          "sentences": [
+            "Did you bring all those niggers?",
+            "Two of them? You got two?"
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            1943.1495416666664,
+            1949.8228749999998
+          ],
+          "sentences": [
+            "Mr. Chapin.",
+            "This one's crying. Why is this one crying?",
+            "Separated from her children."
+          ]
+        },
+        {
+          "shot": 205,
+          "duration": [
+            1949.8645833333333,
+            1965.1298333333332
+          ],
+          "sentences": [
+            "Oh, dear. It couldn't be helped.",
+            "Poor, poor woman.",
+            "Mr. Chapin. Yes, sir.",
+            "Tomorrow, you have to take these two",
+            "up to the mill and start them working.",
+            "For now, make them adequate.",
+            "Fix them a meal and have them rest themselves.",
+            "Yes, sir.",
+            "Come on, now.",
+            "Come on! Don't dawdle!"
+          ]
+        },
+        {
+          "shot": 206,
+          "duration": [
+            1965.1715416666666,
+            1966.9232916666665
+          ],
+          "sentences": [
+            "Come on! Don't dawdle!"
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            1966.965,
+            1971.344375
+          ],
+          "sentences": [
+            "Something to eat, and some rest.",
+            "Your children will soon be forgotten."
+          ]
+        },
+        {
+          "shot": 208,
+          "duration": [
+            1971.386083333333,
+            1973.2212499999998
+          ],
+          "sentences": [
+            "Your children will soon be forgotten."
+          ]
+        },
+        {
+          "shot": 213,
+          "duration": [
+            1991.9899999999998,
+            2017.5572083333332
+          ],
+          "sentences": [
+            "For all of you raw niggers that don't know...",
+            "my name is John Tibeats, William Ford's chief carpenter.",
+            "You will refer to me as \"Master.\"",
+            "Mr. Chapin is the overseer on this plantation.",
+            "You, too, will refer to him as \"Master.\""
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            2017.5989166666666,
+            2022.2702499999998
+          ],
+          "sentences": [
+            "You, too, will refer to him as \"Master.\"",
+            "So, clap your hands."
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            2022.3119583333332,
+            2026.8581666666664
+          ],
+          "sentences": [
+            "Like this. Come on."
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            2026.8998749999998,
+            2031.696333333333
+          ],
+          "sentences": [
+            "Like this. Come on.",
+            "Come on, now. Clap your hands."
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            2031.7380416666665,
+            2043.6666249999998
+          ],
+          "sentences": [
+            "Nigger run Nigger flew",
+            "Nigger tore his shirt in two",
+            "Run, run The pattyroller will get you",
+            "Run, nigger, run Well, you better get away"
+          ]
+        },
+        {
+          "shot": 218,
+          "duration": [
+            2043.7083333333333,
+            2048.171125
+          ],
+          "sentences": [
+            "Run, nigger, run Well, you better get away"
+          ]
+        },
+        {
+          "shot": 219,
+          "duration": [
+            2048.212833333333,
+            2050.089708333333
+          ],
+          "sentences": [
+            "That's right. Like you mean it."
+          ]
+        },
+        {
+          "shot": 220,
+          "duration": [
+            2050.1314166666666,
+            2051.5912083333333
+          ],
+          "sentences": [
+            "That's right. Like you mean it.",
+            "Nigger run Run so fast"
+          ]
+        },
+        {
+          "shot": 221,
+          "duration": [
+            2051.6329166666665,
+            2057.930875
+          ],
+          "sentences": [
+            "Nigger run Run so fast",
+            "Stove his head in a hornet's nest",
+            "Run, run The pattyroller will get you"
+          ]
+        },
+        {
+          "shot": 222,
+          "duration": [
+            2057.972583333333,
+            2061.601208333333
+          ],
+          "sentences": [
+            "Run, run The pattyroller will get you",
+            "Run, nigger, run Well, you better get away"
+          ]
+        },
+        {
+          "shot": 223,
+          "duration": [
+            2061.6429166666667,
+            2066.481083333333
+          ],
+          "sentences": [
+            "Run, nigger, run The pattyroller will get you",
+            "Run, nigger, run Well, you better get away"
+          ]
+        },
+        {
+          "shot": 224,
+          "duration": [
+            2066.5227916666663,
+            2080.119708333333
+          ],
+          "sentences": [
+            "Run, nigger, run Well, you better get away",
+            "Some folk say a nigger don't steal",
+            "I caught three in my corn field",
+            "One has a bushel And one has a peck",
+            "One has a rope It was hung around his neck",
+            "Run, nigger, run The pattyroller will get you"
+          ]
+        },
+        {
+          "shot": 225,
+          "duration": [
+            2080.1614166666664,
+            2087.8357499999997
+          ],
+          "sentences": [
+            "Run, nigger, run The pattyroller will get you",
+            "Run, nigger, run Well, you better get away",
+            "Run, nigger, run The pattyroller will get you",
+            "Run, nigger, run Well, you better get away"
+          ]
+        },
+        {
+          "shot": 226,
+          "duration": [
+            2087.8774583333334,
+            2091.7563333333333
+          ],
+          "sentences": [
+            "Hey, Mr. Pattyroller Don't catch me",
+            "Catch that nigger behind that tree"
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            2091.7980416666664,
+            2096.094
+          ],
+          "sentences": [
+            "Catch that nigger behind that tree",
+            "Run, nigger, run The pattyroller will get you",
+            "Run, nigger, run Well, you better get away"
+          ]
+        },
+        {
+          "shot": 228,
+          "duration": [
+            2096.1357083333332,
+            2102.1834166666667
+          ],
+          "sentences": [
+            "Run, nigger, run Well, you better get away",
+            "Run, nigger, run The pattyroller will get you",
+            "Run, nigger, run Well, you better get away"
+          ]
+        },
+        {
+          "shot": 229,
+          "duration": [
+            2102.225125,
+            2106.729625
+          ],
+          "sentences": [
+            "Run, nigger, run Well, you better get away",
+            "Run, nigger, run The pattyroller will get you",
+            "Run, nigger, run Well, you better get away"
+          ]
+        },
+        {
+          "shot": 230,
+          "duration": [
+            2106.771333333333,
+            2112.4436666666666
+          ],
+          "sentences": [
+            "Run, nigger, run Well, you better get away",
+            "\"'I am the God of Abraham, the God of Isaac...",
+            "\"'and the God of Jacob.'"
+          ]
+        },
+        {
+          "shot": 231,
+          "duration": [
+            2112.4853749999997,
+            2118.241125
+          ],
+          "sentences": [
+            "\"'and the God of Jacob.'",
+            "\"And when the multitude heard this,",
+            "\"they were astonished at his doctrine."
+          ]
+        },
+        {
+          "shot": 232,
+          "duration": [
+            2118.282833333333,
+            2125.4149583333333
+          ],
+          "sentences": [
+            "\"they were astonished at his doctrine.",
+            "\"And then one of them, which was a lawyer...",
+            "\"asked him a question, tempting him.\""
+          ]
+        },
+        {
+          "shot": 233,
+          "duration": [
+            2125.4566666666665,
+            2130.2531249999997
+          ],
+          "sentences": [
+            "\"asked him a question, tempting him.\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt2024544_0003",
+      "shot": [
+        240,
+        376
+      ],
+      "frame": [
+        52369,
+        88235
+      ],
+      "duration": [
+        2184.2636236666663,
+        3680.1058196666663
+      ],
+      "consistency": 0.9964045779599069,
+      "description": "The next day, Solomon (against Clemens advice) approaches Ford with a novel idea to transport the lumber via the river. Tibeats is extremely patronizing, but Ford is impressed with Solomon's opinions and is persuaded. The scheme succeeds, and Tibeats is embarrassed. Ford offers Solomon a violin to play as a reward. Back at the slave quarters Eliza is moaning in sadness over the loss of her children. Solomon is frustrated by the noise and debates her about surviving under Ford's \"decent\" treatment. Eliza argues back that Ford must surely realize that Solomon is not a slave, yet does nothing to free him. Solomon is given pause. Eliza is eventually sold off as Ford's wife can't \"bear the noise.\" Over the next few days, Tibeats attempts to wreak petty vengeance on Solomon, leading to a verbal confrontation. Tibeats attempts to beat Solomon who fights back and gets the better of him. Chapin comes upon the scene and sends Tibeats scurrying. He warns him that he cannot protect him if he runs and implies that he will get Ford to straighten it out. Later, we find that Tibeats has gathered some thugs to lynch Solomon for daring to fight him. They have the noose around his neck and are preparing to hang him when Chapin returns, guns drawn. He chases them off, but allows Solomon to hang there, barely able to support his weight, on tip toes (punishment for striking a white man). Gradually, slaves emerge from their cabins and appear to take no notice of his plight. A woman furtively brings him some water, but quickly retreats. What appears to be hours later, Ford finally returns and slices the rope, saving Solomon. He drags him into the house for protection, but decides that he must be sold. Tibeats will not be denied his vengeance. It is here that we learn Ford has sold Solomon to a notorious plantation owner named Epps, who is known for merciless beatings. Epps reads a Bible passage, slanting the scripture to reinforce his ownership of the slaves. The next day brings a day of picking cotton. At the end of the day, the weight of each worker's bundles are marked. Solomon's yield is less than average. Slaves that picked less than the previous day receive lashes. Meanwhile, Patsey exceeds the best production of any worker by nearly double. Epps lingers around Patsey and offers extensive praise for her. It is clear he is fascinated by her, and his wife is none too pleased. Epps enters the slave quarters and rouses them from sleep, creating an impromptu dance where Patsey is the center of attention. Epps wife throws a heavy crystal decanter at Patsey's face, brutally scarring her. She demands that Epps sell Patsey, but he claims that he would send his wife away before losing Patsey.",
+      "subtitle": [
+        {
+          "shot": 240,
+          "duration": [
+            2183.8066249999997,
+            2246.4525416666665
+          ],
+          "sentences": [
+            "Even with a boat full of load.",
+            "The distance from the work area",
+            "to the point on the latter bayou...",
+            "is several miles by water fewer than land.",
+            "It occurs to me that the expense of transportation",
+            "would be materially diminished...",
+            "\"Materially diminished\"?",
+            "If we use the waterway.",
+            "Are you an engineer, or a nigger?",
+            "Are you an engineer, or a nigger?",
+            "Let the man say his piece.",
+            "It's a scheme. Plenty of engineers have schemed similarly.",
+            "The passes are too tight.",
+            "I reckon them at more than 12 feet at their most narrow.",
+            "Wide enough for a tub to traverse",
+            "if a team of niggers cleared it out.",
+            "And you know what of transport and terraforming?",
+            "I labored repairing the Champlain canal...",
+            "on the section over which William van Nortwick was superintendent.",
+            "With my earnings, I hired several efficient hands to assist me...",
+            "and entered into contracts for",
+            "the transportation of large rafts of timber...",
+            "from Lake Champlain to Troy.",
+            "Well, I'll admit to being impressed even if you won't.",
+            "Collect a team. See what good you can do."
+          ]
+        },
+        {
+          "shot": 241,
+          "duration": [
+            2246.4942499999997,
+            2251.874625
+          ],
+          "sentences": [
+            "Collect a team. See what good you can do."
+          ]
+        },
+        {
+          "shot": 242,
+          "duration": [
+            2251.916333333333,
+            2256.796208333333
+          ],
+          "sentences": [
+            "You good? Clear it out!"
+          ]
+        },
+        {
+          "shot": 243,
+          "duration": [
+            2256.8379166666664,
+            2259.3404166666664
+          ],
+          "sentences": [
+            "You good? Clear it out!",
+            "Two, three..."
+          ]
+        },
+        {
+          "shot": 245,
+          "duration": [
+            2261.384125,
+            2263.302708333333
+          ],
+          "sentences": [
+            "Too late for me"
+          ]
+        },
+        {
+          "shot": 246,
+          "duration": [
+            2263.3444166666663,
+            2279.277
+          ],
+          "sentences": [
+            "Too late for me",
+            "I live or die",
+            "Lay down and cry",
+            "Hey, boy I'm tired",
+            "My lord Sometimes",
+            "I'm strong Yes, sir"
+          ]
+        },
+        {
+          "shot": 247,
+          "duration": [
+            2279.3187083333332,
+            2284.824208333333
+          ],
+          "sentences": [
+            "I'm strong Yes, sir",
+            "I'm tall Yes, sir"
+          ]
+        },
+        {
+          "shot": 248,
+          "duration": [
+            2284.8659166666666,
+            2317.3567083333332
+          ],
+          "sentences": [
+            "Platt, you are a marvel.",
+            "What took you so long?",
+            "Thank you, Master Ford."
+          ]
+        },
+        {
+          "shot": 249,
+          "duration": [
+            2317.3984166666664,
+            2379.0850416666667
+          ],
+          "sentences": [
+            "Platt.",
+            "My great thanks, Master Ford.",
+            "No, my thanks to you.",
+            "And it is the least of it.",
+            "I hope it brings us both much joy over the years."
+          ]
+        },
+        {
+          "shot": 250,
+          "duration": [
+            2379.12675,
+            2387.1764583333334
+          ],
+          "sentences": [
+            "God!"
+          ]
+        },
+        {
+          "shot": 251,
+          "duration": [
+            2387.2181666666665,
+            2398.1457499999997
+          ],
+          "sentences": [
+            "Eliza.",
+            "Eliza.",
+            "Stop!"
+          ]
+        },
+        {
+          "shot": 252,
+          "duration": [
+            2398.1874583333333,
+            2401.065333333333
+          ],
+          "sentences": [
+            "Stop!",
+            "Stop your wailing!"
+          ]
+        },
+        {
+          "shot": 253,
+          "duration": [
+            2401.1070416666666,
+            2408.3642916666663
+          ],
+          "sentences": [
+            "Stop your wailing!",
+            "If you let yourself be overcome",
+            "by sorrow, you will drown in it.",
+            "Have you stopped crying for your children?"
+          ]
+        },
+        {
+          "shot": 254,
+          "duration": [
+            2408.406,
+            2420.0009166666664
+          ],
+          "sentences": [
+            "Have you stopped crying for your children?",
+            "You make no sounds, but will you ever let them go in your heart?",
+            "They are as my flesh."
+          ]
+        },
+        {
+          "shot": 255,
+          "duration": [
+            2420.042625,
+            2433.347583333333
+          ],
+          "sentences": [
+            "Then who is distressed?",
+            "Do I upset the master and the mistress?",
+            "Do you care less about my loss than their well-being?",
+            "Master Ford is a decent man.",
+            "He is a slaver!",
+            "Under the circumstances.",
+            "Under the circumstances, he is a slaver."
+          ]
+        },
+        {
+          "shot": 256,
+          "duration": [
+            2433.3892916666664,
+            2435.7249583333332
+          ],
+          "sentences": [
+            "Under the circumstances, he is a slaver.",
+            "But you truckle at his boot."
+          ]
+        },
+        {
+          "shot": 257,
+          "duration": [
+            2435.7666666666664,
+            2437.476708333333
+          ],
+          "sentences": [
+            "You luxuriate in his favor."
+          ]
+        },
+        {
+          "shot": 258,
+          "duration": [
+            2437.5184166666663,
+            2441.480708333333
+          ],
+          "sentences": [
+            "I survive!",
+            "I will not fall into despair!"
+          ]
+        },
+        {
+          "shot": 259,
+          "duration": [
+            2441.5224166666667,
+            2443.607833333333
+          ],
+          "sentences": [
+            "I will not fall into despair!",
+            "I will offer up my talents to Master Ford!"
+          ]
+        },
+        {
+          "shot": 260,
+          "duration": [
+            2443.6495416666667,
+            2447.3198749999997
+          ],
+          "sentences": [
+            "I will offer up my talents to Master Ford!",
+            "I will keep myself hearty until freedom is opportune!",
+            "Ford is your opportunity?"
+          ]
+        },
+        {
+          "shot": 261,
+          "duration": [
+            2447.3615833333333,
+            2464.5454166666664
+          ],
+          "sentences": [
+            "Ford is your opportunity?",
+            "You think he does not know that you are more than you suggest?",
+            "But he does nothing for you.",
+            "Nothing.",
+            "You are no better than prized livestock.",
+            "Call for him. Call!",
+            "Tell him of your previous circumstances,",
+            "and see what it earns you, Solomon."
+          ]
+        },
+        {
+          "shot": 262,
+          "duration": [
+            2464.587125,
+            2506.795958333333
+          ],
+          "sentences": [
+            "and see what it earns you, Solomon.",
+            "So, you've settled into your role as Platt, then?",
+            "My back is thick with scars...",
+            "for protesting my freedom.",
+            "Do not accuse me.",
+            "I accuse you of nothing. I cannot accuse.",
+            "I have done dishonorable things to survive...",
+            "and for all of them, I have ended up here.",
+            "No better than if I stood up for myself.",
+            "God, forgive me.",
+            "Solomon, let me weep for my children!"
+          ]
+        },
+        {
+          "shot": 263,
+          "duration": [
+            2506.8376666666663,
+            2514.3034583333333
+          ],
+          "sentences": [
+            "\"Whosoever, therefore, shall humble",
+            "\"himself as this little child..."
+          ]
+        },
+        {
+          "shot": 264,
+          "duration": [
+            2514.3451666666665,
+            2522.061208333333
+          ],
+          "sentences": [
+            "\"himself as this little child...",
+            "\"the same is the greatest in the kingdom of heaven.",
+            "\"And who so shall receive one such little child in my name..."
+          ]
+        },
+        {
+          "shot": 265,
+          "duration": [
+            2522.1029166666667,
+            2526.690833333333
+          ],
+          "sentences": [
+            "\"And who so shall receive one such little child in my name...",
+            "I cannot have that kind of depression about.",
+            "\"But who so shall offend one of these little ones..."
+          ]
+        },
+        {
+          "shot": 266,
+          "duration": [
+            2526.7325416666663,
+            2536.0335
+          ],
+          "sentences": [
+            "\"But who so shall offend one of these little ones...",
+            "\"it were better for him that a millstone were hanged about his neck...",
+            "\"and he were drowned in the depth of the sea.\""
+          ]
+        },
+        {
+          "shot": 267,
+          "duration": [
+            2536.075208333333,
+            2540.704833333333
+          ],
+          "sentences": [
+            "\"and he were drowned in the depth of the sea.\"",
+            "Amen.",
+            "Amen."
+          ]
+        },
+        {
+          "shot": 269,
+          "duration": [
+            2548.420875,
+            2567.439875
+          ],
+          "sentences": [
+            "Make them boards flush.",
+            "They are, sir.",
+            "No, they is no such thing.",
+            "They are as smooth to the touch as a yearling's coat.",
+            "Are you calling me a liar, boy?"
+          ]
+        },
+        {
+          "shot": 270,
+          "duration": [
+            2567.481583333333,
+            2576.6574166666664
+          ],
+          "sentences": [
+            "Are you calling me a liar, boy?",
+            "It's all a matter of perspective, sir.",
+            "From where you stand, you may see differently,",
+            "but the hands are not mistaken."
+          ]
+        },
+        {
+          "shot": 271,
+          "duration": [
+            2576.6991249999996,
+            2589.712125
+          ],
+          "sentences": [
+            "but the hands are not mistaken.",
+            "I simply ask that you use all your senses before rendering judgment.",
+            "Oh, my, you are a brute.",
+            "You are a dog."
+          ]
+        },
+        {
+          "shot": 272,
+          "duration": [
+            2589.753833333333,
+            2596.4271666666664
+          ],
+          "sentences": [
+            "And no better for following instruction!",
+            "I do as ordered.",
+            "Then you'll be up at daybreak."
+          ]
+        },
+        {
+          "shot": 273,
+          "duration": [
+            2596.468875,
+            2609.85725
+          ],
+          "sentences": [
+            "You will procure a keg of nails from Chapin...",
+            "and commence to putting on clapboards.",
+            "Yes, sir.",
+            "Make them boards flush."
+          ]
+        },
+        {
+          "shot": 274,
+          "duration": [
+            2609.898958333333,
+            2621.4104583333333
+          ],
+          "sentences": [
+            "Make them boards flush.",
+            "No, please! Please, Sam!"
+          ]
+        },
+        {
+          "shot": 275,
+          "duration": [
+            2621.4521666666665,
+            2623.7461249999997
+          ],
+          "sentences": [
+            "Where am I going? Where am I going, Sam?"
+          ]
+        },
+        {
+          "shot": 276,
+          "duration": [
+            2623.7878333333333,
+            2626.749125
+          ],
+          "sentences": [
+            "Where am I going? Where am I going, Sam?",
+            "Solomon! Solomon!"
+          ]
+        },
+        {
+          "shot": 277,
+          "duration": [
+            2626.790833333333,
+            2628.6259999999997
+          ],
+          "sentences": [
+            "Solomon! Solomon!",
+            "Solomon!"
+          ]
+        },
+        {
+          "shot": 278,
+          "duration": [
+            2628.667708333333,
+            2634.8405416666665
+          ],
+          "sentences": [
+            "Solomon!",
+            "Solomon!"
+          ]
+        },
+        {
+          "shot": 279,
+          "duration": [
+            2634.8822499999997,
+            2647.019375
+          ],
+          "sentences": [
+            "Solomon!",
+            "When I say I had my Master's favor, you understand."
+          ]
+        },
+        {
+          "shot": 280,
+          "duration": [
+            2647.061083333333,
+            2692.9819583333333
+          ],
+          "sentences": [
+            "And for nine years...",
+            "he blessed me with every comfort and luxury in life.",
+            "Silks and jewels...",
+            "and even servants to wait upon us.",
+            "Such was our life.",
+            "And the life of this beautiful girl I bore for him.",
+            "But Master Berry's daughter...",
+            "she always looked at me with an unkind nature.",
+            "And she hated Emily, no matter she and Emily were flesh of flesh.",
+            "As Master Berry's health failed,",
+            "she gained power of the household...",
+            "and eventually, I was brought to the city under the false pretense...",
+            "of our free papers being executed."
+          ]
+        },
+        {
+          "shot": 281,
+          "duration": [
+            2693.0236666666665,
+            2705.327625
+          ],
+          "sentences": [
+            "My poor children."
+          ]
+        },
+        {
+          "shot": 286,
+          "duration": [
+            2733.2722083333333,
+            2807.7632916666666
+          ],
+          "sentences": [
+            "I thought I told you to commence to putting on clapboards.",
+            "Yes, Master, I'm about it. These have all been replaced.",
+            "And didn't I tell you to get a keg of nails?",
+            "And so, I did.",
+            "So, you did.",
+            "God damn you. I thought you knowed something!",
+            "I did as instructed.",
+            "If there's something wrong, it's wrong with the instruction.",
+            "You black bastard.",
+            "You goddamn black bastard.",
+            "Strip your clothes.",
+            "Strip.",
+            "I will not.",
+            "You will not live to see another day, nigger!",
+            "Help!",
+            "Murder!",
+            "I'm sorry!",
+            "I'm sorry! I'm sorry! I'm sorry!"
+          ]
+        },
+        {
+          "shot": 287,
+          "duration": [
+            2807.805,
+            2809.807
+          ],
+          "sentences": [
+            "I'm sorry! I'm sorry! I'm sorry!"
+          ]
+        },
+        {
+          "shot": 288,
+          "duration": [
+            2809.848708333333,
+            2812.3929166666667
+          ],
+          "sentences": [
+            "What is the matter?"
+          ]
+        },
+        {
+          "shot": 289,
+          "duration": [
+            2812.434625,
+            2816.7722916666667
+          ],
+          "sentences": [
+            "What is the matter?",
+            "What is the matter?",
+            "Master Tibeats wants to whip me",
+            "for using the nails you gave me."
+          ]
+        },
+        {
+          "shot": 290,
+          "duration": [
+            2816.814,
+            2817.8567083333332
+          ],
+          "sentences": [
+            "for using the nails you gave me."
+          ]
+        },
+        {
+          "shot": 291,
+          "duration": [
+            2817.8984166666664,
+            2821.860708333333
+          ],
+          "sentences": [
+            "for using the nails you gave me.",
+            "This ain't done by half."
+          ]
+        },
+        {
+          "shot": 292,
+          "duration": [
+            2821.9024166666663,
+            2829.3264999999997
+          ],
+          "sentences": [
+            "This ain't done by half.",
+            "I will have flesh.",
+            "And I will have all of it!"
+          ]
+        },
+        {
+          "shot": 293,
+          "duration": [
+            2829.3682083333333,
+            2831.870708333333
+          ],
+          "sentences": [
+            "Do not stir."
+          ]
+        },
+        {
+          "shot": 294,
+          "duration": [
+            2831.9124166666666,
+            2835.5827499999996
+          ],
+          "sentences": [
+            "Do not leave the plantation. For, if you run, I cannot protect you."
+          ]
+        },
+        {
+          "shot": 295,
+          "duration": [
+            2835.624458333333,
+            2856.1032499999997
+          ],
+          "sentences": [
+            "Do not leave the plantation. For, if you run, I cannot protect you.",
+            "Stay here."
+          ]
+        },
+        {
+          "shot": 304,
+          "duration": [
+            2900.3557916666664,
+            2904.1095416666662
+          ],
+          "sentences": [
+            "Gentlemen, whoever moves that nigger is a dead man."
+          ]
+        },
+        {
+          "shot": 305,
+          "duration": [
+            2904.15125,
+            2905.1105416666664
+          ],
+          "sentences": [
+            "Gentlemen, whoever moves that nigger is a dead man."
+          ]
+        },
+        {
+          "shot": 307,
+          "duration": [
+            2905.8612916666666,
+            2907.9884166666666
+          ],
+          "sentences": [
+            "I am the overseer on this plantation."
+          ]
+        },
+        {
+          "shot": 308,
+          "duration": [
+            2908.0301249999998,
+            2909.8652916666665
+          ],
+          "sentences": [
+            "I am the overseer on this plantation."
+          ]
+        },
+        {
+          "shot": 309,
+          "duration": [
+            2909.9069999999997,
+            2912.6180416666666
+          ],
+          "sentences": [
+            "William Ford holds the mortgage on Platt."
+          ]
+        },
+        {
+          "shot": 310,
+          "duration": [
+            2912.65975,
+            2915.537625
+          ],
+          "sentences": [
+            "William Ford holds the mortgage on Platt.",
+            "If you hang him, he will lose his debt."
+          ]
+        },
+        {
+          "shot": 311,
+          "duration": [
+            2915.579333333333,
+            2918.3737916666664
+          ],
+          "sentences": [
+            "If you hang him, he will lose his debt.",
+            "You have no claim to his life."
+          ]
+        },
+        {
+          "shot": 312,
+          "duration": [
+            2918.4154999999996,
+            2924.67175
+          ],
+          "sentences": [
+            "You have no claim to his life.",
+            "As for you two...",
+            "if you have any regard for your own safety...",
+            "I say, be gone!"
+          ]
+        },
+        {
+          "shot": 313,
+          "duration": [
+            2924.713458333333,
+            2929.5516249999996
+          ],
+          "sentences": [
+            "I say, be gone!",
+            "You got no cause!"
+          ]
+        },
+        {
+          "shot": 314,
+          "duration": [
+            2929.5933333333332,
+            2932.67975
+          ],
+          "sentences": [
+            "You got no cause!",
+            "Platt is mine, and mine to do with as I please!"
+          ]
+        },
+        {
+          "shot": 315,
+          "duration": [
+            2932.721458333333,
+            2935.807875
+          ],
+          "sentences": [
+            "Platt is mine, and mine to do with as I please!",
+            "If you touch..."
+          ]
+        },
+        {
+          "shot": 316,
+          "duration": [
+            2935.849583333333,
+            2949.2796666666663
+          ],
+          "sentences": [
+            "If you touch..."
+          ]
+        },
+        {
+          "shot": 319,
+          "duration": [
+            2959.373083333333,
+            2962.834875
+          ],
+          "sentences": [
+            "Sam!"
+          ]
+        },
+        {
+          "shot": 320,
+          "duration": [
+            2962.876583333333,
+            2966.9222916666663
+          ],
+          "sentences": [
+            "Sam!",
+            "Fetch the mule. Get Master Ford."
+          ]
+        },
+        {
+          "shot": 330,
+          "duration": [
+            3140.846041666666,
+            3145.6007916666663
+          ],
+          "sentences": [
+            "Platt. Poor Platt."
+          ]
+        },
+        {
+          "shot": 333,
+          "duration": [
+            3172.085583333333,
+            3193.5653749999997
+          ],
+          "sentences": [
+            "I believe Tibeats is skulking about the premises somewhere.",
+            "He wants you dead, and he will have it so.",
+            "It's no longer safe for you here.",
+            "And I don't believe you will remain passive if Tibeats attacks.",
+            "I have transferred my debt to Edwin Epps.",
+            "He will take charge..."
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            3193.6070833333333,
+            3214.2944166666666
+          ],
+          "sentences": [
+            "Master Ford."
+          ]
+        },
+        {
+          "shot": 335,
+          "duration": [
+            3214.336125,
+            3217.8813333333333
+          ],
+          "sentences": [
+            "You must know that I'm not a slave."
+          ]
+        },
+        {
+          "shot": 336,
+          "duration": [
+            3217.9230416666664,
+            3219.382833333333
+          ],
+          "sentences": [
+            "I cannot hear that."
+          ]
+        },
+        {
+          "shot": 337,
+          "duration": [
+            3219.4245416666663,
+            3221.509958333333
+          ],
+          "sentences": [
+            "Before I came to you, I was a freeman."
+          ]
+        },
+        {
+          "shot": 338,
+          "duration": [
+            3221.5516666666663,
+            3228.0581666666662
+          ],
+          "sentences": [
+            "I'm trying to save your life!",
+            "And I have a debt to be mindful of."
+          ]
+        },
+        {
+          "shot": 339,
+          "duration": [
+            3228.099875,
+            3242.3641249999996
+          ],
+          "sentences": [
+            "And that is to Edwin Epps now.",
+            "And he is a hard man. Prides himself on being a nigger breaker.",
+            "But truthfully, I could find no others who would take you.",
+            "You've made a reputation of yourself."
+          ]
+        },
+        {
+          "shot": 340,
+          "duration": [
+            3242.4058333333332,
+            3274.1458749999997
+          ],
+          "sentences": [
+            "Whatever the circumstances, you are an exceptional nigger, Platt.",
+            "But I fear no good will come of it."
+          ]
+        },
+        {
+          "shot": 341,
+          "duration": [
+            3274.187583333333,
+            3307.721083333333
+          ],
+          "sentences": [
+            "\"And that servant...",
+            "\"which knew his lord's will...\"",
+            "Which knew his lord's will.",
+            "\"...and prepared not himself...\"",
+            "Prepared not himself.",
+            "\"...neither did according to his will...",
+            "\"shall be beaten with many stripes.\""
+          ]
+        },
+        {
+          "shot": 342,
+          "duration": [
+            3307.7627916666665,
+            3329.0340416666663
+          ],
+          "sentences": [
+            "Do you hear that?",
+            "\"Stripes.\"",
+            "That nigger that don't obey his lord...",
+            "That's his master, do you see?",
+            "That there nigger shall be beaten with many stripes.",
+            "Now, \"many\" signifies a great many."
+          ]
+        },
+        {
+          "shot": 343,
+          "duration": [
+            3329.07575,
+            3342.255583333333
+          ],
+          "sentences": [
+            "40, 100, 150 lashes.",
+            "That's scripture."
+          ]
+        },
+        {
+          "shot": 345,
+          "duration": [
+            3352.4741249999997,
+            3370.61725
+          ],
+          "sentences": [
+            "Pick that cotton.",
+            "Move along, now.",
+            "Come on, Edward! Drive them niggers!",
+            "Pick that cotton! Move along, now.",
+            "What are you doing, boy? Come on!"
+          ]
+        },
+        {
+          "shot": 346,
+          "duration": [
+            3370.658958333333,
+            3386.591541666666
+          ],
+          "sentences": [
+            "240 for Bob.",
+            "What you got for James?",
+            "295 pounds.",
+            "That's real good, boy. That's real good.",
+            "182 for Platt."
+          ]
+        },
+        {
+          "shot": 347,
+          "duration": [
+            3386.63325,
+            3401.4814166666665
+          ],
+          "sentences": [
+            "How much can even an average nigger pick a day?",
+            "200 pounds.",
+            "This nigger ain't even average.",
+            "512 pounds for Patsey.",
+            "512!"
+          ]
+        },
+        {
+          "shot": 348,
+          "duration": [
+            3401.5231249999997,
+            3459.0389166666664
+          ],
+          "sentences": [
+            "You menfolk got no shame letting Patsey out-pick you.",
+            "The day ain't yet come she swung lower than 500 pounds.",
+            "Queen of the fields, she is.",
+            "138 pounds...",
+            "I ain't done, Treach.",
+            "Ain't I owed a minute to luxuriate on the work Patsey done?",
+            "Yes, sir.",
+            "Damn queen.",
+            "Born and bred to the field.",
+            "A nigger among niggers.",
+            "And God gave her to me.",
+            "A lesson in the rewards of righteous living.",
+            "All be observant to that.",
+            "All!"
+          ]
+        },
+        {
+          "shot": 349,
+          "duration": [
+            3459.0806249999996,
+            3472.7192499999996
+          ],
+          "sentences": [
+            "Now, Treach. Now speak.",
+            "138 pounds for Phebe.",
+            "Hit 145 yesterday. Pull her out.",
+            "206 pounds for George."
+          ]
+        },
+        {
+          "shot": 350,
+          "duration": [
+            3472.7609583333333,
+            3479.6011249999997
+          ],
+          "sentences": [
+            "How much he pick yesterday?",
+            "229.",
+            "Get him out.",
+            "Come on, get."
+          ]
+        },
+        {
+          "shot": 351,
+          "duration": [
+            3479.642833333333,
+            3482.353875
+          ],
+          "sentences": [
+            "Come on, get."
+          ]
+        },
+        {
+          "shot": 352,
+          "duration": [
+            3482.395583333333,
+            3487.901083333333
+          ],
+          "sentences": [
+            "Come on.",
+            "Come on, boy, move!"
+          ]
+        },
+        {
+          "shot": 362,
+          "duration": [
+            3593.4231666666665,
+            3602.515583333333
+          ],
+          "sentences": [
+            "Get up!",
+            "We dance tonight! Get up!",
+            "Get your fiddle, Platt. Get up!",
+            "Come on! Get, get, get!",
+            "Come on, Platt. Come on!"
+          ]
+        },
+        {
+          "shot": 364,
+          "duration": [
+            3611.1492083333333,
+            3614.5692916666662
+          ],
+          "sentences": [
+            "Come on, where's your merriment? Move your feet!"
+          ]
+        },
+        {
+          "shot": 365,
+          "duration": [
+            3614.611,
+            3620.6169999999997
+          ],
+          "sentences": [
+            "Come on, where's your merriment? Move your feet!"
+          ]
+        },
+        {
+          "shot": 370,
+          "duration": [
+            3630.168208333333,
+            3634.0053749999997
+          ],
+          "sentences": [
+            "Sell her.",
+            "What's all this?",
+            "You will sell the negress."
+          ]
+        },
+        {
+          "shot": 371,
+          "duration": [
+            3634.047083333333,
+            3645.516875
+          ],
+          "sentences": [
+            "You will sell the negress.",
+            "Sell little Pats?",
+            "She pick with more vigor than any other nigger.",
+            "Choose another to go.",
+            "No other.",
+            "Sell her."
+          ]
+        },
+        {
+          "shot": 372,
+          "duration": [
+            3645.558583333333,
+            3660.6569999999997
+          ],
+          "sentences": [
+            "Sell her.",
+            "I will not.",
+            "You will remove that black bitch from this property...",
+            "or I'll take myself back to Cheneyville.",
+            "Back to that hog's trough where I found you?"
+          ]
+        },
+        {
+          "shot": 373,
+          "duration": [
+            3660.698708333333,
+            3669.2489166666664
+          ],
+          "sentences": [
+            "Do not set yourself up against Patsey, my dear."
+          ]
+        },
+        {
+          "shot": 374,
+          "duration": [
+            3669.2906249999996,
+            3677.298625
+          ],
+          "sentences": [
+            "Because I will rid myself of you",
+            "well before I do away with her."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt2024544_0004",
+      "shot": [
+        385,
+        537
+      ],
+      "frame": [
+        89687,
+        124338
+      ],
+      "duration": [
+        3740.715671333333,
+        5185.889474333333
+      ],
+      "consistency": 0.9933284093719488,
+      "description": "Mistress Epps sends Solomon on an errand to the store. She hands him a list and notices him reading it. She makes it clear that he should not do it again. On his way to the store, Solomon is inspired to attempt escape, but stumbles into a lynching. Seeing the fate of the two men, his spirit is broken, and he continues to the store. Seeing the paper, he develops the idea to take a spare sheet each time so that he might craft a letter. Some time later, Epps dispatches Solomon to a nearby plantation owned by Shaw. Shaw has married one of his slaves and elevated her status (at least on his plantation). Patsey is there for a visit, enjoying the finery, but apparently Epps is jealous that Shaw might attempt to bed her. After a brief refreshment, Solomon convinces Patsey to join him. As they return to Epps' plantation, he is clearly drunk. Solomon whispers to Patsey that she avoid Epps, which Epps interprets as Solomon making a sexual advance. After a drunken chase around the yard, Mistress Epps intervenes, if only to express her disgust at her husband's obsession with Patsey. Later that night, Epps stumbles to the slave quarters and rapes her. Mistress Epps has had enough of her husband's affair and chastises Patsey before cruelly slashing her face. Later that night, Patsey begs Solomon to strangle her and dispose of her body. She can no longer bear the burden of Epps's rapes and his wife's torments. Solomon refuses, despite her entreaties. Some time later, we see that Epps's cotton crops have been devastated by insects. Two crops have been lost, and he decides to lend his slaves to a judge who can derive some use of them and pay the mortgage on their purchases. This returns us to the opening scene, where Solomon is cutting sugar cane. The judge notices Solomon's skill and recommends him to a neighbor seeking music for a party. As a bonus, the judge says Solomon may keep whatever wages he earns. The party is a fancy costumed affair, and Solomon clearly sees parallels between his old life as a free man and his forced servitude.",
+      "subtitle": [
+        {
+          "shot": 385,
+          "duration": [
+            3739.569166666666,
+            3760.298208333333
+          ],
+          "sentences": [
+            "Platt.",
+            "Yes, Mistress?",
+            "Can you find your way to Bartholomew's?",
+            "I can, ma'am.",
+            "This is a list of goods and sundries.",
+            "You will take it to be filled and return immediately.",
+            "Take your tag."
+          ]
+        },
+        {
+          "shot": 386,
+          "duration": [
+            3760.3399166666663,
+            3764.7192916666663
+          ],
+          "sentences": [
+            "Take your tag.",
+            "Tell Bartholomew to add it to our debt.",
+            "Yes, Mistress."
+          ]
+        },
+        {
+          "shot": 387,
+          "duration": [
+            3764.7609999999995,
+            3767.6805833333333
+          ],
+          "sentences": [
+            "Where you from, Platt?"
+          ]
+        },
+        {
+          "shot": 388,
+          "duration": [
+            3767.7222916666665,
+            3778.02425
+          ],
+          "sentences": [
+            "Where you from, Platt?",
+            "I told you.",
+            "Tell me again.",
+            "Washington.",
+            "Who were your master?",
+            "Master name a Freeman."
+          ]
+        },
+        {
+          "shot": 389,
+          "duration": [
+            3778.065958333333,
+            3783.946833333333
+          ],
+          "sentences": [
+            "Was he a learned man?",
+            "I suppose so.",
+            "He learn you to read?"
+          ]
+        },
+        {
+          "shot": 390,
+          "duration": [
+            3783.9885416666666,
+            3789.6191666666664
+          ],
+          "sentences": [
+            "A word, here or there.",
+            "But I have no understanding of the written..."
+          ]
+        },
+        {
+          "shot": 391,
+          "duration": [
+            3789.6608749999996,
+            3800.171375
+          ],
+          "sentences": [
+            "But I have no understanding of the written...",
+            "Don't trouble yourself with it.",
+            "Same as the rest. Master brought you here to work, that's all.",
+            "Any more will earn you 100 lashes."
+          ]
+        },
+        {
+          "shot": 394,
+          "duration": [
+            3862.3585,
+            3867.154958333333
+          ],
+          "sentences": [
+            "Come here, boy."
+          ]
+        },
+        {
+          "shot": 395,
+          "duration": [
+            3867.1966666666663,
+            3874.8292916666664
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 397,
+          "duration": [
+            3884.422208333333,
+            3891.470916666666
+          ],
+          "sentences": [
+            "Where you going, boy?",
+            "On my way to Bartholomew's."
+          ]
+        },
+        {
+          "shot": 398,
+          "duration": [
+            3891.512625,
+            3907.7788749999995
+          ],
+          "sentences": [
+            "On my way to Bartholomew's.",
+            "Sent by Mistress Epps.",
+            "You best get there, then.",
+            "Get there quick."
+          ]
+        },
+        {
+          "shot": 405,
+          "duration": [
+            3948.4862083333333,
+            3958.6630416666662
+          ],
+          "sentences": [
+            "Any trouble?",
+            "No, ma'am. No trouble."
+          ]
+        },
+        {
+          "shot": 413,
+          "duration": [
+            4013.5929166666665,
+            4026.063708333333
+          ],
+          "sentences": [
+            "Platt Epps, good Sunday morning.",
+            "Good morning, Master Shaw.",
+            "Master sent me to retrieve Patsey. May I approach?",
+            "You may."
+          ]
+        },
+        {
+          "shot": 415,
+          "duration": [
+            4029.567208333333,
+            4033.9048749999997
+          ],
+          "sentences": [
+            "Excuse me, Mistress Shaw."
+          ]
+        },
+        {
+          "shot": 416,
+          "duration": [
+            4033.946583333333,
+            4036.824458333333
+          ],
+          "sentences": [
+            "Nigger Platt.",
+            "Patsey, Master wishes you to return."
+          ]
+        },
+        {
+          "shot": 417,
+          "duration": [
+            4036.8661666666662,
+            4039.410375
+          ],
+          "sentences": [
+            "Patsey, Master wishes you to return.",
+            "The Sabbath day, I is free to roam."
+          ]
+        },
+        {
+          "shot": 418,
+          "duration": [
+            4039.452083333333,
+            4042.580208333333
+          ],
+          "sentences": [
+            "Master sent me running to fetch you, said no time should be wasted."
+          ]
+        },
+        {
+          "shot": 419,
+          "duration": [
+            4042.6219166666665,
+            4047.79375
+          ],
+          "sentences": [
+            "Drink of tea?",
+            "Thank you, Mistress, but I don't dare.",
+            "Would you know of Master Epps's consternation..."
+          ]
+        },
+        {
+          "shot": 420,
+          "duration": [
+            4047.835458333333,
+            4055.9268749999997
+          ],
+          "sentences": [
+            "Would you know of Master Epps's consternation...",
+            "to be any lessened with your timely return?",
+            "Anger's his constant condition.",
+            "Sit."
+          ]
+        },
+        {
+          "shot": 421,
+          "duration": [
+            4055.968583333333,
+            4058.721333333333
+          ],
+          "sentences": [
+            "Sit and drink the tea that I offered."
+          ]
+        },
+        {
+          "shot": 422,
+          "duration": [
+            4058.7630416666666,
+            4071.7760416666665
+          ],
+          "sentences": [
+            "What'n be Epps's concern?",
+            "I'd rather not say.",
+            "Oh, little gossip on the Sabbath be fine. All things in moderation."
+          ]
+        },
+        {
+          "shot": 423,
+          "duration": [
+            4071.8177499999997,
+            4074.361958333333
+          ],
+          "sentences": [
+            "Oh, little gossip on the Sabbath be fine. All things in moderation."
+          ]
+        },
+        {
+          "shot": 424,
+          "duration": [
+            4074.4036666666666,
+            4095.2995416666663
+          ],
+          "sentences": [
+            "As you are aware...",
+            "Master Epps is a man of hard countenance.",
+            "You know he has ill feeling towards your husband.",
+            "He do.",
+            "Master Epps has somehow come to believe...",
+            "that Master Shaw is something of a lothario."
+          ]
+        },
+        {
+          "shot": 425,
+          "duration": [
+            4095.3412499999995,
+            4102.973875
+          ],
+          "sentences": [
+            "A misguided belief, no doubt.",
+            "No doubt...",
+            "if not born out of truth itself."
+          ]
+        },
+        {
+          "shot": 427,
+          "duration": [
+            4104.934166666666,
+            4106.811041666667
+          ],
+          "sentences": [
+            "I meant no disrespect."
+          ]
+        },
+        {
+          "shot": 428,
+          "duration": [
+            4106.85275,
+            4109.021583333333
+          ],
+          "sentences": [
+            "He ain't heard you."
+          ]
+        },
+        {
+          "shot": 429,
+          "duration": [
+            4109.063291666666,
+            4113.275833333333
+          ],
+          "sentences": [
+            "I meant no disrespect to you, Mistress."
+          ]
+        },
+        {
+          "shot": 430,
+          "duration": [
+            4113.317541666666,
+            4140.803333333333
+          ],
+          "sentences": [
+            "Got no cause to worry for my sensibilities.",
+            "I ain't felt the end of a lash in more years I can recall.",
+            "I ain't worked a field, neither.",
+            "Where once I served...",
+            "now, I have others serving me.",
+            "The cost to my current existence...",
+            "be Master Shaw broadcasting his affections...",
+            "and me enjoying the pantomime of his fidelity."
+          ]
+        },
+        {
+          "shot": 431,
+          "duration": [
+            4140.8450416666665,
+            4147.852041666666
+          ],
+          "sentences": [
+            "If that what keep me from cotton picking niggers, that what it be.",
+            "A small and reasonable price to be paid, for sure."
+          ]
+        },
+        {
+          "shot": 432,
+          "duration": [
+            4147.893749999999,
+            4150.479666666666
+          ],
+          "sentences": [
+            "A small and reasonable price to be paid, for sure."
+          ]
+        },
+        {
+          "shot": 433,
+          "duration": [
+            4150.521374999999,
+            4160.197708333333
+          ],
+          "sentences": [
+            "I know what it like to be the object",
+            "of Master's predilections and peculiarities."
+          ]
+        },
+        {
+          "shot": 434,
+          "duration": [
+            4160.239416666666,
+            4169.540375
+          ],
+          "sentences": [
+            "A lusty visit in the night...",
+            "or a visitation with the whip.",
+            "Take comfort, Patsey."
+          ]
+        },
+        {
+          "shot": 435,
+          "duration": [
+            4169.582083333333,
+            4176.92275
+          ],
+          "sentences": [
+            "The good Lord will manage Epps.",
+            "In His own time, the good Lord will manage them all."
+          ]
+        },
+        {
+          "shot": 436,
+          "duration": [
+            4176.964458333333,
+            4187.474958333333
+          ],
+          "sentences": [
+            "The curse of the pharaohs were a poor example...",
+            "of what wait for the plantation class."
+          ]
+        },
+        {
+          "shot": 437,
+          "duration": [
+            4187.516666666666,
+            4191.645791666667
+          ],
+          "sentences": [
+            "This is nice."
+          ]
+        },
+        {
+          "shot": 441,
+          "duration": [
+            4200.94675,
+            4206.368833333333
+          ],
+          "sentences": [
+            "Pats. Patsey!",
+            "Do not look in his direction. Continue on."
+          ]
+        },
+        {
+          "shot": 442,
+          "duration": [
+            4206.410541666666,
+            4221.008458333333
+          ],
+          "sentences": [
+            "Patsey! Found her, Master.",
+            "And brought her back, just as instructed.",
+            "What did you just now tell her?",
+            "What did you say to Pats?",
+            "No words were spoken, none of consequence."
+          ]
+        },
+        {
+          "shot": 443,
+          "duration": [
+            4221.050166666666,
+            4236.398833333333
+          ],
+          "sentences": [
+            "You're a liar.",
+            "You damn liar.",
+            "I saw you talking with her.",
+            "Tell me.",
+            "I cannot speak of what did not occur.",
+            "I'll cut your black throat!"
+          ]
+        },
+        {
+          "shot": 444,
+          "duration": [
+            4236.440541666666,
+            4237.733499999999
+          ],
+          "sentences": [
+            "I'll cut your black throat!"
+          ]
+        },
+        {
+          "shot": 445,
+          "duration": [
+            4237.7752083333335,
+            4239.401833333333
+          ],
+          "sentences": [
+            "Master!"
+          ]
+        },
+        {
+          "shot": 446,
+          "duration": [
+            4239.4435416666665,
+            4242.446541666666
+          ],
+          "sentences": [
+            "You come here.",
+            "Master Epps. I said come here!"
+          ]
+        },
+        {
+          "shot": 447,
+          "duration": [
+            4242.488249999999,
+            4243.405833333333
+          ],
+          "sentences": [
+            "I brought her back, just like you..."
+          ]
+        },
+        {
+          "shot": 448,
+          "duration": [
+            4243.447541666666,
+            4264.343416666667
+          ],
+          "sentences": [
+            "I brought her back, just like you...",
+            "Come here! Master!",
+            "Master.",
+            "I got her, just as instructed.",
+            "Master EPPS!",
+            "You stay away from Pats, boy."
+          ]
+        },
+        {
+          "shot": 449,
+          "duration": [
+            4264.385125,
+            4269.640375
+          ],
+          "sentences": [
+            "Master Epps."
+          ]
+        },
+        {
+          "shot": 452,
+          "duration": [
+            4285.364416666666,
+            4308.012041666666
+          ],
+          "sentences": [
+            "It's the Lord's day.",
+            "Ain't nothing Christian in us carrying on like this.",
+            "I concede to you."
+          ]
+        },
+        {
+          "shot": 453,
+          "duration": [
+            4308.05375,
+            4312.016041666667
+          ],
+          "sentences": [
+            "In the name of valor..."
+          ]
+        },
+        {
+          "shot": 454,
+          "duration": [
+            4312.05775,
+            4314.893916666666
+          ],
+          "sentences": [
+            "help your master to his feet."
+          ]
+        },
+        {
+          "shot": 457,
+          "duration": [
+            4319.06475,
+            4320.06575
+          ],
+          "sentences": [
+            "I'm gonna kill you!"
+          ]
+        },
+        {
+          "shot": 458,
+          "duration": [
+            4320.107458333333,
+            4323.986333333333
+          ],
+          "sentences": [
+            "I'm gonna kill you!",
+            "What's the fuss?",
+            "Master Epps believed Patsey and me"
+          ]
+        },
+        {
+          "shot": 459,
+          "duration": [
+            4324.0280416666665,
+            4328.7827916666665
+          ],
+          "sentences": [
+            "Master Epps believed Patsey and me",
+            "to be in conversation when we were not.",
+            "I tried to explain, but it's led to all this.",
+            "What is it?"
+          ]
+        },
+        {
+          "shot": 460,
+          "duration": [
+            4328.8245,
+            4332.161166666667
+          ],
+          "sentences": [
+            "You can't remain the Sabbath without her under your eye?"
+          ]
+        },
+        {
+          "shot": 461,
+          "duration": [
+            4332.202875,
+            4341.628958333333
+          ],
+          "sentences": [
+            "You are a no-account bastard.",
+            "A filthy, godless heathen.",
+            "My bed is too holy for you to share.",
+            "What's he been telling you?",
+            "Of your misbegotten ways."
+          ]
+        },
+        {
+          "shot": 462,
+          "duration": [
+            4341.670666666666,
+            4346.258583333333
+          ],
+          "sentences": [
+            "And he would know what of anything?",
+            "I ain't even spoken with him today."
+          ]
+        },
+        {
+          "shot": 463,
+          "duration": [
+            4346.300291666666,
+            4358.8544999999995
+          ],
+          "sentences": [
+            "I ain't even spoken with him today.",
+            "You lying nigger, Platt.",
+            "Have I?",
+            "Have I?",
+            "There. There's all the truth he got."
+          ]
+        },
+        {
+          "shot": 464,
+          "duration": [
+            4358.896208333333,
+            4367.946916666667
+          ],
+          "sentences": [
+            "There. There's all the truth he got.",
+            "Damn nigger."
+          ]
+        },
+        {
+          "shot": 469,
+          "duration": [
+            4406.610541666666,
+            4478.765958333333
+          ],
+          "sentences": [
+            "Patsey."
+          ]
+        },
+        {
+          "shot": 483,
+          "duration": [
+            4590.127208333333,
+            4592.421166666666
+          ],
+          "sentences": [
+            "A moment from the dancing."
+          ]
+        },
+        {
+          "shot": 484,
+          "duration": [
+            4592.462874999999,
+            4593.297041666667
+          ],
+          "sentences": [
+            "A moment from the dancing."
+          ]
+        },
+        {
+          "shot": 485,
+          "duration": [
+            4593.33875,
+            4614.901958333333
+          ],
+          "sentences": [
+            "A moment from the dancing.",
+            "Come sample what I baked for y'all.",
+            "Thank you, Mistress.",
+            "Thank you, Mistress.",
+            "There will be none for you, Patsey.",
+            "You see that?",
+            "You see that look of insolence she give me?",
+            "I seen nothing but her turn away.",
+            "Are you blind or ignorant?"
+          ]
+        },
+        {
+          "shot": 486,
+          "duration": [
+            4614.943666666666,
+            4637.38275
+          ],
+          "sentences": [
+            "It was hot, hateful scorn.",
+            "It filled that black face.",
+            "You tell me you didn't see it...",
+            "it's because you choose not to look, or are you saying I lie?",
+            "Whatever it was, it passed.",
+            "Is that how you are with the niggers?",
+            "Letting every ill thought fester inside them?",
+            "Look at them."
+          ]
+        },
+        {
+          "shot": 487,
+          "duration": [
+            4637.424458333333,
+            4643.430458333333
+          ],
+          "sentences": [
+            "They foul with it.",
+            "They foul with their hate.",
+            "You let it be, it's gonna come back to us in the dark of night."
+          ]
+        },
+        {
+          "shot": 488,
+          "duration": [
+            4643.472166666666,
+            4669.623291666667
+          ],
+          "sentences": [
+            "You let it be, it's gonna come back to us in the dark of night.",
+            "You want that?",
+            "You want them black animals leave us",
+            "gut like pigs in our own sleep?",
+            "Oh...",
+            "You are manless.",
+            "A damn eunuch if there ever was.",
+            "If you won't stand for me, I pray you'd",
+            "at least be a credit to your own kind...",
+            "and beat every foul thought from them."
+          ]
+        },
+        {
+          "shot": 492,
+          "duration": [
+            4678.965958333333,
+            4681.051375
+          ],
+          "sentences": [
+            "Beat it from them!"
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            4681.093083333333,
+            4685.013666666667
+          ],
+          "sentences": [
+            "Beat it from them!"
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            4695.732708333333,
+            4699.069375
+          ],
+          "sentences": [
+            "Eat."
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            4699.111083333333,
+            4704.032666666666
+          ],
+          "sentences": [
+            "Eat.",
+            "Fill yourselves.",
+            "And then we dance."
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            4707.577875,
+            4711.832125
+          ],
+          "sentences": [
+            "I said, eat."
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            4722.259208333333,
+            4731.059666666666
+          ],
+          "sentences": [
+            "Platt.",
+            "Platt, you awake?"
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            4731.101374999999,
+            4811.348208333333
+          ],
+          "sentences": [
+            "I am.",
+            "I have a request.",
+            "An act of kindness.",
+            "I secreted it from the mistress.",
+            "Return it.",
+            "It yours, Platt.",
+            "For what cause?",
+            "All I ask, end my life.",
+            "Take my body to the margin of the swamp.",
+            "Take me by the throat, hold me low in the water...",
+            "until I is still and without life.",
+            "Bury me in a lonely place of dying.",
+            "I will do no such thing.",
+            "The gory detail with which you speak...",
+            "I thought on it long and hard.",
+            "It is melancholia.",
+            "Nothing more.",
+            "How can you fall into such despair?",
+            "How can you not know?",
+            "I ain't got no comfort in this life.",
+            "If I can't buy mercy from you...",
+            "I'll beg it.",
+            "There are others.",
+            "Beg them. I'm begging you."
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            4811.389916666666,
+            4817.1873749999995
+          ],
+          "sentences": [
+            "Beg them. I'm begging you.",
+            "Why?",
+            "Why would you consign me to damnation with such an ungodly request?"
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            4817.229083333333,
+            4826.446625
+          ],
+          "sentences": [
+            "Why would you consign me to damnation with such an ungodly request?",
+            "There is God here!",
+            "God is merciful...",
+            "and he forgive merciful acts."
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            4826.488333333333,
+            4840.794291666666
+          ],
+          "sentences": [
+            "Won't be no hell for you.",
+            "Do it.",
+            "Do what I ain't got the strength to do myself."
+          ]
+        },
+        {
+          "shot": 512,
+          "duration": [
+            4877.289083333333,
+            4881.960416666666
+          ],
+          "sentences": [
+            "It's a plague."
+          ]
+        },
+        {
+          "shot": 513,
+          "duration": [
+            4882.002125,
+            4891.011125
+          ],
+          "sentences": [
+            "It's cotton worm.",
+            "It's a plague. It's damn biblical.",
+            "Two seasons God done sent a plague to smite me."
+          ]
+        },
+        {
+          "shot": 514,
+          "duration": [
+            4891.052833333333,
+            4896.933708333333
+          ],
+          "sentences": [
+            "What I done that God hates me so?"
+          ]
+        },
+        {
+          "shot": 515,
+          "duration": [
+            4896.975416666666,
+            4917.287375
+          ],
+          "sentences": [
+            "It's that godless lot.",
+            "They brought this on me.",
+            "I bring them God's word and heathens",
+            "they are, they brung me God's scorn."
+          ]
+        },
+        {
+          "shot": 516,
+          "duration": [
+            4917.329083333333,
+            4923.209958333333
+          ],
+          "sentences": [
+            "Damn!",
+            "Damn you!",
+            "Damn all y'all!"
+          ]
+        },
+        {
+          "shot": 517,
+          "duration": [
+            4923.251666666666,
+            4962.082125
+          ],
+          "sentences": [
+            "Judge.",
+            "Mister Epps.",
+            "I am deeply saddened to hear about your misfortune.",
+            "Your price don't reflect your concern."
+          ]
+        },
+        {
+          "shot": 518,
+          "duration": [
+            4962.123833333333,
+            4969.673041666666
+          ],
+          "sentences": [
+            "Listen up.",
+            "You're Judge Turner's for the season.",
+            "More, if need be, until my crops return."
+          ]
+        },
+        {
+          "shot": 519,
+          "duration": [
+            4969.71475,
+            4981.351374999999
+          ],
+          "sentences": [
+            "Y'all bring no disrespect to me.",
+            "Don't bring no biblical plagues to him, you hear?",
+            "Or I'll take it out on your skin.",
+            "Get out."
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            5026.688333333333,
+            5033.528499999999
+          ],
+          "sentences": [
+            "Get off the porch. You ain't supposed to be on the porch."
+          ]
+        },
+        {
+          "shot": 529,
+          "duration": [
+            5033.570208333333,
+            5053.673624999999
+          ],
+          "sentences": [
+            "Get off the porch. You ain't supposed to be on the porch.",
+            "Get off the porch.",
+            "Platt, is it?",
+            "Yes, sir.",
+            "You cultivate cane previously?",
+            "No, sir, I have not.",
+            "It comes to you quite naturally.",
+            "Are you educated?"
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            5053.715333333333,
+            5063.433375
+          ],
+          "sentences": [
+            "No, sir. Niggers are hired to work, not read or write.",
+            "You play the fiddle.",
+            "Yes, sir. Yes, I do."
+          ]
+        },
+        {
+          "shot": 531,
+          "duration": [
+            5063.475083333333,
+            5079.2825416666665
+          ],
+          "sentences": [
+            "Willard Yarner, a planter up the bayou...",
+            "celebrates his anniversary in three weeks' time.",
+            "I'll hold out your name to him.",
+            "What you earn is yours to keep.",
+            "Yes, sir.",
+            "Mind yourself, Platt."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt2024544_0005",
+      "shot": [
+        537,
+        591
+      ],
+      "frame": [
+        124353,
+        141268
+      ],
+      "duration": [
+        5186.592109333333,
+        5892.020638333333
+      ],
+      "consistency": 0.9894301567154209,
+      "description": "The party is over, and it's time to return to Epps's farm. As Solomon walks up to the house, Patsey's bloody eye indicates that her torments have continued. The cotton crop is in, and that means it's back to the fields. This time, they are joined by a white laborer (Armsby) who is picking to earn money to get back on his feet. Even though his yield is well below any other worker, he is spared the whipping that all the other slaves receive. In the quarters, he tends to Solomon's wounds and tells his story. He appears to be a decent man and a sympathetic ear. Solomon decides to risk trusting him with sending a letter North, in hopes of securing his freedom. He gives Armsby all his earnings from the party and swears him to secrecy. He will deliver the letter to him in two days. Solomon sets about creating ink and drafts the letter. Just that night, Epps enters the quarters and walks Solomon outside. Armsby has broken his word and told Epps everything. Fortunately, he told his story BEFORE Solomon gave him the letter. Thinking quickly, and playing on Epps's low opinion of slaves, he flips the story on Armsby, branding him a liar who is seeking to curry favor in order to get a job. This story persuades Epps and Solomon is spared. Later, Solomon burns the letter and watches as his hopes of freedom are extinguished in the ashes.",
+      "subtitle": [
+        {
+          "shot": 537,
+          "duration": [
+            5185.972458333333,
+            5216.127583333333
+          ],
+          "sentences": [
+            "Whoa!"
+          ]
+        },
+        {
+          "shot": 538,
+          "duration": [
+            5216.169291666666,
+            5225.178291666666
+          ],
+          "sentences": [
+            "Whoa!",
+            "Joyous day."
+          ]
+        },
+        {
+          "shot": 539,
+          "duration": [
+            5225.219999999999,
+            5230.016458333333
+          ],
+          "sentences": [
+            "Joyous day.",
+            "Dark times is behind us."
+          ]
+        },
+        {
+          "shot": 540,
+          "duration": [
+            5230.058166666667,
+            5239.7345
+          ],
+          "sentences": [
+            "Dark times is behind us.",
+            "Clean living and prayer done lifted the plague!",
+            "As thick and white as New England snow."
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            5239.776208333333,
+            5274.894625
+          ],
+          "sentences": [
+            "Now, my niggers is returned to me.",
+            "Heard Judge Turner gave you favor.",
+            "Did you beguile him, Platt, with your slick nigger ways?",
+            "You won't stand idle, boy.",
+            "Not on my land.",
+            "Much work to do!",
+            "Days of old long since, huh?"
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            5274.936333333333,
+            5279.273999999999
+          ],
+          "sentences": [
+            "Days of old long since, huh?"
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            5279.315708333333,
+            5287.031749999999
+          ],
+          "sentences": [
+            "Joyous.",
+            "Joyous, indeed! Whoo!"
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            5287.073458333333,
+            5294.205583333333
+          ],
+          "sentences": [
+            "Joyous, indeed! Whoo!",
+            "Let's go find something sweet for you. Hmm?",
+            "Mmm-hmm."
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            5294.247291666667,
+            5298.835208333333
+          ],
+          "sentences": [
+            "Candy.",
+            "Candy?"
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            5298.876916666666,
+            5305.049749999999
+          ],
+          "sentences": [
+            "Oh, pick this cotton",
+            "Pick this cotton",
+            "Oh, pick this cotton"
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            5305.091458333333,
+            5309.262291666666
+          ],
+          "sentences": [
+            "Oh, pick that cotton",
+            "Man ain't mean, boys"
+          ]
+        },
+        {
+          "shot": 548,
+          "duration": [
+            5309.303999999999,
+            5319.147166666667
+          ],
+          "sentences": [
+            "Man ain't mean, boys",
+            "Man ain't mean, boys",
+            "Man ain't mean",
+            "Oh, work this cotton",
+            "Work this cotton",
+            "Oh, work this cotton"
+          ]
+        },
+        {
+          "shot": 549,
+          "duration": [
+            5319.188875,
+            5328.448125
+          ],
+          "sentences": [
+            "Oh, work this cotton",
+            "Work this cotton",
+            "Oh, work ain't hard, boys",
+            "George.",
+            "180 pounds."
+          ]
+        },
+        {
+          "shot": 550,
+          "duration": [
+            5328.489833333333,
+            5334.0370416666665
+          ],
+          "sentences": [
+            "Patsey.",
+            "520 pounds for Patsey.",
+            "That's my girl. Don't ever let me down."
+          ]
+        },
+        {
+          "shot": 551,
+          "duration": [
+            5334.07875,
+            5343.546541666667
+          ],
+          "sentences": [
+            "That's my girl. Don't ever let me down.",
+            "Platt?",
+            "160 pounds.",
+            "Armsby?"
+          ]
+        },
+        {
+          "shot": 552,
+          "duration": [
+            5343.58825,
+            5352.305291666667
+          ],
+          "sentences": [
+            "64 pounds.",
+            "A good day's labor would average 200 pounds."
+          ]
+        },
+        {
+          "shot": 553,
+          "duration": [
+            5352.347,
+            5374.660958333333
+          ],
+          "sentences": [
+            "Yes, sir.",
+            "I'm sure in time, you'll develop as a picker.",
+            "But it takes effort, boy.",
+            "Put some damn effort into it.",
+            "Yes, sir.",
+            "Take them out, get to whipping."
+          ]
+        },
+        {
+          "shot": 554,
+          "duration": [
+            5374.702666666666,
+            5381.834791666666
+          ],
+          "sentences": [
+            "It's a tragedy.",
+            "How does such come to pass?"
+          ]
+        },
+        {
+          "shot": 555,
+          "duration": [
+            5381.876499999999,
+            5400.8955
+          ],
+          "sentences": [
+            "Working a field and picking cotton like a lowly hand.",
+            "I'm of a damn sight better station.",
+            "I worked as an overseer, you know.",
+            "I did not know, sir.",
+            "Not \"sir.\"",
+            "Just \"Armsby.\"",
+            "I'm not owed more than any other in the field."
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            5400.937208333333,
+            5451.446
+          ],
+          "sentences": [
+            "How did you arrive at such a place, if I may ask?",
+            "Ask, it's just conversation.",
+            "I became a little too dependent on the whiskey...",
+            "a little too undependable on the job.",
+            "Now, before you say I'm just a sorry drunkard...",
+            "let me state my case.",
+            "As reliable employment as overseeing is,",
+            "it is no easy chore on the spirit.",
+            "I say, no man of conscious...",
+            "can take the lash to another human day in and day out...",
+            "without shredding at his own self.",
+            "Takes him to a place...",
+            "where he either makes excuses within his mind to be unaffected...",
+            "or he finds some way to trample his guilty sensations.",
+            "So, I trampled.",
+            "With frequency."
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            5451.487708333333,
+            5467.670541666666
+          ],
+          "sentences": [
+            "I gave in to tales of wealth and prosperity.",
+            "But such profitable outcomes are reserved for plantation masters.",
+            "It's the lot of the rest of us to serve."
+          ]
+        },
+        {
+          "shot": 558,
+          "duration": [
+            5467.71225,
+            5477.472
+          ],
+          "sentences": [
+            "Now, all I want is to earn a decent wage and get myself home."
+          ]
+        },
+        {
+          "shot": 563,
+          "duration": [
+            5501.370875,
+            5509.0035
+          ],
+          "sentences": [
+            "The proceeds of my fiddling performances."
+          ]
+        },
+        {
+          "shot": 564,
+          "duration": [
+            5509.045208333333,
+            5530.191333333333
+          ],
+          "sentences": [
+            "Just a few picayunes, but all I have in the world.",
+            "I promise them to you if you will do me the favor I require.",
+            "But I beg you not to expose me if you cannot grant the request.",
+            "Uh...",
+            "What is it you ask?",
+            "First, your word, sir.",
+            "On my honor."
+          ]
+        },
+        {
+          "shot": 565,
+          "duration": [
+            5530.233041666666,
+            5539.116916666666
+          ],
+          "sentences": [
+            "It's a simple enough request.",
+            "I only ask that you deposit a letter",
+            "at the post office in Marksville..."
+          ]
+        },
+        {
+          "shot": 566,
+          "duration": [
+            5539.158625,
+            5544.914374999999
+          ],
+          "sentences": [
+            "at the post office in Marksville...",
+            "and that you keep the action an inviolable secret forever."
+          ]
+        },
+        {
+          "shot": 567,
+          "duration": [
+            5544.956083333333,
+            5548.626416666666
+          ],
+          "sentences": [
+            "A patron is what I require, sir."
+          ]
+        },
+        {
+          "shot": 568,
+          "duration": [
+            5548.668124999999,
+            5556.050499999999
+          ],
+          "sentences": [
+            "I'll do it."
+          ]
+        },
+        {
+          "shot": 569,
+          "duration": [
+            5556.092208333333,
+            5559.595708333333
+          ],
+          "sentences": [
+            "And I'll accept whatever payment's offered."
+          ]
+        },
+        {
+          "shot": 570,
+          "duration": [
+            5559.6374166666665,
+            5572.233333333333
+          ],
+          "sentences": [
+            "To assist you, I put my own self at risk.",
+            "I will do so...",
+            "but fair compensation is all I ask."
+          ]
+        },
+        {
+          "shot": 572,
+          "duration": [
+            5576.404166666666,
+            5604.348749999999
+          ],
+          "sentences": [
+            "Draw up your letter.",
+            "We'll meet again in two days?",
+            "In two days.",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 579,
+          "duration": [
+            5644.180208333333,
+            5838.3324999999995
+          ],
+          "sentences": [
+            "Well, boy...",
+            "I understand I got a learned nigger that writes letters.",
+            "Tries to get white fellas to mail them.",
+            "Armsby told me today...",
+            "the devil was among my niggers.",
+            "That I had one that needed watching...",
+            "or he would run away.",
+            "When I asked him why...",
+            "he said you come over to him...",
+            "waked him up in the middle of the night...",
+            "and wanted him to carry a letter...",
+            "to Marksville.",
+            "What do you got to say to that?",
+            "There's no truth to it.",
+            "You say.",
+            "How could I write a letter without ink or paper?",
+            "Who am I gonna write to? I got no friends living as I know of.",
+            "That Armsby...",
+            "That Armsby is a lying, drunken fellow.",
+            "Didn't he want you to hire him as an overseer?",
+            "Well, that's it.",
+            "He wants to make you believe we're all gonna run away...",
+            "so you'll hire him as an overseer.",
+            "He believes you're a soft soap.",
+            "And he's given to such talk.",
+            "Made this story out of whole cloth...",
+            "because he wants a situation.",
+            "It's all a lie, Master.",
+            "It's all a lie.",
+            "I'll be damned.",
+            "Were he not free and white, Platt.",
+            "Were he not free and white."
+          ]
+        },
+        {
+          "shot": 590,
+          "duration": [
+            5874.61875,
+            5906.4005
+          ],
+          "sentences": [
+            "Sun gonna set here",
+            "Under the mountain",
+            "Sun gonna set here",
+            "Under the mountain",
+            "Sun gonna set here",
+            "Under the mountain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt2024544_0006",
+      "shot": [
+        603,
+        649
+      ],
+      "frame": [
+        146498,
+        163867
+      ],
+      "duration": [
+        6110.214565666666,
+        6834.5848866666665
+      ],
+      "consistency": 0.9680001370459246,
+      "description": "Some time later, we find a team of workers building a structure with a hired hand, Bass. Bass is from the North and holds strong views that fly in the face of Epps's strongly pro-slavery leanings. They chatter back and forth in front of Solomon, piquing his interest. Later, Epps is in a lather about Patsey. She's gone missing, and Epps thinks she has run away. He threatens all the women with violence over her loss; however, she has simply been back to Shaw's plantation to visit her friend. She attempts to convince Epps that she is faithful to him and went there to get some soap, a \"luxury\" that Epps's wife has denied her. She loudly asserts her worth and insists that she deserves to be clean. Epps is pushed over the edge by his wife's bickering and calls for Patsey to be tied to the whipping post. As he prepares to strike, he finds himself unable to inflict the punishment. Cravenly, he insists that Solomon do it. At first, Solomon attempts to be gentle, But Mistress Epps sees through the deception and nudges her husband to increase the severity. Epps points a gun to Solomon's head and claims he will kill every slave he sees if he doesn't whip Patsey harder. Faced with an unspeakable choice, he whips her harder, a pink mist of blood accompanying every new strike. After he pauses, Epps rushes forward, seething with rage and finally whips Patsey himself. The brutal punishment rends her flesh to shreds, and she collapses.",
+      "subtitle": [
+        {
+          "shot": 605,
+          "duration": [
+            6121.448666666666,
+            6128.288833333333
+          ],
+          "sentences": [
+            "Right to the end."
+          ]
+        },
+        {
+          "shot": 606,
+          "duration": [
+            6128.330541666666,
+            6134.419958333333
+          ],
+          "sentences": [
+            "Hey, Bass."
+          ]
+        },
+        {
+          "shot": 607,
+          "duration": [
+            6134.461666666666,
+            6139.216416666666
+          ],
+          "sentences": [
+            "Oh, no, no, no.",
+            "No shame in taking respite from the heat."
+          ]
+        },
+        {
+          "shot": 608,
+          "duration": [
+            6139.258124999999,
+            6143.0952916666665
+          ],
+          "sentences": [
+            "Drink, shade.",
+            "It's ungodly for travelers, hearty or otherwise."
+          ]
+        },
+        {
+          "shot": 609,
+          "duration": [
+            6143.137,
+            6145.556083333333
+          ],
+          "sentences": [
+            "It's ungodly for travelers, hearty or otherwise."
+          ]
+        },
+        {
+          "shot": 610,
+          "duration": [
+            6145.597791666666,
+            6150.018875
+          ],
+          "sentences": [
+            "What's funny?"
+          ]
+        },
+        {
+          "shot": 611,
+          "duration": [
+            6150.060583333333,
+            6155.858041666666
+          ],
+          "sentences": [
+            "Epps, I merely mean to finish the work at hand, as requested.",
+            "And as paid for."
+          ]
+        },
+        {
+          "shot": 612,
+          "duration": [
+            6155.89975,
+            6166.6605
+          ],
+          "sentences": [
+            "If something rubs you wrongly...",
+            "I offer you the opportunity to speak on it.",
+            "You ask plainly, so I will tell you plainly."
+          ]
+        },
+        {
+          "shot": 613,
+          "duration": [
+            6166.702208333333,
+            6171.665499999999
+          ],
+          "sentences": [
+            "You ask plainly, so I will tell you plainly.",
+            "What amused me just then was your concern for my well-being in this heat..."
+          ]
+        },
+        {
+          "shot": 614,
+          "duration": [
+            6171.707208333333,
+            6176.295125
+          ],
+          "sentences": [
+            "What amused me just then was your concern for my well-being in this heat...",
+            "when, quite frankly, the condition of your laborers...",
+            "\"The condition of my laborers\"?"
+          ]
+        },
+        {
+          "shot": 615,
+          "duration": [
+            6176.336833333333,
+            6179.756916666666
+          ],
+          "sentences": [
+            "\"The condition of my laborers\"?",
+            "It is horrid. It's all wrong.",
+            "All wrong, Mr. Epps."
+          ]
+        },
+        {
+          "shot": 616,
+          "duration": [
+            6179.798624999999,
+            6183.3855416666665
+          ],
+          "sentences": [
+            "All wrong, Mr. Epps.",
+            "They ain't hired help.",
+            "They're my property."
+          ]
+        },
+        {
+          "shot": 617,
+          "duration": [
+            6183.42725,
+            6185.345833333333
+          ],
+          "sentences": [
+            "They're my property.",
+            "You say that with pride."
+          ]
+        },
+        {
+          "shot": 618,
+          "duration": [
+            6185.387541666666,
+            6187.055875
+          ],
+          "sentences": [
+            "I say it as fact."
+          ]
+        },
+        {
+          "shot": 619,
+          "duration": [
+            6187.097583333333,
+            6197.900041666666
+          ],
+          "sentences": [
+            "I say it as fact.",
+            "If this conversation concerns what is factual",
+            "and what is not, then it must be said...",
+            "that there is no justice nor righteousness in their slavery."
+          ]
+        },
+        {
+          "shot": 620,
+          "duration": [
+            6197.94175,
+            6200.861333333333
+          ],
+          "sentences": [
+            "that there is no justice nor righteousness in their slavery.",
+            "But you do open up an interesting question."
+          ]
+        },
+        {
+          "shot": 621,
+          "duration": [
+            6200.9030416666665,
+            6204.94875
+          ],
+          "sentences": [
+            "But you do open up an interesting question.",
+            "What right have you to your niggers,",
+            "when you come down to the point?"
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            6204.990458333333,
+            6208.035166666667
+          ],
+          "sentences": [
+            "when you come down to the point?",
+            "What right? Mmm.",
+            "I bought them. I paid for them."
+          ]
+        },
+        {
+          "shot": 623,
+          "duration": [
+            6208.076875,
+            6212.164291666666
+          ],
+          "sentences": [
+            "I bought them. I paid for them.",
+            "Of course you did, and the law says"
+          ]
+        },
+        {
+          "shot": 624,
+          "duration": [
+            6212.205999999999,
+            6216.293416666666
+          ],
+          "sentences": [
+            "Of course you did, and the law says",
+            "you have the right to hold a nigger.",
+            "But begging the law's pardon, it lies."
+          ]
+        },
+        {
+          "shot": 625,
+          "duration": [
+            6216.335125,
+            6220.756208333333
+          ],
+          "sentences": [
+            "But begging the law's pardon, it lies.",
+            "Suppose they pass a law taking away",
+            "your liberty, making you a slave."
+          ]
+        },
+        {
+          "shot": 626,
+          "duration": [
+            6220.797916666666,
+            6222.174291666666
+          ],
+          "sentences": [
+            "your liberty, making you a slave.",
+            "Suppose."
+          ]
+        },
+        {
+          "shot": 627,
+          "duration": [
+            6222.215999999999,
+            6225.886333333333
+          ],
+          "sentences": [
+            "Suppose.",
+            "That ain't a supposable case.",
+            "Laws change, Epps."
+          ]
+        },
+        {
+          "shot": 628,
+          "duration": [
+            6225.928041666666,
+            6236.605374999999
+          ],
+          "sentences": [
+            "Universal truths are constant.",
+            "It is a fact, a plain and simple fact...",
+            "that what is true and right is true and right for all.",
+            "White and black alike."
+          ]
+        },
+        {
+          "shot": 629,
+          "duration": [
+            6236.647083333333,
+            6243.070166666666
+          ],
+          "sentences": [
+            "White and black alike.",
+            "You comparing me to a nigger, Bass?",
+            "I'm only asking, in the eyes of God, what is the difference?"
+          ]
+        },
+        {
+          "shot": 630,
+          "duration": [
+            6243.111875,
+            6254.873624999999
+          ],
+          "sentences": [
+            "I'm only asking, in the eyes of God, what is the difference?",
+            "You might as well ask what the difference is",
+            "between a white man and a baboon.",
+            "I seen one of them critters in Orleans.",
+            "Know just as much as any nigger I got."
+          ]
+        },
+        {
+          "shot": 631,
+          "duration": [
+            6254.9153333333325,
+            6260.545958333333
+          ],
+          "sentences": [
+            "Know just as much as any nigger I got.",
+            "Listen, Epps.",
+            "These niggers are human beings.",
+            "If they are allowed to climb no higher than brute animals..."
+          ]
+        },
+        {
+          "shot": 632,
+          "duration": [
+            6260.587666666666,
+            6265.676083333333
+          ],
+          "sentences": [
+            "If they are allowed to climb no higher than brute animals...",
+            "you and men like you will have to answer for it."
+          ]
+        },
+        {
+          "shot": 633,
+          "duration": [
+            6265.717791666666,
+            6270.639375
+          ],
+          "sentences": [
+            "There is an ill, Mr. Epps...",
+            "a fearful ill resting upon this nation."
+          ]
+        },
+        {
+          "shot": 634,
+          "duration": [
+            6270.681083333333,
+            6304.298
+          ],
+          "sentences": [
+            "a fearful ill resting upon this nation.",
+            "And there will be a day of reckoning yet.",
+            "You like to hear yourself talk, Bass...",
+            "better than any man I know of.",
+            "You'd argue that black was white, or white, black...",
+            "if anybody would contradict you.",
+            "A fine supposition if you lived among Yankees in New England.",
+            "But you don't.",
+            "You most assuredly do not."
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            6325.694374999999,
+            6400.477416666667
+          ],
+          "sentences": [
+            "I knew it, I knew it, I knew it!",
+            "Patsey!",
+            "Pats!",
+            "Where is she?",
+            "Where's Pats?",
+            "Where is she, damn it? Where is she?",
+            "Phebs, where is she? Where is Patsey? Where is she?",
+            "What you standing there for?",
+            "We know nothing of her, Master.",
+            "Know nothing of what? We know nothing of...",
+            "Of what? Where has she gone?",
+            "She run off, ain't she?",
+            "I don't know, Master.",
+            "Where is she? I don't know, Master.",
+            "You know, you know, you know!",
+            "You know!",
+            "No, I don't!",
+            "You miserable black dogs.",
+            "You stand like the deaf and dumb.",
+            "Speak!",
+            "She gone.",
+            "My Pats is gone."
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            6400.519125,
+            6503.413583333333
+          ],
+          "sentences": [
+            "Run off? Run off, did you?",
+            "Master Epps... You miserable wench. Where you been?",
+            "I been nowhere!",
+            "Lies to your misdeeds!",
+            "The Sabbath day, Master. I took me",
+            "a walk to commune with the Lord.",
+            "Bring the Lord into your deceptions?",
+            "You're coming from Shaw's plantation.",
+            "No! Master Epps.",
+            "Now, you speak?",
+            "Now that you want to add to her lies, you find your tongue!",
+            "I went to Master Shaw's plantation.",
+            "Ah! You admit it.",
+            "Yes, freely.",
+            "And you know why?",
+            "I got this from Mistress Shaw.",
+            "Mistress Epps won't even grant me no soap to clean with.",
+            "I stink so much, I make myself gag!",
+            "500 pounds of cotton.",
+            "Day I\", day out!",
+            "More than any man here.",
+            "And for that, I will be clean.",
+            "That's all I ask.",
+            "This, here, what I went to Shaw's for.",
+            "Liar.",
+            "The Lord knows that's all!",
+            "You're a liar.",
+            "And you, blind with your own covetousness!",
+            "I don't lie, Master.",
+            "If you kill me, I'll stick to that.",
+            "I'll fetch you down.",
+            "I'll learn you to go to Shaw's.",
+            "Treach.",
+            "Run and fetch some line.",
+            "Edward!",
+            "Strip her. Strike her bare and lash her to the post."
+          ]
+        },
+        {
+          "shot": 641,
+          "duration": [
+            6503.455291666666,
+            6729.47275
+          ],
+          "sentences": [
+            "You done this to yourself, Pats.",
+            "Do it.",
+            "Strike the life from her.",
+            "Beat her.",
+            "Give her the whip! Give it all to her!",
+            "Platt, you come here and you beat her now.",
+            "Platt!",
+            "Come here!",
+            "I'd rather it you, Platt!",
+            "You strike her.",
+            "Strike her.",
+            "He pantomimes.",
+            "There's barely a welt on her.",
+            "That's what your niggers make of you...",
+            "a fool for the taking.",
+            "Strike her, Platt. Strike her!",
+            "You will strike her.",
+            "You will strike her until her flesh",
+            "is rent and meat and blood flow equal...",
+            "or I will kill every nigger in my sight.",
+            "You understand me?",
+            "Strike her! Strike her!",
+            "Until I say no more. I ain't said nothing!",
+            "Give me the whip!",
+            "Get up!",
+            "Thou devil!",
+            "Sooner or later...",
+            "somewhere in the course of eternal"
+          ]
+        },
+        {
+          "shot": 642,
+          "duration": [
+            6729.514458333333,
+            6730.5571666666665
+          ],
+          "sentences": [
+            "somewhere in the course of eternal"
+          ]
+        },
+        {
+          "shot": 643,
+          "duration": [
+            6730.598875,
+            6731.599875
+          ],
+          "sentences": [
+            "somewhere in the course of eternal"
+          ]
+        },
+        {
+          "shot": 644,
+          "duration": [
+            6731.641583333333,
+            6732.767708333333
+          ],
+          "sentences": [
+            "somewhere in the course of eternal",
+            "justice, thou shalt answer for this sin!"
+          ]
+        },
+        {
+          "shot": 645,
+          "duration": [
+            6732.809416666666,
+            6789.866416666666
+          ],
+          "sentences": [
+            "justice, thou shalt answer for this sin!",
+            "Sin? There is no sin.",
+            "Man does how he pleases with his property.",
+            "At the moment, Platt, I'm of great pleasure.",
+            "You be goddamn careful I don't want to",
+            "come and lighten my mood no further."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt2024544_0007",
+      "shot": [
+        657,
+        685
+      ],
+      "frame": [
+        165133,
+        173158
+      ],
+      "duration": [
+        6887.438757,
+        7222.094062
+      ],
+      "consistency": 0.958628652248618,
+      "description": "Solomon finds himself alone with Bass, the hired hand. He asks where he's from and when Bass replies, \"Canada,\" Solomon offers convincing knowledge of the country. Bass asks how he's so well travelled, and Solomon explains his dire circumstance. Bass comes to believe Solomon's story and knows the horrible injustice of it. As they continue work, Solomon takes a chance and asks Bass to write letters to his friends in Saratoga. Bass agrees. Then the work is finished, and he leaves. A long shot lingers on Solomon. He has no idea whether Bass has kept his word. We don't know how long Bass has been gone, but the tears in Solomon's eyes indicate that perhaps he's beginning to think that he has been betrayed again.",
+      "subtitle": [
+        {
+          "shot": 657,
+          "duration": [
+            6886.504625,
+            6901.728166666666
+          ],
+          "sentences": [
+            "Master Bass.",
+            "I want to ask you what part of the country you come from."
+          ]
+        },
+        {
+          "shot": 658,
+          "duration": [
+            6901.769875,
+            6906.9
+          ],
+          "sentences": [
+            "I want to ask you what part of the country you come from.",
+            "No part of this land."
+          ]
+        },
+        {
+          "shot": 659,
+          "duration": [
+            6906.941708333333,
+            6916.075833333332
+          ],
+          "sentences": [
+            "No part of this land.",
+            "I originate from Canada.",
+            "Now, guess where that is.",
+            "I know where Canada is.",
+            "I've been there myself."
+          ]
+        },
+        {
+          "shot": 660,
+          "duration": [
+            6916.1175416666665,
+            6918.2446666666665
+          ],
+          "sentences": [
+            "I've been there myself."
+          ]
+        },
+        {
+          "shot": 661,
+          "duration": [
+            6918.286375,
+            6927.295375
+          ],
+          "sentences": [
+            "Montreal...",
+            "and Kingston and Queenston and a great many places."
+          ]
+        },
+        {
+          "shot": 662,
+          "duration": [
+            6927.337083333333,
+            6930.4235
+          ],
+          "sentences": [
+            "and Kingston and Queenston and a great many places.",
+            "Well-traveled for a slave.",
+            "How came you here?"
+          ]
+        },
+        {
+          "shot": 663,
+          "duration": [
+            6930.465208333333,
+            6941.517916666666
+          ],
+          "sentences": [
+            "How came you here?",
+            "Master Bass...",
+            "if justice had been done, I never would have been here."
+          ]
+        },
+        {
+          "shot": 664,
+          "duration": [
+            6941.559625,
+            6948.107833333333
+          ],
+          "sentences": [
+            "How's this?",
+            "Tell me all."
+          ]
+        },
+        {
+          "shot": 665,
+          "duration": [
+            6948.149541666666,
+            6956.574624999999
+          ],
+          "sentences": [
+            "Tell me all.",
+            "I'm afraid to tell you."
+          ]
+        },
+        {
+          "shot": 666,
+          "duration": [
+            6956.6163333333325,
+            6961.3710833333325
+          ],
+          "sentences": [
+            "Every word you speak is a profound secret."
+          ]
+        },
+        {
+          "shot": 668,
+          "duration": [
+            6965.375083333332,
+            6982.392083333333
+          ],
+          "sentences": [
+            "Your story...",
+            "it is amazing.",
+            "And in no good way.",
+            "Do you believe, sir, in justice, as you said?"
+          ]
+        },
+        {
+          "shot": 669,
+          "duration": [
+            6982.433791666666,
+            6999.325666666667
+          ],
+          "sentences": [
+            "Do you believe, sir, in justice, as you said?",
+            "I do.",
+            "That slavery is an evil that should befall none?",
+            "I believe so.",
+            "If you truly do...",
+            "then I ask, I beg..."
+          ]
+        },
+        {
+          "shot": 670,
+          "duration": [
+            6999.367375,
+            7006.082416666666
+          ],
+          "sentences": [
+            "then I ask, I beg...",
+            "that you write my friends in the north..."
+          ]
+        },
+        {
+          "shot": 671,
+          "duration": [
+            7006.124124999999,
+            7016.426083333333
+          ],
+          "sentences": [
+            "that you write my friends in the north...",
+            "acquainting them of my situation...",
+            "and beseeching them to forward free papers."
+          ]
+        },
+        {
+          "shot": 672,
+          "duration": [
+            7016.467791666666,
+            7045.204833333333
+          ],
+          "sentences": [
+            "It would be...",
+            "an unspeakable happiness...",
+            "to see my wife...",
+            "and my family again.",
+            "I traveled this country for the best part of 20 years..."
+          ]
+        },
+        {
+          "shot": 673,
+          "duration": [
+            7045.246541666666,
+            7074.400666666666
+          ],
+          "sentences": [
+            "I traveled this country for the best part of 20 years...",
+            "and my freedom is everything.",
+            "The fact that I can walk out of here tomorrow brings me great pleasure.",
+            "My life doesn't mean much to anyone.",
+            "It seems yours might mean a lot to a whole lot of people.",
+            "But what you ask of me, sir, scares me.",
+            "And I must say, I am afraid."
+          ]
+        },
+        {
+          "shot": 674,
+          "duration": [
+            7074.442375,
+            7080.490083333333
+          ],
+          "sentences": [
+            "And I must say, I am afraid.",
+            "Not just for you, but for me."
+          ]
+        },
+        {
+          "shot": 676,
+          "duration": [
+            7084.619208333333,
+            7088.039291666666
+          ],
+          "sentences": [
+            "I will write your letter, sir."
+          ]
+        },
+        {
+          "shot": 677,
+          "duration": [
+            7088.080999999999,
+            7092.084999999999
+          ],
+          "sentences": [
+            "I will write your letter, sir.",
+            "And if it brings you your freedom,",
+            "it will be more than a pleasure."
+          ]
+        },
+        {
+          "shot": 678,
+          "duration": [
+            7092.126708333333,
+            7097.340249999999
+          ],
+          "sentences": [
+            "it will be more than a pleasure.",
+            "It will have been my duty.",
+            "Now, would you kindly hand me those shingles?"
+          ]
+        },
+        {
+          "shot": 679,
+          "duration": [
+            7097.3819583333325,
+            7099.675916666666
+          ],
+          "sentences": [
+            "Now, would you kindly hand me those shingles?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt2024544_0008",
+      "shot": [
+        685,
+        728
+      ],
+      "frame": [
+        173160,
+        184614
+      ],
+      "duration": [
+        7222.2231016666665,
+        7699.905969666666
+      ],
+      "consistency": 0.8848373184696257,
+      "description": "Now we see a group of men tilling the soil and planting seeds. A carriage pulls up to the Epps plantation, and an official looking man calls out for Platt (Solomon). He answers and approaches the man (a sheriff). The man asks him some questions and motions to another man in the carriage. It is Mr. Parker, a shop owner from Saratoga and friend of Solomon's. With little further prompting, the sheriff is convinced, and Solomon rushes to embrace his friend. Epps is enraged and shouts empty threats. The sheriff rebuts the arguments and Parker helps Solomon into the carriage that will take him to safety. Patsey is there and calls out to him. Solomon leaps from the carriage to embrace her one last time before his departure. As he leaves, Patsey collapses in grief. Now Solomon has been carried home. Outside his door, he appears overcome at having been delivered from his nightmare. Upon entering, he sees his family. They are 12 years older, but overwhelmed at seeing him. His daughter has married and named their son, Solomon Northup. Tears flow as they gather around him and welcome him home. A series of title cards explain that he attempted to sue his kidnappers but failed. Northup became an abolitionist and aided many runaways in achieving their freedom.",
+      "subtitle": [
+        {
+          "shot": 687,
+          "duration": [
+            7251.2022916666665,
+            7258.501249999999
+          ],
+          "sentences": [
+            "Platt!",
+            "Where's the boy called Platt?"
+          ]
+        },
+        {
+          "shot": 688,
+          "duration": [
+            7258.5429583333325,
+            7264.090166666666
+          ],
+          "sentences": [
+            "Come here, boy."
+          ]
+        },
+        {
+          "shot": 689,
+          "duration": [
+            7264.131874999999,
+            7289.949333333333
+          ],
+          "sentences": [
+            "Your name is Platt, is it?",
+            "Yes, sir.",
+            "You know that man?"
+          ]
+        },
+        {
+          "shot": 691,
+          "duration": [
+            7299.750791666666,
+            7318.019041666666
+          ],
+          "sentences": [
+            "Mr. Parker.",
+            "Say again?",
+            "Mr. Parker.",
+            "That man received a letter compiling many accusations."
+          ]
+        },
+        {
+          "shot": 692,
+          "duration": [
+            7318.06075,
+            7322.273291666666
+          ],
+          "sentences": [
+            "That man received a letter compiling many accusations.",
+            "You look me in the eye...",
+            "and on your life, you answer me truthfully."
+          ]
+        },
+        {
+          "shot": 693,
+          "duration": [
+            7322.315,
+            7327.153166666666
+          ],
+          "sentences": [
+            "and on your life, you answer me truthfully.",
+            "Have you any other name than Platt?",
+            "Solomon Northup is my name.",
+            "Sheriff, what's all this?"
+          ]
+        },
+        {
+          "shot": 694,
+          "duration": [
+            7327.194874999999,
+            7333.659666666666
+          ],
+          "sentences": [
+            "Sheriff, what's all this?",
+            "It's official business.",
+            "My nigger, my business.",
+            "Your business waits.",
+            "Tell me of your family."
+          ]
+        },
+        {
+          "shot": 695,
+          "duration": [
+            7333.701375,
+            7340.124458333333
+          ],
+          "sentences": [
+            "Tell me of your family.",
+            "I have a wife, two children.",
+            "What the hell?",
+            "What are your children's names? Margaret and Alonzo.",
+            "What was your wife's name before her marriage?",
+            "Anne Hampton. I am who I say."
+          ]
+        },
+        {
+          "shot": 696,
+          "duration": [
+            7340.166166666666,
+            7342.460125
+          ],
+          "sentences": [
+            "Anne Hampton. I am who I say.",
+            "Where you going, Platt?"
+          ]
+        },
+        {
+          "shot": 697,
+          "duration": [
+            7342.501833333333,
+            7347.923916666666
+          ],
+          "sentences": [
+            "Where you going, Platt?",
+            "Who authorized you to interfere with my property?",
+            "My authority.",
+            "Platt, you come back here. Platt!"
+          ]
+        },
+        {
+          "shot": 698,
+          "duration": [
+            7347.965625,
+            7349.800791666667
+          ],
+          "sentences": [
+            "Platt, you come back here. Platt!",
+            "You come back here, boy."
+          ]
+        },
+        {
+          "shot": 699,
+          "duration": [
+            7349.8425,
+            7351.9279166666665
+          ],
+          "sentences": [
+            "You come back here, boy.",
+            "Boy."
+          ]
+        },
+        {
+          "shot": 700,
+          "duration": [
+            7351.969625,
+            7352.762083333333
+          ],
+          "sentences": [
+            "Boy."
+          ]
+        },
+        {
+          "shot": 701,
+          "duration": [
+            7352.803791666666,
+            7356.974625
+          ],
+          "sentences": [
+            "You unhand him. Platt is my nigger!"
+          ]
+        },
+        {
+          "shot": 702,
+          "duration": [
+            7357.016333333333,
+            7358.392708333333
+          ],
+          "sentences": [
+            "He is Mr. Solomon Northup."
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            7358.434416666666,
+            7361.520833333333
+          ],
+          "sentences": [
+            "He is Mr. Solomon Northup.",
+            "You say.",
+            "You come here, unfamiliar to me, and make claims."
+          ]
+        },
+        {
+          "shot": 704,
+          "duration": [
+            7361.562541666666,
+            7363.981624999999
+          ],
+          "sentences": [
+            "You come here, unfamiliar to me, and make claims.",
+            "I got no doubts. The man is Solomon Northup."
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            7364.023333333333,
+            7367.7770833333325
+          ],
+          "sentences": [
+            "I got no doubts. The man is Solomon Northup.",
+            "The hell he is! He's my nigger, and I'll fight you for him!",
+            "As is your right."
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            7367.818791666667,
+            7372.61525
+          ],
+          "sentences": [
+            "As is your right.",
+            "As it will be my pleasure to bankrupt you in the courts.",
+            "Your decision. Unhand him."
+          ]
+        },
+        {
+          "shot": 707,
+          "duration": [
+            7372.656958333333,
+            7389.5905416666665
+          ],
+          "sentences": [
+            "Your decision. Unhand him.",
+            "I know you had some hand in this, Platt.",
+            "I'm gonna get to the bottom of it.",
+            "Pay him no mind.",
+            "I paid good money for this nigger.",
+            "Courthouse got papers to prove it!",
+            "And we got papers proving he's free!",
+            "I own you. You belong to me. You hear me, Platt?",
+            "Unhand him!",
+            "You'll have 200 stripes across your back by sundown!",
+            "Platt!"
+          ]
+        },
+        {
+          "shot": 708,
+          "duration": [
+            7389.63225,
+            7393.761374999999
+          ],
+          "sentences": [
+            "Platt!",
+            "Get my horse, Treach."
+          ]
+        },
+        {
+          "shot": 711,
+          "duration": [
+            7398.391,
+            7402.019625
+          ],
+          "sentences": [
+            "Get away from him, Pats."
+          ]
+        },
+        {
+          "shot": 712,
+          "duration": [
+            7402.061333333333,
+            7413.2808749999995
+          ],
+          "sentences": [
+            "Get away from him, Pats.",
+            "I'm gonna be seeing you real soon.",
+            "Solomon, we need to make haste.",
+            "No.",
+            "Solomon."
+          ]
+        },
+        {
+          "shot": 720,
+          "duration": [
+            7486.312166666666,
+            7540.199333333333
+          ],
+          "sentences": [
+            "I'll apologize...",
+            "for my appearance.",
+            "But I have had...",
+            "a difficult time...",
+            "these past several years.",
+            "Margaret.",
+            "Alonzo."
+          ]
+        },
+        {
+          "shot": 724,
+          "duration": [
+            7566.308749999999,
+            7578.32075
+          ],
+          "sentences": [
+            "Who is this?",
+            "He's my husband.",
+            "Husband."
+          ]
+        },
+        {
+          "shot": 725,
+          "duration": [
+            7578.362458333333,
+            7595.254333333332
+          ],
+          "sentences": [
+            "Husband.",
+            "It is very good to meet you, sir.",
+            "We have much acquainting to do.",
+            "Yes, sir.",
+            "And this is your grandson.",
+            "Solomon Northup Staunton."
+          ]
+        },
+        {
+          "shot": 726,
+          "duration": [
+            7595.2960416666665,
+            7633.959666666666
+          ],
+          "sentences": [
+            "Solomon Northup Staunton.",
+            "Solomon.",
+            "Anne...",
+            "forgive me.",
+            "There is nothing to forgive."
+          ]
+        },
+        {
+          "shot": 727,
+          "duration": [
+            7634.001375,
+            8050.0419999999995
+          ],
+          "sentences": [
+            "Went down to the River Jordan",
+            "Where John baptized three",
+            "When I woke the devil in hell",
+            "Said Johnny baptized me",
+            "I said roll, Jordan, roll",
+            "Roll, Jordan, roll",
+            "My soul will rise in heaven, Lord",
+            "For the year when Jordan roll",
+            "Well, some say John was a Baptist",
+            "Some say John was a Jew",
+            "But I say John was a preacher",
+            "'Cause my Bible says so too",
+            "I said roll, Jordan, roll",
+            "Roll, Jordan, roll",
+            "My soul will rise in heaven, Lord",
+            "For the year when Jordan roll",
+            "Hallelujah",
+            "Roll, Jordan, roll",
+            "My soul will rise in heaven, Lord",
+            "For the year when Jordan roll",
+            "Oh, roll now",
+            "Roll, Jordan, roll",
+            "My soul will rise in heaven, Lord",
+            "For the year when Jordan roll",
+            "Halleluiah",
+            "Roll, Jordan, roll",
+            "My soul will rise in heaven, Lord",
+            "For the year when Jordan roll",
+            "Everybody say",
+            "Roll, Jordan, roll",
+            "Roll, Jordan, roll",
+            "My soul will rise in heaven, Lord",
+            "For the year when Jordan roll",
+            "Oh, children",
+            "Roll, Jordan, roll",
+            "My soul will rise in heaven, Lord",
+            "For the year when Jordan roll",
+            "Halleluiah",
+            "Roll, Jordan, roll",
+            "Roll, Jordan, roll",
+            "My soul will rise in heaven, Lord",
+            "For the year when Jordan roll"
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

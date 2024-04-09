@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt4791594",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 31,
+        "scale": "closeup",
+        "movement": "pull"
+      }
+    ]
+  }
+}

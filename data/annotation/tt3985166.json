@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt3985166",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 2,
+        "scale": "full",
+        "movement": "multi_movement"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt2351177",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 48,
+        "scale": "full",
+        "movement": "static"
+      }
+    ]
+  }
+}

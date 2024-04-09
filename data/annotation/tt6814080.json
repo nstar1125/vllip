@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt6814080",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 22,
+        "scale": "full",
+        "movement": "moving"
+      }
+    ]
+  }
+}

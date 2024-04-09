@@ -1,0 +1,21 @@
+{
+  "imdb_id": "tt2661620",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 6,
+        "scale": "medium",
+        "movement": "moving"
+      },
+      {
+        "shot": 9,
+        "scale": "closeup",
+        "movement": "moving"
+      }
+    ]
+  }
+}

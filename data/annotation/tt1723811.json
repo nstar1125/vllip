@@ -1,0 +1,2840 @@
+{
+  "imdb_id": "tt1723811",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt1723811_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        2077
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0001",
+      "shot": [
+        1,
+        2
+      ],
+      "frame": [
+        2077,
+        2188
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0002",
+      "shot": [
+        2,
+        3
+      ],
+      "frame": [
+        2188,
+        2646
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0003",
+      "shot": [
+        3,
+        7
+      ],
+      "frame": [
+        2646,
+        3291
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0004",
+      "shot": [
+        7,
+        9
+      ],
+      "frame": [
+        3291,
+        4115
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0005",
+      "shot": [
+        9,
+        11
+      ],
+      "frame": [
+        4115,
+        4598
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0006",
+      "shot": [
+        11,
+        20
+      ],
+      "frame": [
+        4598,
+        8777
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0007",
+      "shot": [
+        20,
+        21
+      ],
+      "frame": [
+        8777,
+        9006
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0008",
+      "shot": [
+        21,
+        31
+      ],
+      "frame": [
+        9006,
+        13192
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0009",
+      "shot": [
+        31,
+        37
+      ],
+      "frame": [
+        13192,
+        15249
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0010",
+      "shot": [
+        37,
+        39
+      ],
+      "frame": [
+        15249,
+        16098
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0011",
+      "shot": [
+        39,
+        40
+      ],
+      "frame": [
+        16098,
+        16366
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0012",
+      "shot": [
+        40,
+        42
+      ],
+      "frame": [
+        16366,
+        18329
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0013",
+      "shot": [
+        42,
+        47
+      ],
+      "frame": [
+        18329,
+        20033
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0014",
+      "shot": [
+        47,
+        57
+      ],
+      "frame": [
+        20033,
+        24627
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0015",
+      "shot": [
+        57,
+        59
+      ],
+      "frame": [
+        24627,
+        26298
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0016",
+      "shot": [
+        59,
+        60
+      ],
+      "frame": [
+        26298,
+        27364
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0017",
+      "shot": [
+        60,
+        67
+      ],
+      "frame": [
+        27364,
+        31316
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0018",
+      "shot": [
+        67,
+        68
+      ],
+      "frame": [
+        31316,
+        32260
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0019",
+      "shot": [
+        68,
+        69
+      ],
+      "frame": [
+        32260,
+        32764
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0020",
+      "shot": [
+        69,
+        70
+      ],
+      "frame": [
+        32764,
+        32993
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0021",
+      "shot": [
+        70,
+        74
+      ],
+      "frame": [
+        32993,
+        35909
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0022",
+      "shot": [
+        74,
+        76
+      ],
+      "frame": [
+        35909,
+        38021
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0023",
+      "shot": [
+        76,
+        80
+      ],
+      "frame": [
+        38021,
+        39604
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0024",
+      "shot": [
+        80,
+        82
+      ],
+      "frame": [
+        39604,
+        39828
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0025",
+      "shot": [
+        82,
+        99
+      ],
+      "frame": [
+        39828,
+        52754
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0026",
+      "shot": [
+        99,
+        101
+      ],
+      "frame": [
+        52754,
+        53662
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0027",
+      "shot": [
+        101,
+        102
+      ],
+      "frame": [
+        53662,
+        54184
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0028",
+      "shot": [
+        102,
+        107
+      ],
+      "frame": [
+        54184,
+        57039
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0029",
+      "shot": [
+        107,
+        108
+      ],
+      "frame": [
+        57039,
+        57370
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0030",
+      "shot": [
+        108,
+        120
+      ],
+      "frame": [
+        57370,
+        60217
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0031",
+      "shot": [
+        120,
+        126
+      ],
+      "frame": [
+        60217,
+        61055
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0032",
+      "shot": [
+        126,
+        127
+      ],
+      "frame": [
+        61055,
+        62585
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0033",
+      "shot": [
+        127,
+        133
+      ],
+      "frame": [
+        62585,
+        65317
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0034",
+      "shot": [
+        133,
+        134
+      ],
+      "frame": [
+        65317,
+        66177
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0035",
+      "shot": [
+        134,
+        136
+      ],
+      "frame": [
+        66177,
+        66708
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0036",
+      "shot": [
+        136,
+        141
+      ],
+      "frame": [
+        66708,
+        68170
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0037",
+      "shot": [
+        141,
+        145
+      ],
+      "frame": [
+        68170,
+        77138
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0038",
+      "shot": [
+        145,
+        146
+      ],
+      "frame": [
+        77138,
+        81404
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0039",
+      "shot": [
+        146,
+        148
+      ],
+      "frame": [
+        81404,
+        82573
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0040",
+      "shot": [
+        148,
+        188
+      ],
+      "frame": [
+        82573,
+        86984
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0041",
+      "shot": [
+        188,
+        189
+      ],
+      "frame": [
+        86984,
+        87214
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0042",
+      "shot": [
+        189,
+        190
+      ],
+      "frame": [
+        87214,
+        87897
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0043",
+      "shot": [
+        190,
+        191
+      ],
+      "frame": [
+        87897,
+        88330
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0044",
+      "shot": [
+        191,
+        192
+      ],
+      "frame": [
+        88330,
+        88369
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0045",
+      "shot": [
+        192,
+        205
+      ],
+      "frame": [
+        88369,
+        99959
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0046",
+      "shot": [
+        205,
+        206
+      ],
+      "frame": [
+        99959,
+        100449
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0047",
+      "shot": [
+        206,
+        208
+      ],
+      "frame": [
+        100449,
+        109450
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0048",
+      "shot": [
+        208,
+        213
+      ],
+      "frame": [
+        109450,
+        110320
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0049",
+      "shot": [
+        213,
+        214
+      ],
+      "frame": [
+        110320,
+        110666
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0050",
+      "shot": [
+        214,
+        215
+      ],
+      "frame": [
+        110666,
+        110978
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0051",
+      "shot": [
+        215,
+        216
+      ],
+      "frame": [
+        110978,
+        111137
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0052",
+      "shot": [
+        216,
+        217
+      ],
+      "frame": [
+        111137,
+        111268
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0053",
+      "shot": [
+        217,
+        218
+      ],
+      "frame": [
+        111268,
+        111422
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0054",
+      "shot": [
+        218,
+        221
+      ],
+      "frame": [
+        111422,
+        112216
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0055",
+      "shot": [
+        221,
+        222
+      ],
+      "frame": [
+        112216,
+        113082
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0056",
+      "shot": [
+        222,
+        223
+      ],
+      "frame": [
+        113082,
+        113116
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0057",
+      "shot": [
+        223,
+        224
+      ],
+      "frame": [
+        113116,
+        113317
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0058",
+      "shot": [
+        224,
+        227
+      ],
+      "frame": [
+        113317,
+        115229
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0059",
+      "shot": [
+        227,
+        228
+      ],
+      "frame": [
+        115229,
+        115307
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0060",
+      "shot": [
+        228,
+        232
+      ],
+      "frame": [
+        115307,
+        116615
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0061",
+      "shot": [
+        232,
+        233
+      ],
+      "frame": [
+        116615,
+        116762
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0062",
+      "shot": [
+        233,
+        234
+      ],
+      "frame": [
+        116762,
+        116969
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0063",
+      "shot": [
+        234,
+        237
+      ],
+      "frame": [
+        116969,
+        117095
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0064",
+      "shot": [
+        237,
+        242
+      ],
+      "frame": [
+        117095,
+        117442
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0065",
+      "shot": [
+        242,
+        243
+      ],
+      "frame": [
+        117442,
+        117535
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0066",
+      "shot": [
+        243,
+        244
+      ],
+      "frame": [
+        117535,
+        117975
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0067",
+      "shot": [
+        244,
+        245
+      ],
+      "frame": [
+        117975,
+        120017
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0068",
+      "shot": [
+        245,
+        246
+      ],
+      "frame": [
+        120017,
+        120304
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0069",
+      "shot": [
+        246,
+        297
+      ],
+      "frame": [
+        120304,
+        124564
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0070",
+      "shot": [
+        297,
+        298
+      ],
+      "frame": [
+        124564,
+        124647
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0071",
+      "shot": [
+        298,
+        308
+      ],
+      "frame": [
+        124647,
+        127699
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0072",
+      "shot": [
+        308,
+        317
+      ],
+      "frame": [
+        127699,
+        129468
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0073",
+      "shot": [
+        317,
+        318
+      ],
+      "frame": [
+        129468,
+        131659
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0074",
+      "shot": [
+        318,
+        321
+      ],
+      "frame": [
+        131659,
+        133808
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0075",
+      "shot": [
+        321,
+        323
+      ],
+      "frame": [
+        133808,
+        135816
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0076",
+      "shot": [
+        323,
+        324
+      ],
+      "frame": [
+        135816,
+        136964
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0077",
+      "shot": [
+        324,
+        328
+      ],
+      "frame": [
+        136964,
+        138126
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt1723811_0078",
+      "shot": [
+        328,
+        329
+      ],
+      "frame": [
+        138126,
+        145200
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt1723811_0000",
+      "shot": [
+        0,
+        31
+      ],
+      "frame": [
+        1040,
+        12612
+      ],
+      "duration": [
+        43.406288,
+        526.002832
+      ],
+      "consistency": 0.9569623813965812,
+      "description": "Brandon (Michael Fassbender) is a successful, handsome thirty-something businessman living and working in New York City. Unknown to those who know him, he's struggling with a sexual addiction. On a subway train he flirts with a young woman (Lucy Walters) and she flirts back with him. She has a wedding and engagement ring on, and when they exit the train, she disappears into the crowd.",
+      "subtitle": [
+        {
+          "shot": 8,
+          "duration": [
+            141.05747381666112,
+            171.58795011287518
+          ],
+          "sentences": [
+            "Hey, it's me.",
+            "Pick up.",
+            "Pick up."
+          ]
+        },
+        {
+          "shot": 11,
+          "duration": [
+            191.77476777321343,
+            229.06198882350765
+          ],
+          "sentences": [
+            "- Hi. - Hi.",
+            "Come in.",
+            "Drink?",
+            "No, thank you.",
+            "Perfect.",
+            "This way."
+          ]
+        },
+        {
+          "shot": 12,
+          "duration": [
+            229.10369712445876,
+            281.86469782761554
+          ],
+          "sentences": [
+            "Slowly."
+          ]
+        },
+        {
+          "shot": 16,
+          "duration": [
+            286.3691943303357,
+            305.1379297583361
+          ],
+          "sentences": [
+            "Hey, it's me.",
+            "Pick up.",
+            "Pick up.",
+            "Brandon?"
+          ]
+        },
+        {
+          "shot": 17,
+          "duration": [
+            305.17963805928724,
+            310.2263424743718
+          ],
+          "sentences": [
+            "Brandon?",
+            "Brandon?"
+          ]
+        },
+        {
+          "shot": 18,
+          "duration": [
+            310.26805077532293,
+            356.2723067243995
+          ],
+          "sentences": [
+            "Brandon?",
+            "Brandon, where are you?",
+            "Brandon? Brandon?",
+            "Brandon?",
+            "This is me calling you.",
+            "Fuck!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0001",
+      "shot": [
+        46,
+        60
+      ],
+      "frame": [
+        19897,
+        26817
+      ],
+      "duration": [
+        829.8917131329337,
+        1118.4898371329336
+      ],
+      "consistency": 0.9773981968087915,
+      "description": "After work, Brandon and his boss David (James Badge Dale) go out and meet three women at a club. Later Brandon has sex with the woman David was trying to pursue.",
+      "subtitle": [
+        {
+          "shot": 46,
+          "duration": [
+            815.0636171866327,
+            835.5006846526776
+          ],
+          "sentences": [
+            "It falls upon me as your beloved boss to propose a toast.",
+            "To success."
+          ]
+        },
+        {
+          "shot": 47,
+          "duration": [
+            835.5423929536287,
+            865.3221198327227
+          ],
+          "sentences": [
+            "I just hope my wife appreciates it.",
+            "Get a new tie, please.",
+            "Jesus Christ.",
+            "Oh, my goodness.",
+            "I love women in suits. I love women in suits.",
+            "We could talk business, I would rearrange my life.",
+            "- She's beautiful. - Gray suit?",
+            "- I'm gonna go talk to her. Count me down. - You should go talk to her.",
+            "Yeah, you should.",
+            "Five, four, three, two, one.",
+            "Boom.",
+            "Have fun.",
+            "Twenty bucks says he fucks it up."
+          ]
+        },
+        {
+          "shot": 48,
+          "duration": [
+            865.3638281336738,
+            876.207986380963
+          ],
+          "sentences": [
+            "Incoming.",
+            "Hi, excuse me. Listen, I don't want to beat around the bush.",
+            "I think you're absolutely gorgeous. My name's David.",
+            "Hi, David. Elizabeth. Nice to meet you."
+          ]
+        },
+        {
+          "shot": 49,
+          "duration": [
+            876.2496946819141,
+            930.2619444136043
+          ],
+          "sentences": [
+            "Hi, David. Elizabeth. Nice to meet you.",
+            "Elizabeth. That's a beautiful name.",
+            "- Hi, I'm David. I don't mean to be rude. - Loren.",
+            "Hi, how are you? David. Nice to meet you.",
+            "Rachel.",
+            "Listen, can I buy you a drink? Can I buy you all drinks?",
+            "- Sure. Why not? - I would love that.",
+            "That would be my pleasure. What are you guys drinking?",
+            "- Well, we were thinking shots. - You were thinking shots?",
+            "We just did shots of tequila. Would you guys like a shot of tequila?",
+            "- Bring it on. - Lovet it.",
+            "Excuse me. Bartender? Can we get four shots of your finest tequila?",
+            "Thank you very much.",
+            "I can see you're very successful.",
+            "I think part of the secret to my success is attention to detail.",
+            "Detail?",
+            "Play the game.",
+            "What game?",
+            "Okay. Blue or green?",
+            "I like games. I like this game.",
+            "Blue. Green. Green, it's green.",
+            "That's brown.",
+            "I don't know how you change the color of your eyes like that.",
+            "How do you do that so quickly? That's amazing. That's a real talent.",
+            "- Detail man. - Hey, buddy.",
+            "This guy, right here, fucking nailed it today.",
+            "I want you to know you fucking nailed it. You're the man.",
+            "Your pitch, amazing. Listen, we're playing a game here.",
+            "Close your eyes again. Blue or green?"
+          ]
+        },
+        {
+          "shot": 50,
+          "duration": [
+            930.3036527145554,
+            956.9969653232671
+          ],
+          "sentences": [
+            "- Brown. - Fuck off.",
+            "All right. You, Loren, close your eyes.",
+            "- Blue. - Blue.",
+            "- You're just making that up. - See? He's good.",
+            "He's just picking colors randomly.",
+            "You can have his shot.",
+            "Excuse me. We need another shot, please.",
+            "You can put these on me.",
+            "No, I told you, I had it.",
+            "No, I have it.",
+            "- I'll get the next round. - Sure.",
+            "You're a strong, independent woman. I like that.",
+            "Thank you. Cheers. To nailing it...",
+            "- To nailing it. - To nailing it."
+          ]
+        },
+        {
+          "shot": 51,
+          "duration": [
+            957.0386736242183,
+            997.495725546797
+          ],
+          "sentences": [
+            "- To nailing it. - To nailing it.",
+            "- To nailing it. - and to success.",
+            "Yes.",
+            "I love that.",
+            "Oh, fuck.",
+            "So what do you girls do for fun?",
+            "Fun? Karate.",
+            "You hear this song? I love this song, I wrote this song,",
+            "I would love it if you would dance with me",
+            "to this song that I wrote for you.",
+            "Come on. Let's go on the dance floor. One song.",
+            "Yeah, come on. You're a fun girl. It'll be fun.",
+            "I'll bring her back. Swear to God. Come on, come on, it's fun.",
+            "Toe to toe Dancing very close.",
+            "Spinning, spinning, spinning...",
+            "I'm grabbing her purse 'cause she's gonna get robbed and roofied."
+          ]
+        },
+        {
+          "shot": 52,
+          "duration": [
+            997.537433847748,
+            1007.3388845712594
+          ],
+          "sentences": [
+            "I'm grabbing her purse 'cause she's gonna get robbed and roofied.",
+            "- Dance? - No.",
+            "- Are you sure? Okay. - I'm sure.",
+            "Wall to wall."
+          ]
+        },
+        {
+          "shot": 53,
+          "duration": [
+            1007.3805928722105,
+            1015.2217534510196
+          ],
+          "sentences": [
+            "Wall to wall.",
+            "People hypnotized.",
+            "And they're stepping lightly."
+          ]
+        },
+        {
+          "shot": 54,
+          "duration": [
+            1015.2634617519707,
+            1021.2694570889308
+          ],
+          "sentences": [
+            "And they're stepping lightly.",
+            "Hang each night in."
+          ]
+        },
+        {
+          "shot": 55,
+          "duration": [
+            1021.311165389882,
+            1023.9804966507531
+          ],
+          "sentences": [
+            "Hang each night in.",
+            "Rapture."
+          ]
+        },
+        {
+          "shot": 56,
+          "duration": [
+            1024.0222049517042,
+            1027.1086192220866
+          ],
+          "sentences": [
+            "Rapture."
+          ]
+        },
+        {
+          "shot": 57,
+          "duration": [
+            1027.1503275230377,
+            1070.818918618852
+          ],
+          "sentences": [
+            "Okay, okay, okay! Hold on.",
+            "I just gotta talk to you one more time.",
+            "Listen, your eyes, they're beautiful.",
+            "You know why I didn't get it right the first time?",
+            "Because it's like a collage. Let me see them again.",
+            "Look at those eyes. I know the color of your eyes!",
+            "- David! Come on! - Come on, we love that game.",
+            "That's so much fun.",
+            "It's okay, 'cause I'm going this way.",
+            "Hey, man, he's going uptown.",
+            "Come on.",
+            "Okay.",
+            "I'll see you tomorrow."
+          ]
+        },
+        {
+          "shot": 58,
+          "duration": [
+            1070.860626919803,
+            1096.8031901113948
+          ],
+          "sentences": [
+            "Hey. Want a ride?",
+            "Sure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0002",
+      "shot": [
+        60,
+        73
+      ],
+      "frame": [
+        27364,
+        35341
+      ],
+      "duration": [
+        1141.3239472262314,
+        1473.9773402262315
+      ],
+      "consistency": 0.9652335576808616,
+      "description": "When Brandon arrives home, he assumes a burglar is in his house but finds a naked woman taking a shower: it is in fact his sister Sissy (Carey Mulligan), a troubled young woman who has been left as damaged as Brandon by their troubled childhood, which is never completely revealed. Sissy tells Brandon that she has been living in Los Angeles for the past year and performing as a singer in local clubs. Having fallen on hard times, Sissy claims that she has no place to live and asks if she could stay with him for a while. Brandon reluctantly agrees",
+      "subtitle": [
+        {
+          "shot": 63,
+          "duration": [
+            1175.2982125013878,
+            1265.1378927500832
+          ],
+          "sentences": [
+            "I want your love I want your love.",
+            "I want your love I want...",
+            "I'll fucking kill you!",
+            "What the fuck?",
+            "Fuck!",
+            "Jesus Christ, Sissy!",
+            "Fuck! Brandon, don't you fucking knock?",
+            "What the fuck? Why would I knock? I live here!",
+            "Oh, fuck!",
+            "How'd you get in?",
+            "You gave me fucking keys.",
+            "Fuck.",
+            "You fucking scared me.",
+            "Don't I always say call me first if you're coming into town'?",
+            "Oh, my God! I called you so many times.",
+            "You have a fucking baseball bat?",
+            "Yeah.",
+            "What is this shit you put in your hair? Honestly, it's awful.",
+            "Shampoo.",
+            "Is it for grooming dogs?",
+            "I want your love I want your love.",
+            "Good to see you.",
+            "I want your love I want your love.",
+            "- Lock the door next time. - Yeah.",
+            "Don't use all the towels.",
+            "I won't.",
+            "I want your love I want your love."
+          ]
+        },
+        {
+          "shot": 65,
+          "duration": [
+            1266.2640168757634,
+            1268.9333481366345
+          ],
+          "sentences": [
+            "I want your love I want your love."
+          ]
+        },
+        {
+          "shot": 66,
+          "duration": [
+            1268.9750564375856,
+            1306.0954442840755
+          ],
+          "sentences": [
+            "I want your love I want your love.",
+            "I want your love I want your love"
+          ]
+        },
+        {
+          "shot": 67,
+          "duration": [
+            1306.1371525850266,
+            1345.4680803819251
+          ],
+          "sentences": [
+            "But I want you.",
+            "I don't want anyone else. There is no one else.",
+            "I love you. I'll do anything.",
+            "I'll do anything.",
+            "Please don't say that.",
+            "Please don't say that.",
+            "I love you. I love you.",
+            "I'll do anything. I'll do anything."
+          ]
+        },
+        {
+          "shot": 68,
+          "duration": [
+            1345.5097886828764,
+            1366.4890640612857
+          ],
+          "sentences": [
+            "I don't have to go out! I don't have to go out!",
+            "I don't even fucking want to go out!",
+            "I can stay with you. I don't care. I don't care.",
+            "I don't need anybody else. I love you.",
+            "I love you. I love you so much. I love you, please.",
+            "I love you. I love you."
+          ]
+        },
+        {
+          "shot": 69,
+          "duration": [
+            1366.5307723622368,
+            1376.0402649790904
+          ],
+          "sentences": [
+            "Please.",
+            "I feel sick. I feel really sick."
+          ]
+        },
+        {
+          "shot": 70,
+          "duration": [
+            1376.0819732800414,
+            1383.9231338588506
+          ],
+          "sentences": [
+            "- Morning. - Morning."
+          ]
+        },
+        {
+          "shot": 71,
+          "duration": [
+            1383.9648421598017,
+            1386.8844232263796
+          ],
+          "sentences": [
+            "- Morning. - Morning.",
+            "Nice earring. Hot date?"
+          ]
+        },
+        {
+          "shot": 72,
+          "duration": [
+            1386.9261315273307,
+            1477.099478183635
+          ],
+          "sentences": [
+            "Nice earring. Hot date?",
+            "Juice?",
+            "Will you use a glass?",
+            "Sorry.",
+            "You're going gray.",
+            "Do you think I look fat?",
+            "Do you think I look fat?",
+            "Sit down.",
+            "Fuck you!",
+            "I'm doing a couple of gigs.",
+            "Yeah. Sure.",
+            "Can I stay?",
+            "You want toast?",
+            "Just for a few days?",
+            "I'd stay with Mark, but he's being a fucking asshole.",
+            "- Mark? - Please.",
+            "Jesus, Sissy.",
+            "What do you expect?",
+            "Pretty please?",
+            "Look, you get the sofa and you get your ass off it",
+            "before I leave every morning.",
+            "I will. I promise. I will.",
+            "Okay. Okay. Okay.",
+            "We leave in 15.",
+            "Okay!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0003",
+      "shot": [
+        82,
+        104
+      ],
+      "frame": [
+        39831,
+        55594
+      ],
+      "duration": [
+        1661.323132865105,
+        2318.710392865105
+      ],
+      "consistency": 0.9832099971027731,
+      "description": "The next evening, Brandon and David watch Sissy singing a beautifully sad jazz version of  New York, New York at a club. Afterwords, Sissy sits with Brandon and David at their table where she talks a little more about herself and her singing career before. After a casual talk over drinks, they all go back to Brandon's apartment. While Brandon checks his mail in the lobby, Sissy and David go up to his apartment. When Brandon arrives, he hears Sissy having sex with David through the bedroom door, in his bed.",
+      "subtitle": [
+        {
+          "shot": 82,
+          "duration": [
+            1661.1582102808927,
+            1690.645979053329
+          ],
+          "sentences": [
+            "That elevator music's like a bad acid trip.",
+            "Good evening.",
+            "Evening.",
+            "Reservation. Sullivan?",
+            "Great. I have you on the list. I'll have you follow me?",
+            "Thank you.",
+            "There you are.",
+            "Right this way, please.",
+            "Look at that ass. I could follow that forever.",
+            "Nice pick."
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            1690.6876873542801,
+            1701.448428999667
+          ],
+          "sentences": [
+            "I forget how beautiful the city is.",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            1701.490137300618,
+            1730.393989859739
+          ],
+          "sentences": [
+            "Hi, guys. How are you both doing tonight? What can I get you?",
+            "Your accent. Are you... You're from...",
+            "Brazil.",
+            "Rio?",
+            "S\u00e3o Paulo.",
+            "That is a beautiful city. That's...",
+            "You've been there?",
+            "Once or twice.",
+            "Can we get two dry martinis with olives?",
+            "And a little bit later, why don't you come by for a drink with us?",
+            "I'll make sure I get those drinks.",
+            "- Thank you. - Thanks."
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            1730.43569816069,
+            1737.150734613819
+          ],
+          "sentences": [
+            "She would be so offended if I didn't try.",
+            "Unbelievable."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            1741.279856407979,
+            1756.920469264646
+          ],
+          "sentences": [
+            "Start spreading the news"
+          ]
+        },
+        {
+          "shot": 88,
+          "duration": [
+            1756.9621775655971,
+            1768.2651271233485
+          ],
+          "sentences": [
+            "I'm leaving today"
+          ]
+        },
+        {
+          "shot": 89,
+          "duration": [
+            1768.3068354242996,
+            1888.6769919692092
+          ],
+          "sentences": [
+            "I wanna be a part of it",
+            "New York",
+            "New York",
+            "I wanna wake up in a city",
+            "That doesn't sleep",
+            "And find I'm king of the hill",
+            "Top of the heap",
+            "These vagabond shoes",
+            "Are longing to stray",
+            "Right through the very heart of it",
+            "New York, New York",
+            "If I can make it there",
+            "I'll make it",
+            "Anywhere",
+            "It's up to you"
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            1888.7187002701603,
+            1947.777654416935
+          ],
+          "sentences": [
+            "New York, New York",
+            "I wanna wake up in a city",
+            "That doesn't sleep",
+            "And find I'm king of the hill",
+            "Head of the list",
+            "Cream of the crop",
+            "At the top of the heap"
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            1947.8193627178862,
+            2030.6520484067948
+          ],
+          "sentences": [
+            "These little town blues",
+            "Are melting away",
+            "I'll make a brand new start of it",
+            "In old New York",
+            "If I can make it there",
+            "I'll make it",
+            "Anywhere",
+            "It's up to you",
+            "New York",
+            "New York"
+          ]
+        },
+        {
+          "shot": 92,
+          "duration": [
+            2030.693756707746,
+            2044.0404130121017
+          ],
+          "sentences": [
+            "Bravo!",
+            "She's good! She's good!"
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            2047.418785389142,
+            2052.340364901373
+          ],
+          "sentences": [
+            "- Hi. - Hi.",
+            "- I'm David. - Sissy."
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            2052.382073202324,
+            2087.333629399356
+          ],
+          "sentences": [
+            "- I'm David. - Sissy.",
+            "- It is a pleasure to meet you. - Nice to meet...",
+            "I think you are absolutely fantastic",
+            "and you look great in the dress, too.",
+            "Please, sit down.",
+            "Thank you.",
+            "What did you think?",
+            "Yeah, it was interesting.",
+            "What do you mean?",
+            "No, it was...",
+            "It was good. It was good.",
+            "It was good?",
+            "He was crying. He was crying.",
+            "There were tears coming down his face.",
+            "I saw it. You made a grown man cry.",
+            "Really?",
+            "I'm gonna get some drinks.",
+            "That's a great idea. Why don't you get a round for the table, buddy?"
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            2087.375337700307,
+            2146.1423337404244
+          ],
+          "sentences": [
+            "Okay. I'm really sorry about that.",
+            "He's had a rough day at work. I think he's a little bit emotional right now.",
+            "- Yeah. - Yeah.",
+            "So you guys grew up in Jersey?",
+            "Yeah.",
+            "- You still live there? - God, no.",
+            "That's good. That's good. Where do you live now?",
+            "Kind of all over the place.",
+            "Yeah?",
+            "What's the last city you've been to?",
+            "L.A.",
+            "Los Angeles?",
+            "Oh, boy. You like it there?",
+            "I mean, I'm going back.",
+            "That must mean you love it then, huh?",
+            "No! I can't even fucking drive.",
+            "- Wait a minute. You can't drive? - It's a nightmare.",
+            "- Nope. - Why not?",
+            "I tried when I was a kid and I was horrible.",
+            "Wait, how old were you when you quit driving?",
+            "- Sixteen. - You were 16 years old?",
+            "So, wait a minute. How do you get along in Los Angeles?",
+            "I take the bus.",
+            "No. No, no, no.",
+            "Look, a girl like you cannot be taking the bus.",
+            "What happened to your arm here?",
+            "When I was a kid, I was bored.",
+            "You must have been really bored.",
+            "I was.",
+            "All right, we've got a problem.",
+            "Your sister cannot be taking the bus anywhere, okay?"
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            2146.1840420413755,
+            2170.2914399911183
+          ],
+          "sentences": [
+            "Your sister cannot be taking the bus anywhere, okay?",
+            "I know a guy who owns a car rental company.",
+            "We're gonna get you a car, we're gonna drive around in circles",
+            "in a parking lot and you are going to learn how to drive.",
+            "Not stick, automatic. It's a little easier.",
+            "I would love that.",
+            "You'd love that. That's good. You know what? Better yet,",
+            "we're gonna get you a golf cart",
+            "and you will drive the golf cart around.",
+            "Now we're talking. Everybody should drive golf carts.",
+            "A golf cart right up Fifth Avenue, huh?",
+            "You know, they should. They should.",
+            "It would be a lot cleaner and greener.",
+            "It would be great for the city. Brandon, what do you think?"
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            2170.3331482920694,
+            2200.238000074017
+          ],
+          "sentences": [
+            "It would be great for the city. Brandon, what do you think?",
+            "- Sounds great. - Yeah?",
+            "I love your brother. What an amazing man.",
+            "- How long are you here for? - I don't know.",
+            "You don't know?",
+            "Can I see you again? Please? Is that too forward? I find you fascinating.",
+            "I really do. I think you're a fascinating creature.",
+            "I'd love to see you again. Listen, why don't we...",
+            "This is a celebration, let's get champagne.",
+            "- Yes! Champagne! - Champagne for everybody.",
+            "The whole table! Come on.",
+            "Champagne."
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            2211.0404500203545,
+            2238.109137337626
+          ],
+          "sentences": [
+            "I've got it, I've got it. Get out, get out, get out.",
+            "Come here, come here, come here.",
+            "No!",
+            "Come on, come on with me.",
+            "- Get off. Get off. - How did that work?",
+            "Get off me.",
+            "Come on, come on."
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            2259.922578735058,
+            2300.379630657637
+          ],
+          "sentences": [
+            "Champagne on your dress, that's...",
+            "Well, I'm hot, I'm hot.",
+            "You are hot.",
+            "You are?"
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            2300.421338958588,
+            2368.0304948003404
+          ],
+          "sentences": [
+            "No! You're crushing me.",
+            "I need to take this off. I'm hot.",
+            "I need to take it off. I'm hot.",
+            "Nice sheets.",
+            "Aren't they nice sheets? Bed Bath & Beyond.",
+            "Stop.",
+            "What if I kiss you right here?",
+            "How about here?",
+            "Yeah?",
+            "Shit."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0004",
+      "shot": [
+        107,
+        127
+      ],
+      "frame": [
+        57054,
+        61701
+      ],
+      "duration": [
+        2379.6260411012913,
+        2573.4046041012916
+      ],
+      "consistency": 0.9841333997300802,
+      "description": "Brandon leaves his apartment and runs on the streets while listening to Bach's piano music on his earphones. Brandon comes back home and sees that Sissy and David are gone. He changes the bedsheats and quickly goes to bed. A little later that night, he is annoyed by Sissy's presence who climbs into bed and wants to cuddle next to him. Brandon yells at her to go back to sleep on the couch and she leaves him alone.",
+      "subtitle": [
+        {
+          "shot": 126,
+          "duration": [
+            2546.5003145701494,
+            2610.2723067243996
+          ],
+          "sentences": [
+            "I have to be up and out by 7:00.",
+            "It's cold.",
+            "Sissy, get out of my room.",
+            "Sissy, get out of my room.",
+            "Get the fuck out! Get out!",
+            "Hey, slacker. Your computer's back.",
+            "Dave's looking for you."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0005",
+      "shot": [
+        133,
+        147
+      ],
+      "frame": [
+        65599,
+        81439
+      ],
+      "duration": [
+        2736.054068609637,
+        3396.681512609637
+      ],
+      "consistency": 0.9726262961609572,
+      "description": "At work, Brandon then tries to pursue a relationship with his co-worker Marianne (Nicole Beharie), by flirting with her and asking if she would like to have dinner with him, and Marianne accepts. After having casual and pleasant dinner at a local restaurant, in spite of the young awkward waiter (Robert Montano) interrupting them several times, Brandon resists with himself to make a move on Marianne. They part ways at the end of the dinner, and he goes home alone.",
+      "subtitle": [
+        {
+          "shot": 133,
+          "duration": [
+            2724.261093223789,
+            2760.0885237407942
+          ],
+          "sentences": [
+            "Hey. You like your sugar?",
+            "I do."
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            2843.254875837312,
+            3202.8638466378
+          ],
+          "sentences": [
+            "Hey.",
+            "- Hello. - Hello.",
+            "Did you find it okay?",
+            "Yes, I'm glad you made it.",
+            "Yeah?",
+            "I'm late. Sorry.",
+            "You look handsome.",
+            "- You look amazing. - Hi.",
+            "- Thank you. - How are you doing tonight?",
+            "- Thank you. - Okay.",
+            "I have a few specials on the menu, if you'd like to hear them?",
+            "Sure.",
+            "The soup of the day is tomato with basil oil and parmesan crostini.",
+            "The special is marinated swordfish,",
+            "tabouleh and Moroccan charmoula.",
+            "It's really good.",
+            "We're also serving a DeBragga and Spitler.",
+            "New York Strip with a side order of fries,",
+            "and the salad is snow pea and radish with a cider vinaigrette.",
+            "Can I start you off with a sparkling water?",
+            "- Tap water's fine. - Okay.",
+            "And the wine menu is right next to... Yup, there you go.",
+            "- You want some wine? - Sure.",
+            "White? Red?",
+            "Red. Maybe...",
+            "Pinot Noir is light,",
+            "if you like it, like, light.",
+            "Great.",
+            "Okay. I'll be back.",
+            "So...",
+            "Where do you live?",
+            "Brooklyn.",
+            "Nice.",
+            "Born and raised. Where you from?",
+            "I was born in Ireland and we moved here when I was a teen.",
+            "Did you get back much? Thank you.",
+            "A couple times.",
+            "A big family? You miss them?",
+            "I have a sister.",
+            "I have two.",
+            "Oh, yeah?",
+            "Yeah.",
+            "Older? Younger?",
+            "Older and younger.",
+            "I'm right in the middle.",
+            "What?",
+            "Just wondering.",
+            "Are you nervous?",
+            "Why would I be nervous?",
+            "You look a little nervous.",
+            "Do I?",
+            "No.",
+            "Well, what's a date?",
+            "It's no big deal.",
+            "It took me an hour to figure out what to wear.",
+            "You chose wisely.",
+            "Yeah.",
+            "I'm sorry, but I forgot to say the crab comes in the shell.",
+            "Great.",
+            "Yeah. I haven't even looked at this.",
+            "I'll have the lamb.",
+            "The lamb.",
+            "I'll have the lamb, too. That sounds great.",
+            "Okay. No appetizer?",
+            "- I'm fine. - No.",
+            "Okay. And how would you like the lamb?",
+            "Medium.",
+            "We recommend it pretty pink.",
+            "- Okay. - Yeah?",
+            "Okay. Pink it is.",
+            "Thank you. Excuse me.",
+            "So you seeing anyone at the moment?",
+            "No, I'm not. Are you seeing anyone?",
+            "No.",
+            "No? Really?",
+            "Why is that?",
+            "I don't know. It's just the way it is.",
+            "It's just the way it is. Yeah, I...",
+            "Actually, I'm separated.",
+            "Tragedy.",
+            "Yeah. Kind of a recent thing.",
+            "Okay.",
+            "You were married for long?",
+            "No.",
+            "Did we decide on the wine?",
+            "Well, yeah. Was it the Pinot Noir, you said?",
+            "Yeah, great. Great choice. Okay.",
+            "I wasn't married long. Gave it a shot. It didn't really work out.",
+            "No.",
+            "What?",
+            "You just seem, like...",
+            "What?",
+            "Averse to the whole idea.",
+            "Well, yeah.",
+            "I just don't understand why people would want to get married.",
+            "Especially nowadays, I mean, it's... You know?",
+            "I don't see the point.",
+            "In relationships?",
+            "It doesn't seem realistic.",
+            "Are you serious? I mean...",
+            "Yeah. I am, really.",
+            "Well, then, you know, why are we here,",
+            "if we don't matter to one another?",
+            "Well...",
+            "Why are you here?",
+            "The food is supposed to be great here.",
+            "No, no, no. I'm not saying it like that.",
+            "I mean... I just mean... You know?",
+            "One person for the rest of your life? I mean, it's...",
+            "I mean, you come to restaurants,",
+            "you see couples sitting together,",
+            "and they don't even speak to one another,",
+            "they don't have anything to say.",
+            "They probably don't have to speak because they're connected.",
+            "Or they're just bored with one another.",
+            "Every...",
+            "Here we go.",
+            "What's your longest relationship?",
+            "Exactly.",
+            "That's... You can pour.",
+            "Sure.",
+            "Four months.",
+            "You have to commit. You have to actually give it a shot.",
+            "I did. For four months.",
+            "For four months."
+          ]
+        },
+        {
+          "shot": 145,
+          "duration": [
+            3217.294918766885,
+            3395.1808223233784
+          ],
+          "sentences": [
+            "Thank you.",
+            "Look, touch that.",
+            "Your head?",
+            "No, no, no.",
+            "You're such a weirdo.",
+            "No, seriously, seriously, seriously. Touch it.",
+            "Okay.",
+            "Oh, my God.",
+            "Do you feel that?",
+            "Yeah, what is it?",
+            "- It's a remnant. - A remnant?",
+            "Yeah, from the Neanderthals.",
+            "There's only a few of us left since the Homo sapiens took over.",
+            "Okay.",
+            "That would explain the forehead.",
+            "What's that supposed to mean?",
+            "\"What's that supposed to mean?\"",
+            "What do you mean?",
+            "Seriously, how did you get it? What is it?",
+            "I used to play this game with my cousin...",
+            "where I'd sit on his feet and he'd fly me through the air.",
+            "I hit my head off the ceiling and I blacked out.",
+            "I was knocked out for five or 10 minutes.",
+            "I peed my pants.",
+            "If you had a choice to live in the past or the future,",
+            "and you could be anything you wanted to be,",
+            "what would you be?",
+            "What would you be?",
+            "Well, I always wanted to be a musician in the '60s.",
+            "That's cool. A musician?",
+            "Yeah.",
+            "'60s is tough, though.",
+            "I saw Gimme Shelter recently, you know,",
+            "the Rolling Stones documentary?",
+            "Yeah.",
+            "It kind of seemed like hell.",
+            "What?",
+            "Yeah, the '60s would be, like, the last place I would want to be.",
+            "No way!",
+            "Yes.",
+            "Chaos!",
+            "So where and what would you wanna be?",
+            "You know, here, now.",
+            "That's boring.",
+            "Fuck you.",
+            "Okay. Well, this is me.",
+            "This is you?",
+            "This is me.",
+            "Thank you very much, Brandon.",
+            "Thank you very much, Marianne.",
+            "We should do this again.",
+            "Right.",
+            "So is that a yes?",
+            "Maybe, yeah."
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            3395.2225306243295,
+            3406.8174382887387
+          ],
+          "sentences": [
+            "Hello? Sissy?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0006",
+      "shot": [
+        147,
+        187
+      ],
+      "frame": [
+        82203,
+        86722
+      ],
+      "duration": [
+        3428.55118558969,
+        3616.98572258969
+      ],
+      "consistency": 0.9095643013679601,
+      "description": "Later that night, Sissy arrives at Brandon's apartment and accidentally walks in on him masturbating in the bathroom. She then finds his laptop open full of pornography. Through the laptop camera, a woman (Charisse Merman) is half-undressed, touching herself while waiting for Brandon. She says that he would love the two women to get at it together. Brandon violently appears and accuses Sissy of spying on him and she storms out. Brandon then takes all of his pornography in his apartment, including his laptop, and throws everything out.",
+      "subtitle": [
+        {
+          "shot": 149,
+          "duration": [
+            3446.857407201806,
+            3452.6548610340105
+          ],
+          "sentences": [
+            "Oh, fuck!",
+            "Fuck!"
+          ]
+        },
+        {
+          "shot": 151,
+          "duration": [
+            3457.8266903519484,
+            3461.330187631842
+          ],
+          "sentences": [
+            "Fuck!",
+            "What, are you fucking spying on me?"
+          ]
+        },
+        {
+          "shot": 152,
+          "duration": [
+            3461.371895932793,
+            3466.0015173383667
+          ],
+          "sentences": [
+            "What, are you fucking spying on me?",
+            "Lock the fucking door, Brandon.",
+            "Are you fucking spying?",
+            "\"Are you fucking spying?\"",
+            "- Fuck! Brandon... - What do you want?"
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            3466.043225639318,
+            3487.022501017727
+          ],
+          "sentences": [
+            "- Fuck! Brandon... - What do you want?",
+            "You wanna fight? You wanna fight?",
+            "- You wanna fight? - You want some of this?",
+            "What do you want from me?",
+            "- What do you want from me? - Brandon!",
+            "- What do you want? - Get off me!",
+            "Why did you come here? Why?",
+            "Get off me! Get off me!",
+            "- Why? Why? - Get off me!",
+            "You're fucking hurting me.",
+            "Talk to me! Fucking bitch!",
+            "Get the fuck off, you fucking weirdo.",
+            "- Fucking slut! - Fuck you! Fuck you!"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            3501.578698049665,
+            3507.793234891381
+          ],
+          "sentences": [
+            "Brandon?"
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            3507.834943192332,
+            3516.2600199844564
+          ],
+          "sentences": [
+            "Brandon?",
+            "Brandon, I'm sorry."
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            3516.301728285408,
+            3540.534251138004
+          ],
+          "sentences": [
+            "Hey, where's Brandon?",
+            "Are you Brandon's girlfriend?",
+            "Do you wanna play?"
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            3540.575959438955,
+            3552.8799082195333
+          ],
+          "sentences": [
+            "You wanna play with my tits?",
+            "I know Brandon would really like it,",
+            "and I know exactly what Brandon likes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0007",
+      "shot": [
+        188,
+        203
+      ],
+      "frame": [
+        87183,
+        98388
+      ],
+      "duration": [
+        3636.2930691665742,
+        4103.556468166574
+      ],
+      "consistency": 0.9872064920710814,
+      "description": "The next day at work, he approaches Marianne and takes her to a lavish hotel room. In the bathroom, hidden from Marianne's view, he snorts a line of cocaine. They attempt to have sex but Brandon cannot maintain an erection. Marianne leaves, while he stays at the hotel room, feeling lonely and humiliated. Some time later, Brandon is seen having sex with another woman (Amy Hargreaves) in the same hotel room.",
+      "subtitle": [
+        {
+          "shot": 189,
+          "duration": [
+            3637.547759150291,
+            3665.992820398949
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 190,
+          "duration": [
+            3666.0345286999004,
+            3684.0525147107805
+          ],
+          "sentences": [
+            "Where are you taking me?",
+            "Come on. You'll see.",
+            "No, where are we going?",
+            "Come on."
+          ]
+        },
+        {
+          "shot": 192,
+          "duration": [
+            3685.720846748825,
+            3704.364457273972
+          ],
+          "sentences": [
+            "You want a drink?",
+            "What are you looking at?",
+            "This view is amazing."
+          ]
+        },
+        {
+          "shot": 193,
+          "duration": [
+            3704.4061655749233,
+            3952.5705562340404
+          ],
+          "sentences": [
+            "Hey.",
+            "Are they vintage?",
+            "A little bit.",
+            "I love it.",
+            "Oh, yeah."
+          ]
+        },
+        {
+          "shot": 195,
+          "duration": [
+            3963.0810480737205,
+            3975.009622145739
+          ],
+          "sentences": [
+            "Brandon?"
+          ]
+        },
+        {
+          "shot": 196,
+          "duration": [
+            3975.05133044669,
+            3984.018615151179
+          ],
+          "sentences": [
+            "You know, it's cool. It's okay."
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            3984.06032345213,
+            3991.484401021428
+          ],
+          "sentences": [
+            "Should I go?",
+            "Sure."
+          ]
+        },
+        {
+          "shot": 199,
+          "duration": [
+            4017.3435476111176,
+            4083.784871026239
+          ],
+          "sentences": [
+            "I can walk you down.",
+            "That's okay."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0008",
+      "shot": [
+        206,
+        208
+      ],
+      "frame": [
+        100451,
+        109068
+      ],
+      "duration": [
+        4189.659413772215,
+        4549.024835772215
+      ],
+      "consistency": 0.9841186835165254,
+      "description": "When Brandon gets home, he watches animated cartoons on his TV set, and Sissy arrives and talks to him. He asks her where she was, and she tells him that she was with David. Brandon tells Sissy that David happens to be married, and Sissy says that she already knows, for David told her during their first night together. Brandon angrily tells Sissy that she must move out at the end of the week to look for her own place to live. She says that they are family and are supposed to help each other, but Brandon wants nothing to do with her because he says all she does is drag him down.",
+      "subtitle": [
+        {
+          "shot": 206,
+          "duration": [
+            4189.55712223826,
+            4536.403352947707
+          ],
+          "sentences": [
+            "David?",
+            "Pick up.",
+            "I take it you're at your pottery class.",
+            "Have you eaten?",
+            "No.",
+            "Are you hungry?",
+            "No.",
+            "Can you just give me a hug?",
+            "He's not gonna screw you again.",
+            "You left him a message, didn't you?",
+            "You can't help yourself.",
+            "It's disgusting.",
+            "Why are you so fucking angry?",
+            "Why am I so fucking angry?",
+            "That's my boss.",
+            "You sleep with him after 20 minutes. Now you're calling him up.",
+            "What's the matter with you?",
+            "You know he's got a family, right?",
+            "You know he's got a family?",
+            "No.",
+            "You didn't see the wedding ring on his finger?",
+            "No.",
+            "You're a liar.",
+            "I'm sorry.",
+            "You're always sorry. That's all you ever fucking say.",
+            "Well, at least I say I'm sorry.",
+            "Try doing something.",
+            "Actions count, not words.",
+            "I'm sorry.",
+            "I'm sorry.",
+            "I fucked up.",
+            "I'm not perfect. I make mistakes, but I'm trying.",
+            "Some people fuck up all the time.",
+            "Look, just forget it.",
+            "This isn't working out. Obviously.",
+            "You need to find somewhere else to live.",
+            "I don't have anywhere else to go.",
+            "This isn't about him.",
+            "I make you angry all the time and I don't know why.",
+            "No. You trap me.",
+            "You force me into a corner and you trap me.",
+            "\"I've got nowhere else to go.\"",
+            "I mean, what sort of fucking shit is that?",
+            "You're my brother.",
+            "So what? I'm responsible for you?",
+            "Yes.",
+            "- No, I'm not. - Yes, you fucking are.",
+            "No, I didn't give birth to you.",
+            "I didn't bring you into this world.",
+            "You're my brother, I'm your sister. We're family.",
+            "We're meant to look after each other.",
+            "You're not looking after me.",
+            "I'm looking after myself.",
+            "I'm trying. I'm trying to help you.",
+            "How are you helping me, huh? How are you helping me?",
+            "How are you helping me?",
+            "Huh? Look at me. How are you helping me?",
+            "You come in here and you're a weight on me.",
+            "Do you understand me? You're a burden.",
+            "You're just fucking dragging me down.",
+            "How are you helping me?",
+            "You can't even clean up after yourself.",
+            "Stop playing the victim.",
+            "I'm not playing the fucking victim.",
+            "If I left, I would never hear from you again.",
+            "Don't you think that's sad?",
+            "Don't you think that's sad?",
+            "You're my brother.",
+            "Why is it always so dramatic with you?",
+            "Everything is always the end of the world.",
+            "It's not fucking dramatic. I'm trying to talk to you.",
+            "I don't wanna talk.",
+            "Try not talking. Try just listening or thinking for a change.",
+            "Yeah, 'cause that's working great for you. You're completely fine.",
+            "I've got my own fucking apartment.",
+            "Oh, whoopee-fucking shit.",
+            "You have your own apartment, that's amazing.",
+            "You have a job and an apartment. I should be in awe of you.",
+            "Well, at least I'm responsible for it.",
+            "At least I don't depend on people all the time.",
+            "You're a dependency. You're a parasite.",
+            "You don't have anybody.",
+            "You don't have anybody. You have me and your fucking pervert boss.",
+            "You slept with that fucking pervert boss. What does that make you?",
+            "Don't talk to me about sex life, Brandon. Not from you.",
+            "Whatever.",
+            "I'm going out."
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            4536.445061248659,
+            4564.9318307982685
+          ],
+          "sentences": [
+            "I'm going out.",
+            "Great. And then you'll come back",
+            "and we'll just have the same fucking conversation again.",
+            "No, you'll move out.",
+            "And then I'll never hear from you again?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0009",
+      "shot": [
+        207,
+        297
+      ],
+      "frame": [
+        109227,
+        124582
+      ],
+      "duration": [
+        4555.7007582486585,
+        5196.073063248659
+      ],
+      "consistency": 0.9050252821286503,
+      "description": "Brandon then heads out and tries to pick up a woman at a bar (Anna Rose Hopkins), but ends up getting beaten up by her boyfriend (Chazz Menendez) after he insults him by telling him how he would pleasure her. Bruised and beaten, he tries to enter a nightclub, but he is denied entrance, as the party-goers look much younger than its usual crowd; in fact, they are probably underage, so the bouncer (Carl Low) insists that he can't get in that night. Brandon sees a gay bar across the street and enters it. As he walks through it, a man approaches and kisses him, then performs fellatio on him in one of the back rooms. Next, Brandon is shown entering a cheap hotel room occupied by two women (Calamity Chang and DeeDee Luxe). He ends up having sex with both of them at the same time.",
+      "subtitle": [
+        {
+          "shot": 207,
+          "duration": [
+            4536.445061248659,
+            4564.9318307982685
+          ],
+          "sentences": [
+            "I'm going out.",
+            "Great. And then you'll come back",
+            "and we'll just have the same fucking conversation again.",
+            "No, you'll move out.",
+            "And then I'll never hear from you again?"
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            4615.690833055772,
+            4628.662114651567
+          ],
+          "sentences": [
+            "Hey."
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            4640.799230228341,
+            4647.180600273861
+          ],
+          "sentences": [
+            "You wanna get out of here?"
+          ]
+        },
+        {
+          "shot": 218,
+          "duration": [
+            4647.222308574812,
+            4675.458828318715
+          ],
+          "sentences": [
+            "I could take you somewhere.",
+            "What, are you with someone?",
+            "Does he go down on you?",
+            "I do.",
+            "That's what I like to do."
+          ]
+        },
+        {
+          "shot": 223,
+          "duration": [
+            4717.876170385996,
+            4726.217830576219
+          ],
+          "sentences": [
+            "I like the way it feels.",
+            "I like the way it's just me and it."
+          ]
+        },
+        {
+          "shot": 224,
+          "duration": [
+            4726.25953887717,
+            4771.179379001517
+          ],
+          "sentences": [
+            "I wanna taste you.",
+            "I wanna slip my tongue inside you,",
+            "just as you come.",
+            "You want me to make you come?",
+            "I can do that. Want me to do that?",
+            "What's up, babe?",
+            "I was just getting some drinks.",
+            "Yeah, huh?"
+          ]
+        },
+        {
+          "shot": 226,
+          "duration": [
+            4781.439621035491,
+            4805.964101994745
+          ],
+          "sentences": [
+            "Not tonight, buddy.",
+            "I said not tonight."
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            4806.005810295696,
+            4809.217349468931
+          ],
+          "sentences": [
+            "I was just telling your pretty girlfriend here,"
+          ]
+        },
+        {
+          "shot": 228,
+          "duration": [
+            4809.259057769883,
+            4850.80052551719
+          ],
+          "sentences": [
+            "I was just telling your pretty girlfriend here,",
+            "I'd like to fuck her in that tight pussy of hers.",
+            "I mean, bone her real hard.",
+            "Till she's clawing up my back.",
+            "He's kidding.",
+            "This guy's funny.",
+            "After I fuck her hard up the ass,",
+            "I'll put my balls in her mouth while I come in her face.",
+            "You won't let me fuck you in the ass?",
+            "Christ.",
+            "You get to fuck her in the ass?",
+            "You know.",
+            "Tell me more, man, 'cause I'm fucking loving this.",
+            "- Smell it. - Yo!",
+            "Jesus, come on. You motherfucker."
+          ]
+        },
+        {
+          "shot": 229,
+          "duration": [
+            4850.842233818142,
+            4856.306021242737
+          ],
+          "sentences": [
+            "Hey, Romeo."
+          ]
+        },
+        {
+          "shot": 244,
+          "duration": [
+            4920.53680470745,
+            5005.66344694867
+          ],
+          "sentences": [
+            "Brandon, it's Sissy.",
+            "I really need to talk to you.",
+            "Please, will you pick up the fucking phone?"
+          ]
+        },
+        {
+          "shot": 245,
+          "duration": [
+            5005.7051552496205,
+            5017.633729321639
+          ],
+          "sentences": [
+            "Please, will you pick up the fucking phone?"
+          ]
+        },
+        {
+          "shot": 246,
+          "duration": [
+            5017.67543762259,
+            5022.138225824359
+          ],
+          "sentences": [
+            "Brandon, I need you."
+          ]
+        },
+        {
+          "shot": 247,
+          "duration": [
+            5022.17993412531,
+            5023.848266163354
+          ],
+          "sentences": [
+            "Brandon, I need you."
+          ]
+        },
+        {
+          "shot": 248,
+          "duration": [
+            5023.889974464306,
+            5032.815550867844
+          ],
+          "sentences": [
+            "Brandon, I need you.",
+            "We're not bad people."
+          ]
+        },
+        {
+          "shot": 249,
+          "duration": [
+            5032.857259168795,
+            5041.824543873284
+          ],
+          "sentences": [
+            "We just come from a bad place."
+          ]
+        },
+        {
+          "shot": 250,
+          "duration": [
+            5041.866252174235,
+            5047.788830909293
+          ],
+          "sentences": [
+            "Thanks for letting me stay."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt1723811_0010",
+      "shot": [
+        297,
+        324
+      ],
+      "frame": [
+        124589,
+        136018
+      ],
+      "duration": [
+        5196.413466135561,
+        5673.039954135562
+      ],
+      "consistency": 0.996265952386597,
+      "description": "When he leaves, he sees that Sissy left a voice mail on his cell phone. He gets off the train he is on due to its being delayed by an implied suicide further up the tracks. He frantically calls Sissy but she doesn't answer, so he rushes home. When he gets there, Sissy is lying on the bathroom floor after having cut her wrists. She survives and he visits her in the hospital. When he leaves, he collapses and cries in the rain.",
+      "subtitle": [
+        {
+          "shot": 300,
+          "duration": [
+            5251.450464453574,
+            5266.840827504534
+          ],
+          "sentences": [
+            "Ladies and gentlemen,",
+            "at this time, due to a police investigation,",
+            "we have to discharge this train.",
+            "Please follow the conductor to the rear of the train.",
+            "Watch your step between cars."
+          ]
+        },
+        {
+          "shot": 301,
+          "duration": [
+            5266.882535805485,
+            5271.720698715814
+          ],
+          "sentences": [
+            "Watch your step.",
+            "Follow me, please. Follow me."
+          ]
+        },
+        {
+          "shot": 302,
+          "duration": [
+            5271.762407016765,
+            5276.100070315681
+          ],
+          "sentences": [
+            "Watch your step. This way. This way. Quickly."
+          ]
+        },
+        {
+          "shot": 303,
+          "duration": [
+            5276.141778616632,
+            5280.604566818401
+          ],
+          "sentences": [
+            "Watch your step. This way. This way. Quickly.",
+            "- This way. Nothing to see. Move on. - Right this way, please."
+          ]
+        },
+        {
+          "shot": 305,
+          "duration": [
+            5282.439732060249,
+            5311.093334813663
+          ],
+          "sentences": [
+            "This is Sissy. Leave a message. Don't if you're an asshole.",
+            "This is Sissy. Leave a...",
+            "Shit!"
+          ]
+        },
+        {
+          "shot": 320,
+          "duration": [
+            5546.8703600903,
+            5580.862625365457
+          ],
+          "sentences": [
+            "Shithead."
+          ]
+        },
+        {
+          "shot": 322,
+          "duration": [
+            5597.712778949706,
+            5664.61289367529
+          ],
+          "sentences": [
+            "God!"
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

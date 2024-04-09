@@ -1,0 +1,6692 @@
+{
+  "imdb_id": "tt0253474",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0253474_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        200
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0001",
+      "shot": [
+        1,
+        10
+      ],
+      "frame": [
+        200,
+        822
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0002",
+      "shot": [
+        10,
+        12
+      ],
+      "frame": [
+        822,
+        1551
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0003",
+      "shot": [
+        12,
+        13
+      ],
+      "frame": [
+        1551,
+        1710
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0004",
+      "shot": [
+        13,
+        14
+      ],
+      "frame": [
+        1710,
+        1783
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0005",
+      "shot": [
+        14,
+        15
+      ],
+      "frame": [
+        1783,
+        1887
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0006",
+      "shot": [
+        15,
+        16
+      ],
+      "frame": [
+        1887,
+        1968
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0007",
+      "shot": [
+        16,
+        17
+      ],
+      "frame": [
+        1968,
+        2040
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0008",
+      "shot": [
+        17,
+        18
+      ],
+      "frame": [
+        2040,
+        2111
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0009",
+      "shot": [
+        18,
+        21
+      ],
+      "frame": [
+        2111,
+        2279
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0010",
+      "shot": [
+        21,
+        22
+      ],
+      "frame": [
+        2279,
+        2355
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0011",
+      "shot": [
+        22,
+        26
+      ],
+      "frame": [
+        2355,
+        2540
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0012",
+      "shot": [
+        26,
+        35
+      ],
+      "frame": [
+        2540,
+        3200
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0013",
+      "shot": [
+        35,
+        36
+      ],
+      "frame": [
+        3200,
+        3336
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0014",
+      "shot": [
+        36,
+        40
+      ],
+      "frame": [
+        3336,
+        4138
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0015",
+      "shot": [
+        40,
+        53
+      ],
+      "frame": [
+        4138,
+        6575
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0016",
+      "shot": [
+        53,
+        55
+      ],
+      "frame": [
+        6575,
+        6993
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0017",
+      "shot": [
+        55,
+        61
+      ],
+      "frame": [
+        6993,
+        7549
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0018",
+      "shot": [
+        61,
+        111
+      ],
+      "frame": [
+        7549,
+        10619
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0019",
+      "shot": [
+        111,
+        113
+      ],
+      "frame": [
+        10619,
+        11398
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0020",
+      "shot": [
+        113,
+        123
+      ],
+      "frame": [
+        11398,
+        14300
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0021",
+      "shot": [
+        123,
+        125
+      ],
+      "frame": [
+        14300,
+        16129
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0022",
+      "shot": [
+        125,
+        129
+      ],
+      "frame": [
+        16129,
+        17359
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0023",
+      "shot": [
+        129,
+        138
+      ],
+      "frame": [
+        17359,
+        18827
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0024",
+      "shot": [
+        138,
+        142
+      ],
+      "frame": [
+        18827,
+        19487
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0025",
+      "shot": [
+        142,
+        149
+      ],
+      "frame": [
+        19487,
+        20540
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0026",
+      "shot": [
+        149,
+        160
+      ],
+      "frame": [
+        20540,
+        22943
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0027",
+      "shot": [
+        160,
+        168
+      ],
+      "frame": [
+        22943,
+        24321
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0028",
+      "shot": [
+        168,
+        169
+      ],
+      "frame": [
+        24321,
+        24498
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0029",
+      "shot": [
+        169,
+        170
+      ],
+      "frame": [
+        24498,
+        24591
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0030",
+      "shot": [
+        170,
+        173
+      ],
+      "frame": [
+        24591,
+        24764
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0031",
+      "shot": [
+        173,
+        183
+      ],
+      "frame": [
+        24764,
+        27175
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0032",
+      "shot": [
+        183,
+        193
+      ],
+      "frame": [
+        27175,
+        28409
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0033",
+      "shot": [
+        193,
+        199
+      ],
+      "frame": [
+        28409,
+        29246
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0034",
+      "shot": [
+        199,
+        205
+      ],
+      "frame": [
+        29246,
+        29822
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0035",
+      "shot": [
+        205,
+        219
+      ],
+      "frame": [
+        29822,
+        31346
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0036",
+      "shot": [
+        219,
+        239
+      ],
+      "frame": [
+        31346,
+        33586
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0037",
+      "shot": [
+        239,
+        240
+      ],
+      "frame": [
+        33586,
+        33855
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0038",
+      "shot": [
+        240,
+        257
+      ],
+      "frame": [
+        33855,
+        36318
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0039",
+      "shot": [
+        257,
+        275
+      ],
+      "frame": [
+        36318,
+        38526
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0040",
+      "shot": [
+        275,
+        306
+      ],
+      "frame": [
+        38526,
+        40973
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0041",
+      "shot": [
+        306,
+        334
+      ],
+      "frame": [
+        40973,
+        44661
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0042",
+      "shot": [
+        334,
+        336
+      ],
+      "frame": [
+        44661,
+        45014
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0043",
+      "shot": [
+        336,
+        338
+      ],
+      "frame": [
+        45014,
+        45291
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0044",
+      "shot": [
+        338,
+        346
+      ],
+      "frame": [
+        45291,
+        46091
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0045",
+      "shot": [
+        346,
+        395
+      ],
+      "frame": [
+        46091,
+        52579
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0046",
+      "shot": [
+        395,
+        401
+      ],
+      "frame": [
+        52579,
+        53246
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0047",
+      "shot": [
+        401,
+        408
+      ],
+      "frame": [
+        53246,
+        54886
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0048",
+      "shot": [
+        408,
+        409
+      ],
+      "frame": [
+        54886,
+        55135
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0049",
+      "shot": [
+        409,
+        417
+      ],
+      "frame": [
+        55135,
+        55951
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0050",
+      "shot": [
+        417,
+        421
+      ],
+      "frame": [
+        55951,
+        56675
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0051",
+      "shot": [
+        421,
+        428
+      ],
+      "frame": [
+        56675,
+        57537
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0052",
+      "shot": [
+        428,
+        435
+      ],
+      "frame": [
+        57537,
+        58540
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0053",
+      "shot": [
+        435,
+        440
+      ],
+      "frame": [
+        58540,
+        59597
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0054",
+      "shot": [
+        440,
+        449
+      ],
+      "frame": [
+        59597,
+        60309
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0055",
+      "shot": [
+        449,
+        452
+      ],
+      "frame": [
+        60309,
+        60713
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0056",
+      "shot": [
+        452,
+        469
+      ],
+      "frame": [
+        60713,
+        64639
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0057",
+      "shot": [
+        469,
+        474
+      ],
+      "frame": [
+        64639,
+        65641
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0058",
+      "shot": [
+        474,
+        475
+      ],
+      "frame": [
+        65641,
+        65724
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0059",
+      "shot": [
+        475,
+        480
+      ],
+      "frame": [
+        65724,
+        66574
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0060",
+      "shot": [
+        480,
+        483
+      ],
+      "frame": [
+        66574,
+        67800
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0061",
+      "shot": [
+        483,
+        485
+      ],
+      "frame": [
+        67800,
+        68244
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0062",
+      "shot": [
+        485,
+        488
+      ],
+      "frame": [
+        68244,
+        68406
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0063",
+      "shot": [
+        488,
+        498
+      ],
+      "frame": [
+        68406,
+        70295
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0064",
+      "shot": [
+        498,
+        499
+      ],
+      "frame": [
+        70295,
+        70506
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0065",
+      "shot": [
+        499,
+        506
+      ],
+      "frame": [
+        70506,
+        72616
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0066",
+      "shot": [
+        506,
+        507
+      ],
+      "frame": [
+        72616,
+        72760
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0067",
+      "shot": [
+        507,
+        509
+      ],
+      "frame": [
+        72760,
+        73305
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0068",
+      "shot": [
+        509,
+        512
+      ],
+      "frame": [
+        73305,
+        73746
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0069",
+      "shot": [
+        512,
+        518
+      ],
+      "frame": [
+        73746,
+        73986
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0070",
+      "shot": [
+        518,
+        522
+      ],
+      "frame": [
+        73986,
+        74913
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0071",
+      "shot": [
+        522,
+        528
+      ],
+      "frame": [
+        74913,
+        76587
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0072",
+      "shot": [
+        528,
+        533
+      ],
+      "frame": [
+        76587,
+        78467
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0073",
+      "shot": [
+        533,
+        553
+      ],
+      "frame": [
+        78467,
+        81024
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0074",
+      "shot": [
+        553,
+        562
+      ],
+      "frame": [
+        81024,
+        83495
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0075",
+      "shot": [
+        562,
+        567
+      ],
+      "frame": [
+        83495,
+        84167
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0076",
+      "shot": [
+        567,
+        575
+      ],
+      "frame": [
+        84167,
+        86578
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0077",
+      "shot": [
+        575,
+        595
+      ],
+      "frame": [
+        86578,
+        88846
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0078",
+      "shot": [
+        595,
+        601
+      ],
+      "frame": [
+        88846,
+        89405
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0079",
+      "shot": [
+        601,
+        613
+      ],
+      "frame": [
+        89405,
+        91593
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0080",
+      "shot": [
+        613,
+        626
+      ],
+      "frame": [
+        91593,
+        93606
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0081",
+      "shot": [
+        626,
+        630
+      ],
+      "frame": [
+        93606,
+        93935
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0082",
+      "shot": [
+        630,
+        636
+      ],
+      "frame": [
+        93935,
+        96672
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0083",
+      "shot": [
+        636,
+        652
+      ],
+      "frame": [
+        96672,
+        99674
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0084",
+      "shot": [
+        652,
+        668
+      ],
+      "frame": [
+        99674,
+        101800
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0085",
+      "shot": [
+        668,
+        670
+      ],
+      "frame": [
+        101800,
+        102105
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0086",
+      "shot": [
+        670,
+        673
+      ],
+      "frame": [
+        102105,
+        102719
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0087",
+      "shot": [
+        673,
+        680
+      ],
+      "frame": [
+        102719,
+        105296
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0088",
+      "shot": [
+        680,
+        684
+      ],
+      "frame": [
+        105296,
+        105858
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0089",
+      "shot": [
+        684,
+        694
+      ],
+      "frame": [
+        105858,
+        106592
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0090",
+      "shot": [
+        694,
+        697
+      ],
+      "frame": [
+        106592,
+        107164
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0091",
+      "shot": [
+        697,
+        713
+      ],
+      "frame": [
+        107164,
+        109344
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0092",
+      "shot": [
+        713,
+        718
+      ],
+      "frame": [
+        109344,
+        110337
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0093",
+      "shot": [
+        718,
+        732
+      ],
+      "frame": [
+        110337,
+        114026
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0094",
+      "shot": [
+        732,
+        741
+      ],
+      "frame": [
+        114026,
+        115305
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0095",
+      "shot": [
+        741,
+        748
+      ],
+      "frame": [
+        115305,
+        116368
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0096",
+      "shot": [
+        748,
+        751
+      ],
+      "frame": [
+        116368,
+        116584
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0097",
+      "shot": [
+        751,
+        753
+      ],
+      "frame": [
+        116584,
+        116756
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0098",
+      "shot": [
+        753,
+        755
+      ],
+      "frame": [
+        116756,
+        117004
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0099",
+      "shot": [
+        755,
+        757
+      ],
+      "frame": [
+        117004,
+        117189
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0100",
+      "shot": [
+        757,
+        761
+      ],
+      "frame": [
+        117189,
+        117884
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0101",
+      "shot": [
+        761,
+        772
+      ],
+      "frame": [
+        117884,
+        120183
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0102",
+      "shot": [
+        772,
+        786
+      ],
+      "frame": [
+        120183,
+        121588
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0103",
+      "shot": [
+        786,
+        798
+      ],
+      "frame": [
+        121588,
+        124026
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0104",
+      "shot": [
+        798,
+        822
+      ],
+      "frame": [
+        124026,
+        127348
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0105",
+      "shot": [
+        822,
+        827
+      ],
+      "frame": [
+        127348,
+        128622
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0106",
+      "shot": [
+        827,
+        847
+      ],
+      "frame": [
+        128622,
+        132885
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0107",
+      "shot": [
+        847,
+        854
+      ],
+      "frame": [
+        132885,
+        134202
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0108",
+      "shot": [
+        854,
+        875
+      ],
+      "frame": [
+        134202,
+        138854
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0109",
+      "shot": [
+        875,
+        877
+      ],
+      "frame": [
+        138854,
+        139066
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0110",
+      "shot": [
+        877,
+        890
+      ],
+      "frame": [
+        139066,
+        141314
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0111",
+      "shot": [
+        890,
+        909
+      ],
+      "frame": [
+        141314,
+        144842
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0112",
+      "shot": [
+        909,
+        912
+      ],
+      "frame": [
+        144842,
+        145654
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0113",
+      "shot": [
+        912,
+        917
+      ],
+      "frame": [
+        145654,
+        146397
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0114",
+      "shot": [
+        917,
+        929
+      ],
+      "frame": [
+        146397,
+        149138
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0115",
+      "shot": [
+        929,
+        944
+      ],
+      "frame": [
+        149138,
+        151139
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0116",
+      "shot": [
+        944,
+        949
+      ],
+      "frame": [
+        151139,
+        151773
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0117",
+      "shot": [
+        949,
+        951
+      ],
+      "frame": [
+        151773,
+        151907
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0118",
+      "shot": [
+        951,
+        955
+      ],
+      "frame": [
+        151907,
+        152144
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0119",
+      "shot": [
+        955,
+        959
+      ],
+      "frame": [
+        152144,
+        152693
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0120",
+      "shot": [
+        959,
+        960
+      ],
+      "frame": [
+        152693,
+        153051
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0121",
+      "shot": [
+        960,
+        1001
+      ],
+      "frame": [
+        153051,
+        157713
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0122",
+      "shot": [
+        1001,
+        1007
+      ],
+      "frame": [
+        157713,
+        158294
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0123",
+      "shot": [
+        1007,
+        1021
+      ],
+      "frame": [
+        158294,
+        161130
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0124",
+      "shot": [
+        1021,
+        1026
+      ],
+      "frame": [
+        161130,
+        162606
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0125",
+      "shot": [
+        1026,
+        1033
+      ],
+      "frame": [
+        162606,
+        163706
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0126",
+      "shot": [
+        1033,
+        1034
+      ],
+      "frame": [
+        163706,
+        163891
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0127",
+      "shot": [
+        1034,
+        1038
+      ],
+      "frame": [
+        163891,
+        164605
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0128",
+      "shot": [
+        1038,
+        1039
+      ],
+      "frame": [
+        164605,
+        164748
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0129",
+      "shot": [
+        1039,
+        1071
+      ],
+      "frame": [
+        164748,
+        172861
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0130",
+      "shot": [
+        1071,
+        1089
+      ],
+      "frame": [
+        172861,
+        182486
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0131",
+      "shot": [
+        1089,
+        1090
+      ],
+      "frame": [
+        182486,
+        182765
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0132",
+      "shot": [
+        1090,
+        1114
+      ],
+      "frame": [
+        182765,
+        186877
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0133",
+      "shot": [
+        1114,
+        1115
+      ],
+      "frame": [
+        186877,
+        187390
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0134",
+      "shot": [
+        1115,
+        1116
+      ],
+      "frame": [
+        187390,
+        187543
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0135",
+      "shot": [
+        1116,
+        1130
+      ],
+      "frame": [
+        187543,
+        191697
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0136",
+      "shot": [
+        1130,
+        1132
+      ],
+      "frame": [
+        191697,
+        192274
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0137",
+      "shot": [
+        1132,
+        1143
+      ],
+      "frame": [
+        192274,
+        194640
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0138",
+      "shot": [
+        1143,
+        1144
+      ],
+      "frame": [
+        194640,
+        194820
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0139",
+      "shot": [
+        1144,
+        1167
+      ],
+      "frame": [
+        194820,
+        198104
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0140",
+      "shot": [
+        1167,
+        1186
+      ],
+      "frame": [
+        198104,
+        200001
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0141",
+      "shot": [
+        1186,
+        1197
+      ],
+      "frame": [
+        200001,
+        202067
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0142",
+      "shot": [
+        1197,
+        1205
+      ],
+      "frame": [
+        202067,
+        203378
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0143",
+      "shot": [
+        1205,
+        1208
+      ],
+      "frame": [
+        203378,
+        204611
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0253474_0144",
+      "shot": [
+        1208,
+        1210
+      ],
+      "frame": [
+        204611,
+        204890
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0253474_0000",
+      "shot": [
+        4,
+        33
+      ],
+      "frame": [
+        449,
+        3137
+      ],
+      "duration": [
+        18.730958,
+        130.799838
+      ],
+      "consistency": 0.9920297409950024,
+      "description": "\"The Pianist\" begins in Warsaw, Poland in September, 1939, at the outbreak of the Second World War, first introducing Wladyslaw (Wladek) Szpilman, who works as a pianist for the local radio. The Polish Army has been defeated in three weeks by the German Army and Szpilman's radio station is bombed while he plays live on the air. While evacuating the building he finds a friend of his who introduces him to his sister, Dorota. Szpilman is immediately attracted to her.",
+      "subtitle": [
+        {
+          "shot": 29,
+          "duration": [
+            114.99005580197453,
+            122.87294319645157
+          ],
+          "sentences": [
+            "- Mr. Szpilman?\\N- Hello.",
+            "I came specially to meet you.\\NI love your playing.",
+            "- Who are you?\\N- My name's Dorota, Jurek's sister."
+          ]
+        },
+        {
+          "shot": 30,
+          "duration": [
+            122.91465159536415,
+            124.79152954643011
+          ],
+          "sentences": [
+            "- Who are you?\\N- My name's Dorota, Jurek's sister.",
+            "- You're bleeding!\\N- It's nothing."
+          ]
+        },
+        {
+          "shot": 31,
+          "duration": [
+            124.83323794534269,
+            127.62770067248535
+          ],
+          "sentences": [
+            "- You're bleeding!\\N- It's nothing.",
+            "You can write him a fan letter later.\\NThis isn't the best time. Come on."
+          ]
+        },
+        {
+          "shot": 32,
+          "duration": [
+            127.66940907139792,
+            130.54728859636572
+          ],
+          "sentences": [
+            "You can write him a fan letter later.\\NThis isn't the best time. Come on."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0001",
+      "shot": [
+        37,
+        54
+      ],
+      "frame": [
+        3788,
+        6815
+      ],
+      "duration": [
+        157.99244477235658,
+        284.2354817723566
+      ],
+      "consistency": 0.9087669128238733,
+      "description": "Wladyslaw returns home to find his parents and his brother and two sisters, packing to leave Poland. The family discusses the possibility of fleeing Poland successfully and they decide to stay. That night, they listen to the BBC and hear that Britain and France have declared war on Germany. The family celebrates, believing the war will end once the Allies are able to engage Germany.",
+      "subtitle": [
+        {
+          "shot": 37,
+          "duration": [
+            155.78086993847475,
+            159.95170982973244
+          ],
+          "sentences": [
+            "He'll come home, he'll be alright.",
+            "- I should have another case.\\N- Mama, Wladek is home!"
+          ]
+        },
+        {
+          "shot": 38,
+          "duration": [
+            159.99341822864503,
+            169.12755759049935
+          ],
+          "sentences": [
+            "- I should have another case.\\N- Mama, Wladek is home!",
+            "Thank God.\\NWladek! You're wounded?",
+            "- No, it was nothing.\\N- I've been worried sick.",
+            "I told her not to worry.\\NYou had your papers on you."
+          ]
+        },
+        {
+          "shot": 39,
+          "duration": [
+            169.16926598941194,
+            172.54764630133067
+          ],
+          "sentences": [
+            "I told her not to worry.\\NYou had your papers on you.",
+            "If you'd been hit by a bomb,\\Nthey'd know where to take you."
+          ]
+        },
+        {
+          "shot": 40,
+          "duration": [
+            172.58935470024323,
+            178.5953641436543
+          ],
+          "sentences": [
+            "If you'd been hit by a bomb,\\Nthey'd know where to take you.",
+            "Henryk, don't say things like that.\\NGod forbid. God forbid.",
+            "- Papa, Wladek is home.\\N- What did I tell you?"
+          ]
+        },
+        {
+          "shot": 41,
+          "duration": [
+            178.6370725425669,
+            180.93103448275863
+          ],
+          "sentences": [
+            "- Papa, Wladek is home.\\N- What did I tell you?",
+            "- What are you doing?\\N- Where's my hat with the wide brim?"
+          ]
+        },
+        {
+          "shot": 42,
+          "duration": [
+            180.9727428816712,
+            186.10287594791816
+          ],
+          "sentences": [
+            "- What are you doing?\\N- Where's my hat with the wide brim?",
+            "- They've bombed us. We're off the air.\\N- Warsaw is not the only radio station."
+          ]
+        },
+        {
+          "shot": 43,
+          "duration": [
+            186.14458434683075,
+            188.6053798826728
+          ],
+          "sentences": [
+            "- They've bombed us. We're off the air.\\N- Warsaw is not the only radio station."
+          ]
+        },
+        {
+          "shot": 44,
+          "duration": [
+            188.64708828158535,
+            199.3661468021176
+          ],
+          "sentences": [
+            "- They've bombed us. We're off the air.\\N- Warsaw is not the only radio station.",
+            "Pack, darling.\\NGet your things packed.",
+            "- Where are we going?\\N- Out of Warsaw.",
+            "- Out of Warsaw where?\\N- You haven't heard?",
+            "- Heard what?\\N- Haven't you seen the paper?",
+            "- Where's the paper?\\N- I used it for packing."
+          ]
+        },
+        {
+          "shot": 45,
+          "duration": [
+            199.4078552010302,
+            201.3681499499213
+          ],
+          "sentences": [
+            "- Where's the paper?\\N- I used it for packing."
+          ]
+        },
+        {
+          "shot": 46,
+          "duration": [
+            201.4098583488339,
+            204.74653026184004
+          ],
+          "sentences": [
+            "- Where's the paper?\\N- I used it for packing.",
+            "- She used it for packing.\\N- The government has moved to Lublin.",
+            "All men must leave the city, go across\\Nthe river, set up a new line of defense."
+          ]
+        },
+        {
+          "shot": 47,
+          "duration": [
+            204.78823866075263,
+            208.70882815853486
+          ],
+          "sentences": [
+            "All men must leave the city, go across\\Nthe river, set up a new line of defense."
+          ]
+        },
+        {
+          "shot": 48,
+          "duration": [
+            208.75053655744742,
+            219.8032622692803
+          ],
+          "sentences": [
+            "All men must leave the city, go across\\Nthe river, set up a new line of defense.",
+            "There isn't anybody left here, only\\Nthe women. The men are all gone.",
+            "What do you think you'll do while\\Nthey set up a new line of defense?",
+            "- Wonder around with your suitcases?\\N- Pack, Wladek. There's no time.",
+            "- I'm not going anywhere.\\N- Good. I'm not going anywhere either."
+          ]
+        },
+        {
+          "shot": 49,
+          "duration": [
+            219.84497066819287,
+            223.55701817141224
+          ],
+          "sentences": [
+            "- I'm not going anywhere.\\N- Good. I'm not going anywhere either.",
+            "Don't be ridiculous,\\Nwe've got to keep together."
+          ]
+        },
+        {
+          "shot": 50,
+          "duration": [
+            223.5987265703248,
+            231.77357275718987
+          ],
+          "sentences": [
+            "Don't be ridiculous,\\Nwe've got to keep together.",
+            "Look. If I'm going to die, I prefer to\\Ndie in my own home, staying put.",
+            "- God forbid.\\N- Shut up, I've got something. Listen."
+          ]
+        },
+        {
+          "shot": 51,
+          "duration": [
+            231.81528115610246,
+            243.6604664472743
+          ],
+          "sentences": [
+            "- God forbid.\\N- Shut up, I've got something. Listen.",
+            "...from the BBC in London.\\NThe British government...",
+            "having received no reply\\Nto the observations presented...",
+            "to the German government..."
+          ]
+        },
+        {
+          "shot": 52,
+          "duration": [
+            243.70217484618686,
+            274.1910144512806
+          ],
+          "sentences": [
+            "to the German government...",
+            "has declared war on nazi Germany.",
+            "- That's wonderful! Wonderful!\\N- It is expected that...",
+            "...within the next few hours, France\\Nwill make a similar declaration.",
+            "Poland is no longer alone.",
+            "Wonderful, wonderful!"
+          ]
+        },
+        {
+          "shot": 53,
+          "duration": [
+            274.23272285019317,
+            288.4135784804693
+          ],
+          "sentences": [
+            "Wonderful, wonderful!",
+            "- Mama, that was a great dinner.\\N- It certainly was.",
+            "When there's something to celebrate,\\Nyou've got to make an effort.",
+            "Here's to Great Britain and France!",
+            "Didn't I tell you? Didn't I tell you?\\NAll will be well."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0003",
+      "shot": [
+        219,
+        333
+      ],
+      "frame": [
+        31347,
+        44478
+      ],
+      "duration": [
+        1307.4577038859636,
+        1855.0760468859635
+      ],
+      "consistency": 0.9994563293874179,
+      "description": "Wladyslaw takes a job playing piano at a restaurant in the ghetto, turning down an offer from a family friend to work for the Jewish Police, and the family survives, but living conditions in the ghetto continue to worsen and scores of Jews die every day from disease, starvation, and random acts of violence by German soldiers. One night the family sees the SS march into a house across the street and arrest a family. The eldest man is unable to stand when ordered because he is confined to a wheelchair and the SS officers throw him over the balcony to his death. The other family members are gunned down in the street and run over by the SS truck if they survived.",
+      "subtitle": [
+        {
+          "shot": 225,
+          "duration": [
+            1351.6857919587924,
+            1355.8149234511375
+          ],
+          "sentences": [
+            "I'm sorry, he wants you to stop."
+          ]
+        },
+        {
+          "shot": 226,
+          "duration": [
+            1355.8566318500502,
+            1359.73551294892
+          ],
+          "sentences": [
+            "I'm sorry, he wants you to stop.",
+            "Who wants me to stop?"
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            1359.7772213478324,
+            1361.5706825010732
+          ],
+          "sentences": [
+            "Who wants me to stop?"
+          ]
+        },
+        {
+          "shot": 240,
+          "duration": [
+            1412.0378451852912,
+            1413.831306338532
+          ],
+          "sentences": [
+            "I always say,\\Nlook on the bright side."
+          ]
+        },
+        {
+          "shot": 241,
+          "duration": [
+            1413.8730147374447,
+            1422.7569037058236
+          ],
+          "sentences": [
+            "I always say,\\Nlook on the bright side.",
+            "You're in a small ghetto with\\Nintellectuals, professional people.",
+            "You're better off than us. Here in\\Nthe large ghetto it's a cesspool.",
+            "- You have to give me something.\\N- You're an artist..."
+          ]
+        },
+        {
+          "shot": 242,
+          "duration": [
+            1422.798612104736,
+            1440.065889254543
+          ],
+          "sentences": [
+            "- You have to give me something.\\N- You're an artist...",
+            "you keep peoples' spirits up.\\NYou do enough.",
+            "- I want to help, do something.\\N- You're too well known.",
+            "And you know what? You musicians\\Ndon't make good conspirators.",
+            "You're too... too musical."
+          ]
+        },
+        {
+          "shot": 243,
+          "duration": [
+            1440.1075976534555,
+            1449.7005294033481
+          ],
+          "sentences": [
+            "You're too... too musical.",
+            "- Who is that?\\N- Symche.",
+            "Majorek."
+          ]
+        },
+        {
+          "shot": 244,
+          "duration": [
+            1449.7422378022607,
+            1456.8743740163113
+          ],
+          "sentences": [
+            "There are notices going up. City is\\Nto be cleansed of the undesirables.",
+            "- There's always notices going up.\\N- Hello, Symche."
+          ]
+        },
+        {
+          "shot": 245,
+          "duration": [
+            1456.916082415224,
+            1458.4592931749894
+          ],
+          "sentences": [
+            "- There's always notices going up.\\N- Hello, Symche.",
+            "Dyrek. Mrs. Ysken."
+          ]
+        },
+        {
+          "shot": 246,
+          "duration": [
+            1458.501001573902,
+            1459.877378738017
+          ],
+          "sentences": [
+            "Dyrek. Mrs. Ysken."
+          ]
+        },
+        {
+          "shot": 247,
+          "duration": [
+            1459.9190871369294,
+            1472.3481900128775
+          ],
+          "sentences": [
+            "Dyrek. Mrs. Ysken.",
+            "Jehuda, working hard?",
+            "This is the greatest pianist in\\NPoland. Maybe the whole world.",
+            "Wladyslaw Szpilman,\\Nmeet Majorek."
+          ]
+        },
+        {
+          "shot": 248,
+          "duration": [
+            1472.38989841179,
+            1474.3919015595936
+          ],
+          "sentences": [
+            "Wladyslaw Szpilman,\\Nmeet Majorek.",
+            "- How do you do?\\N- I know your name."
+          ]
+        },
+        {
+          "shot": 249,
+          "duration": [
+            1474.4336099585064,
+            1476.43561310631
+          ],
+          "sentences": [
+            "- How do you do?\\N- I know your name.",
+            "- I've never heard you play.\\N- Majorek used to be in the Army."
+          ]
+        },
+        {
+          "shot": 250,
+          "duration": [
+            1476.4773215052226,
+            1478.1456574617257
+          ],
+          "sentences": [
+            "- I've never heard you play.\\N- Majorek used to be in the Army."
+          ]
+        },
+        {
+          "shot": 251,
+          "duration": [
+            1478.1873658606382,
+            1480.7315781943055
+          ],
+          "sentences": [
+            "- I've never heard you play.\\N- Majorek used to be in the Army.",
+            "Brilliant man. The only thing I've got\\Nagainst him is he's not a socialist."
+          ]
+        },
+        {
+          "shot": 252,
+          "duration": [
+            1480.773286593218,
+            1484.0682501073115
+          ],
+          "sentences": [
+            "Brilliant man. The only thing I've got\\Nagainst him is he's not a socialist."
+          ]
+        },
+        {
+          "shot": 253,
+          "duration": [
+            1484.109958506224,
+            1494.2033910430678
+          ],
+          "sentences": [
+            "You better go now, Wladek.\\NIt's nearly curfew.",
+            "You know how many copies\\Nwe print of our newspaper?",
+            "Five hundred."
+          ]
+        },
+        {
+          "shot": 254,
+          "duration": [
+            1494.2450994419803,
+            1503.045571612534
+          ],
+          "sentences": [
+            "Five hundred.",
+            "You know how many people on\\Naverage read one copy? Twenty.",
+            "That makes 10 thousand readers.\\NThis will start the uprising.",
+            "Majorek hides them in his underpants\\Nand leaves them in toilets."
+          ]
+        },
+        {
+          "shot": 255,
+          "duration": [
+            1503.0872800114466,
+            1507.383245099442
+          ],
+          "sentences": [
+            "Majorek hides them in his underpants\\Nand leaves them in toilets.",
+            "- Toilets?\\N- As many toilets as I can find."
+          ]
+        },
+        {
+          "shot": 256,
+          "duration": [
+            1507.4249534983546,
+            1514.7239233080556
+          ],
+          "sentences": [
+            "- Toilets?\\N- As many toilets as I can find.",
+            "Germans never use Jewish toilets.",
+            "They're too clean for them."
+          ]
+        },
+        {
+          "shot": 257,
+          "duration": [
+            1514.7656317069682,
+            1522.857061096008
+          ],
+          "sentences": [
+            "Please, mister, please."
+          ]
+        },
+        {
+          "shot": 258,
+          "duration": [
+            1522.8987694949208,
+            1526.6525253970526
+          ],
+          "sentences": [
+            "Please, mister, please."
+          ]
+        },
+        {
+          "shot": 263,
+          "duration": [
+            1540.8333810273286,
+            1551.6775647445986
+          ],
+          "sentences": [
+            "Hold it!\\NYou little bastard!"
+          ]
+        },
+        {
+          "shot": 264,
+          "duration": [
+            1551.7192731435114,
+            1554.3469022750037
+          ],
+          "sentences": [
+            "Hold it!\\NYou little bastard!"
+          ]
+        },
+        {
+          "shot": 265,
+          "duration": [
+            1554.3886106739162,
+            1555.2227786521678
+          ],
+          "sentences": [
+            "Hold it!\\NYou little bastard!"
+          ]
+        },
+        {
+          "shot": 266,
+          "duration": [
+            1555.2644870510803,
+            1562.8554156531693
+          ],
+          "sentences": [
+            "Take this!",
+            "Stop it! Stop it!",
+            "Stop it!"
+          ]
+        },
+        {
+          "shot": 267,
+          "duration": [
+            1562.8971240520818,
+            1566.1086707683503
+          ],
+          "sentences": [
+            "Stop it!"
+          ]
+        },
+        {
+          "shot": 268,
+          "duration": [
+            1566.1503791672628,
+            1570.4046358563457
+          ],
+          "sentences": [
+            "Come on, come on.\\NCome on, boy."
+          ]
+        },
+        {
+          "shot": 269,
+          "duration": [
+            1570.4463442552583,
+            1584.5020746887967
+          ],
+          "sentences": [
+            "Stand up! Stand up."
+          ]
+        },
+        {
+          "shot": 276,
+          "duration": [
+            1609.4854056374304,
+            1611.9462011732724
+          ],
+          "sentences": [
+            "Please, tonight for once, I don't\\Nwant anything bad talked about."
+          ]
+        },
+        {
+          "shot": 277,
+          "duration": [
+            1611.987909572185,
+            1615.908499069967
+          ],
+          "sentences": [
+            "Please, tonight for once, I don't\\Nwant anything bad talked about.",
+            "- Enjoy your meal.\\N- Then I'll tell you something funny."
+          ]
+        },
+        {
+          "shot": 278,
+          "duration": [
+            1615.9502074688799,
+            1619.4537129775363
+          ],
+          "sentences": [
+            "- Enjoy your meal.\\N- Then I'll tell you something funny.",
+            "- You know who I mean by Dr. Raszeja?\\N- The surgeon."
+          ]
+        },
+        {
+          "shot": 279,
+          "duration": [
+            1619.4954213764488,
+            1621.7893833166404
+          ],
+          "sentences": [
+            "- You know who I mean by Dr. Raszeja?\\N- The surgeon.",
+            "The Germans allowed him into\\Nthe ghetto to perform an operation."
+          ]
+        },
+        {
+          "shot": 280,
+          "duration": [
+            1621.8310917155532,
+            1623.5828444698814
+          ],
+          "sentences": [
+            "The Germans allowed him into\\Nthe ghetto to perform an operation."
+          ]
+        },
+        {
+          "shot": 281,
+          "duration": [
+            1623.624552868794,
+            1627.2531835741881
+          ],
+          "sentences": [
+            "The Germans allowed him into\\Nthe ghetto to perform an operation.",
+            "On a Jew? They let a Pole\\Nto come in to operate on a Jew?"
+          ]
+        },
+        {
+          "shot": 282,
+          "duration": [
+            1627.2948919731007,
+            1630.0893547002433
+          ],
+          "sentences": [
+            "On a Jew? They let a Pole\\Nto come in to operate on a Jew?",
+            "He got a pass, that's all I know.\\NAnyway, so..."
+          ]
+        },
+        {
+          "shot": 283,
+          "duration": [
+            1630.1310630991559,
+            1638.305909286021
+          ],
+          "sentences": [
+            "He got a pass, that's all I know.\\NAnyway, so...",
+            "he puts the patient to sleep\\Nand starts the operation.",
+            "He'd just made the first incision\\Nwhen the SS burst in..."
+          ]
+        },
+        {
+          "shot": 284,
+          "duration": [
+            1638.3476176849335,
+            1643.0606667620548
+          ],
+          "sentences": [
+            "He'd just made the first incision\\Nwhen the SS burst in...",
+            "shoot the patient, then Dr. Raszeja\\Nand everybody else who was there."
+          ]
+        },
+        {
+          "shot": 285,
+          "duration": [
+            1643.1023751609673,
+            1646.1053798826729
+          ],
+          "sentences": [
+            "shoot the patient, then Dr. Raszeja\\Nand everybody else who was there.",
+            "Isn't that a laugh?"
+          ]
+        },
+        {
+          "shot": 286,
+          "duration": [
+            1646.1470882815854,
+            1648.5244670196023
+          ],
+          "sentences": [
+            "Isn't that a laugh?"
+          ]
+        },
+        {
+          "shot": 287,
+          "duration": [
+            1648.5661754185148,
+            1651.026970954357
+          ],
+          "sentences": [
+            "The patient didn't feel a thing,\\Nhe was anesthetized."
+          ]
+        },
+        {
+          "shot": 288,
+          "duration": [
+            1651.0686793532695,
+            1653.9882672771498
+          ],
+          "sentences": [
+            "The patient didn't feel a thing,\\Nhe was anesthetized.",
+            "I said nothing bad."
+          ]
+        },
+        {
+          "shot": 289,
+          "duration": [
+            1654.0299756760623,
+            1658.4510659607956
+          ],
+          "sentences": [
+            "I said nothing bad.",
+            "What's the matter with you all?\\NYou lost your sense of humor?"
+          ]
+        },
+        {
+          "shot": 290,
+          "duration": [
+            1658.4927743597082,
+            1660.6616111031622
+          ],
+          "sentences": [
+            "What's the matter with you all?\\NYou lost your sense of humor?",
+            "It's not funny."
+          ]
+        },
+        {
+          "shot": 291,
+          "duration": [
+            1660.7033195020747,
+            1664.915867792245
+          ],
+          "sentences": [
+            "It's not funny.",
+            "You know what's funny? You're\\Nfunny, with that ridiculous tie."
+          ]
+        },
+        {
+          "shot": 292,
+          "duration": [
+            1664.9575761911576,
+            1669.2952496780656
+          ],
+          "sentences": [
+            "You know what's funny? You're\\Nfunny, with that ridiculous tie.",
+            "What are you talking about? What's\\Nmy tie have to do with anything?"
+          ]
+        },
+        {
+          "shot": 293,
+          "duration": [
+            1669.3369580769781,
+            1671.7977536128203
+          ],
+          "sentences": [
+            "What are you talking about? What's\\Nmy tie have to do with anything?",
+            "- I need this tie for my work.\\N- Your work?"
+          ]
+        },
+        {
+          "shot": 294,
+          "duration": [
+            1671.8394620117328,
+            1672.7570467878095
+          ],
+          "sentences": [
+            "- I need this tie for my work.\\N- Your work?",
+            "- That's right, I work.\\N- Playing the piano for the parasites."
+          ]
+        },
+        {
+          "shot": 295,
+          "duration": [
+            1672.798755186722,
+            1676.2188438975534
+          ],
+          "sentences": [
+            "- That's right, I work.\\N- Playing the piano for the parasites."
+          ]
+        },
+        {
+          "shot": 296,
+          "duration": [
+            1676.260552296466,
+            1677.5952210616683
+          ],
+          "sentences": [
+            "- That's right, I work.\\N- Playing the piano for the parasites.",
+            "- Parasites...\\N- Boys. Boys!"
+          ]
+        },
+        {
+          "shot": 297,
+          "duration": [
+            1677.636929460581,
+            1679.5972242094722
+          ],
+          "sentences": [
+            "- Parasites...\\N- Boys. Boys!"
+          ]
+        },
+        {
+          "shot": 298,
+          "duration": [
+            1679.6389326083847,
+            1681.1404349692375
+          ],
+          "sentences": [
+            "- Parasites...\\N- Boys. Boys!",
+            "- They don't give a damn.\\N- And you blame me for their apathy?"
+          ]
+        },
+        {
+          "shot": 299,
+          "duration": [
+            1681.18214336815,
+            1682.8504793246532
+          ],
+          "sentences": [
+            "- They don't give a damn.\\N- And you blame me for their apathy?",
+            "I see it everyday. They don't even\\Nnotice what's going around them."
+          ]
+        },
+        {
+          "shot": 300,
+          "duration": [
+            1682.8921877235657,
+            1687.1464444126486
+          ],
+          "sentences": [
+            "I see it everyday. They don't even\\Nnotice what's going around them.",
+            "- I blame the Americans.\\N- For what? For my tie?"
+          ]
+        },
+        {
+          "shot": 301,
+          "duration": [
+            1687.1881528115612,
+            1688.2725711832882
+          ],
+          "sentences": [
+            "- I blame the Americans.\\N- For what? For my tie?"
+          ]
+        },
+        {
+          "shot": 302,
+          "duration": [
+            1688.3142795822007,
+            1692.234869079983
+          ],
+          "sentences": [
+            "- I blame the Americans.\\N- For what? For my tie?",
+            "The American Jews,\\Nand there are lots of them."
+          ]
+        },
+        {
+          "shot": 303,
+          "duration": [
+            1692.2765774788954,
+            1695.9886249821147
+          ],
+          "sentences": [
+            "What do they think they're doing?\\NPeople here are dying."
+          ]
+        },
+        {
+          "shot": 304,
+          "duration": [
+            1696.0303333810275,
+            1705.7483903276577
+          ],
+          "sentences": [
+            "What do they think they're doing?\\NPeople here are dying.",
+            "Haven't got a bite to eat.",
+            "The Jewish bankers should persuade\\NAmerica to declare war on Germany."
+          ]
+        },
+        {
+          "shot": 308,
+          "duration": [
+            1720.0543711546718,
+            1721.8478323079125
+          ],
+          "sentences": [
+            "The lights! The lights!"
+          ]
+        },
+        {
+          "shot": 309,
+          "duration": [
+            1721.889540706825,
+            1724.3920446415798
+          ],
+          "sentences": [
+            "The lights! The lights!"
+          ]
+        },
+        {
+          "shot": 315,
+          "duration": [
+            1739.9075690370582,
+            1742.118114179425
+          ],
+          "sentences": [
+            "Turn on the lights."
+          ]
+        },
+        {
+          "shot": 316,
+          "duration": [
+            1742.1598225783375,
+            1763.4728144226642
+          ],
+          "sentences": [
+            "Turn on the lights.",
+            "Come on!",
+            "Open the door!\\NWe want to go in!",
+            "Open the door!"
+          ]
+        },
+        {
+          "shot": 319,
+          "duration": [
+            1767.4351123193592,
+            1793.5862784375447
+          ],
+          "sentences": [
+            "Stand up!",
+            "You, stand up! Come on!",
+            "Throw him out!"
+          ]
+        },
+        {
+          "shot": 322,
+          "duration": [
+            1797.5902847331522,
+            1799.8842466733438
+          ],
+          "sentences": [
+            "Mama..."
+          ]
+        },
+        {
+          "shot": 323,
+          "duration": [
+            1799.9259550722566,
+            1804.1802117613393
+          ],
+          "sentences": [
+            "Mama..."
+          ]
+        },
+        {
+          "shot": 326,
+          "duration": [
+            1814.1902275003579,
+            1823.4077836600372
+          ],
+          "sentences": [
+            "Come on, run!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0004",
+      "shot": [
+        403,
+        498
+      ],
+      "frame": [
+        54020,
+        70275
+      ],
+      "duration": [
+        2253.1004488782373,
+        2931.0341248782374
+      ],
+      "consistency": 0.8558783720901925,
+      "description": "By 1942, the aged father must apply for working papers through a friend of Wladek's, so that he can take a job in a German clothier. However, the day comes when the family is selected to be shipped to their deaths at the Treblinka concentration camp. Henryk and Halina are selected and taken away and the rest of the family is sent to the Umschlagplatz to wait for transport. They are later reunited. As the family sits under the blazing sun with hundreds of other Jews waiting for the trains, the father uses the family's last 20 zlotys to buy a piece of candy from a boy (who apparently isn't aware of his own impending doom). Each family member eats a tiny morsel of candy, their last meal together.",
+      "subtitle": [
+        {
+          "shot": 403,
+          "duration": [
+            2243.8284446988127,
+            2261.9298898268707
+          ],
+          "sentences": [
+            "- Not this week.\\N- You look terrible.",
+            "Have you heard the rumors? They're\\Ngoing to resettle us in the East.",
+            "Rumors! You take it all too much\\Nto heart. What's the trouble?",
+            "I've been trying to get the certificate\\Nof employment for my father.",
+            "I managed to get one for me and my\\Nfamily, but I need one for my father.",
+            "- I've been to all the firms and shops...\\N- Why didn't you come to me?"
+          ]
+        },
+        {
+          "shot": 404,
+          "duration": [
+            2261.9715982257835,
+            2267.9776076691946
+          ],
+          "sentences": [
+            "- I've been to all the firms and shops...\\N- Why didn't you come to me?",
+            "I didn't know you were\\Nin the certificate business.",
+            "I'm not, but Majorek is."
+          ]
+        },
+        {
+          "shot": 405,
+          "duration": [
+            2268.019316068107,
+            2273.441407926742
+          ],
+          "sentences": [
+            "I'm not, but Majorek is.",
+            "Can you help?\\NI have no money."
+          ]
+        },
+        {
+          "shot": 406,
+          "duration": [
+            2273.483116325655,
+            2279.5308341679784
+          ],
+          "sentences": [
+            "Please, don't insult us.\\NCan you do something for him?",
+            "Be at the Schultz workshop\\Ntomorrow, four o'clock."
+          ]
+        },
+        {
+          "shot": 407,
+          "duration": [
+            2279.572542566891,
+            2289.1654743167837
+          ],
+          "sentences": [
+            "Be at the Schultz workshop\\Ntomorrow, four o'clock.",
+            "See what a wonderful piece\\Nof luck you've had today?",
+            "That's the historical imperative in\\Naction! That's why I always say:",
+            "- \"Look on the bright side!\"\\N- Yes, I know."
+          ]
+        },
+        {
+          "shot": 408,
+          "duration": [
+            2289.207182715696,
+            2299.550865646015
+          ],
+          "sentences": [
+            "- \"Look on the bright side!\"\\N- Yes, I know."
+          ]
+        },
+        {
+          "shot": 409,
+          "duration": [
+            2299.592574044928,
+            2303.0543711546716
+          ],
+          "sentences": [
+            "- How's your back?\\N- Better."
+          ]
+        },
+        {
+          "shot": 410,
+          "duration": [
+            2303.0960795535843,
+            2309.2689225926456
+          ],
+          "sentences": [
+            "- How's your back?\\N- Better.",
+            "Better?",
+            "Better not ask."
+          ]
+        },
+        {
+          "shot": 411,
+          "duration": [
+            2309.3106309915584,
+            2312.1468021176133
+          ],
+          "sentences": [
+            "Better not ask."
+          ]
+        },
+        {
+          "shot": 413,
+          "duration": [
+            2316.4844756045213,
+            2323.074402632709
+          ],
+          "sentences": [
+            "- Thank you.\\N- My pleasure. Won't help you anyway."
+          ]
+        },
+        {
+          "shot": 414,
+          "duration": [
+            2323.116111031621,
+            2327.495492917442
+          ],
+          "sentences": [
+            "- Thank you.\\N- My pleasure. Won't help you anyway."
+          ]
+        },
+        {
+          "shot": 415,
+          "duration": [
+            2327.537201316354,
+            2331.207540420661
+          ],
+          "sentences": [
+            "Thank you, Mr. Schultz."
+          ]
+        },
+        {
+          "shot": 416,
+          "duration": [
+            2331.2492488195735,
+            2333.584919158678
+          ],
+          "sentences": [
+            "Thank you, Mr. Schultz."
+          ]
+        },
+        {
+          "shot": 428,
+          "duration": [
+            2399.7761482329374,
+            2405.3233652883105
+          ],
+          "sentences": [
+            "At least we got work\\Nin the ghetto."
+          ]
+        },
+        {
+          "shot": 429,
+          "duration": [
+            2405.365073687223,
+            2408.0761196165404
+          ],
+          "sentences": [
+            "At least we got work\\Nin the ghetto.",
+            "At least we are still together."
+          ]
+        },
+        {
+          "shot": 430,
+          "duration": [
+            2408.117828015453,
+            2411.663041923022
+          ],
+          "sentences": [
+            "At least we are still together."
+          ]
+        },
+        {
+          "shot": 432,
+          "duration": [
+            2413.5816282730007,
+            2427.2202747174133
+          ],
+          "sentences": [
+            "Everybody out!\\NTo the courtyard!",
+            "Move, move!"
+          ]
+        },
+        {
+          "shot": 433,
+          "duration": [
+            2427.2619831163256,
+            2429.3891114608673
+          ],
+          "sentences": [
+            "Move, move!"
+          ]
+        },
+        {
+          "shot": 434,
+          "duration": [
+            2429.4308198597796,
+            2441.5679639433397
+          ],
+          "sentences": [
+            "We are workers. We have\\Nemployment certification.",
+            "Wait.",
+            "Here."
+          ]
+        },
+        {
+          "shot": 435,
+          "duration": [
+            2441.609672342252,
+            2455.2900271855774
+          ],
+          "sentences": [
+            "Here.",
+            "Go over there. Hurry.",
+            "You.",
+            "You. You.",
+            "You."
+          ]
+        },
+        {
+          "shot": 436,
+          "duration": [
+            2455.33173558449,
+            2462.463871798541
+          ],
+          "sentences": [
+            "You.",
+            "You."
+          ]
+        },
+        {
+          "shot": 438,
+          "duration": [
+            2466.2176277006724,
+            2482.9844040635285
+          ],
+          "sentences": [
+            "The others, put your clothes on\\Nand come back here.",
+            "Bring your things with you.\\N15 kilos only.",
+            "Where are you taking us?"
+          ]
+        },
+        {
+          "shot": 444,
+          "duration": [
+            2503.421519530691,
+            2505.006438689369
+          ],
+          "sentences": [
+            "I'm sorry, I did my best."
+          ]
+        },
+        {
+          "shot": 445,
+          "duration": [
+            2505.048147088282,
+            2506.883316640435
+          ],
+          "sentences": [
+            "I'm sorry, I did my best."
+          ]
+        },
+        {
+          "shot": 446,
+          "duration": [
+            2506.9250250393475,
+            2510.1782801545287
+          ],
+          "sentences": [
+            "- I thought the certificates'd save us.\\N- Stop it, Wladek."
+          ]
+        },
+        {
+          "shot": 447,
+          "duration": [
+            2510.2199885534415,
+            2512.13857490342
+          ],
+          "sentences": [
+            "- I thought the certificates'd save us.\\N- Stop it, Wladek.",
+            "Let's just hope that Henryk\\Nand Halina will be better off."
+          ]
+        },
+        {
+          "shot": 448,
+          "duration": [
+            2512.1802833023326,
+            2515.3501216196883
+          ],
+          "sentences": [
+            "Let's just hope that Henryk\\Nand Halina will be better off."
+          ]
+        },
+        {
+          "shot": 449,
+          "duration": [
+            2515.3918300186006,
+            2526.694806123909
+          ],
+          "sentences": [
+            "Let's just hope that Henryk\\Nand Halina will be better off."
+          ]
+        },
+        {
+          "shot": 452,
+          "duration": [
+            2532.2420231792817,
+            2553.0545142366577
+          ],
+          "sentences": [
+            "- Where will we be going?\\N- You're going to work.",
+            "You'll be much better off than\\Nin the stinking ghetto. Move."
+          ]
+        },
+        {
+          "shot": 453,
+          "duration": [
+            2553.0962226355705,
+            2565.149949921305
+          ],
+          "sentences": [
+            "Why did I do it? Why did I do it?",
+            "Why did I do it?\\NWhy did I do it?",
+            "Why did I do it?"
+          ]
+        },
+        {
+          "shot": 454,
+          "duration": [
+            2565.191658320218,
+            2569.4459150093003
+          ],
+          "sentences": [
+            "Why did I do it?"
+          ]
+        },
+        {
+          "shot": 456,
+          "duration": [
+            2573.741880097296,
+            2622.4989984260983
+          ],
+          "sentences": [
+            "Don't you have a bottle of water?\\NHe's dying.",
+            "My child is dying of thirst.",
+            "- I beg you.\\N- I'm sorry.",
+            "- Don't you have water? I beg you.\\N- Can you hear what I'm saying?"
+          ]
+        },
+        {
+          "shot": 457,
+          "duration": [
+            2622.540706825011,
+            2624.2507511804265
+          ],
+          "sentences": [
+            "- Don't you have water? I beg you.\\N- Can you hear what I'm saying?",
+            "- I'm telling you, it's a disgrace.\\N- I can hear you."
+          ]
+        },
+        {
+          "shot": 458,
+          "duration": [
+            2624.2924595793393,
+            2629.6728430390617
+          ],
+          "sentences": [
+            "- I'm telling you, it's a disgrace.\\N- I can hear you.",
+            "Letting them take us to our death\\Nlike sheep to the slaughter.",
+            "- Not so loud.\\N- Why don't we attack them?"
+          ]
+        },
+        {
+          "shot": 459,
+          "duration": [
+            2629.714551437974,
+            2636.221061668336
+          ],
+          "sentences": [
+            "- Not so loud.\\N- Why don't we attack them?",
+            "There's half a million of us here.\\NWe can break out of the ghetto.",
+            "At least we can die honorably, not\\Nas a stain on the face of History."
+          ]
+        },
+        {
+          "shot": 460,
+          "duration": [
+            2636.2627700672488,
+            2639.2240663900416
+          ],
+          "sentences": [
+            "At least we can die honorably, not\\Nas a stain on the face of History.",
+            "Why are you so sure they're\\Nsending us to our death?"
+          ]
+        },
+        {
+          "shot": 461,
+          "duration": [
+            2639.2657747889543,
+            2643.7702818715125
+          ],
+          "sentences": [
+            "You know why I'm not sure?\\NBecause they didn't tell me.",
+            "- They're going to wipe us all out.\\N- What do you want me to do? Fight?"
+          ]
+        },
+        {
+          "shot": 462,
+          "duration": [
+            2643.811990270425,
+            2648.4833309486335
+          ],
+          "sentences": [
+            "- They're going to wipe us all out.\\N- What do you want me to do? Fight?",
+            "To fight, we need organization,\\Nplans, guns."
+          ]
+        },
+        {
+          "shot": 463,
+          "duration": [
+            2648.525039347546,
+            2652.1953784518532
+          ],
+          "sentences": [
+            "To fight, we need organization,\\Nplans, guns.",
+            "He's right. Do you think I'm going\\Nto fight with my violin bowl?",
+            "The Germans would never squander\\Na huge labor force like this."
+          ]
+        },
+        {
+          "shot": 464,
+          "duration": [
+            2652.2370868507655,
+            2654.948132780083
+          ],
+          "sentences": [
+            "The Germans would never squander\\Na huge labor force like this."
+          ]
+        },
+        {
+          "shot": 465,
+          "duration": [
+            2654.989841178996,
+            2671.0058663614254
+          ],
+          "sentences": [
+            "They're sending us to a labor camp,\\Nit's obvious.",
+            "Sure.",
+            "Look at that cripple, the old people,\\Nthe children. They're going to work?",
+            "Look at you. You're going to carry\\Nlogs on your back?"
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            2707.6258406066677,
+            2712.9645156674774
+          ],
+          "sentences": [
+            "Henryk! Halina, Henryk!"
+          ]
+        },
+        {
+          "shot": 472,
+          "duration": [
+            2713.00622406639,
+            2728.4383316640437
+          ],
+          "sentences": [
+            "Henryk! Halina, Henryk!",
+            "I missed you.\\NI wanted to be with you!"
+          ]
+        },
+        {
+          "shot": 473,
+          "duration": [
+            2728.480040062956,
+            2737.7393046215484
+          ],
+          "sentences": [
+            "I wanted to be with you!"
+          ]
+        },
+        {
+          "shot": 474,
+          "duration": [
+            2737.7810130204607,
+            2741.201101731292
+          ],
+          "sentences": [
+            "I wanted to be with you!",
+            "Stupid. Stupid."
+          ]
+        },
+        {
+          "shot": 475,
+          "duration": [
+            2741.242810130205,
+            2755.590499356131
+          ],
+          "sentences": [
+            "Why did I do it? Why did I do it?",
+            "She's getting on my nerves.",
+            "- What did she do, for God's sake?\\N- She smothered her baby."
+          ]
+        },
+        {
+          "shot": 476,
+          "duration": [
+            2755.632207755044,
+            2758.093003290886
+          ],
+          "sentences": [
+            "- What did she do, for God's sake?\\N- She smothered her baby."
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            2758.134711689798,
+            2760.512090427815
+          ],
+          "sentences": [
+            "They prepared a hiding place\\Nand of course they went there."
+          ]
+        },
+        {
+          "shot": 478,
+          "duration": [
+            2760.553798826728,
+            2771.022606953785
+          ],
+          "sentences": [
+            "They prepared a hiding place\\Nand of course they went there.",
+            "The baby cried\\Njust as the police came.",
+            "She smothered the cries with\\Nher hands, the baby died."
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            2771.064315352697,
+            2776.6532408069825
+          ],
+          "sentences": [
+            "She smothered the cries with\\Nher hands, the baby died.",
+            "A policeman heard the death rattle\\Nand found where they were hiding."
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            2798.758692230648,
+            2802.637573329518
+          ],
+          "sentences": [
+            "What are you reading?"
+          ]
+        },
+        {
+          "shot": 482,
+          "duration": [
+            2802.6792817284304,
+            2827.7877378738017
+          ],
+          "sentences": [
+            "What are you reading?",
+            "\"If you prick us, de we not bleed?\\NIf you tickle us, do we not laugh?",
+            "If you poison us, do we not die?",
+            "And, if you wrong us,\\Nshall we not revenge?\"",
+            "- Very appropriate.\\N- Yes. That's why I brought it."
+          ]
+        },
+        {
+          "shot": 484,
+          "duration": [
+            2835.2118328802403,
+            2846.306266990986
+          ],
+          "sentences": [
+            "Idiot. What does he think\\Nhe's gonna do with the money?"
+          ]
+        },
+        {
+          "shot": 485,
+          "duration": [
+            2846.3479753898987,
+            2848.391686936615
+          ],
+          "sentences": [
+            "Idiot. What does he think\\Nhe's gonna do with the money?"
+          ]
+        },
+        {
+          "shot": 486,
+          "duration": [
+            2848.433395335527,
+            2850.935899270282
+          ],
+          "sentences": [
+            "Idiot. What does he think\\Nhe's gonna do with the money?",
+            "Boy, come here."
+          ]
+        },
+        {
+          "shot": 487,
+          "duration": [
+            2850.9776076691946,
+            2853.0630276148236
+          ],
+          "sentences": [
+            "Boy, come here."
+          ]
+        },
+        {
+          "shot": 488,
+          "duration": [
+            2853.104736013736,
+            2858.985620260409
+          ],
+          "sentences": [
+            "Boy, come here.",
+            "Come here.",
+            "- How much for a caramel?\\N- 20 zlotys."
+          ]
+        },
+        {
+          "shot": 489,
+          "duration": [
+            2859.027328659322,
+            2860.1951638288742
+          ],
+          "sentences": [
+            "For one caramel? What do you think\\Nyou're gonna do with the money?"
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            2860.2368722277865,
+            2876.044355415653
+          ],
+          "sentences": [
+            "For one caramel? What do you think\\Nyou're gonna do with the money?",
+            "20 zlotys.",
+            "We've got 20 between us.",
+            "I've got 10, I think.",
+            "5, 10, 20."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            2876.086063814566,
+            2880.7574044927746
+          ],
+          "sentences": [
+            "5, 10, 20."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0005",
+      "shot": [
+        501,
+        689
+      ],
+      "frame": [
+        71775,
+        106332
+      ],
+      "duration": [
+        2993.631058559594,
+        4434.929105559594
+      ],
+      "consistency": 0.9618510424582567,
+      "description": "As they are going to the trains, Wladyslaw is suddenly yanked from the lines by Itzak Heller, a Jewish man working as a police guard. Wladyslaw watches the rest of his family board the train, never to be seen again. He hides for a few days in the cafe he played piano in with his old boss there. He later blends in with the ten percent or so of the Jews that the Nazis kept alive in the ghetto to use for slave labor, tearing down the brick walls separating the ghetto and rebuilding apartment houses for new, non-Jewish residents. He is put to work, under grueling, abusive conditions, building a wall. He thinks he sees an old friend Janina Godlewska (a singer), but she passes quickly. He learns that some of the Jews are planning an uprising, and helps them by smuggling guns into the ghetto. While carrying bricks, he drops a load of them and is given a new job supplying the workers with building supplies. He also helps smuggle guns in potato sacks -- the weapons will be given to the resistance fighters on the other side of the wall for the uprising. At one point, he is almost caught by a German officer, who suspects that Wladek is hiding something in a sack of beans. After this close call, he decides he must escape and take his chances in the larger city, so with the help of friend, Majorek (who was the friend that got his father working papers), he escapes and finds Janina and her husband.",
+      "subtitle": [
+        {
+          "shot": 501,
+          "duration": [
+            2988.0314064959225,
+            3007.6343539848335
+          ],
+          "sentences": [
+            "Szpilman?",
+            "Papa? Papa?"
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            3007.676062383746,
+            3012.931320646731
+          ],
+          "sentences": [
+            "Mama? Halina?"
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            3012.973029045643,
+            3020.4805408499074
+          ],
+          "sentences": [
+            "Halina? Mama?",
+            "What do you think you're doing?\\NI've saved your life. Just go! Go!"
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            3020.5222492488197,
+            3026.0694663041922
+          ],
+          "sentences": [
+            "What do you think you're doing?\\NI've saved your life. Just go! Go!",
+            "Don't run!"
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            3026.111174703105,
+            3028.655387036772
+          ],
+          "sentences": [
+            "Don't run!"
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            3028.697095435685,
+            3034.661396480183
+          ],
+          "sentences": [
+            "Anna!",
+            "Anna!"
+          ]
+        },
+        {
+          "shot": 508,
+          "duration": [
+            3041.08448991272,
+            3057.3924738875376
+          ],
+          "sentences": [
+            "Off they go to the melting pot."
+          ]
+        },
+        {
+          "shot": 509,
+          "duration": [
+            3057.4341822864503,
+            3064.3994849048504
+          ],
+          "sentences": [
+            "- This stays.\\N- Give it to me!"
+          ]
+        },
+        {
+          "shot": 511,
+          "duration": [
+            3066.4014880526543,
+            3075.785877807984
+          ],
+          "sentences": [
+            "What are you doing?\\NShe's pregnant."
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            3207.000500786951,
+            3233.7772928888253
+          ],
+          "sentences": [
+            "Wladek?"
+          ]
+        },
+        {
+          "shot": 532,
+          "duration": [
+            3235.7375876377164,
+            3272.69122907426
+          ],
+          "sentences": [
+            "Why are you here, Wladek?",
+            "It's like this, I...",
+            "We...",
+            "All of them, all of them.",
+            "All of them.",
+            "Perhaps they're lucky.\\NThe quicker, the better.",
+            "It's not finished yet. We'll stay\\Nhere for a couple of days...",
+            "until things die down.",
+            "I've bribed the policeman,\\Nhe'll come when it's over."
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            3272.732937473172,
+            3274.818357418801
+          ],
+          "sentences": [
+            "Attention!\\NOn the march!"
+          ]
+        },
+        {
+          "shot": 534,
+          "duration": [
+            3274.860065817714,
+            3290.417298612105
+          ],
+          "sentences": [
+            "Attention!\\NOn the march!",
+            "Onward!"
+          ]
+        },
+        {
+          "shot": 535,
+          "duration": [
+            3290.4590070110175,
+            3297.2991844326802
+          ],
+          "sentences": [
+            "My God, I haven't been outside in,\\Nit must be two years.",
+            "Don't get overexcited."
+          ]
+        },
+        {
+          "shot": 536,
+          "duration": [
+            3297.3408928315926,
+            3319.8217198454718
+          ],
+          "sentences": [
+            "It's gold.\\NVery good price."
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            3337.047288596366,
+            3343.0115896408643
+          ],
+          "sentences": [
+            "Someone you know?",
+            "A beauty.\\NWho is she?",
+            "She's a singer. I knew her well.\\NHer husband is an actor."
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            3343.053298039777,
+            3347.47438832451
+          ],
+          "sentences": [
+            "She's a singer. I knew her well.\\NHer husband is an actor.",
+            "They're good people.\\NI'd like to talk to her."
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            3347.516096723423,
+            3352.6462297896696
+          ],
+          "sentences": [
+            "They're good people.\\NI'd like to talk to her.",
+            "Don't forget, Wladek.\\NThey hang them for helping Jews."
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            3352.6879381885824,
+            3355.273858921162
+          ],
+          "sentences": [
+            "Don't forget, Wladek.\\NThey hang them for helping Jews."
+          ]
+        },
+        {
+          "shot": 553,
+          "duration": [
+            3379.3813134926313,
+            3417.0439977106885
+          ],
+          "sentences": [
+            "Turn left!",
+            "On the march!",
+            "Stop! Halt!\\NAttention!",
+            "At ease.",
+            "Turn right!",
+            "Step forward."
+          ]
+        },
+        {
+          "shot": 554,
+          "duration": [
+            3417.085706109601,
+            3418.5037916726287
+          ],
+          "sentences": [
+            "Step forward."
+          ]
+        },
+        {
+          "shot": 555,
+          "duration": [
+            3418.545500071541,
+            3420.63092001717
+          ],
+          "sentences": [
+            "Step forward.",
+            "You."
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            3420.6726284160827,
+            3449.3680068679355
+          ],
+          "sentences": [
+            "You.",
+            "You. You.",
+            "You.",
+            "Down on the ground!",
+            "Down on the ground!"
+          ]
+        },
+        {
+          "shot": 560,
+          "duration": [
+            3462.839819716698,
+            3468.5955787666335
+          ],
+          "sentences": [
+            "Turn left!",
+            "On the march."
+          ]
+        },
+        {
+          "shot": 561,
+          "duration": [
+            3468.6372871655462,
+            3482.4010588066963
+          ],
+          "sentences": [
+            "On the march."
+          ]
+        },
+        {
+          "shot": 567,
+          "duration": [
+            3510.470811274861,
+            3558.3937616254116
+          ],
+          "sentences": [
+            "How long have you been here?",
+            "Since last night.",
+            "I was pleased to see you.",
+            "They're going to start\\Nthe final resettlement now.",
+            "We know what it means.",
+            "We sent someone out.\\NZygmund, a good man.",
+            "His orders were to follow\\Nthe trains out of Warsaw.",
+            "He got to Sokolow.",
+            "A man told him the tracks divided,\\None branch's leading to Treblinka.",
+            "He said everyday freight trains\\Ncarrying people from Warsaw...",
+            "branch off to Treblinka\\Nand return empty."
+          ]
+        },
+        {
+          "shot": 568,
+          "duration": [
+            3558.435470024324,
+            3566.8605666046647
+          ],
+          "sentences": [
+            "branch off to Treblinka\\Nand return empty.",
+            "No transports of food\\Nare ever seen on that line.",
+            "The civilians are forbidden\\Nto approach the Treblinka station."
+          ]
+        },
+        {
+          "shot": 569,
+          "duration": [
+            3566.9022750035774,
+            3575.8695807697814
+          ],
+          "sentences": [
+            "They're exterminating us."
+          ]
+        },
+        {
+          "shot": 570,
+          "duration": [
+            3575.9112891686937,
+            3582.2092574044927
+          ],
+          "sentences": [
+            "It won't take them long.",
+            "We are 60 thousand left,\\Nout of half a million."
+          ]
+        },
+        {
+          "shot": 571,
+          "duration": [
+            3582.2509658034055,
+            3597.891615395622
+          ],
+          "sentences": [
+            "We are 60 thousand left,\\Nout of half a million.",
+            "Mostly young people.",
+            "And this time we're gonna fight.",
+            "We're in good shape.",
+            "Organized.\\NWe're prepared."
+          ]
+        },
+        {
+          "shot": 572,
+          "duration": [
+            3597.9333237945343,
+            3602.3544140792674
+          ],
+          "sentences": [
+            "Organized.\\NWe're prepared.",
+            "If you need help, I..."
+          ]
+        },
+        {
+          "shot": 573,
+          "duration": [
+            3602.39612247818,
+            3607.6513807411648
+          ],
+          "sentences": [
+            "If you need help, I..."
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            3623.4588639290314,
+            3642.728144226642
+          ],
+          "sentences": [
+            "You! Come here!",
+            "Shit!",
+            "I'm sorry. I'm sorry.",
+            "I don't know what I was thinking."
+          ]
+        },
+        {
+          "shot": 581,
+          "duration": [
+            3642.7698526255544,
+            3652.8632851623984
+          ],
+          "sentences": [
+            "I don't know what I was thinking."
+          ]
+        },
+        {
+          "shot": 582,
+          "duration": [
+            3652.9049935613107,
+            3656.116540277579
+          ],
+          "sentences": [
+            "Take this! Take this!"
+          ]
+        },
+        {
+          "shot": 583,
+          "duration": [
+            3656.158248676492,
+            3660.287380168837
+          ],
+          "sentences": [
+            "Take this! Take this!"
+          ]
+        },
+        {
+          "shot": 587,
+          "duration": [
+            3668.378809557877,
+            3672.925025039348
+          ],
+          "sentences": [
+            "Take him away."
+          ]
+        },
+        {
+          "shot": 588,
+          "duration": [
+            3672.9667334382602,
+            3685.3958363142083
+          ],
+          "sentences": [
+            "Take him away."
+          ]
+        },
+        {
+          "shot": 589,
+          "duration": [
+            3685.4375447131206,
+            3691.0681785663187
+          ],
+          "sentences": [
+            "I hope you play the piano better\\Nthan you carry bricks."
+          ]
+        },
+        {
+          "shot": 590,
+          "duration": [
+            3691.1098869652315,
+            3693.5289741021606
+          ],
+          "sentences": [
+            "I hope you play the piano better\\Nthan you carry bricks."
+          ]
+        },
+        {
+          "shot": 591,
+          "duration": [
+            3693.5706825010734,
+            3696.531978823866
+          ],
+          "sentences": [
+            "I hope you play the piano better\\Nthan you carry bricks.",
+            "He won't last long\\Nif he goes on like this."
+          ]
+        },
+        {
+          "shot": 592,
+          "duration": [
+            3696.573687222779,
+            3699.5766919444845
+          ],
+          "sentences": [
+            "He won't last long\\Nif he goes on like this.",
+            "I'll see if I can get him\\Nsomething better."
+          ]
+        },
+        {
+          "shot": 593,
+          "duration": [
+            3699.618400343397,
+            3701.662111890113
+          ],
+          "sentences": [
+            "I'll see if I can get him\\Nsomething better."
+          ]
+        },
+        {
+          "shot": 594,
+          "duration": [
+            3701.7038202890258,
+            3705.582701387895
+          ],
+          "sentences": [
+            "I'll see if I can get him\\Nsomething better."
+          ]
+        },
+        {
+          "shot": 599,
+          "duration": [
+            3724.1012305050795,
+            3726.1449420517956
+          ],
+          "sentences": [
+            "Trouble."
+          ]
+        },
+        {
+          "shot": 600,
+          "duration": [
+            3726.1866504507084,
+            3728.897696380026
+          ],
+          "sentences": [
+            "Round up only the Jews!"
+          ]
+        },
+        {
+          "shot": 601,
+          "duration": [
+            3728.9394047789383,
+            3735.696165402776
+          ],
+          "sentences": [
+            "Round up!\\NOnly the Jews.",
+            "The Polish keep working.\\NOnly the Jews."
+          ]
+        },
+        {
+          "shot": 603,
+          "duration": [
+            3740.9097152668483,
+            3743.4539276005153
+          ],
+          "sentences": [
+            "I have good news for you."
+          ]
+        },
+        {
+          "shot": 604,
+          "duration": [
+            3743.495635999428,
+            3765.350837029618
+          ],
+          "sentences": [
+            "I have good news for you.",
+            "There are rumors going around\\Nthat we like to...",
+            "to resettle you.",
+            "I promise you that now\\Nand in the future...",
+            "nothing else is planned."
+          ]
+        },
+        {
+          "shot": 605,
+          "duration": [
+            3765.392545428531,
+            3769.5633853197883
+          ],
+          "sentences": [
+            "For this reason, we put\\Ninformation posters on the wall."
+          ]
+        },
+        {
+          "shot": 606,
+          "duration": [
+            3769.605093718701,
+            3784.286450135928
+          ],
+          "sentences": [
+            "For this reason, we put\\Ninformation posters on the wall.",
+            "To show you our goodwill...",
+            "you should vote one of you\\Nto be allowed...",
+            "to go in town daily..."
+          ]
+        },
+        {
+          "shot": 607,
+          "duration": [
+            3784.3281585348404,
+            3787.9150808413224
+          ],
+          "sentences": [
+            "to go in town daily...",
+            "and bring 3 kilos of potatoes..."
+          ]
+        },
+        {
+          "shot": 608,
+          "duration": [
+            3787.9567892402347,
+            3801.261768493347
+          ],
+          "sentences": [
+            "and bring 3 kilos of potatoes...",
+            "and one loaf of bread\\Nfor each of your workers.",
+            "So, why should we do something\\Nlike this if we'd resettle you?"
+          ]
+        },
+        {
+          "shot": 609,
+          "duration": [
+            3801.3034768922594,
+            3804.264773215052
+          ],
+          "sentences": [
+            "So, why should we do something\\Nlike this if we'd resettle you?",
+            "You can make good business\\Nout of the things you don't eat."
+          ]
+        },
+        {
+          "shot": 610,
+          "duration": [
+            3804.306481613965,
+            3815.025540134497
+          ],
+          "sentences": [
+            "You can make good business\\Nout of the things you don't eat.",
+            "Isn't that something that you Jews\\Nare good in? Making money?"
+          ]
+        },
+        {
+          "shot": 611,
+          "duration": [
+            3815.06724853341,
+            3817.8200028616398
+          ],
+          "sentences": [
+            "Isn't that something that you Jews\\Nare good in? Making money?"
+          ]
+        },
+        {
+          "shot": 612,
+          "duration": [
+            3817.8617112605525,
+            3820.1556732007443
+          ],
+          "sentences": [
+            "Dismiss them."
+          ]
+        },
+        {
+          "shot": 613,
+          "duration": [
+            3820.1973815996566,
+            3836.255115180999
+          ],
+          "sentences": [
+            "Dismiss them."
+          ]
+        },
+        {
+          "shot": 614,
+          "duration": [
+            3836.2968235799117,
+            3841.3018314494207
+          ],
+          "sentences": [
+            "That one, with the string.\\NThe others, tied by wire."
+          ]
+        },
+        {
+          "shot": 627,
+          "duration": [
+            3907.8684361138935,
+            3910.3292316497354
+          ],
+          "sentences": [
+            "Now!"
+          ]
+        },
+        {
+          "shot": 628,
+          "duration": [
+            3910.370940048648,
+            3914.2915295464304
+          ],
+          "sentences": [
+            "Now!"
+          ]
+        },
+        {
+          "shot": 632,
+          "duration": [
+            3945.3642867363,
+            4017.3112748604954
+          ],
+          "sentences": [
+            "Majorek.",
+            "I have a favor to ask.",
+            "I want to get out of here.",
+            "It's easy to get out. It's how you'll\\Nsurvive on the other side that's hard.",
+            "I know.",
+            "Last summer, I worked for a day\\Nin the Zelazna Brama Square.",
+            "I saw someone I knew,\\Nshe's an old friend.",
+            "A singer, her husband\\Nis an actor.",
+            "I've filled their names down and\\Ntheir address, if they're still there.",
+            "Janina Godlewska and Andrzej\\NBogucki. They're good people.",
+            "Would you try to make contact?",
+            "You go to town everyday. Ask them\\Nif they'd help me get out of here."
+          ]
+        },
+        {
+          "shot": 636,
+          "duration": [
+            4032.0343396766348,
+            4033.994634425526
+          ],
+          "sentences": [
+            "Have you got any plaster?"
+          ]
+        },
+        {
+          "shot": 637,
+          "duration": [
+            4034.0363428244386,
+            4036.5805551581057
+          ],
+          "sentences": [
+            "Have you got any plaster?"
+          ]
+        },
+        {
+          "shot": 638,
+          "duration": [
+            4036.6222635570184,
+            4066.1101015882105
+          ],
+          "sentences": [
+            "Have you got any plaster?",
+            "What are you up to?",
+            "What have you got there?",
+            "We are allowed to take\\Nfood to the ghetto.",
+            "Three kilos of potato and bread.",
+            "Open it."
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            4066.1518099871228,
+            4071.6156102446703
+          ],
+          "sentences": [
+            "- It's only potatoes and bread.\\N- You're lying. That's not true."
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            4071.657318643583,
+            4085.5879238803836
+          ],
+          "sentences": [
+            "- It's only potatoes and bread.\\N- You're lying. That's not true.",
+            "Open it."
+          ]
+        },
+        {
+          "shot": 644,
+          "duration": [
+            4101.437115467163,
+            4106.0667477464585
+          ],
+          "sentences": [
+            "Potatoes!"
+          ]
+        },
+        {
+          "shot": 645,
+          "duration": [
+            4106.108456145372,
+            4112.781799971383
+          ],
+          "sentences": [
+            "You Jews are all alike.",
+            "We reach you with a finger..."
+          ]
+        },
+        {
+          "shot": 646,
+          "duration": [
+            4112.823508370297,
+            4115.909929889827
+          ],
+          "sentences": [
+            "We reach you with a finger..."
+          ]
+        },
+        {
+          "shot": 647,
+          "duration": [
+            4115.95163828874,
+            4122.708398912577
+          ],
+          "sentences": [
+            "We reach you with a finger...",
+            "and you take the whole hand."
+          ]
+        },
+        {
+          "shot": 649,
+          "duration": [
+            4131.425454285306,
+            4138.265631706969
+          ],
+          "sentences": [
+            "If you lie to me again,\\NI'll kill you. Personally."
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            4157.2429532121905,
+            4161.12183431106
+          ],
+          "sentences": [
+            "I've tried your friends."
+          ]
+        },
+        {
+          "shot": 653,
+          "duration": [
+            4161.163542709973,
+            4175.761482329375
+          ],
+          "sentences": [
+            "I've tried your friends.",
+            "- They don't live there anymore.\\N- Did you make contact?",
+            "- Be ready to leave.\\N- When?",
+            "- Soon.\\N- Halt!",
+            "Shit! Shit!",
+            "Wait. What's going on here?"
+          ]
+        },
+        {
+          "shot": 654,
+          "duration": [
+            4175.8031907282875,
+            4178.472528258692
+          ],
+          "sentences": [
+            "Wait. What's going on here?",
+            "Take this! Take this!"
+          ]
+        },
+        {
+          "shot": 655,
+          "duration": [
+            4178.514236657605,
+            4180.391114608671
+          ],
+          "sentences": [
+            "Take this! Take this!"
+          ]
+        },
+        {
+          "shot": 656,
+          "duration": [
+            4180.4328230075835,
+            4183.519244527114
+          ],
+          "sentences": [
+            "Take this! Take this!"
+          ]
+        },
+        {
+          "shot": 658,
+          "duration": [
+            4187.64837601946,
+            4193.404135069395
+          ],
+          "sentences": [
+            "I'll teach you some discipline,\\Nyou dirty Jews."
+          ]
+        },
+        {
+          "shot": 659,
+          "duration": [
+            4193.445843468307,
+            4199.576978108456
+          ],
+          "sentences": [
+            "Do you know why\\Nyou're being hit?",
+            "- No.\\N- Do you know why you're being hit?"
+          ]
+        },
+        {
+          "shot": 660,
+          "duration": [
+            4199.618686507369,
+            4206.9176563170695
+          ],
+          "sentences": [
+            "- No.\\N- Do you know why you're being hit?",
+            "- Why?\\N- To celebrate New Year."
+          ]
+        },
+        {
+          "shot": 661,
+          "duration": [
+            4206.959364715983,
+            4208.627700672486
+          ],
+          "sentences": [
+            "- Why?\\N- To celebrate New Year."
+          ]
+        },
+        {
+          "shot": 662,
+          "duration": [
+            4208.669409071398,
+            4211.463871798541
+          ],
+          "sentences": [
+            "On the march!"
+          ]
+        },
+        {
+          "shot": 663,
+          "duration": [
+            4211.505580197453,
+            4216.46887966805
+          ],
+          "sentences": [
+            "On the march!",
+            "March and sing!",
+            "Sing something nice!"
+          ]
+        },
+        {
+          "shot": 664,
+          "duration": [
+            4216.510588066963,
+            4229.356774932036
+          ],
+          "sentences": [
+            "Sing something nice!",
+            "Loud and clear!",
+            "Reunite tonight\\NAnd follow the white eagle",
+            "Stand up and fight\\NOur mortal enemies"
+          ]
+        },
+        {
+          "shot": 665,
+          "duration": [
+            4229.398483330949,
+            4235.446201173272
+          ],
+          "sentences": [
+            "Stand up and fight\\NOur mortal enemies",
+            "Rise on the day\\NLet's give them fire and brimstone",
+            "We'll do away\\NThe Yoke of slavery"
+          ]
+        },
+        {
+          "shot": 666,
+          "duration": [
+            4235.487909572185,
+            4237.573329517814
+          ],
+          "sentences": [
+            "We'll do away\\NThe Yoke of slavery"
+          ]
+        },
+        {
+          "shot": 667,
+          "duration": [
+            4237.615037916727,
+            4245.873300901417
+          ],
+          "sentences": [
+            "We'll do away\\NThe Yoke of slavery",
+            "Punish and rout\\NThe rapists of our nation",
+            "We'll slash them out\\NTo save our dignity"
+          ]
+        },
+        {
+          "shot": 668,
+          "duration": [
+            4245.915009300329,
+            4254.173272285019
+          ],
+          "sentences": [
+            "We'll slash them out\\NTo save our dignity"
+          ]
+        },
+        {
+          "shot": 672,
+          "duration": [
+            4278.322435255402,
+            4284.203319502075
+          ],
+          "sentences": [
+            "Come."
+          ]
+        },
+        {
+          "shot": 676,
+          "duration": [
+            4351.979467735013,
+            4366.202031764201
+          ],
+          "sentences": [
+            "I'm sorry.",
+            "I'm dirty. I'm so filthy."
+          ]
+        },
+        {
+          "shot": 679,
+          "duration": [
+            4376.629131492346,
+            4391.685863499785
+          ],
+          "sentences": [
+            "We haven't much time.\\NCome on."
+          ]
+        },
+        {
+          "shot": 681,
+          "duration": [
+            4395.856703391043,
+            4400.152668479039
+          ],
+          "sentences": [
+            "We must hurry.",
+            "Here. See if this fit."
+          ]
+        },
+        {
+          "shot": 682,
+          "duration": [
+            4400.194376877951,
+            4402.822006009444
+          ],
+          "sentences": [
+            "Here. See if this fit.",
+            "We have to keep moving you. Germans\\Nare hunting down indiscriminately."
+          ]
+        },
+        {
+          "shot": 683,
+          "duration": [
+            4402.863714408356,
+            4415.125983688654
+          ],
+          "sentences": [
+            "We have to keep moving you. Germans\\Nare hunting down indiscriminately.",
+            "Jews, non-Jews, anybody, everybody.",
+            "You better shave.\\NUse my razor on the shelf."
+          ]
+        },
+        {
+          "shot": 687,
+          "duration": [
+            4426.5540849907,
+            4429.849048504793
+          ],
+          "sentences": [
+            "You'll be looked after\\Nby Gebczynski."
+          ]
+        },
+        {
+          "shot": 688,
+          "duration": [
+            4429.8907569037065,
+            4434.145013592789
+          ],
+          "sentences": [
+            "You'll be looked after\\Nby Gebczynski.",
+            "He's on the other side of town.",
+            "You stay there tonight,\\Nthen we'll find you somewhere else."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0006",
+      "shot": [
+        693,
+        823
+      ],
+      "frame": [
+        106475,
+        127504
+      ],
+      "duration": [
+        4440.924036167979,
+        5317.984449167979
+      ],
+      "consistency": 0.9539717875739988,
+      "description": "They take Wladyslaw to his caretaker Gebczynski (a man with the Polish resistance), who hides him for one night. The next day Gebczynski takes him to a vacant apartment near the ghetto wall, where he can live indefinitely on smuggled food; he must be silent however, since several non-Jews also live in the building and believe the apartment is empty. There, Wladek watches the Jewish Ghetto Uprising of April/May1943, for which he helped smuggle the weapons, and watches weeks later as the uprising is finally crushed and its participants killed. Later, Gebczynski wants to move Wladek as the Nazis have found the weapons of the Polish resistance, forcing Gebczynski to be on the run also. Gebczynski says it's only a matter of time before the Nazis find the apartment Wladek is hiding in. Wladek decides to stay put, feeling safer where he is. His friend gives him an address to go to in case of an emergency, and leaves, gravely warning Wladek not to be caught alive by the Nazis. Wladyslaw remains in the apartment a few more months until he has an accident, breaking some dishes. The noise has blown his cover, and he has to scurry out of the building, being chased by an angry German woman who suspects him of being Jewish.",
+      "subtitle": [
+        {
+          "shot": 700,
+          "duration": [
+            4480.983545571613,
+            4484.111675490056
+          ],
+          "sentences": [
+            "I'll show you where\\Nyou're going to sleep."
+          ]
+        },
+        {
+          "shot": 701,
+          "duration": [
+            4484.153383888968,
+            4489.325225354128
+          ],
+          "sentences": [
+            "I'll show you where\\Nyou're going to sleep."
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            4511.806052368007,
+            4515.309557876663
+          ],
+          "sentences": [
+            "You have to stay here\\Nuntil tomorrow afternoon."
+          ]
+        },
+        {
+          "shot": 707,
+          "duration": [
+            4515.351266275577,
+            4520.648232937473
+          ],
+          "sentences": [
+            "You have to stay here\\Nuntil tomorrow afternoon.",
+            "We have a flat for you near\\Nthe ghetto wall. But it's safe."
+          ]
+        },
+        {
+          "shot": 708,
+          "duration": [
+            4520.689941336386,
+            4524.110030047217
+          ],
+          "sentences": [
+            "We have a flat for you near\\Nthe ghetto wall. But it's safe."
+          ]
+        },
+        {
+          "shot": 710,
+          "duration": [
+            4529.448705108027,
+            4542.211475175276
+          ],
+          "sentences": [
+            "It's not going to be very comfortable.",
+            "I'll be fine."
+          ]
+        },
+        {
+          "shot": 712,
+          "duration": [
+            4544.2134783230795,
+            4560.5214622978965
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 713,
+          "duration": [
+            4560.56317069681,
+            4569.780726856489
+          ],
+          "sentences": [
+            "Here. Here. Give it to me.",
+            "Go as near to the front as possible,\\Nto the German section."
+          ]
+        },
+        {
+          "shot": 716,
+          "duration": [
+            4588.049005580197,
+            4594.430390613822
+          ],
+          "sentences": [
+            "DO NOT PASS"
+          ]
+        },
+        {
+          "shot": 722,
+          "duration": [
+            4619.914222349406,
+            4635.012662755759
+          ],
+          "sentences": [
+            "I'm going to draw the curtains now.",
+            "But you leave them open\\Nduring the day. Don't forget."
+          ]
+        },
+        {
+          "shot": 723,
+          "duration": [
+            4635.054371154672,
+            4637.598583488339
+          ],
+          "sentences": [
+            "Must feel better on\\Nthis side of the wall, eh?"
+          ]
+        },
+        {
+          "shot": 724,
+          "duration": [
+            4637.640291887252,
+            4645.5231792817285
+          ],
+          "sentences": [
+            "Must feel better on\\Nthis side of the wall, eh?",
+            "Yes.",
+            "But sometimes I'm still not sure\\Nwhich side of the wall I'm on."
+          ]
+        },
+        {
+          "shot": 725,
+          "duration": [
+            4645.564887680641,
+            4648.651309200171
+          ],
+          "sentences": [
+            "But sometimes I'm still not sure\\Nwhich side of the wall I'm on."
+          ]
+        },
+        {
+          "shot": 726,
+          "duration": [
+            4648.693017599085,
+            4691.193876091001
+          ],
+          "sentences": [
+            "Some bread, potatoes, onions.",
+            "I'll come again.\\NJanina will visit you twice a week.",
+            "To bring more food,\\Nsee how you are.",
+            "Thank you.",
+            "This is very important.\\NIn case of emergency...",
+            "I mean emergency,\\Ngo to this address."
+          ]
+        },
+        {
+          "shot": 727,
+          "duration": [
+            4691.235584489913,
+            4720.264630133066
+          ],
+          "sentences": [
+            "What do you mean you forgot?",
+            "What do you think I mean?\\NI forgot, that's what I mean.",
+            "- You know, you treat me like dirt.\\N- Because you are a dirt."
+          ]
+        },
+        {
+          "shot": 728,
+          "duration": [
+            4720.306338531979,
+            4724.9776792101875
+          ],
+          "sentences": [
+            "- You know, you treat me like dirt.\\N- Because you are a dirt."
+          ]
+        },
+        {
+          "shot": 729,
+          "duration": [
+            4725.0193876091,
+            4727.647016740592
+          ],
+          "sentences": [
+            "- Pig! Pig!\\N- Bitch!"
+          ]
+        },
+        {
+          "shot": 730,
+          "duration": [
+            4727.688725139506,
+            4733.569609386179
+          ],
+          "sentences": [
+            "- Dirty pig!\\N- You are a dirty pig!",
+            "Takes one to know one. Pig."
+          ]
+        },
+        {
+          "shot": 731,
+          "duration": [
+            4733.611317785091,
+            4755.800186006582
+          ],
+          "sentences": [
+            "- You play like an angel.\\N- Then why don't you listen?",
+            "- I'm listening.\\N- Liar.",
+            "You fell asleep. Pig."
+          ]
+        },
+        {
+          "shot": 733,
+          "duration": [
+            4763.516239805409,
+            4772.692087566175
+          ],
+          "sentences": [
+            "Spread out!\\NWe're being attacked!"
+          ]
+        },
+        {
+          "shot": 734,
+          "duration": [
+            4772.733795965089,
+            4775.736800686794
+          ],
+          "sentences": [
+            "Spread out!\\NWe're being attacked!"
+          ]
+        },
+        {
+          "shot": 735,
+          "duration": [
+            4775.778509085706,
+            4781.367434539991
+          ],
+          "sentences": [
+            "Take cover!",
+            "Shoot!"
+          ]
+        },
+        {
+          "shot": 736,
+          "duration": [
+            4781.409142938905,
+            4783.828230075834
+          ],
+          "sentences": [
+            "Shoot!"
+          ]
+        },
+        {
+          "shot": 737,
+          "duration": [
+            4783.869938474746,
+            4796.38245814852
+          ],
+          "sentences": [
+            "Take cover! Fire!"
+          ]
+        },
+        {
+          "shot": 739,
+          "duration": [
+            4799.343754471312,
+            4804.97438832451
+          ],
+          "sentences": [
+            "Come on, get out!"
+          ]
+        },
+        {
+          "shot": 757,
+          "duration": [
+            4887.765560165975,
+            4896.0238231506655
+          ],
+          "sentences": [
+            "The attack was successful.",
+            "That building..."
+          ]
+        },
+        {
+          "shot": 758,
+          "duration": [
+            4896.065531549578,
+            4902.57204177994
+          ],
+          "sentences": [
+            "That building..."
+          ]
+        },
+        {
+          "shot": 760,
+          "duration": [
+            4905.15796251252,
+            4916.711189011304
+          ],
+          "sentences": [
+            "Turn that way!",
+            "Shoot!"
+          ]
+        },
+        {
+          "shot": 763,
+          "duration": [
+            4921.716196880813,
+            4944.113607096867
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 764,
+          "duration": [
+            4944.155315495779,
+            4951.871369294606
+          ],
+          "sentences": [
+            "- I wanted to come earlier, but...\\N- No, thank you."
+          ]
+        },
+        {
+          "shot": 765,
+          "duration": [
+            4951.913077693519,
+            4958.044212333667
+          ],
+          "sentences": [
+            "No-one thought\\Nthey'd hold out so long.",
+            "I never should've come out. I should\\Nhave stayed and fought with them."
+          ]
+        },
+        {
+          "shot": 766,
+          "duration": [
+            4958.08592073258,
+            4965.885391329231
+          ],
+          "sentences": [
+            "I never should've come out. I should\\Nhave stayed and fought with them.",
+            "Wladek, stop that. It's over now.",
+            "Just be proud of them."
+          ]
+        },
+        {
+          "shot": 767,
+          "duration": [
+            4965.927099728145,
+            4973.017527543282
+          ],
+          "sentences": [
+            "- My God, did they put up a fight!\\N- Yes.",
+            "- So did the Germans.\\N- They are in shock!"
+          ]
+        },
+        {
+          "shot": 768,
+          "duration": [
+            4973.059235942195,
+            4995.331520961511
+          ],
+          "sentences": [
+            "- So did the Germans.\\N- They are in shock!",
+            "They didn't expect it. Nobody\\Nexpected it. Jews fighting back.",
+            "- Who would have thought?\\N- What good did it do?",
+            "What good?",
+            "Wladek, I'm surprised with you.",
+            "They died with dignity.\\NAnd you know something else?"
+          ]
+        },
+        {
+          "shot": 769,
+          "duration": [
+            4995.3732293604235,
+            5000.419945628845
+          ],
+          "sentences": [
+            "Now the Poles will rise.\\NWe are ready."
+          ]
+        },
+        {
+          "shot": 770,
+          "duration": [
+            5000.461654027758,
+            5008.719917012449
+          ],
+          "sentences": [
+            "We'll fight too.\\NYou'll see."
+          ]
+        },
+        {
+          "shot": 774,
+          "duration": [
+            5017.895764773215,
+            5020.189726713407
+          ],
+          "sentences": [
+            "Get your things together.\\NYou have to leave."
+          ]
+        },
+        {
+          "shot": 775,
+          "duration": [
+            5020.23143511232,
+            5023.776649019888
+          ],
+          "sentences": [
+            "Get your things together.\\NYou have to leave.",
+            "What? What's happened?"
+          ]
+        },
+        {
+          "shot": 776,
+          "duration": [
+            5023.8183574188015,
+            5027.947488911146
+          ],
+          "sentences": [
+            "- I'm on the run.\\N- What's happened?"
+          ]
+        },
+        {
+          "shot": 777,
+          "duration": [
+            5027.989197310058,
+            5032.785663185005
+          ],
+          "sentences": [
+            "- I'm on the run.\\N- What's happened?",
+            "The Gestapo found our weapons.\\NThey've arrested Janina and Andrzej."
+          ]
+        },
+        {
+          "shot": 778,
+          "duration": [
+            5032.827371583918,
+            5035.079625125197
+          ],
+          "sentences": [
+            "The Gestapo found our weapons.\\NThey've arrested Janina and Andrzej.",
+            "They're bound to find out about this\\Nplace too. You must get away at once."
+          ]
+        },
+        {
+          "shot": 779,
+          "duration": [
+            5035.121333524109,
+            5037.915796251252
+          ],
+          "sentences": [
+            "They're bound to find out about this\\Nplace too. You must get away at once.",
+            "Where do you want me to go?"
+          ]
+        },
+        {
+          "shot": 780,
+          "duration": [
+            5037.957504650165,
+            5040.209758191444
+          ],
+          "sentences": [
+            "Where do you want me to go?"
+          ]
+        },
+        {
+          "shot": 781,
+          "duration": [
+            5040.251466590356,
+            5042.08663614251
+          ],
+          "sentences": [
+            "Look at me, I'm not leaving."
+          ]
+        },
+        {
+          "shot": 782,
+          "duration": [
+            5042.128344541423,
+            5046.549434826155
+          ],
+          "sentences": [
+            "Look at me, I'm not leaving.",
+            "- Can I take my chances here?\\N- That's your decision."
+          ]
+        },
+        {
+          "shot": 783,
+          "duration": [
+            5046.591143225068,
+            5056.80970095865
+          ],
+          "sentences": [
+            "- Can I take my chances here?\\N- That's your decision.",
+            "But when they storm the flat,\\Nthrow yourself out the window...",
+            "don't let them get you alive.",
+            "I have poison on me.\\NThey won't get me alive either."
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            5239.575904993561,
+            5262.223565603091
+          ],
+          "sentences": [
+            "Open up!",
+            "Open the door\\Nor we'll call the police!"
+          ]
+        },
+        {
+          "shot": 813,
+          "duration": [
+            5290.001359278867,
+            5294.2139075690375
+          ],
+          "sentences": [
+            "Are you from this flat?\\NYou're not registered."
+          ]
+        },
+        {
+          "shot": 814,
+          "duration": [
+            5294.25561596795,
+            5297.133495492918
+          ],
+          "sentences": [
+            "It belongs to a friend of mine. I just\\Ncame to visit, but I missed him."
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            5297.17520389183,
+            5299.5942910287595
+          ],
+          "sentences": [
+            "It belongs to a friend of mine. I just\\Ncame to visit, but I missed him.",
+            "Have you got your identity card?"
+          ]
+        },
+        {
+          "shot": 816,
+          "duration": [
+            5299.635999427673,
+            5301.429460580913
+          ],
+          "sentences": [
+            "Have you got your identity card?",
+            "- Let me see your identity card.\\N- Yes, of course."
+          ]
+        },
+        {
+          "shot": 817,
+          "duration": [
+            5301.471168979826,
+            5303.014379739591
+          ],
+          "sentences": [
+            "- Let me see your identity card.\\N- Yes, of course."
+          ]
+        },
+        {
+          "shot": 818,
+          "duration": [
+            5303.056088138504,
+            5307.226928029761
+          ],
+          "sentences": [
+            "- Let me see your identity card.\\N- Yes, of course.",
+            "- I want to see your identity card!\\N- What's happening?"
+          ]
+        },
+        {
+          "shot": 819,
+          "duration": [
+            5307.268636428674,
+            5309.520889969953
+          ],
+          "sentences": [
+            "- I want to see your identity card!\\N- What's happening?",
+            "He's a Jew! A Jew!"
+          ]
+        },
+        {
+          "shot": 820,
+          "duration": [
+            5309.562598368866,
+            5310.313349549292
+          ],
+          "sentences": [
+            "He's a Jew! A Jew!"
+          ]
+        },
+        {
+          "shot": 821,
+          "duration": [
+            5310.355057948204,
+            5311.439476319932
+          ],
+          "sentences": [
+            "He's a Jew! A Jew!"
+          ]
+        },
+        {
+          "shot": 822,
+          "duration": [
+            5311.481184718844,
+            5329.832880240378
+          ],
+          "sentences": [
+            "He's a Jew! A Jew!",
+            "Stop the Jew!",
+            "Don't let him out!\\NStop him!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0007",
+      "shot": [
+        825,
+        921
+      ],
+      "frame": [
+        128534,
+        147202
+      ],
+      "duration": [
+        5360.970001427672,
+        6139.534840427673
+      ],
+      "consistency": 0.9292393372519091,
+      "description": "Wladek goes to the emergency address he was given, where he surprisingly meets Dorota, who is now married, pregnant, and her brother dead. Dorota and her husband hide Wladek in another vacant apartment, where there is a piano, but his new caretaker, Szalas, is very slack about smuggling in food, and Wladyslaw once more faces starvation, and at one point almost dies of jaundice. Dorota and her husband visit him, finding him gravely ill. They report that Szalas had been collecting money from generous and unwitting donors and had pocketed it all, leaving Wladek to die in isolation.",
+      "subtitle": [
+        {
+          "shot": 828,
+          "duration": [
+            5372.709114322507,
+            5415.501931606811
+          ],
+          "sentences": [
+            "- Yes?\\N- Mr. Gebczynski sent me.",
+            "- Wladyslaw Szpilman.\\N- Dorota.",
+            "Come in."
+          ]
+        },
+        {
+          "shot": 829,
+          "duration": [
+            5415.543640005723,
+            5445.531978823867
+          ],
+          "sentences": [
+            "I'm sorry.",
+            "I was given this address and\\NI'm looking for a Mr. Dzikiewicz.",
+            "Michal Dzikiewicz, he's my husband.",
+            "Come in.",
+            "Sit.",
+            "I need help.",
+            "He'll be back before curfew."
+          ]
+        },
+        {
+          "shot": 830,
+          "duration": [
+            5445.573687222779,
+            5452.163614250966
+          ],
+          "sentences": [
+            "He'll be back before curfew.",
+            "I've been in hiding.",
+            "- I need somewhere to stay.\\N- He'll be here soon."
+          ]
+        },
+        {
+          "shot": 831,
+          "duration": [
+            5452.205322649878,
+            5454.457576191157
+          ],
+          "sentences": [
+            "- I need somewhere to stay.\\N- He'll be here soon."
+          ]
+        },
+        {
+          "shot": 832,
+          "duration": [
+            5454.499284590071,
+            5458.086206896552
+          ],
+          "sentences": [
+            "- How long have you been married?\\N- Just over a year."
+          ]
+        },
+        {
+          "shot": 833,
+          "duration": [
+            5458.127915295465,
+            5459.83795965088
+          ],
+          "sentences": [
+            "- How long have you been married?\\N- Just over a year."
+          ]
+        },
+        {
+          "shot": 834,
+          "duration": [
+            5459.879668049793,
+            5464.759550722564
+          ],
+          "sentences": [
+            "And how is Jurek?"
+          ]
+        },
+        {
+          "shot": 835,
+          "duration": [
+            5464.8012591214765,
+            5467.303763056231
+          ],
+          "sentences": [
+            "And how is Jurek?",
+            "Dead."
+          ]
+        },
+        {
+          "shot": 838,
+          "duration": [
+            5473.10123050508,
+            5475.728859636572
+          ],
+          "sentences": [
+            "- When is your baby due?\\N- Christmas."
+          ]
+        },
+        {
+          "shot": 839,
+          "duration": [
+            5475.770568035485,
+            5482.110244670196
+          ],
+          "sentences": [
+            "- When is your baby due?\\N- Christmas.",
+            "This is not a good time to\\Nhave children, but then..."
+          ]
+        },
+        {
+          "shot": 840,
+          "duration": [
+            5482.1519530691085,
+            5505.008155673201
+          ],
+          "sentences": [
+            "This is my husband.\\NWladyslaw Szpilman.",
+            "- Marek Gebczynski sent him.\\N- Yes, I remember.",
+            "He said to contact you\\Nonly in case of emergency.",
+            "Don't worry now."
+          ]
+        },
+        {
+          "shot": 841,
+          "duration": [
+            5505.049864072113,
+            5511.806624695951
+          ],
+          "sentences": [
+            "We can't move you tonight.\\NYou'll sleep on the sofa."
+          ]
+        },
+        {
+          "shot": 842,
+          "duration": [
+            5511.848333094864,
+            5515.310130204607
+          ],
+          "sentences": [
+            "We can't move you tonight.\\NYou'll sleep on the sofa."
+          ]
+        },
+        {
+          "shot": 843,
+          "duration": [
+            5515.35183860352,
+            5517.562383745887
+          ],
+          "sentences": [
+            "Excuse me."
+          ]
+        },
+        {
+          "shot": 844,
+          "duration": [
+            5517.604092144799,
+            5525.445271140364
+          ],
+          "sentences": [
+            "Excuse me.",
+            "I'm sorry,\\Ncould I have a piece of bread?"
+          ]
+        },
+        {
+          "shot": 845,
+          "duration": [
+            5525.486979539276,
+            5533.453283731578
+          ],
+          "sentences": [
+            "I'm sorry,\\Ncould I have a piece of bread?",
+            "Yes, of course.\\NWe will eat.",
+            "Sit. Please, sit."
+          ]
+        },
+        {
+          "shot": 846,
+          "duration": [
+            5533.494992130491,
+            5542.37888109887
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 857,
+          "duration": [
+            5661.8734439834025,
+            5672.258835312635
+          ],
+          "sentences": [
+            "You're on a very German area.",
+            "On the opposite is a hospital taking\\Nwounded from the Russian front."
+          ]
+        },
+        {
+          "shot": 858,
+          "duration": [
+            5672.300543711547,
+            5676.429675203892
+          ],
+          "sentences": [
+            "And next door is the\\NSchutzpolizei."
+          ]
+        },
+        {
+          "shot": 859,
+          "duration": [
+            5676.471383602805,
+            5680.934182286451
+          ],
+          "sentences": [
+            "And next door is the\\NSchutzpolizei.",
+            "Safest place to be.",
+            "Right at the heart\\Nof the lion's den."
+          ]
+        },
+        {
+          "shot": 860,
+          "duration": [
+            5680.975890685363,
+            5689.067320074403
+          ],
+          "sentences": [
+            "Right at the heart\\Nof the lion's den.",
+            "I'll be locking you in."
+          ]
+        },
+        {
+          "shot": 861,
+          "duration": [
+            5689.109028473315,
+            5697.867792244957
+          ],
+          "sentences": [
+            "I'll be locking you in.",
+            "No-one knows you're here,\\Nso keep as quiet as possible."
+          ]
+        },
+        {
+          "shot": 882,
+          "duration": [
+            5822.617613392475,
+            5825.161825726142
+          ],
+          "sentences": [
+            "All well?"
+          ]
+        },
+        {
+          "shot": 883,
+          "duration": [
+            5825.203534125054,
+            5828.039705251109
+          ],
+          "sentences": [
+            "All well?",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 884,
+          "duration": [
+            5828.081413650022,
+            5841.3029761053085
+          ],
+          "sentences": [
+            "Thank you.",
+            "This is Antek Szalas.\\NHe'll be looking after you.",
+            "- How do you do?\\N- How do you do?",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 885,
+          "duration": [
+            5841.344684504221,
+            5844.3059808270145
+          ],
+          "sentences": [
+            "I've given him a second key. He'll\\Nbring food, see that you're alright."
+          ]
+        },
+        {
+          "shot": 886,
+          "duration": [
+            5844.347689225927,
+            5854.524538560596
+          ],
+          "sentences": [
+            "I've given him a second key. He'll\\Nbring food, see that you're alright.",
+            "He's with the underground,\\Nhe's a good man.",
+            "- You don't remember me?\\N- I don't think so."
+          ]
+        },
+        {
+          "shot": 887,
+          "duration": [
+            5854.566246959508,
+            5861.614966375733
+          ],
+          "sentences": [
+            "- You don't remember me?\\N- I don't think so.",
+            "Warsaw Radio.\\NI was a technician."
+          ]
+        },
+        {
+          "shot": 888,
+          "duration": [
+            5861.6566747746465,
+            5864.576262698526
+          ],
+          "sentences": [
+            "Warsaw Radio.\\NI was a technician.",
+            "I saw you almost everyday."
+          ]
+        },
+        {
+          "shot": 889,
+          "duration": [
+            5864.617971097439,
+            5893.93897553298
+          ],
+          "sentences": [
+            "I saw you almost everyday.",
+            "- I'm sorry, I don't remember.\\N- It doesn't matter.",
+            "You've nothing to worry about.\\NI'll visit often.",
+            "You'll be pleased to hear that\\Nthe Allies are bombing Germany...",
+            "night after night,\\Nafter night.",
+            "Cologne, Hamburg, Berlin.",
+            "And the Russians are giving them\\Nhell. It's the beginning of the end.",
+            "Let's hope so."
+          ]
+        },
+        {
+          "shot": 891,
+          "duration": [
+            5897.359064243812,
+            5908.662040349121
+          ],
+          "sentences": [
+            "Come here.",
+            "Be careful with it.",
+            "That's it. Be careful."
+          ]
+        },
+        {
+          "shot": 895,
+          "duration": [
+            5926.262984690228,
+            5937.065460008585
+          ],
+          "sentences": [
+            "Still alive then?"
+          ]
+        },
+        {
+          "shot": 896,
+          "duration": [
+            5937.107168407498,
+            5963.675418514809
+          ],
+          "sentences": [
+            "Still alive then?",
+            "Here. Sausage, bread.",
+            "You still got that vodka?",
+            "- How long is this meant to last?\\N- Not long now."
+          ]
+        },
+        {
+          "shot": 897,
+          "duration": [
+            5963.717126913722,
+            5974.311060237516
+          ],
+          "sentences": [
+            "- How long is this meant to last?\\N- Not long now.",
+            "I think I've got jaundice.",
+            "Don't worry about that.\\NIt just makes you look funny."
+          ]
+        },
+        {
+          "shot": 898,
+          "duration": [
+            5974.352768636429,
+            5990.0351266275575
+          ],
+          "sentences": [
+            "My grandfather was jilted by\\Nhis girlfriend when he got jaundice.",
+            "Drink up.",
+            "Why didn't you come sooner?\\NIt's been over two weeks...",
+            "Problems.",
+            "Money."
+          ]
+        },
+        {
+          "shot": 899,
+          "duration": [
+            5990.076835026471,
+            5994.247674917729
+          ],
+          "sentences": [
+            "I've got to raise money\\Nto buy the food.",
+            "I need things to sell,\\Nit's not easy."
+          ]
+        },
+        {
+          "shot": 900,
+          "duration": [
+            5994.289383316641,
+            5998.5853484046365
+          ],
+          "sentences": [
+            "I need things to sell,\\Nit's not easy."
+          ]
+        },
+        {
+          "shot": 901,
+          "duration": [
+            5998.627056803549,
+            6002.255687508943
+          ],
+          "sentences": [
+            "Here. Sell this."
+          ]
+        },
+        {
+          "shot": 902,
+          "duration": [
+            6002.297395907855,
+            6005.216983831736
+          ],
+          "sentences": [
+            "Here. Sell this."
+          ]
+        },
+        {
+          "shot": 903,
+          "duration": [
+            6005.258692230648,
+            6007.928029761053
+          ],
+          "sentences": [
+            "Food is more important than time."
+          ]
+        },
+        {
+          "shot": 904,
+          "duration": [
+            6007.969738159966,
+            6014.309414794678
+          ],
+          "sentences": [
+            "Oh, yes. I meant to tell you!\\NThe Allies have landed in France."
+          ]
+        },
+        {
+          "shot": 905,
+          "duration": [
+            6014.35112319359,
+            6017.354127915296
+          ],
+          "sentences": [
+            "Oh, yes. I meant to tell you!\\NThe Allies have landed in France.",
+            "Russians will be here soon."
+          ]
+        },
+        {
+          "shot": 906,
+          "duration": [
+            6017.395836314208,
+            6025.111890113035
+          ],
+          "sentences": [
+            "Russians will be here soon.",
+            "They'll beat the shit\\Nout of the Germans...",
+            "any day now."
+          ]
+        },
+        {
+          "shot": 911,
+          "duration": [
+            6047.67613392474,
+            6074.953426813565
+          ],
+          "sentences": [
+            "Wladek?"
+          ]
+        },
+        {
+          "shot": 912,
+          "duration": [
+            6074.995135212477,
+            6081.167978251538
+          ],
+          "sentences": [
+            "I knew it.\\NI knew this would happen."
+          ]
+        },
+        {
+          "shot": 913,
+          "duration": [
+            6081.209686650451,
+            6083.46194019173
+          ],
+          "sentences": [
+            "I knew it.\\NI knew this would happen."
+          ]
+        },
+        {
+          "shot": 915,
+          "duration": [
+            6085.630776935184,
+            6102.731220489341
+          ],
+          "sentences": [
+            "- I'll get a doctor.\\N- You can't. It's too dangerous.",
+            "- Dr. Luczak. We can trust him.\\N- Ridiculous. He's a pediatrician.",
+            "- He's still a doctor.\\N- No.",
+            "You stay. I'll go."
+          ]
+        },
+        {
+          "shot": 920,
+          "duration": [
+            6130.842681356417,
+            6139.309486335671
+          ],
+          "sentences": [
+            "We came to say goodbye.",
+            "We're going to stay\\Nwith my mother in Otwocks.",
+            "The baby is already there.\\NIt's safer."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0008",
+      "shot": [
+        928,
+        1054
+      ],
+      "frame": [
+        149001,
+        167371
+      ],
+      "duration": [
+        6214.629579734583,
+        6980.758048734583
+      ],
+      "consistency": 0.8957471609112082,
+      "description": "Wladek recovers in time to see the larger 1944 Warsaw Uprising, in which the Poles tried to retake control of their city. Soon, Nazis start attacking the building and he has to flee. The Poles had expected the advancing Soviet Red Army to help them, but the Russians did not come, instead allowing the Germans to put down the revolt, and drive the entire remaining population of Warsaw out of the city. Wladyslaw hides in the abandoned hospital that had been across the street from his second hideout. The Germans had by then decided to burn Warsaw to ashes, so Wladyslaw flees the hospital and jumps back over the wall into the ghetto, now an abandoned, desolate wasteland of bricks and rubble.",
+      "subtitle": [
+        {
+          "shot": 928,
+          "duration": [
+            6201.079625125197,
+            6220.265488624982
+          ],
+          "sentences": [
+            "We've brought you some food.",
+            "I'll prepare something now\\Nfor you, then we must go."
+          ]
+        },
+        {
+          "shot": 932,
+          "duration": [
+            6245.373944770354,
+            6258.26184003434
+          ],
+          "sentences": [
+            "I'll throw a grenade!"
+          ]
+        },
+        {
+          "shot": 933,
+          "duration": [
+            6258.303548433252,
+            6260.3055515810565
+          ],
+          "sentences": [
+            "There's a wounded man over there!"
+          ]
+        },
+        {
+          "shot": 934,
+          "duration": [
+            6260.347259979969,
+            6272.442695664616
+          ],
+          "sentences": [
+            "There's a wounded man over there!",
+            "Come.",
+            "Watch out! Watch out!",
+            "- I'll go get help!\\N- Hurry!",
+            "Come on! Bring the litter!"
+          ]
+        },
+        {
+          "shot": 935,
+          "duration": [
+            6272.484404063529,
+            6276.279868364573
+          ],
+          "sentences": [
+            "Come on! Bring the litter!"
+          ]
+        },
+        {
+          "shot": 937,
+          "duration": [
+            6279.157747889541,
+            6282.7446701960225
+          ],
+          "sentences": [
+            "Go back inside!"
+          ]
+        },
+        {
+          "shot": 961,
+          "duration": [
+            6386.723708685076,
+            6414.668335956503
+          ],
+          "sentences": [
+            "Get out, get out in the streets!",
+            "Get out now! The Germans\\Nhave surrounded the building!"
+          ]
+        },
+        {
+          "shot": 967,
+          "duration": [
+            6435.105451423666,
+            6443.9059235942195
+          ],
+          "sentences": [
+            "Somebody...\\NSomebody help me!"
+          ]
+        },
+        {
+          "shot": 981,
+          "duration": [
+            6485.739447703534,
+            6504.9670196022325
+          ],
+          "sentences": [
+            "Are you alright?\\NThere's too much dust."
+          ]
+        },
+        {
+          "shot": 982,
+          "duration": [
+            6505.008728001145,
+            6516.687079696667
+          ],
+          "sentences": [
+            "I'll check this side.\\NDon't worry.",
+            "Be careful!"
+          ]
+        },
+        {
+          "shot": 984,
+          "duration": [
+            6517.896623265131,
+            6520.732794391187
+          ],
+          "sentences": [
+            "- Heinrich?\\N- I'm checking!"
+          ]
+        },
+        {
+          "shot": 985,
+          "duration": [
+            6520.774502790099,
+            6528.991057375877
+          ],
+          "sentences": [
+            "Is there anybody here?"
+          ]
+        },
+        {
+          "shot": 986,
+          "duration": [
+            6529.032765774789,
+            6530.867935326943
+          ],
+          "sentences": [
+            "- Come on down!\\N- Alright, I'm coming."
+          ]
+        },
+        {
+          "shot": 987,
+          "duration": [
+            6530.909643725855,
+            6536.16490198884
+          ],
+          "sentences": [
+            "- Come on down!\\N- Alright, I'm coming."
+          ]
+        },
+        {
+          "shot": 1026,
+          "duration": [
+            6782.035913578481,
+            6796.300186006582
+          ],
+          "sentences": [
+            "Come on, pile them up.",
+            "Throw it."
+          ]
+        },
+        {
+          "shot": 1040,
+          "duration": [
+            6875.462727142653,
+            6889.601874374017
+          ],
+          "sentences": [
+            "We have to mark everything.",
+            "Come on."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0009",
+      "shot": [
+        1054,
+        1099
+      ],
+      "frame": [
+        167850,
+        185046
+      ],
+      "duration": [
+        7000.758018774074,
+        7717.942957774074
+      ],
+      "consistency": 0.8089114989069786,
+      "description": "He stays there, rummaging through burned-out buildings to find something to eat, and continues to hide, until one night a Nazi officer, Captain Wilm Hosenfeld, finds him. To prove to Hosenfeld that he is a pianist, he plays a somber and brief rendition of Chopin's \"Ballade in G Minor\", the first time he has played since he worked in the Jewish ghetto years before.",
+      "subtitle": [
+        {
+          "shot": 1074,
+          "duration": [
+            7297.635140935757,
+            7307.937115467163
+          ],
+          "sentences": [
+            "What are you doing here?"
+          ]
+        },
+        {
+          "shot": 1075,
+          "duration": [
+            7307.978823866076,
+            7317.3632136214055
+          ],
+          "sentences": [
+            "Who are you?",
+            "- Do you understand?\\N- Yes."
+          ]
+        },
+        {
+          "shot": 1076,
+          "duration": [
+            7317.404922020318,
+            7335.172699957076
+          ],
+          "sentences": [
+            "- Do you understand?\\N- Yes.",
+            "What are you doing?",
+            "I was...",
+            "trying to open this can."
+          ]
+        },
+        {
+          "shot": 1077,
+          "duration": [
+            7335.214408355988,
+            7344.932465302619
+          ],
+          "sentences": [
+            "Do you live here?",
+            "Do you work here?",
+            "No."
+          ]
+        },
+        {
+          "shot": 1078,
+          "duration": [
+            7344.974173701531,
+            7360.990198883961
+          ],
+          "sentences": [
+            "What do you do for a living?",
+            "I am...",
+            "I was a pianist."
+          ]
+        },
+        {
+          "shot": 1079,
+          "duration": [
+            7361.031907282873,
+            7376.213764487052
+          ],
+          "sentences": [
+            "Pianist?"
+          ]
+        },
+        {
+          "shot": 1081,
+          "duration": [
+            7380.259479181572,
+            7494.331950207469
+          ],
+          "sentences": [
+            "Come.",
+            "Play something."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0010",
+      "shot": [
+        1102,
+        1166
+      ],
+      "frame": [
+        185577,
+        197658
+      ],
+      "duration": [
+        7740.155583230506,
+        8243.988407230505
+      ],
+      "consistency": 0.9290679421871114,
+      "description": "Hosenfeld, moved by Szpilman's playing, helps him survive, allowing him to continue hiding in the attic even after the house is established as the Captain's headquarters. Hosenfeld eventually abandons the house with his staff when the Russian army draws closer to Warsaw. Hosenfeld gives Wladek a final parcel of food and his overcoat. He asks Wladek his surname, which sounds exactly like \"spielmann\", the German word for pianist. Hosenfeld promises to listen for Wladek on the radio. Hosenfeld also tells him that he only needs to survive for a few more days; the Russian army will liberate Warsaw soon. Shortly afterward, Wladyslaw sees Polish partisans, and, overcome with joy, goes outside to meet his countrymen. Seeing his coat given to him by Hosenfeld, they think he is a German and try to kill him, before he can convince them he is Polish.",
+      "subtitle": [
+        {
+          "shot": 1102,
+          "duration": [
+            7738.117541851481,
+            7741.245671769924
+          ],
+          "sentences": [
+            "Jew?"
+          ]
+        },
+        {
+          "shot": 1103,
+          "duration": [
+            7741.287380168837,
+            7749.545643153528
+          ],
+          "sentences": [
+            "Where are you hiding yourself?",
+            "In the attic."
+          ]
+        },
+        {
+          "shot": 1104,
+          "duration": [
+            7749.58735155244,
+            7754.550651023036
+          ],
+          "sentences": [
+            "In the attic.",
+            "Show it to me."
+          ]
+        },
+        {
+          "shot": 1105,
+          "duration": [
+            7754.592359421949,
+            7761.015452854486
+          ],
+          "sentences": [
+            "Show it to me."
+          ]
+        },
+        {
+          "shot": 1110,
+          "duration": [
+            7777.740520818429,
+            7780.4932751466595
+          ],
+          "sentences": [
+            "Have you got anything to eat?"
+          ]
+        },
+        {
+          "shot": 1111,
+          "duration": [
+            7780.534983545572,
+            7784.5389898411795
+          ],
+          "sentences": [
+            "Have you got anything to eat?"
+          ]
+        },
+        {
+          "shot": 1116,
+          "duration": [
+            7822.118257261411,
+            7836.090570897124
+          ],
+          "sentences": [
+            "According to them,\\Nit's very important that..."
+          ]
+        },
+        {
+          "shot": 1117,
+          "duration": [
+            7836.132279296037,
+            7851.689512090428
+          ],
+          "sentences": [
+            "Attention!",
+            "- At ease.\\N- At ease."
+          ]
+        },
+        {
+          "shot": 1123,
+          "duration": [
+            7899.362212047504,
+            7932.436972385177
+          ],
+          "sentences": [
+            "Jew?",
+            "Please.",
+            "What does it mean,\\Nall that shooting?"
+          ]
+        },
+        {
+          "shot": 1124,
+          "duration": [
+            7932.478680784089,
+            7940.987194162255
+          ],
+          "sentences": [
+            "The Russians,\\Non the other side of the river.",
+            "You just have to hold on\\Na couple of weeks, not more."
+          ]
+        },
+        {
+          "shot": 1132,
+          "duration": [
+            8019.440692516812,
+            8036.916511661182
+          ],
+          "sentences": [
+            "- What's going on?\\N- We're leaving."
+          ]
+        },
+        {
+          "shot": 1133,
+          "duration": [
+            8036.958220060094,
+            8038.751681213335
+          ],
+          "sentences": [
+            "- Are the Russians here?\\N- Not yet."
+          ]
+        },
+        {
+          "shot": 1134,
+          "duration": [
+            8038.793389612249,
+            8042.088353126342
+          ],
+          "sentences": [
+            "- Are the Russians here?\\N- Not yet."
+          ]
+        },
+        {
+          "shot": 1135,
+          "duration": [
+            8042.130061525254,
+            8047.88582057519
+          ],
+          "sentences": [
+            "I don't know how to thank you."
+          ]
+        },
+        {
+          "shot": 1136,
+          "duration": [
+            8047.927528974103,
+            8069.866146802118
+          ],
+          "sentences": [
+            "Thank God, not me.",
+            "He wants us to survive. At least,\\Nwe have to believe in that.",
+            "Here. Take it."
+          ]
+        },
+        {
+          "shot": 1137,
+          "duration": [
+            8069.9078552010305,
+            8072.410359135785
+          ],
+          "sentences": [
+            "Here. Take it.",
+            "- And you?\\N- I have another one. Warmer."
+          ]
+        },
+        {
+          "shot": 1138,
+          "duration": [
+            8072.452067534698,
+            8083.2128344541425
+          ],
+          "sentences": [
+            "- And you?\\N- I have another one. Warmer.",
+            "What are you going to do\\Nwhen this is over?"
+          ]
+        },
+        {
+          "shot": 1139,
+          "duration": [
+            8083.254542853055,
+            8090.386679067105
+          ],
+          "sentences": [
+            "What are you going to do\\Nwhen this is over?",
+            "I'll play piano again at\\Nthe Polish radio station."
+          ]
+        },
+        {
+          "shot": 1140,
+          "duration": [
+            8090.428387466019,
+            8108.321290599514
+          ],
+          "sentences": [
+            "Tell me your name.",
+            "Maybe I'll listen to you playing.",
+            "Szpilman.",
+            "Perfect name for a pianist."
+          ]
+        },
+        {
+          "shot": 1153,
+          "duration": [
+            8180.9356131063105,
+            8200.872227786522
+          ],
+          "sentences": [
+            "German! German!"
+          ]
+        },
+        {
+          "shot": 1158,
+          "duration": [
+            8208.963657175562,
+            8216.012376591787
+          ],
+          "sentences": [
+            "Don't shoot, I'm Polish!"
+          ]
+        },
+        {
+          "shot": 1159,
+          "duration": [
+            8216.0540849907,
+            8217.930962941766
+          ],
+          "sentences": [
+            "I'm Polish!"
+          ]
+        },
+        {
+          "shot": 1160,
+          "duration": [
+            8217.972671340678,
+            8221.309343253684
+          ],
+          "sentences": [
+            "I'm Polish!",
+            "- Come out with your hands up!\\N- Please! I beg of you!"
+          ]
+        },
+        {
+          "shot": 1161,
+          "duration": [
+            8221.351051652597,
+            8223.561596794963
+          ],
+          "sentences": [
+            "- Come out with your hands up!\\N- Please! I beg of you!",
+            "Don't shoot, don't shoot.\\NI beg you, I'm a Polish."
+          ]
+        },
+        {
+          "shot": 1162,
+          "duration": [
+            8223.603305193876,
+            8227.982687079697
+          ],
+          "sentences": [
+            "Don't shoot, don't shoot.\\NI beg you, I'm a Polish."
+          ]
+        },
+        {
+          "shot": 1163,
+          "duration": [
+            8228.02439547861,
+            8233.571612533982
+          ],
+          "sentences": [
+            "Come down!"
+          ]
+        },
+        {
+          "shot": 1164,
+          "duration": [
+            8233.613320932895,
+            8238.993704392617
+          ],
+          "sentences": [
+            "Please, I'm Polish.\\NPlease.",
+            "He's Polish."
+          ]
+        },
+        {
+          "shot": 1165,
+          "duration": [
+            8239.03541279153,
+            8248.169552153384
+          ],
+          "sentences": [
+            "He's Polish.",
+            "Yes, he's Polish.",
+            "Why the fucking coat?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0253474_0011",
+      "shot": [
+        1167,
+        1207
+      ],
+      "frame": [
+        198089,
+        203841
+      ],
+      "duration": [
+        8261.98098747861,
+        8501.861099478609
+      ],
+      "consistency": 0.9102798567978064,
+      "description": "In the Spring, newly freed Poles walk past an improvised Russian prisoner of war camp, and Hosenfeld is among the prisoners. The Poles hurl insults at the Germans through the fence, but when Hosenfeld hears that one of the Poles is a musician, he goes to the fence and tells him that he helped Wladyslaw, and asks him to ask Wladyslaw to return the favor, before a Russian soldier throws him back down on the ground. The Polish musician does indeed bring Wladyslaw back to the site to petition the Russians, but they have departed without a trace by the time he gets there. Wladyslaw is unable to help Hosenfeld, but he returns to playing piano for the radio station.",
+      "subtitle": [
+        {
+          "shot": 1168,
+          "duration": [
+            8268.314708828158,
+            8272.735799112892
+          ],
+          "sentences": [
+            "Look at them.\\NGerman fuckers!"
+          ]
+        },
+        {
+          "shot": 1169,
+          "duration": [
+            8272.777507511804,
+            8275.989054228074
+          ],
+          "sentences": [
+            "Look at them.\\NGerman fuckers!",
+            "Murderers! Murderers!"
+          ]
+        },
+        {
+          "shot": 1170,
+          "duration": [
+            8276.030762626986,
+            8278.408141365002
+          ],
+          "sentences": [
+            "Murderers! Murderers!",
+            "- Dirty bastards!\\N- Assassins!"
+          ]
+        },
+        {
+          "shot": 1171,
+          "duration": [
+            8278.449849763914,
+            8294.132207755045
+          ],
+          "sentences": [
+            "- Dirty bastards!\\N- Assassins!",
+            "- Bastards!\\N- Look at you now!",
+            "You took everything I had.\\NMe, a musician.",
+            "You took my violin,\\Nyou took my soul."
+          ]
+        },
+        {
+          "shot": 1172,
+          "duration": [
+            8294.173916153957,
+            8301.598011160395
+          ],
+          "sentences": [
+            "Musician?",
+            "Are you a musician?"
+          ]
+        },
+        {
+          "shot": 1173,
+          "duration": [
+            8301.639719559307,
+            8304.43418228645
+          ],
+          "sentences": [
+            "Are you a musician?",
+            "Do you know..."
+          ]
+        },
+        {
+          "shot": 1174,
+          "duration": [
+            8304.475890685364,
+            8309.814565746174
+          ],
+          "sentences": [
+            "Do you know...",
+            "a pianist called Szpilman,\\Nfrom the Polish radio station?",
+            "- Of course I know him.\\N- I helped him to hide himself."
+          ]
+        },
+        {
+          "shot": 1175,
+          "duration": [
+            8309.856274145086,
+            8311.73315209615
+          ],
+          "sentences": [
+            "- Of course I know him.\\N- I helped him to hide himself."
+          ]
+        },
+        {
+          "shot": 1176,
+          "duration": [
+            8311.774860495065,
+            8316.23765917871
+          ],
+          "sentences": [
+            "- Of course I know him.\\N- I helped him to hide himself.",
+            "Tell him I'm here."
+          ]
+        },
+        {
+          "shot": 1177,
+          "duration": [
+            8316.279367577623,
+            8317.655744741738
+          ],
+          "sentences": [
+            "Tell him I'm here."
+          ]
+        },
+        {
+          "shot": 1178,
+          "duration": [
+            8317.69745314065,
+            8319.61603949063
+          ],
+          "sentences": [
+            "Ask him to help me."
+          ]
+        },
+        {
+          "shot": 1179,
+          "duration": [
+            8319.657747889541,
+            8322.118543425384
+          ],
+          "sentences": [
+            "Ask him to help me."
+          ]
+        },
+        {
+          "shot": 1180,
+          "duration": [
+            8322.160251824296,
+            8324.662755759051
+          ],
+          "sentences": [
+            "- What's your name?\\N- Hosenfeld."
+          ]
+        },
+        {
+          "shot": 1181,
+          "duration": [
+            8324.704464157963,
+            8326.372800114466
+          ],
+          "sentences": [
+            "- What's your name?\\N- Hosenfeld."
+          ]
+        },
+        {
+          "shot": 1182,
+          "duration": [
+            8326.414508513379,
+            8327.832594076406
+          ],
+          "sentences": [
+            "What?"
+          ]
+        },
+        {
+          "shot": 1197,
+          "duration": [
+            8427.891043067679,
+            8449.787952496781
+          ],
+          "sentences": [
+            "It was here, I'm certain of it.",
+            "Well, it's not here now.",
+            "I shouted, abused them. I'm not\\Nproud of it, but that's what I did.",
+            "I stood where you are now.",
+            "There was a barbed wire\\Nand this German came up to me.",
+            "- You didn't catch his name?\\N- No."
+          ]
+        },
+        {
+          "shot": 1198,
+          "duration": [
+            8449.829660895693,
+            8452.248748032624
+          ],
+          "sentences": [
+            "- You didn't catch his name?\\N- No."
+          ]
+        },
+        {
+          "shot": 1200,
+          "duration": [
+            8454.334167978252,
+            8461.549720990128
+          ],
+          "sentences": [
+            "I'll ask at the factory.\\NThey may know something."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

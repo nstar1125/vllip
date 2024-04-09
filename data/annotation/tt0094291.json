@@ -1,0 +1,3892 @@
+{
+  "imdb_id": "tt0094291",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0094291_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        470
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0001",
+      "shot": [
+        1,
+        3
+      ],
+      "frame": [
+        470,
+        564
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0002",
+      "shot": [
+        3,
+        10
+      ],
+      "frame": [
+        564,
+        2088
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0003",
+      "shot": [
+        10,
+        11
+      ],
+      "frame": [
+        2088,
+        2365
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0004",
+      "shot": [
+        11,
+        12
+      ],
+      "frame": [
+        2365,
+        2424
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0005",
+      "shot": [
+        12,
+        13
+      ],
+      "frame": [
+        2424,
+        2505
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0006",
+      "shot": [
+        13,
+        15
+      ],
+      "frame": [
+        2505,
+        2617
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0007",
+      "shot": [
+        15,
+        16
+      ],
+      "frame": [
+        2617,
+        3079
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0008",
+      "shot": [
+        16,
+        18
+      ],
+      "frame": [
+        3079,
+        3558
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0009",
+      "shot": [
+        18,
+        19
+      ],
+      "frame": [
+        3558,
+        3584
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0010",
+      "shot": [
+        19,
+        21
+      ],
+      "frame": [
+        3584,
+        3769
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0011",
+      "shot": [
+        21,
+        23
+      ],
+      "frame": [
+        3769,
+        3883
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0012",
+      "shot": [
+        23,
+        24
+      ],
+      "frame": [
+        3883,
+        4340
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0013",
+      "shot": [
+        24,
+        32
+      ],
+      "frame": [
+        4340,
+        6378
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0014",
+      "shot": [
+        32,
+        33
+      ],
+      "frame": [
+        6378,
+        6502
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0015",
+      "shot": [
+        33,
+        36
+      ],
+      "frame": [
+        6502,
+        6609
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0016",
+      "shot": [
+        36,
+        78
+      ],
+      "frame": [
+        6609,
+        12550
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0017",
+      "shot": [
+        78,
+        79
+      ],
+      "frame": [
+        12550,
+        13056
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0018",
+      "shot": [
+        79,
+        81
+      ],
+      "frame": [
+        13056,
+        13316
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0019",
+      "shot": [
+        81,
+        105
+      ],
+      "frame": [
+        13316,
+        19234
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0020",
+      "shot": [
+        105,
+        106
+      ],
+      "frame": [
+        19234,
+        19299
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0021",
+      "shot": [
+        106,
+        107
+      ],
+      "frame": [
+        19299,
+        19348
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0022",
+      "shot": [
+        107,
+        110
+      ],
+      "frame": [
+        19348,
+        20215
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0023",
+      "shot": [
+        110,
+        113
+      ],
+      "frame": [
+        20215,
+        20562
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0024",
+      "shot": [
+        113,
+        114
+      ],
+      "frame": [
+        20562,
+        20620
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0025",
+      "shot": [
+        114,
+        128
+      ],
+      "frame": [
+        20620,
+        22532
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0026",
+      "shot": [
+        128,
+        132
+      ],
+      "frame": [
+        22532,
+        23387
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0027",
+      "shot": [
+        132,
+        151
+      ],
+      "frame": [
+        23387,
+        26256
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0028",
+      "shot": [
+        151,
+        164
+      ],
+      "frame": [
+        26256,
+        29119
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0029",
+      "shot": [
+        164,
+        184
+      ],
+      "frame": [
+        29119,
+        32836
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0030",
+      "shot": [
+        184,
+        189
+      ],
+      "frame": [
+        32836,
+        33588
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0031",
+      "shot": [
+        189,
+        190
+      ],
+      "frame": [
+        33588,
+        33771
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0032",
+      "shot": [
+        190,
+        195
+      ],
+      "frame": [
+        33771,
+        34051
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0033",
+      "shot": [
+        195,
+        196
+      ],
+      "frame": [
+        34051,
+        34149
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0034",
+      "shot": [
+        196,
+        222
+      ],
+      "frame": [
+        34149,
+        38991
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0035",
+      "shot": [
+        222,
+        231
+      ],
+      "frame": [
+        38991,
+        41240
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0036",
+      "shot": [
+        231,
+        249
+      ],
+      "frame": [
+        41240,
+        43624
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0037",
+      "shot": [
+        249,
+        257
+      ],
+      "frame": [
+        43624,
+        44171
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0038",
+      "shot": [
+        257,
+        266
+      ],
+      "frame": [
+        44171,
+        45737
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0039",
+      "shot": [
+        266,
+        277
+      ],
+      "frame": [
+        45737,
+        48123
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0040",
+      "shot": [
+        277,
+        278
+      ],
+      "frame": [
+        48123,
+        48229
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0041",
+      "shot": [
+        278,
+        294
+      ],
+      "frame": [
+        48229,
+        53155
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0042",
+      "shot": [
+        294,
+        298
+      ],
+      "frame": [
+        53155,
+        54000
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0043",
+      "shot": [
+        298,
+        305
+      ],
+      "frame": [
+        54000,
+        55186
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0044",
+      "shot": [
+        305,
+        306
+      ],
+      "frame": [
+        55186,
+        55362
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0045",
+      "shot": [
+        306,
+        307
+      ],
+      "frame": [
+        55362,
+        55507
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0046",
+      "shot": [
+        307,
+        308
+      ],
+      "frame": [
+        55507,
+        55573
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0047",
+      "shot": [
+        308,
+        311
+      ],
+      "frame": [
+        55573,
+        56025
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0048",
+      "shot": [
+        311,
+        312
+      ],
+      "frame": [
+        56025,
+        56622
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0049",
+      "shot": [
+        312,
+        323
+      ],
+      "frame": [
+        56622,
+        58274
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0050",
+      "shot": [
+        323,
+        342
+      ],
+      "frame": [
+        58274,
+        63434
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0051",
+      "shot": [
+        342,
+        343
+      ],
+      "frame": [
+        63434,
+        63526
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0052",
+      "shot": [
+        343,
+        346
+      ],
+      "frame": [
+        63526,
+        64920
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0053",
+      "shot": [
+        346,
+        385
+      ],
+      "frame": [
+        64920,
+        71036
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0054",
+      "shot": [
+        385,
+        386
+      ],
+      "frame": [
+        71036,
+        71414
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0055",
+      "shot": [
+        386,
+        406
+      ],
+      "frame": [
+        71414,
+        75809
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0056",
+      "shot": [
+        406,
+        407
+      ],
+      "frame": [
+        75809,
+        75889
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0057",
+      "shot": [
+        407,
+        413
+      ],
+      "frame": [
+        75889,
+        78253
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0058",
+      "shot": [
+        413,
+        416
+      ],
+      "frame": [
+        78253,
+        78444
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0059",
+      "shot": [
+        416,
+        417
+      ],
+      "frame": [
+        78444,
+        78527
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0060",
+      "shot": [
+        417,
+        434
+      ],
+      "frame": [
+        78527,
+        81644
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0061",
+      "shot": [
+        434,
+        435
+      ],
+      "frame": [
+        81644,
+        81976
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0062",
+      "shot": [
+        435,
+        443
+      ],
+      "frame": [
+        81976,
+        83904
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0063",
+      "shot": [
+        443,
+        445
+      ],
+      "frame": [
+        83904,
+        84093
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0064",
+      "shot": [
+        445,
+        450
+      ],
+      "frame": [
+        84093,
+        85189
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0065",
+      "shot": [
+        450,
+        451
+      ],
+      "frame": [
+        85189,
+        85343
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0066",
+      "shot": [
+        451,
+        454
+      ],
+      "frame": [
+        85343,
+        85931
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0067",
+      "shot": [
+        454,
+        455
+      ],
+      "frame": [
+        85931,
+        86050
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0068",
+      "shot": [
+        455,
+        459
+      ],
+      "frame": [
+        86050,
+        88497
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0069",
+      "shot": [
+        459,
+        460
+      ],
+      "frame": [
+        88497,
+        88561
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0070",
+      "shot": [
+        460,
+        464
+      ],
+      "frame": [
+        88561,
+        88816
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0071",
+      "shot": [
+        464,
+        472
+      ],
+      "frame": [
+        88816,
+        90015
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0072",
+      "shot": [
+        472,
+        486
+      ],
+      "frame": [
+        90015,
+        91581
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0073",
+      "shot": [
+        486,
+        487
+      ],
+      "frame": [
+        91581,
+        92819
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0074",
+      "shot": [
+        487,
+        488
+      ],
+      "frame": [
+        92819,
+        92966
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0075",
+      "shot": [
+        488,
+        489
+      ],
+      "frame": [
+        92966,
+        93023
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0076",
+      "shot": [
+        489,
+        490
+      ],
+      "frame": [
+        93023,
+        93106
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0077",
+      "shot": [
+        490,
+        492
+      ],
+      "frame": [
+        93106,
+        93520
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0078",
+      "shot": [
+        492,
+        495
+      ],
+      "frame": [
+        93520,
+        94689
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0079",
+      "shot": [
+        495,
+        505
+      ],
+      "frame": [
+        94689,
+        96613
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0080",
+      "shot": [
+        505,
+        506
+      ],
+      "frame": [
+        96613,
+        96731
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0081",
+      "shot": [
+        506,
+        514
+      ],
+      "frame": [
+        96731,
+        98452
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0082",
+      "shot": [
+        514,
+        515
+      ],
+      "frame": [
+        98452,
+        98557
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0083",
+      "shot": [
+        515,
+        526
+      ],
+      "frame": [
+        98557,
+        99212
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0084",
+      "shot": [
+        526,
+        527
+      ],
+      "frame": [
+        99212,
+        99287
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0085",
+      "shot": [
+        527,
+        528
+      ],
+      "frame": [
+        99287,
+        100047
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0086",
+      "shot": [
+        528,
+        529
+      ],
+      "frame": [
+        100047,
+        100114
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0087",
+      "shot": [
+        529,
+        534
+      ],
+      "frame": [
+        100114,
+        102023
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0088",
+      "shot": [
+        534,
+        536
+      ],
+      "frame": [
+        102023,
+        102777
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0089",
+      "shot": [
+        536,
+        537
+      ],
+      "frame": [
+        102777,
+        103332
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0090",
+      "shot": [
+        537,
+        538
+      ],
+      "frame": [
+        103332,
+        103578
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0091",
+      "shot": [
+        538,
+        545
+      ],
+      "frame": [
+        103578,
+        104011
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0092",
+      "shot": [
+        545,
+        555
+      ],
+      "frame": [
+        104011,
+        105457
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0093",
+      "shot": [
+        555,
+        558
+      ],
+      "frame": [
+        105457,
+        106364
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0094",
+      "shot": [
+        558,
+        559
+      ],
+      "frame": [
+        106364,
+        106451
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0095",
+      "shot": [
+        559,
+        560
+      ],
+      "frame": [
+        106451,
+        106905
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0096",
+      "shot": [
+        560,
+        561
+      ],
+      "frame": [
+        106905,
+        107022
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0097",
+      "shot": [
+        561,
+        562
+      ],
+      "frame": [
+        107022,
+        107208
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0098",
+      "shot": [
+        562,
+        563
+      ],
+      "frame": [
+        107208,
+        107778
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0099",
+      "shot": [
+        563,
+        565
+      ],
+      "frame": [
+        107778,
+        108261
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0100",
+      "shot": [
+        565,
+        566
+      ],
+      "frame": [
+        108261,
+        108388
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0101",
+      "shot": [
+        566,
+        591
+      ],
+      "frame": [
+        108388,
+        113596
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0102",
+      "shot": [
+        591,
+        598
+      ],
+      "frame": [
+        113596,
+        114567
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0103",
+      "shot": [
+        598,
+        599
+      ],
+      "frame": [
+        114567,
+        114910
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0104",
+      "shot": [
+        599,
+        619
+      ],
+      "frame": [
+        114910,
+        118157
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0105",
+      "shot": [
+        619,
+        620
+      ],
+      "frame": [
+        118157,
+        118244
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0106",
+      "shot": [
+        620,
+        667
+      ],
+      "frame": [
+        118244,
+        128393
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0107",
+      "shot": [
+        667,
+        670
+      ],
+      "frame": [
+        128393,
+        130136
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0108",
+      "shot": [
+        670,
+        671
+      ],
+      "frame": [
+        130136,
+        130218
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0109",
+      "shot": [
+        671,
+        672
+      ],
+      "frame": [
+        130218,
+        130323
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0110",
+      "shot": [
+        672,
+        675
+      ],
+      "frame": [
+        130323,
+        130483
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0111",
+      "shot": [
+        675,
+        680
+      ],
+      "frame": [
+        130483,
+        132555
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0112",
+      "shot": [
+        680,
+        693
+      ],
+      "frame": [
+        132555,
+        135698
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0113",
+      "shot": [
+        693,
+        701
+      ],
+      "frame": [
+        135698,
+        141602
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0114",
+      "shot": [
+        701,
+        704
+      ],
+      "frame": [
+        141602,
+        142398
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0115",
+      "shot": [
+        704,
+        720
+      ],
+      "frame": [
+        142398,
+        147481
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0116",
+      "shot": [
+        720,
+        721
+      ],
+      "frame": [
+        147481,
+        147863
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0117",
+      "shot": [
+        721,
+        723
+      ],
+      "frame": [
+        147863,
+        148317
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0118",
+      "shot": [
+        723,
+        725
+      ],
+      "frame": [
+        148317,
+        148436
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0119",
+      "shot": [
+        725,
+        726
+      ],
+      "frame": [
+        148436,
+        149298
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0120",
+      "shot": [
+        726,
+        734
+      ],
+      "frame": [
+        149298,
+        151625
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0121",
+      "shot": [
+        734,
+        735
+      ],
+      "frame": [
+        151625,
+        151702
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0122",
+      "shot": [
+        735,
+        742
+      ],
+      "frame": [
+        151702,
+        152450
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0123",
+      "shot": [
+        742,
+        743
+      ],
+      "frame": [
+        152450,
+        152586
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0124",
+      "shot": [
+        743,
+        749
+      ],
+      "frame": [
+        152586,
+        153930
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0125",
+      "shot": [
+        749,
+        754
+      ],
+      "frame": [
+        153930,
+        154712
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0126",
+      "shot": [
+        754,
+        755
+      ],
+      "frame": [
+        154712,
+        155258
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0127",
+      "shot": [
+        755,
+        756
+      ],
+      "frame": [
+        155258,
+        155279
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0128",
+      "shot": [
+        756,
+        758
+      ],
+      "frame": [
+        155279,
+        155410
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0129",
+      "shot": [
+        758,
+        761
+      ],
+      "frame": [
+        155410,
+        155684
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0130",
+      "shot": [
+        761,
+        762
+      ],
+      "frame": [
+        155684,
+        155797
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0131",
+      "shot": [
+        762,
+        763
+      ],
+      "frame": [
+        155797,
+        155843
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0132",
+      "shot": [
+        763,
+        767
+      ],
+      "frame": [
+        155843,
+        156287
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0133",
+      "shot": [
+        767,
+        771
+      ],
+      "frame": [
+        156287,
+        157384
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0134",
+      "shot": [
+        771,
+        777
+      ],
+      "frame": [
+        157384,
+        158967
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0135",
+      "shot": [
+        777,
+        778
+      ],
+      "frame": [
+        158967,
+        159089
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0136",
+      "shot": [
+        778,
+        784
+      ],
+      "frame": [
+        159089,
+        159797
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0137",
+      "shot": [
+        784,
+        793
+      ],
+      "frame": [
+        159797,
+        160484
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0138",
+      "shot": [
+        793,
+        795
+      ],
+      "frame": [
+        160484,
+        160837
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0139",
+      "shot": [
+        795,
+        796
+      ],
+      "frame": [
+        160837,
+        160903
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0140",
+      "shot": [
+        796,
+        801
+      ],
+      "frame": [
+        160903,
+        161707
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0141",
+      "shot": [
+        801,
+        802
+      ],
+      "frame": [
+        161707,
+        161786
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0142",
+      "shot": [
+        802,
+        803
+      ],
+      "frame": [
+        161786,
+        162717
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0143",
+      "shot": [
+        803,
+        804
+      ],
+      "frame": [
+        162717,
+        162993
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0144",
+      "shot": [
+        804,
+        807
+      ],
+      "frame": [
+        162993,
+        165962
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0145",
+      "shot": [
+        807,
+        810
+      ],
+      "frame": [
+        165962,
+        167055
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0146",
+      "shot": [
+        810,
+        821
+      ],
+      "frame": [
+        167055,
+        170323
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0147",
+      "shot": [
+        821,
+        822
+      ],
+      "frame": [
+        170323,
+        170587
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0148",
+      "shot": [
+        822,
+        823
+      ],
+      "frame": [
+        170587,
+        171065
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0094291_0149",
+      "shot": [
+        823,
+        824
+      ],
+      "frame": [
+        171065,
+        171354
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0094291_0001",
+      "shot": [
+        80,
+        105
+      ],
+      "frame": [
+        13152,
+        19216
+      ],
+      "duration": [
+        548.5722767835757,
+        801.4534147835757
+      ],
+      "consistency": 0.9095182100928387,
+      "description": "After work, Fox's meets with his father Carl (Martin Sheen), at a bar in nearby Queens for drinks. Carl Fox is a blue-collar maintenance foreman for a small and struggling airline company called Bluestar Airlines. In a casual conversation, Carl tells Bud that the Federal Aviation Authority (FAA) has cleared Bluestar of responsibility for a major incident in which it was involved.",
+      "subtitle": [
+        {
+          "shot": 81,
+          "duration": [
+            555.3877354650087,
+            578.1187594833648
+          ],
+          "sentences": [
+            "- Buddy, how ya doing? - Great, Charlie. Any better would be a sin.",
+            "Jesus Christ! Listen, l hear all you guys on Wall Street are millionaires.",
+            "- When you gonna make us all rich? - You need an account to win the lottery.",
+            "- Give me 50 grand. l'll get you a condo. - Sure! We'll own the airline by then!",
+            "Why don't he make himself rich, so he can pay off his school loans?"
+          ]
+        },
+        {
+          "shot": 82,
+          "duration": [
+            578.1604677843159,
+            582.3312978794271
+          ],
+          "sentences": [
+            "Why don't he make himself rich, so he can pay off his school loans?",
+            "Nice to see you're in such a good mood, Dad. Did Mom give you fish for dinner?"
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            582.3730061803783,
+            598.9312016579697
+          ],
+          "sentences": [
+            "Nice to see you're in such a good mood, Dad. Did Mom give you fish for dinner?",
+            "You smoke too much. How often you gotta go to the hospital to realise?",
+            "Leave me alone. lt's the only thing that makes me feel good. There, Frank. All set.",
+            "Spaghetti! Your mother still makes lousy spaghetti.",
+            "- lt's pasta now. Spaghetti's out of date. - So am l. You want a beer?"
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            598.9729099589208,
+            613.529106990859
+          ],
+          "sentences": [
+            "- lt's pasta now. Spaghetti's out of date. - So am l. You want a beer?",
+            "Billie! Bring a Molson Lite for the kid!",
+            "- Looking good, huh? - He looks terrific.",
+            "Carl, we'll be at the bar.",
+            "- l'll catch up with you. - All right, Charlie."
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            613.57081529181,
+            625.2074312571704
+          ],
+          "sentences": [
+            "So...",
+            "You look like you've grown another inch, but you don't look so hot, Buddy.",
+            "- You're gonna get bags under your eyes. - Yeah, l had a tough day."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            625.2491395581214,
+            632.8400503312239
+          ],
+          "sentences": [
+            "- You're gonna get bags under your eyes. - Yeah, l had a tough day.",
+            "- Some jerk DK'd me. l gotta cover his loss. - Speak English.",
+            "DK: Didn't Know who l was when the options he bought took a bath."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            632.881758632175,
+            654.6952000296067
+          ],
+          "sentences": [
+            "DK: Didn't Know who l was when the options he bought took a bath.",
+            "- Bastard reneged on me! - l told you not to get into that racket.",
+            "You coulda been a doctor or a lawyer.",
+            "lf you'd stayed at Bluestar, you coulda been a supervisor now, instead of being a salesman.",
+            "Dad, how many times l gotta tell you l am not a salesman? l'm an account executive.",
+            "Soon l'm moving into investment banking.",
+            "You ask strangers for money - you're a salesman."
+          ]
+        },
+        {
+          "shot": 88,
+          "duration": [
+            654.7369083305578,
+            661.8273194922468
+          ],
+          "sentences": [
+            "You ask strangers for money - you're a salesman.",
+            "Dad, it takes time. You gotta build a client list.",
+            "l can make more money in one year as a broker than in five at this airline."
+          ]
+        },
+        {
+          "shot": 89,
+          "duration": [
+            661.8690277931979,
+            663.8710262388513
+          ],
+          "sentences": [
+            "l can make more money in one year as a broker than in five at this airline.",
+            "Thank you, Billie."
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            663.9127345398024,
+            673.5056437585582
+          ],
+          "sentences": [
+            "Thank you, Billie.",
+            "l don't get it, kid. You borrow money to go to NYU. First year out, you make 35 grand.",
+            "You made 50 grand last year, and can't pay off your loans. Where does it go?!"
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            673.5473520595093,
+            686.7688834610118
+          ],
+          "sentences": [
+            "You made 50 grand last year, and can't pay off your loans. Where does it go?!",
+            "Dad, 50K does not get you to first base in the Big Apple.",
+            "l got 40% in taxes, 15 grand for rent.",
+            "l got school loans, car loans, food - that's three bills a month. l need suits...",
+            "Come back home and live rent-free instead of that roach-infected place."
+          ]
+        },
+        {
+          "shot": 92,
+          "duration": [
+            686.810591761963,
+            696.3617926797676
+          ],
+          "sentences": [
+            "Come back home and live rent-free instead of that roach-infected place.",
+            "$50,000! Jesus Christ! The whole world's off its rocker!",
+            "l made $47,000 last year. That's before taxes."
+          ]
+        },
+        {
+          "shot": 93,
+          "duration": [
+            696.4035009807187,
+            708.1652418489323
+          ],
+          "sentences": [
+            "l made $47,000 last year. That's before taxes.",
+            "That's Queens, Dad! A 5% mortgage and you rent the top room.",
+            "l gotta live in Manhattan to be a player. There is no nobility in poverty any more, Dad.",
+            "One day you'll be proud of me. You'll see."
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            708.2069501498835,
+            714.004403982088
+          ],
+          "sentences": [
+            "One day you'll be proud of me. You'll see.",
+            "lt's yourself you gotta be proud of, Huckleberry.",
+            "How much you need?"
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            714.0461122830392,
+            723.2636467932349
+          ],
+          "sentences": [
+            "How much you need?",
+            "Can you spare 300? l'll pay you back next month, l promise.",
+            "- l don't know if l got that much on me. - Not in here. Please."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            723.305355094186,
+            739.3630509603641
+          ],
+          "sentences": [
+            "- l don't know if l got that much on me. - Not in here. Please.",
+            "lt adds up. 300 here, 200 there. Your brother...",
+            "l always say money's something you need in case you don't die tomorrow. Right, Carl?",
+            "How you doing?",
+            "- How's work treating you? - Damn mandatory drug test."
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            739.4047592613153,
+            758.2986195921691
+          ],
+          "sentences": [
+            "- How's work treating you? - Damn mandatory drug test.",
+            "They're driving us crazy. l got flagged for my blood pressure pills. Can you believe that?",
+            "The good news is we had a meeting with the controller about some union business.",
+            "Remember the accident last year and the investigation?",
+            "The FAA is gonna rule it was a manufacturing error in the door-latch mechanism. l knew it."
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            758.3403278931202,
+            764.6799896376892
+          ],
+          "sentences": [
+            "The FAA is gonna rule it was a manufacturing error in the door-latch mechanism. l knew it.",
+            "l kept telling 'em it wasn't maintenance. lt's the greedy manufacturers in Cincinnati.",
+            "- That's great. - This gets us out from under suspension."
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            764.7216979386403,
+            772.5211502164983
+          ],
+          "sentences": [
+            "- That's great. - This gets us out from under suspension.",
+            "We can go for those new routes to Pittsburgh and Boston. We'll compete with the big guys."
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            772.5628585174494,
+            787.4527219569965
+          ],
+          "sentences": [
+            "We can go for those new routes to Pittsburgh and Boston. We'll compete with the big guys.",
+            "To Bluestar. As your broker, all l can advise is you hold on to that stock.",
+            "What stock? Are you kiddin'?",
+            "- Are you sure about this thing? - What?",
+            "- The FAA announcement. - Sure l'm sure."
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            787.4944302579476,
+            792.6662595758854
+          ],
+          "sentences": [
+            "- The FAA announcement. - Sure l'm sure.",
+            "Look at me. You got that mischievous look in your eye, Buddy."
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            792.7079678768366,
+            797.4627141852634
+          ],
+          "sentences": [
+            "Look at me. You got that mischievous look in your eye, Buddy.",
+            "You used to smile like that when you were a kid sleeping."
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            797.5044224862145,
+            800.34058695089
+          ],
+          "sentences": [
+            "You used to smile like that when you were a kid sleeping.",
+            "lt's true. Just like that."
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            800.3822952518412,
+            802.175752192739
+          ],
+          "sentences": [
+            "lt's true. Just like that."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0094291_0004",
+      "shot": [
+        278,
+        342
+      ],
+      "frame": [
+        48235,
+        63340
+      ],
+      "duration": [
+        2011.8379776703675,
+        2641.7837926703673
+      ],
+      "consistency": 0.987851453541286,
+      "description": "One of his first assignments is to spy on British corporate raider Sir Lawrence Wildman (Terence Stamp) and discern his next move. By following Wildman through New York, Fox discovers that he is out to take control of a major steel company, Anacott, in Pennsylvania and informs Gekko who leaks the news to the press and then and buys the controlling shares.",
+      "subtitle": [
+        {
+          "shot": 278,
+          "duration": [
+            2011.5496465711853,
+            2015.47022686059
+          ],
+          "sentences": [
+            "- You know the name? - Larry Wildman, one of the first raiders.",
+            "Sir Larry Wildman. Like all Brits, thinks he was born with a better pot to piss in."
+          ]
+        },
+        {
+          "shot": 279,
+          "duration": [
+            2015.511935161541,
+            2030.0681321934792
+          ],
+          "sentences": [
+            "Sir Larry Wildman. Like all Brits, thinks he was born with a better pot to piss in.",
+            "Bribed an old secretary of mine to open her mouth.",
+            "Stole RDL Pharmaceuticals right from under me.",
+            "Wildman, the \"White Knight\".",
+            "l remember that deal. You were involved, Mr Gekko?"
+          ]
+        },
+        {
+          "shot": 280,
+          "duration": [
+            2030.1098404944303,
+            2034.2806705895416
+          ],
+          "sentences": [
+            "l remember that deal. You were involved, Mr Gekko?",
+            "Payback time, sport.",
+            "See that building? l bought that building ten years ago. My first real-estate deal."
+          ]
+        },
+        {
+          "shot": 281,
+          "duration": [
+            2034.3223788904927,
+            2038.910291995115
+          ],
+          "sentences": [
+            "See that building? l bought that building ten years ago. My first real-estate deal."
+          ]
+        },
+        {
+          "shot": 282,
+          "duration": [
+            2038.952000296066,
+            2073.61159838644
+          ],
+          "sentences": [
+            "See that building? l bought that building ten years ago. My first real-estate deal.",
+            "Sold it two years later. Made an $800,000 profit.",
+            "lt was better than sex.",
+            "At the time l thought that was all the money in the world. Now it's a day's pay.",
+            "Anyway, l had a mole in Wildman's operation.",
+            "- He gave me half the picture, then got fired. - l don't think l follow you.",
+            "Wildman's in town. He just became an American citizen.",
+            "Something big is going down, OK?",
+            "l wanna know where he goes, what he sees. l want you, pal, to fill out the missing picture."
+          ]
+        },
+        {
+          "shot": 283,
+          "duration": [
+            2073.6533066873913,
+            2084.372340031827
+          ],
+          "sentences": [
+            "l wanna know where he goes, what he sees. l want you, pal, to fill out the missing picture.",
+            "Mr Gekko, it's not exactly what l do. l could lose my licence.",
+            "lf the SEC found out, l could go to jail. That's inside information, isn't it?"
+          ]
+        },
+        {
+          "shot": 284,
+          "duration": [
+            2084.4140483327783,
+            2152.2317456792866
+          ],
+          "sentences": [
+            "lf the SEC found out, l could go to jail. That's inside information, isn't it?",
+            "Like when a father tells his son about a court ruling on an airline?",
+            "Or someone overhears l'm buying Teldar, and decides he's gonna buy some?",
+            "Or the chairman of the board of XYZ decides it's time to blow out XYZ?",
+            "ls that what you mean?",
+            "Unless your father's on the board of directors of another company,...",
+            "..you and l are gonna have a very tough time doing business together.",
+            "- What about hard work? - What about it? You work hard?",
+            "Bet you stayed up analysing that stock you gave me. Where'd it get you?",
+            "My father worked like an elephant till he dropped dead at 49 with a heart attack.",
+            "Wake up, will ya, pal?",
+            "lf you're not inside, you are outside, OK?",
+            "l'm not talking about some $400,000-a-year Wall Street stiff,...",
+            "..flying first class and being comfortable. l'm talking about liquid.",
+            "Rich enough to have your own jet.",
+            "Rich enough not to waste time.",
+            "Fifty, a hundred million dollars, Buddy.",
+            "A player,..."
+          ]
+        },
+        {
+          "shot": 285,
+          "duration": [
+            2152.2734539802377,
+            2170.625106398727
+          ],
+          "sentences": [
+            "A player,...",
+            "..or nothing.",
+            "Now you had what it took to get into my office.",
+            "The real question is whether you got what it takes to stay.",
+            "Look at that.",
+            "You're gonna tell me the difference between this guy and that guy is luck?"
+          ]
+        },
+        {
+          "shot": 286,
+          "duration": [
+            2170.666814699678,
+            2174.5873949890824
+          ],
+          "sentences": [
+            "You're gonna tell me the difference between this guy and that guy is luck?"
+          ]
+        },
+        {
+          "shot": 287,
+          "duration": [
+            2174.629103290034,
+            2176.547685133785
+          ],
+          "sentences": [
+            "You're gonna tell me the difference between this guy and that guy is luck?",
+            "Mohammed, pull over."
+          ]
+        },
+        {
+          "shot": 288,
+          "duration": [
+            2176.589393434736,
+            2178.007475667074
+          ],
+          "sentences": [
+            "Mohammed, pull over."
+          ]
+        },
+        {
+          "shot": 289,
+          "duration": [
+            2178.049183968025,
+            2181.052181636505
+          ],
+          "sentences": [
+            "Mohammed, pull over.",
+            "lf you don't mind, l'm gonna drop you off here. l'm late."
+          ]
+        },
+        {
+          "shot": 290,
+          "duration": [
+            2181.093889937456,
+            2190.8119240590654
+          ],
+          "sentences": [
+            "lf you don't mind, l'm gonna drop you off here. l'm late.",
+            "Buddy, it's been nice meeting you, OK?"
+          ]
+        },
+        {
+          "shot": 291,
+          "duration": [
+            2190.8536323600165,
+            2203.6163724510566
+          ],
+          "sentences": [
+            "(Buddy taps on window)"
+          ]
+        },
+        {
+          "shot": 292,
+          "duration": [
+            2203.6580807520077,
+            2213.2926982717145
+          ],
+          "sentences": [
+            "All right, Mr Gekko.",
+            "You got me."
+          ]
+        },
+        {
+          "shot": 293,
+          "duration": [
+            2213.334406572666,
+            2216.9630287554123
+          ],
+          "sentences": [
+            "You got me."
+          ]
+        },
+        {
+          "shot": 299,
+          "duration": [
+            2263.4677843159025,
+            2275.896857999334
+          ],
+          "sentences": [
+            "Excuse me, please."
+          ]
+        },
+        {
+          "shot": 300,
+          "duration": [
+            2275.938566300285,
+            2276.605899115503
+          ],
+          "sentences": [
+            "Excuse me, please."
+          ]
+        },
+        {
+          "shot": 301,
+          "duration": [
+            2276.647607416454,
+            2277.8571481440363
+          ],
+          "sentences": [
+            "Excuse me, please.",
+            "Excuse me."
+          ]
+        },
+        {
+          "shot": 302,
+          "duration": [
+            2277.8988564449874,
+            2280.735020909663
+          ],
+          "sentences": [
+            "Excuse me."
+          ]
+        },
+        {
+          "shot": 304,
+          "duration": [
+            2283.028977461974,
+            2301.672587987121
+          ],
+          "sentences": [
+            "l'm sorry, sir. Do you have a reservation?",
+            "- Uh, table for one. - Reservations only. We're booked for a week.",
+            "All right. Don't touch."
+          ]
+        },
+        {
+          "shot": 305,
+          "duration": [
+            2301.7142962880725,
+            2309.013248954517
+          ],
+          "sentences": [
+            "All right. Don't touch."
+          ]
+        },
+        {
+          "shot": 310,
+          "duration": [
+            2323.110654675993,
+            2336.665852485104
+          ],
+          "sentences": [
+            "Everything ready, sir."
+          ]
+        },
+        {
+          "shot": 311,
+          "duration": [
+            2336.707560786055,
+            2361.565708152918
+          ],
+          "sentences": [
+            "Excuse me! ls Mr Wildman on board that plane?",
+            "Shit! My boss is gonna kill me! l'm supposed to give him this.",
+            "- You know where that plane is going? - Erie, Pennsylvania.",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 312,
+          "duration": [
+            2361.6074164538695,
+            2363.025498686207
+          ],
+          "sentences": [
+            "After spending the morning at Kahn Seidelman in the junk-bond department,..."
+          ]
+        },
+        {
+          "shot": 313,
+          "duration": [
+            2363.0672069871584,
+            2372.576699604012
+          ],
+          "sentences": [
+            "After spending the morning at Kahn Seidelman in the junk-bond department,...",
+            "..he had lunch at that restaurant, Le Circus, with some well-dressed bean counters."
+          ]
+        },
+        {
+          "shot": 314,
+          "duration": [
+            2372.618407904963,
+            2375.8299470781985
+          ],
+          "sentences": [
+            "..he had lunch at that restaurant, Le Circus, with some well-dressed bean counters.",
+            "He later stopped off at Morgan. l'd say from all the smiling and palm-pressing..."
+          ]
+        },
+        {
+          "shot": 315,
+          "duration": [
+            2375.8716553791496,
+            2380.167610377114
+          ],
+          "sentences": [
+            "He later stopped off at Morgan. l'd say from all the smiling and palm-pressing...",
+            "..Larry got himself some nice fat financing, GG."
+          ]
+        },
+        {
+          "shot": 316,
+          "duration": [
+            2380.2093186780653,
+            2388.300729062581
+          ],
+          "sentences": [
+            "..Larry got himself some nice fat financing, GG.",
+            "Bright, but not bright enough, Sherlock. Roll the dice and play Monopoly.",
+            "What box is Sir Larry gonna land on in Erie, Pennsylvania?"
+          ]
+        },
+        {
+          "shot": 317,
+          "duration": [
+            2388.342437363532,
+            2393.7228081862254
+          ],
+          "sentences": [
+            "What box is Sir Larry gonna land on in Erie, Pennsylvania?",
+            "Jesus Christ! He's buying Anacott Steel."
+          ]
+        },
+        {
+          "shot": 318,
+          "duration": [
+            2393.764516487177,
+            2407.945338810555
+          ],
+          "sentences": [
+            "Jesus Christ! He's buying Anacott Steel.",
+            "OK. When the market opens tomorrow, l want you to buy 1500 July 50 calls.",
+            "- You hear me? - Yes, sir.",
+            "And start buying 1,000-share blocks and take it up to $50."
+          ]
+        },
+        {
+          "shot": 319,
+          "duration": [
+            2407.987047111506,
+            2414.4518337589284
+          ],
+          "sentences": [
+            "And start buying 1,000-share blocks and take it up to $50.",
+            "When it reaches 50, give out a little taste to your friends.",
+            "Then l want you to call the Wall Street Chronicle, extension 1605."
+          ]
+        },
+        {
+          "shot": 320,
+          "duration": [
+            2414.4935420598795,
+            2418.1638725435773
+          ],
+          "sentences": [
+            "Then l want you to call the Wall Street Chronicle, extension 1605."
+          ]
+        },
+        {
+          "shot": 321,
+          "duration": [
+            2418.2055808445284,
+            2425.587950112875
+          ],
+          "sentences": [
+            "You tell the man \"Blue Horseshoe loves Anacott Steel\".",
+            "- You got that? - The Wall Street Chronicle."
+          ]
+        },
+        {
+          "shot": 322,
+          "duration": [
+            2425.6296584138263,
+            2430.4678213241555
+          ],
+          "sentences": [
+            "- You got that? - The Wall Street Chronicle.",
+            "Congratulations, Buddy. You scored. l'll talk at ya."
+          ]
+        },
+        {
+          "shot": 323,
+          "duration": [
+            2430.5095296251066,
+            2442.0627289885647
+          ],
+          "sentences": [
+            "Start buying Anacott Steel across the board.",
+            "Use the offshore accounts.",
+            "And keep it quiet."
+          ]
+        },
+        {
+          "shot": 324,
+          "duration": [
+            2442.1044372895158,
+            2444.9406017541914
+          ],
+          "sentences": [
+            "And keep it quiet."
+          ]
+        },
+        {
+          "shot": 327,
+          "duration": [
+            2447.9853077236226,
+            2455.3259686910183
+          ],
+          "sentences": [
+            "Frank, 10,000 ANC at 46. Let me know how the options are opening, OK?",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 328,
+          "duration": [
+            2455.3676769919693,
+            2458.620924466156
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 329,
+          "duration": [
+            2458.662632767107,
+            2470.5494985381742
+          ],
+          "sentences": [
+            "Jackson Steinem!",
+            "- How is Anacott Steel? - 5 3/4, 6. 2,000 up.",
+            "- Six at 10,000. - l'll sell you 2,000."
+          ]
+        },
+        {
+          "shot": 330,
+          "duration": [
+            2470.5912068391253,
+            2472.760038488583
+          ],
+          "sentences": [
+            "- Six at 10,000. - l'll sell you 2,000.",
+            "That's not what l said. l said 20,000 shares."
+          ]
+        },
+        {
+          "shot": 331,
+          "duration": [
+            2472.8017467895343,
+            2482.1026979016324
+          ],
+          "sentences": [
+            "That's not what l said. l said 20,000 shares."
+          ]
+        },
+        {
+          "shot": 332,
+          "duration": [
+            2482.1444062025835,
+            2485.439361977721
+          ],
+          "sentences": [
+            "(trader) Anacott trades at six."
+          ]
+        },
+        {
+          "shot": 333,
+          "duration": [
+            2485.481070278672,
+            2490.986566004219
+          ],
+          "sentences": [
+            "- 8,000 at a quarter? - l'll take 8,000.",
+            "Make it six to a half, 2,000 up."
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            2491.0282743051703,
+            2508.5874690055884
+          ],
+          "sentences": [
+            "Make it six to a half, 2,000 up.",
+            "(Marvin) l know what time it is, and this is what l'm saying.",
+            "We have important financial news, Mr Erlich, that just happens to concern your future.",
+            "- You could benefit... What's going on? - Anacott Steel. Put your best customers in it."
+          ]
+        },
+        {
+          "shot": 335,
+          "duration": [
+            2508.6291773065395,
+            2514.6768809444507
+          ],
+          "sentences": [
+            "Lou, l got a sure thing.",
+            "Anacott Steel."
+          ]
+        },
+        {
+          "shot": 336,
+          "duration": [
+            2514.7185892454017,
+            2558.1369305355097
+          ],
+          "sentences": [
+            "Anacott Steel.",
+            "No such thing, except death and taxes. Not a good company any more. No fundamentals.",
+            "What's goin' on, Bud?",
+            "You know something?",
+            "Remember, there are no short cuts, son.",
+            "Quick-buck artists come and go with every bull market.",
+            "The steady players make it through the bear markets.",
+            "You're a part of something here, Bud.",
+            "The money you make for people creates science and research jobs. Don't sell that out.",
+            "You're right, but you gotta get to the big time first, then you can do good things.",
+            "- You can't get a little bit pregnant, son. - Lou, trust me. lt's a winner. Buy it."
+          ]
+        },
+        {
+          "shot": 337,
+          "duration": [
+            2558.178638836461,
+            2586.957366492728
+          ],
+          "sentences": [
+            "We'll kamikaze over to Nell's, chase some cotton underwear.",
+            "l know this 18-year-old bimbette that's gorgeous. Hold on.",
+            "- Play tennis Saturday? - Can't. Fly-fishing in Canada. Real big client.",
+            "- Take Anacott? - Light snack, but good. Thanks, pal.",
+            "You're sharking your way up.",
+            "No, no, my dear, you've got to diversify.",
+            "l got a sure thing. Anacott Steel.",
+            "l've just heard the most lovely two words."
+          ]
+        },
+        {
+          "shot": 338,
+          "duration": [
+            2586.999074793679,
+            2592.8382369268347
+          ],
+          "sentences": [
+            "l've just heard the most lovely two words.",
+            "Blue Horseshoe loves Anacott Steel.",
+            "Anacott Steel."
+          ]
+        },
+        {
+          "shot": 339,
+          "duration": [
+            2592.879945227786,
+            2624.7450871544356
+          ],
+          "sentences": [
+            "Anacott Steel.",
+            "Looks like Anacott Steel's in play. Check the ARBs.",
+            "Looks like it's being accumulated.",
+            "Lou? Anacott. l buy. Yeah. Take it and bid it.",
+            "Quarters won't matter. Keep taking Anacott."
+          ]
+        },
+        {
+          "shot": 340,
+          "duration": [
+            2624.7867954553867,
+            2628.582250841938
+          ],
+          "sentences": [
+            "Quarters won't matter. Keep taking Anacott.",
+            "This is special. Anacott. Paint the tape.",
+            "- Bet the ranch. - Buy 100,000 shares."
+          ]
+        },
+        {
+          "shot": 341,
+          "duration": [
+            2628.623959142889,
+            2645.6826542318936
+          ],
+          "sentences": [
+            "- Bet the ranch. - Buy 100,000 shares.",
+            "- Wildman is sniffing around. - lt's on automatic pilot to the moon.",
+            "- lf it hits 75, we'll clean 24 mil. - (Gekko) Relax, pal.",
+            "Don't get emotional about stock. lt clouds the judgment.",
+            "Which closed at 5 1/8, up 5 1/8 from yesterday's close on heavy trading."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0094291_0005",
+      "shot": [
+        343,
+        404
+      ],
+      "frame": [
+        63764,
+        75133
+      ],
+      "duration": [
+        2659.497232227786,
+        3133.6513982277856
+      ],
+      "consistency": 0.9484474296488631,
+      "description": "On that weekend, Gekko invites Fox to his house on the Hamptons in Long Island where Fox gets a look at the corporate raider's family life and gets to meet his wife Kate (Sean Young), the mother of Gekko's two-year-old son Rudy and infant daughter. Fox also has a run-in with an attractive blond lady who introduces herself as Darien (Daryl Hannah). Over drinks, Darien tells Fox that she works as an interior decorator in New York and she knows Gekko because he is a frequent client of hers and has done work on his house and city apartment. Fox asks Darien out on a date for later, and she agrees to one. A little later, Wildman arrives uninvited and confronts Gekko about the takeover of the steel company. Wildman claims that he is not out to \"asset strip\" the steel company but to improve its infrastructure and make something of it. After trading some personal insults, the two men agree to a deal where Gekko will sell it back to Wildman for a large cost.",
+      "subtitle": [
+        {
+          "shot": 343,
+          "duration": [
+            2649.5615262203473,
+            2666.16142999889
+          ],
+          "sentences": [
+            "Can l help you?",
+            "Yes, l'm Bud Fox. l have some papers for Mr Gekko to sign."
+          ]
+        },
+        {
+          "shot": 344,
+          "duration": [
+            2666.203138299841,
+            2702.7396099330153
+          ],
+          "sentences": [
+            "Yes, l'm Bud Fox. l have some papers for Mr Gekko to sign.",
+            "- Come in. - Thank you.",
+            "- l'm sorry about this, Mr Gekko. - lt's all right. lt's OK.",
+            "You wanna wait here?",
+            "Problems?",
+            "No problem. This is Bud Fox. My wife, Kate.",
+            "- Hello. You came out from the city? - Yes, ma'am.",
+            "Ah, long drive. You want a drink?",
+            "Yeah, you want a drink? Um... sure.",
+            "- lf you'd rather not. - No, come on. Have a drink.",
+            "Get to meet all the people. lt's a good idea.",
+            "We got Sam Ruspoli, Carmen Winters, Stone Livingston. This is Bud Fox."
+          ]
+        },
+        {
+          "shot": 345,
+          "duration": [
+            2702.7813182339664,
+            2707.6611894452462
+          ],
+          "sentences": [
+            "We got Sam Ruspoli, Carmen Winters, Stone Livingston. This is Bud Fox.",
+            "His illustrious wife, Muffie.",
+            "Candice Rogers, Dick Brady. Darien Taylor. All old friends."
+          ]
+        },
+        {
+          "shot": 346,
+          "duration": [
+            2707.7028977461973,
+            2711.8737278413087
+          ],
+          "sentences": [
+            "Candice Rogers, Dick Brady. Darien Taylor. All old friends.",
+            "Hi."
+          ]
+        },
+        {
+          "shot": 347,
+          "duration": [
+            2711.9154361422598,
+            2715.9194330335667
+          ],
+          "sentences": [
+            "Hi."
+          ]
+        },
+        {
+          "shot": 348,
+          "duration": [
+            2715.961141334518,
+            2717.504348469709
+          ],
+          "sentences": [
+            "Great idea, Gordon. l know good help is hard to find, but can it create a dry vodka martini?"
+          ]
+        },
+        {
+          "shot": 349,
+          "duration": [
+            2717.54605677066,
+            2719.3812220125087
+          ],
+          "sentences": [
+            "Great idea, Gordon. l know good help is hard to find, but can it create a dry vodka martini?"
+          ]
+        },
+        {
+          "shot": 350,
+          "duration": [
+            2719.42293031346,
+            2727.222382591318
+          ],
+          "sentences": [
+            "Great idea, Gordon. l know good help is hard to find, but can it create a dry vodka martini?",
+            "lt doesn't talk back or steal the silverware.",
+            "And Dick here is gonna get me an exemption, aren't you?"
+          ]
+        },
+        {
+          "shot": 351,
+          "duration": [
+            2727.264090892269,
+            2730.6841715702603
+          ],
+          "sentences": [
+            "And Dick here is gonna get me an exemption, aren't you?",
+            "l'm in St Kitts with this new Kamali leopard-skin V-cut bikini,..."
+          ]
+        },
+        {
+          "shot": 352,
+          "duration": [
+            2730.7258798712114,
+            2739.442914769994
+          ],
+          "sentences": [
+            "l'm in St Kitts with this new Kamali leopard-skin V-cut bikini,...",
+            "..which is gonna turn back the clock on my marriage five years. Know what l mean?"
+          ]
+        },
+        {
+          "shot": 353,
+          "duration": [
+            2739.484623070945,
+            2741.5283298175495
+          ],
+          "sentences": [
+            "..which is gonna turn back the clock on my marriage five years. Know what l mean?",
+            "Call for you, sir. Sir Lawrence Wildman. He says it's important."
+          ]
+        },
+        {
+          "shot": 354,
+          "duration": [
+            2741.5700381185006,
+            2749.578031901114
+          ],
+          "sentences": [
+            "Call for you, sir. Sir Lawrence Wildman. He says it's important.",
+            "Thank you, Nyung.",
+            "Would you fix Mr Livingston another martini? Stick around. This could be fun."
+          ]
+        },
+        {
+          "shot": 355,
+          "duration": [
+            2749.6197402020653,
+            2756.626734761852
+          ],
+          "sentences": [
+            "Would you fix Mr Livingston another martini? Stick around. This could be fun.",
+            "lt's all because this Ukrainian bitch botched the job on my wax on my bikini line.",
+            "How ghastly! Sue her."
+          ]
+        },
+        {
+          "shot": 356,
+          "duration": [
+            2756.668443062803,
+            2769.8482661633543
+          ],
+          "sentences": [
+            "How ghastly! Sue her.",
+            "- Larry, what a surprise! - l want to see you, Gordon.",
+            "Can it wait till tomorrow? l got people here.",
+            "- No, this can't wait. lt's important. - OK. lf you feel that way, come on over."
+          ]
+        },
+        {
+          "shot": 357,
+          "duration": [
+            2769.889974464306,
+            2785.9059620295325
+          ],
+          "sentences": [
+            "Ah! There you are! Can l steal him for a minute?",
+            "- Of course. - l want your opinion.",
+            "So what do you see in this?"
+          ]
+        },
+        {
+          "shot": 358,
+          "duration": [
+            2785.947670330484,
+            2793.5385811035862
+          ],
+          "sentences": [
+            "So what do you see in this?",
+            "Purity. lnnocence."
+          ]
+        },
+        {
+          "shot": 359,
+          "duration": [
+            2793.5802894045373,
+            2810.221901484031
+          ],
+          "sentences": [
+            "Purity. lnnocence.",
+            "A few thousand dollars down the tubes, if you ask me.",
+            "Really?",
+            "You can kiss your career as an art appraiser goodbye.",
+            "We paid over 400,000 for it at the contemporary picture sale last June.",
+            "Jesus, you could've had a whole beach house for that!"
+          ]
+        },
+        {
+          "shot": 360,
+          "duration": [
+            2810.2636097849822,
+            2819.93993560564
+          ],
+          "sentences": [
+            "Jesus, you could've had a whole beach house for that!",
+            "Sure you could. ln Wildwood, New Jersey.",
+            "lf you sold this one, you could have a nice penthouse on Fifth."
+          ]
+        },
+        {
+          "shot": 361,
+          "duration": [
+            2819.981643906591,
+            2821.358017837978
+          ],
+          "sentences": [
+            "lf you sold this one, you could have a nice penthouse on Fifth."
+          ]
+        },
+        {
+          "shot": 362,
+          "duration": [
+            2821.399726138929,
+            2829.2408867177382
+          ],
+          "sentences": [
+            "You wouldn't have much left over for decoration.",
+            "lt's nice, if you're on mushrooms.",
+            "l thought Gordon was a tough businessman. He sure has taken a bath on that."
+          ]
+        },
+        {
+          "shot": 363,
+          "duration": [
+            2829.2825950186893,
+            2832.577550793827
+          ],
+          "sentences": [
+            "l thought Gordon was a tough businessman. He sure has taken a bath on that.",
+            "A bath? l'd say Gordon is one of the most astute collectors around."
+          ]
+        },
+        {
+          "shot": 364,
+          "duration": [
+            2832.619259094778,
+            2837.290588801303
+          ],
+          "sentences": [
+            "A bath? l'd say Gordon is one of the most astute collectors around."
+          ]
+        },
+        {
+          "shot": 365,
+          "duration": [
+            2837.332297102254,
+            2842.545834721143
+          ],
+          "sentences": [
+            "A bath? l'd say Gordon is one of the most astute collectors around.",
+            "He has a great eye, and he only buys the best.",
+            "Like this rug, for instance. A Bokhara. lt's the finest of its kind."
+          ]
+        },
+        {
+          "shot": 366,
+          "duration": [
+            2842.587543022094,
+            2852.263868842752
+          ],
+          "sentences": [
+            "Like this rug, for instance. A Bokhara. lt's the finest of its kind.",
+            "After he bought it, a dealer representing the Saudi royal family...",
+            "..offered him twice what he paid. lt absolutely makes the room."
+          ]
+        },
+        {
+          "shot": 367,
+          "duration": [
+            2852.305577143703,
+            2855.266866511232
+          ],
+          "sentences": [
+            "..offered him twice what he paid. lt absolutely makes the room."
+          ]
+        },
+        {
+          "shot": 368,
+          "duration": [
+            2855.308574812183,
+            2858.520113985419
+          ],
+          "sentences": [
+            "..offered him twice what he paid. lt absolutely makes the room.",
+            "See how this bit of celadon in the border is picked up by these cushions?"
+          ]
+        },
+        {
+          "shot": 369,
+          "duration": [
+            2858.56182228637,
+            2859.9381962177567
+          ],
+          "sentences": [
+            "See how this bit of celadon in the border is picked up by these cushions?"
+          ]
+        },
+        {
+          "shot": 370,
+          "duration": [
+            2859.979904518708,
+            2861.1894452462902
+          ],
+          "sentences": [
+            "See how this bit of celadon in the border is picked up by these cushions?",
+            "Although it's a sacrilege having that Etruscan vase on the table."
+          ]
+        },
+        {
+          "shot": 371,
+          "duration": [
+            2861.2311535472413,
+            2864.150734613819
+          ],
+          "sentences": [
+            "Although it's a sacrilege having that Etruscan vase on the table."
+          ]
+        },
+        {
+          "shot": 372,
+          "duration": [
+            2864.1924429147703,
+            2866.736649272788
+          ],
+          "sentences": [
+            "Although it's a sacrilege having that Etruscan vase on the table.",
+            "Some dope might use it as an ashtray."
+          ]
+        },
+        {
+          "shot": 373,
+          "duration": [
+            2866.778357573739,
+            2869.030605825099
+          ],
+          "sentences": [
+            "Some dope might use it as an ashtray.",
+            "- l guess you're a decorator? - You got it."
+          ]
+        },
+        {
+          "shot": 374,
+          "duration": [
+            2869.07231412605,
+            2872.82606121165
+          ],
+          "sentences": [
+            "- l guess you're a decorator? - You got it.",
+            "A great spender of other people's money."
+          ]
+        },
+        {
+          "shot": 375,
+          "duration": [
+            2872.8677695126016,
+            2894.222419599571
+          ],
+          "sentences": [
+            "A great spender of other people's money.",
+            "lf you're that good, l'm sure you can do wonders with my place.",
+            "- Where would that be? - Upper West Side.",
+            "Really? Home of the exposed brick wall and the houseplant?",
+            "lt's just a rental. l'll be moving to the East Side soon. Some deals brewing with Gordon.",
+            "But that's just conversation. What about real things?"
+          ]
+        },
+        {
+          "shot": 376,
+          "duration": [
+            2894.264127900522,
+            2899.8113319270196
+          ],
+          "sentences": [
+            "But that's just conversation. What about real things?",
+            "Like dinner? The two of us... next Friday? Caf\u00e9 Santo Domingo."
+          ]
+        },
+        {
+          "shot": 377,
+          "duration": [
+            2899.8530402279707,
+            2903.0645794012066
+          ],
+          "sentences": [
+            "Like dinner? The two of us... next Friday? Caf\u00e9 Santo Domingo.",
+            "What if l have a previous engagement?"
+          ]
+        },
+        {
+          "shot": 378,
+          "duration": [
+            2903.1062877021577,
+            2906.901743088709
+          ],
+          "sentences": [
+            "What if l have a previous engagement?",
+            "You break it.",
+            "There you go again, Darien. Talking with strange men."
+          ]
+        },
+        {
+          "shot": 379,
+          "duration": [
+            2906.94345138966,
+            2909.6544909514823
+          ],
+          "sentences": [
+            "There you go again, Darien. Talking with strange men."
+          ]
+        },
+        {
+          "shot": 380,
+          "duration": [
+            2909.6961992524334,
+            2930.9257244365494
+          ],
+          "sentences": [
+            "There you go again, Darien. Talking with strange men.",
+            "Hello. Sam, do you know Bud Fox? Sam is in banking.",
+            "- Works for Gordon. - Nice meeting you.",
+            "- Are you staying for dinner? - No, l have work to do.",
+            "- (doorbell) - Ah. The bell.",
+            "Excuse me.",
+            "Call me next week. l'll give you an estimate."
+          ]
+        },
+        {
+          "shot": 381,
+          "duration": [
+            2930.9674327375005,
+            2934.846304725954
+          ],
+          "sentences": [
+            "Call me next week. l'll give you an estimate."
+          ]
+        },
+        {
+          "shot": 382,
+          "duration": [
+            2934.888013026905,
+            2959.1622441804525
+          ],
+          "sentences": [
+            "- Larry, how have you been? - Fine. Travelling, actually.",
+            "- Can l get you a drink? - No, thank you.",
+            "Larry! Excuse me. Sir Larry.",
+            "How are ya? Goddamn, you look great!",
+            "- Gordon. - So you wanna talk.",
+            "- l'll be heading back now, Mr Gekko. - Stick around.",
+            "This is one of my gang. Bud Fox."
+          ]
+        },
+        {
+          "shot": 383,
+          "duration": [
+            2959.2039524814036,
+            2961.1225343251544
+          ],
+          "sentences": [
+            "This is one of my gang. Bud Fox."
+          ]
+        },
+        {
+          "shot": 385,
+          "duration": [
+            2962.7908663631993,
+            2978.5148958217683
+          ],
+          "sentences": [
+            "Shall we go upstairs?",
+            "Yeah.",
+            "The rarest pistol in the world, Larry."
+          ]
+        },
+        {
+          "shot": 386,
+          "duration": [
+            2978.5566041227194,
+            2999.8278376077865
+          ],
+          "sentences": [
+            "The rarest pistol in the world, Larry.",
+            "A .45 Luger.",
+            "Only six of 'em were ever manufactured.",
+            "Congratulations.",
+            "Rarer still is your interest in Anacott Steel.",
+            "My interest is the same as yours. Money. Thought it'd be a good investment for my kid.",
+            "No, this time l'm in for the long term. lt's not a liquidation. l'm gonna turn it around."
+          ]
+        },
+        {
+          "shot": 387,
+          "duration": [
+            2999.8695459087376,
+            3018.7216979386403
+          ],
+          "sentences": [
+            "No, this time l'm in for the long term. lt's not a liquidation. l'm gonna turn it around.",
+            "You're getting a free ride on my tail, mate.",
+            "With the dollars you're costing me to buy back stock, l could modernise the plant.",
+            "l'm not the only one who pays here, Gordon.",
+            "We're talking about lives and jobs. Four generations of steelworkers..."
+          ]
+        },
+        {
+          "shot": 388,
+          "duration": [
+            3018.7634062395914,
+            3026.6045668184006
+          ],
+          "sentences": [
+            "We're talking about lives and jobs. Four generations of steelworkers...",
+            "Correct me if l'm wrong, but when you got CNX Electronics, you laid off 6,000 workers.",
+            "Jemson Fruit, 4,000. That airline you bought, um..."
+          ]
+        },
+        {
+          "shot": 389,
+          "duration": [
+            3026.6462751193517,
+            3040.9939306465344
+          ],
+          "sentences": [
+            "Jemson Fruit, 4,000. That airline you bought, um...",
+            "l could break you, mate. ln two pieces over my knees.",
+            "You know it. l know it.",
+            "l could buy you six times over.",
+            "l could dump the stockjust to burn your arse!"
+          ]
+        },
+        {
+          "shot": 390,
+          "duration": [
+            3041.0356389474855,
+            3043.3295954997966
+          ],
+          "sentences": [
+            "l could dump the stockjust to burn your arse!",
+            "But l happen to want the company, and l want your block of shares."
+          ]
+        },
+        {
+          "shot": 391,
+          "duration": [
+            3043.3713038007477,
+            3048.960216128197
+          ],
+          "sentences": [
+            "But l happen to want the company, and l want your block of shares.",
+            "l'm announcing a tender offer at 65 tomorrow."
+          ]
+        },
+        {
+          "shot": 392,
+          "duration": [
+            3049.001924429148,
+            3050.503423263388
+          ],
+          "sentences": [
+            "l'm announcing a tender offer at 65 tomorrow."
+          ]
+        },
+        {
+          "shot": 393,
+          "duration": [
+            3050.545131564339,
+            3052.46371340809
+          ],
+          "sentences": [
+            "l'm announcing a tender offer at 65 tomorrow.",
+            "l'm expecting your commitment."
+          ]
+        },
+        {
+          "shot": 394,
+          "duration": [
+            3052.505421709041,
+            3067.1033270419302
+          ],
+          "sentences": [
+            "l'm expecting your commitment.",
+            "Showdowns bore me, Larry. Nobody wins. You can have the company.",
+            "ln fact, it'll be fun watching you and your giant ego trying to make a horse race of it.",
+            "Buddy, what's a fair price for that stock?"
+          ]
+        },
+        {
+          "shot": 395,
+          "duration": [
+            3067.145035342882,
+            3072.567114466526
+          ],
+          "sentences": [
+            "Buddy, what's a fair price for that stock?",
+            "The break-up value is higher. lt's worth 80."
+          ]
+        },
+        {
+          "shot": 396,
+          "duration": [
+            3072.6088227674772,
+            3075.1947374264464
+          ],
+          "sentences": [
+            "The break-up value is higher. lt's worth 80.",
+            "Well, we don't want to be greedy. So what do you say to 72?"
+          ]
+        },
+        {
+          "shot": 397,
+          "duration": [
+            3075.2364457273975,
+            3077.655527182562
+          ],
+          "sentences": [
+            "Well, we don't want to be greedy. So what do you say to 72?"
+          ]
+        },
+        {
+          "shot": 398,
+          "duration": [
+            3077.697235483513,
+            3092.0031827097446
+          ],
+          "sentences": [
+            "Well, we don't want to be greedy. So what do you say to 72?",
+            "You're a two-bit pirate and greenmailer. Nothing more,...",
+            "..Gekko.",
+            "Not only would you sell your mother to make a deal, you'd send her COD."
+          ]
+        },
+        {
+          "shot": 399,
+          "duration": [
+            3092.0448910106957,
+            3117.820620998483
+          ],
+          "sentences": [
+            "Not only would you sell your mother to make a deal, you'd send her COD.",
+            "My mail is the same colour as yours is, pal.",
+            "Or at least it was until the Queen started calling you \"Sir\".",
+            "Excuse me before l lose my temper.",
+            "71?",
+            "Considering you brought my mother into it,...",
+            "..71.50."
+          ]
+        },
+        {
+          "shot": 400,
+          "duration": [
+            3117.862329299434,
+            3119.8643277450874
+          ],
+          "sentences": [
+            "..71.50."
+          ]
+        },
+        {
+          "shot": 402,
+          "duration": [
+            3121.8246178897894,
+            3125.1195736649274
+          ],
+          "sentences": [
+            "Done.",
+            "You'll hear from my lawyers tomorrow, 8am. Good night."
+          ]
+        },
+        {
+          "shot": 403,
+          "duration": [
+            3125.1612819658785,
+            3144.8893083157545
+          ],
+          "sentences": [
+            "You'll hear from my lawyers tomorrow, 8am. Good night.",
+            "He's right, l had to sell. The key to the game is capital reserves.",
+            "lf you don't have enough, you can't piss in the tall weeds with the big dogs.",
+            "\"All warfare is based on deception.\" Sun Tzu."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0094291_0012",
+      "shot": [
+        803,
+        810
+      ],
+      "frame": [
+        162743,
+        166981
+      ],
+      "duration": [
+        6787.760771203101,
+        6964.489896203102
+      ],
+      "consistency": 0.8265154767217893,
+      "description": "The next day, a triumphant Fox arrives at work at Jackson Steinem &amp; Co. where he is confronted by the police and the Securities and Exchange Commission (SEC). Apparently Gekko tipped them off about Fox's insider dealings which they themselves have been investigating for some time. Fox is arrested, handcuffed and led out of the office in tears.",
+      "subtitle": [
+        {
+          "shot": 803,
+          "duration": [
+            6786.649605862108,
+            6798.119388623663
+          ],
+          "sentences": [
+            "Son of a bitch!"
+          ]
+        },
+        {
+          "shot": 804,
+          "duration": [
+            6798.161096924615,
+            6909.438843862182
+          ],
+          "sentences": [
+            "Smile, Carolyn. There's justice in the world.",
+            "Good morning, folks.",
+            "Did somebody die?",
+            "Yeah.",
+            "Morning, Chuckie. Morning, Lou.",
+            "Bud...",
+            "Bud, l like you.",
+            "Just remember something.",
+            "Man looks in the abyss.",
+            "There's nothing staring back at him.",
+            "At that moment, man finds his character.",
+            "And that is what keeps him out of the abyss.",
+            "l think l understand.",
+            "Janet, get my father, will you?",
+            "He just came in. l'll call you back.",
+            "l guess you're not here to open an lRA.",
+            "Henry Patterson, Postal lnspection Service. Mr Ebenhopper, US Attorney's office.",
+            "Evan Morrissey, Securities and Exchange Enforcement office."
+          ]
+        },
+        {
+          "shot": 805,
+          "duration": [
+            6909.480552163132,
+            6918.614670071426
+          ],
+          "sentences": [
+            "Evan Morrissey, Securities and Exchange Enforcement office.",
+            "You're under arrest for conspiracy to commit securities fraud,...",
+            "..and for violating the lnsider Traders Sanction Act.",
+            "The minute l laid eyes on you, l knew you were no good."
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            6918.656378372378,
+            6921.951334147515
+          ],
+          "sentences": [
+            "The minute l laid eyes on you, l knew you were no good.",
+            "You have the right to remain silent and refuse to answer questions."
+          ]
+        },
+        {
+          "shot": 807,
+          "duration": [
+            6921.993042448466,
+            6931.168868657711
+          ],
+          "sentences": [
+            "You have the right to remain silent and refuse to answer questions.",
+            "Anything you do say may be used against you.",
+            "You have the right to consult an attorney...",
+            "..and to have an attorney present during any questioning."
+          ]
+        },
+        {
+          "shot": 808,
+          "duration": [
+            6931.210576958662,
+            6934.213574627142
+          ],
+          "sentences": [
+            "..and to have an attorney present during any questioning."
+          ]
+        },
+        {
+          "shot": 809,
+          "duration": [
+            6934.255282928093,
+            6967.538507087081
+          ],
+          "sentences": [
+            "..and to have an attorney present during any questioning.",
+            "So long, Carolyn."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0094291_0013",
+      "shot": [
+        810,
+        824
+      ],
+      "frame": [
+        167058,
+        171337
+      ],
+      "duration": [
+        6967.743291388032,
+        7146.153686388032
+      ],
+      "consistency": 0.9041523000943948,
+      "description": "Some time later, Fox confronts Gekko in rainy Central Park. Gekko berates him for his betrayal. He then viciously assaults Fox, but not before mentioning several of their illegal business transactions. Unknown to Gekko, Fox was wearing a wire which he then turns over to the federal authorities.",
+      "subtitle": [
+        {
+          "shot": 811,
+          "duration": [
+            6974.003293734503,
+            6999.445357314681
+          ],
+          "sentences": [
+            "Hiya, Buddy.",
+            "Gordon.",
+            "Sandbagged me on Bluestar, huh?",
+            "l guess you think you taught the teacher a lesson, that the tail can wag the dog, huh?",
+            "Well, let me clue you in, pal.",
+            "The ice is melting right underneath your feet."
+          ]
+        },
+        {
+          "shot": 813,
+          "duration": [
+            7000.571481440362,
+            7016.962843714148
+          ],
+          "sentences": [
+            "You think you could have gotten this far this fast with anybody else?",
+            "And dickin' someone like Darien?",
+            "No. You'd be cold-calling widows and dentists to buy fuckin' dogshit stock!",
+            "l took you in!"
+          ]
+        },
+        {
+          "shot": 814,
+          "duration": [
+            7017.0045520151,
+            7018.339217645535
+          ],
+          "sentences": [
+            "l took you in!",
+            "A nobody!"
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            7018.380925946486,
+            7032.39491506606
+          ],
+          "sentences": [
+            "A nobody!",
+            "l opened doors for you.",
+            "l showed you how the system works, the value of information, how to get it!",
+            "Fulham Oil, Brant Resources, Geodynamics!",
+            "And this is how you fuckin' pay me back, you cockroach!"
+          ]
+        },
+        {
+          "shot": 816,
+          "duration": [
+            7032.436623367011,
+            7034.605455016469
+          ],
+          "sentences": [
+            "And this is how you fuckin' pay me back, you cockroach!"
+          ]
+        },
+        {
+          "shot": 817,
+          "duration": [
+            7034.64716331742,
+            7049.119943747456
+          ],
+          "sentences": [
+            "l gave you Darien!",
+            "l gave you your manhood! l gave you everything!"
+          ]
+        },
+        {
+          "shot": 818,
+          "duration": [
+            7049.161652048407,
+            7056.043521705341
+          ],
+          "sentences": [
+            "You coulda been one of the great ones, Buddy."
+          ]
+        },
+        {
+          "shot": 819,
+          "duration": [
+            7056.085230006292,
+            7090.2443284852525
+          ],
+          "sentences": [
+            "You coulda been one of the great ones, Buddy.",
+            "l look at you... and l see myself.",
+            "Why?",
+            "l don't know.",
+            "l guess l realised that...",
+            "..l'm just Bud Fox.",
+            "As much as l wanted to be Gordon Gekko...",
+            "..l'll always be Bud Fox."
+          ]
+        },
+        {
+          "shot": 822,
+          "duration": [
+            7114.893934347359,
+            7134.78879390104
+          ],
+          "sentences": [
+            "(tape) l showed you how the system works, the value of information, how to get it!",
+            "Fulham Oil, Brant Resources..."
+          ]
+        },
+        {
+          "shot": 823,
+          "duration": [
+            7134.830502201991,
+            7146.842492875911
+          ],
+          "sentences": [
+            "Fulham Oil, Brant Resources...",
+            "You did the right thing, Bud."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

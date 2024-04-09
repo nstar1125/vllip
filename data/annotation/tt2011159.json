@@ -1,0 +1,21 @@
+{
+  "imdb_id": "tt2011159",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 76,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 106,
+        "scale": "medium",
+        "movement": "static"
+      }
+    ]
+  }
+}

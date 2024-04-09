@@ -1,0 +1,3668 @@
+{
+  "imdb_id": "tt0443272",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0443272_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        939
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0001",
+      "shot": [
+        1,
+        3
+      ],
+      "frame": [
+        939,
+        2202
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0002",
+      "shot": [
+        3,
+        21
+      ],
+      "frame": [
+        2202,
+        3233
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0003",
+      "shot": [
+        21,
+        38
+      ],
+      "frame": [
+        3233,
+        8136
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0004",
+      "shot": [
+        38,
+        39
+      ],
+      "frame": [
+        8136,
+        9723
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0005",
+      "shot": [
+        39,
+        43
+      ],
+      "frame": [
+        9723,
+        9850
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0006",
+      "shot": [
+        43,
+        57
+      ],
+      "frame": [
+        9850,
+        13977
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0007",
+      "shot": [
+        57,
+        69
+      ],
+      "frame": [
+        13977,
+        17033
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0008",
+      "shot": [
+        69,
+        78
+      ],
+      "frame": [
+        17033,
+        20090
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0009",
+      "shot": [
+        78,
+        115
+      ],
+      "frame": [
+        20090,
+        28198
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0010",
+      "shot": [
+        115,
+        116
+      ],
+      "frame": [
+        28198,
+        29078
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0011",
+      "shot": [
+        116,
+        135
+      ],
+      "frame": [
+        29078,
+        32737
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0012",
+      "shot": [
+        135,
+        137
+      ],
+      "frame": [
+        32737,
+        33485
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0013",
+      "shot": [
+        137,
+        164
+      ],
+      "frame": [
+        33485,
+        44496
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0014",
+      "shot": [
+        164,
+        168
+      ],
+      "frame": [
+        44496,
+        46233
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0015",
+      "shot": [
+        168,
+        175
+      ],
+      "frame": [
+        46233,
+        49492
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0016",
+      "shot": [
+        175,
+        178
+      ],
+      "frame": [
+        49492,
+        50675
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0017",
+      "shot": [
+        178,
+        223
+      ],
+      "frame": [
+        50675,
+        57226
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0018",
+      "shot": [
+        223,
+        230
+      ],
+      "frame": [
+        57226,
+        58308
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0019",
+      "shot": [
+        230,
+        234
+      ],
+      "frame": [
+        58308,
+        60789
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0020",
+      "shot": [
+        234,
+        236
+      ],
+      "frame": [
+        60789,
+        61009
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0021",
+      "shot": [
+        236,
+        244
+      ],
+      "frame": [
+        61009,
+        62299
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0022",
+      "shot": [
+        244,
+        246
+      ],
+      "frame": [
+        62299,
+        62468
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0023",
+      "shot": [
+        246,
+        247
+      ],
+      "frame": [
+        62468,
+        62514
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0024",
+      "shot": [
+        247,
+        250
+      ],
+      "frame": [
+        62514,
+        63199
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0025",
+      "shot": [
+        250,
+        254
+      ],
+      "frame": [
+        63199,
+        63629
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0026",
+      "shot": [
+        254,
+        256
+      ],
+      "frame": [
+        63629,
+        64206
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0027",
+      "shot": [
+        256,
+        265
+      ],
+      "frame": [
+        64206,
+        66025
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0028",
+      "shot": [
+        265,
+        282
+      ],
+      "frame": [
+        66025,
+        68289
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0029",
+      "shot": [
+        282,
+        294
+      ],
+      "frame": [
+        68289,
+        70746
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0030",
+      "shot": [
+        294,
+        295
+      ],
+      "frame": [
+        70746,
+        71002
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0031",
+      "shot": [
+        295,
+        296
+      ],
+      "frame": [
+        71002,
+        71180
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0032",
+      "shot": [
+        296,
+        318
+      ],
+      "frame": [
+        71180,
+        75952
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0033",
+      "shot": [
+        318,
+        319
+      ],
+      "frame": [
+        75952,
+        76502
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0034",
+      "shot": [
+        319,
+        340
+      ],
+      "frame": [
+        76502,
+        79786
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0035",
+      "shot": [
+        340,
+        362
+      ],
+      "frame": [
+        79786,
+        84674
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0036",
+      "shot": [
+        362,
+        369
+      ],
+      "frame": [
+        84674,
+        85975
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0037",
+      "shot": [
+        369,
+        377
+      ],
+      "frame": [
+        85975,
+        90161
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0038",
+      "shot": [
+        377,
+        378
+      ],
+      "frame": [
+        90161,
+        90199
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0039",
+      "shot": [
+        378,
+        379
+      ],
+      "frame": [
+        90199,
+        90298
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0040",
+      "shot": [
+        379,
+        402
+      ],
+      "frame": [
+        90298,
+        95091
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0041",
+      "shot": [
+        402,
+        408
+      ],
+      "frame": [
+        95091,
+        95740
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0042",
+      "shot": [
+        408,
+        412
+      ],
+      "frame": [
+        95740,
+        96426
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0043",
+      "shot": [
+        412,
+        415
+      ],
+      "frame": [
+        96426,
+        96986
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0044",
+      "shot": [
+        415,
+        421
+      ],
+      "frame": [
+        96986,
+        97599
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0045",
+      "shot": [
+        421,
+        427
+      ],
+      "frame": [
+        97599,
+        98445
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0046",
+      "shot": [
+        427,
+        429
+      ],
+      "frame": [
+        98445,
+        98710
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0047",
+      "shot": [
+        429,
+        437
+      ],
+      "frame": [
+        98710,
+        100204
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0048",
+      "shot": [
+        437,
+        438
+      ],
+      "frame": [
+        100204,
+        100784
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0049",
+      "shot": [
+        438,
+        446
+      ],
+      "frame": [
+        100784,
+        103278
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0050",
+      "shot": [
+        446,
+        453
+      ],
+      "frame": [
+        103278,
+        106950
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0051",
+      "shot": [
+        453,
+        455
+      ],
+      "frame": [
+        106950,
+        107366
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0052",
+      "shot": [
+        455,
+        456
+      ],
+      "frame": [
+        107366,
+        108374
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0053",
+      "shot": [
+        456,
+        475
+      ],
+      "frame": [
+        108374,
+        113549
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0054",
+      "shot": [
+        475,
+        507
+      ],
+      "frame": [
+        113549,
+        119365
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0055",
+      "shot": [
+        507,
+        519
+      ],
+      "frame": [
+        119365,
+        121573
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0056",
+      "shot": [
+        519,
+        527
+      ],
+      "frame": [
+        121573,
+        123177
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0057",
+      "shot": [
+        527,
+        531
+      ],
+      "frame": [
+        123177,
+        124234
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0058",
+      "shot": [
+        531,
+        537
+      ],
+      "frame": [
+        124234,
+        125188
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0059",
+      "shot": [
+        537,
+        552
+      ],
+      "frame": [
+        125188,
+        127324
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0060",
+      "shot": [
+        552,
+        570
+      ],
+      "frame": [
+        127324,
+        132185
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0061",
+      "shot": [
+        570,
+        574
+      ],
+      "frame": [
+        132185,
+        133903
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0062",
+      "shot": [
+        574,
+        585
+      ],
+      "frame": [
+        133903,
+        137658
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0063",
+      "shot": [
+        585,
+        627
+      ],
+      "frame": [
+        137658,
+        143829
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0064",
+      "shot": [
+        627,
+        644
+      ],
+      "frame": [
+        143829,
+        147761
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0065",
+      "shot": [
+        644,
+        666
+      ],
+      "frame": [
+        147761,
+        153465
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0066",
+      "shot": [
+        666,
+        711
+      ],
+      "frame": [
+        153465,
+        159924
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0067",
+      "shot": [
+        711,
+        731
+      ],
+      "frame": [
+        159924,
+        162418
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0068",
+      "shot": [
+        731,
+        760
+      ],
+      "frame": [
+        162418,
+        166627
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0069",
+      "shot": [
+        760,
+        763
+      ],
+      "frame": [
+        166627,
+        166909
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0070",
+      "shot": [
+        763,
+        767
+      ],
+      "frame": [
+        166909,
+        167625
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0071",
+      "shot": [
+        767,
+        802
+      ],
+      "frame": [
+        167625,
+        170817
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0072",
+      "shot": [
+        802,
+        823
+      ],
+      "frame": [
+        170817,
+        173831
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0073",
+      "shot": [
+        823,
+        826
+      ],
+      "frame": [
+        173831,
+        174687
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0074",
+      "shot": [
+        826,
+        837
+      ],
+      "frame": [
+        174687,
+        176728
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0075",
+      "shot": [
+        837,
+        838
+      ],
+      "frame": [
+        176728,
+        176803
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0076",
+      "shot": [
+        838,
+        841
+      ],
+      "frame": [
+        176803,
+        176968
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0077",
+      "shot": [
+        841,
+        842
+      ],
+      "frame": [
+        176968,
+        178109
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0078",
+      "shot": [
+        842,
+        843
+      ],
+      "frame": [
+        178109,
+        180029
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0079",
+      "shot": [
+        843,
+        845
+      ],
+      "frame": [
+        180029,
+        180192
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0080",
+      "shot": [
+        845,
+        846
+      ],
+      "frame": [
+        180192,
+        180377
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0081",
+      "shot": [
+        846,
+        855
+      ],
+      "frame": [
+        180377,
+        186085
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0082",
+      "shot": [
+        855,
+        856
+      ],
+      "frame": [
+        186085,
+        186649
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0083",
+      "shot": [
+        856,
+        862
+      ],
+      "frame": [
+        186649,
+        188272
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0084",
+      "shot": [
+        862,
+        869
+      ],
+      "frame": [
+        188272,
+        191078
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0085",
+      "shot": [
+        869,
+        872
+      ],
+      "frame": [
+        191078,
+        191642
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0086",
+      "shot": [
+        872,
+        881
+      ],
+      "frame": [
+        191642,
+        192917
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0087",
+      "shot": [
+        881,
+        882
+      ],
+      "frame": [
+        192917,
+        193432
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0088",
+      "shot": [
+        882,
+        888
+      ],
+      "frame": [
+        193432,
+        195230
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0089",
+      "shot": [
+        888,
+        898
+      ],
+      "frame": [
+        195230,
+        196912
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0443272_0090",
+      "shot": [
+        898,
+        916
+      ],
+      "frame": [
+        196912,
+        200617
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0443272_0000",
+      "shot": [
+        2,
+        39
+      ],
+      "frame": [
+        2114,
+        8868
+      ],
+      "duration": [
+        88.204952,
+        369.852039
+      ],
+      "consistency": 0.9805044353254754,
+      "description": "The opening scene is a brutal, muddy melee. At close quarters in that wet place, the men on whom the camera closes in are attacking one another with bayonets, swords, fists, or even by holding an enemy's face in the mud to drown him. Many of the combatants are black. A voice-over says that the rebels (Confederates, or rebs) \"killed every negro soldier they captured at Poison Springs... so at Jenkins Ferry, we decided we weren't taking no reb prisoners.\" The camera cuts to show the speaker, a black soldier in an army camp talking to someone who after a few seconds is revealed to be President Abraham Lincoln . The soldier (Private Harold Green, and his comrade (Corporal Ira Clark, tell Lincoln their names, ranks, and where they're headed next (Wilmington). They're pleased that they're finally being paid as much as the white soldiers, but Clark complains about the lack of commissioned negro officers and sarcastically predicts that whites might be able to tolerate a negro colonel in 50 years -- and \"in 100 years, the vote.\" A couple of white soldiers who heard Lincoln speak at Gettysburg come up; one repeats the beginning of the Gettysburg address and his friend recites the next lines. They're called away, but Corporal Clark finishes the speech as he walks off.",
+      "subtitle": [
+        {
+          "shot": 19,
+          "duration": [
+            124.95816666666666,
+            127.91945833333332
+          ],
+          "sentences": [
+            "Some of us was in the Second Kansas Colored."
+          ]
+        },
+        {
+          "shot": 20,
+          "duration": [
+            127.96116666666666,
+            134.80133333333333
+          ],
+          "sentences": [
+            "We fought the Rebs at Jenkins' Ferry last April",
+            "just after they killed every Negro soldier",
+            "they captured at Poison Springs."
+          ]
+        },
+        {
+          "shot": 21,
+          "duration": [
+            134.84304166666666,
+            227.0184583333333
+          ],
+          "sentences": [
+            "So at Jenkins' Ferry,",
+            "we decided warn't takin' no Reb prisoners.",
+            "And we didn't leave a one of 'em alive.",
+            "The ones of us that didn't die that day,",
+            "we joined up with the 116th U.S. Colored, sir,",
+            "from Camp Nelson, Kentucky.",
+            "What's your name, soldier?",
+            "Private. Harold Green, sir.",
+            "I'm Corporal Ira Clark, sir.",
+            "Fifth Massachusetts Cavalry.",
+            "We're waiting over there.",
+            "We're leaving our horses behind",
+            "and shipping out with the 24th Infantry",
+            "for the assault next week on Wilmington.",
+            "How long have you been a soldier?",
+            "Two years, sir.",
+            "The Second Kansas Colored Infantry,",
+            "they fought bravely at Jenkins' Ferry.",
+            "That's right, sir.",
+            "They killed a thousand Rebel soldiers, sir.",
+            "They were very brave.",
+            "And making $3 less each month than white soldiers.",
+            "Us Second Kansas boys...",
+            "Another $3 subtracted from our pay for our uniforms.",
+            "That was true, yes sir, but that's changed.",
+            "Equal pay now, but still no commissioned Negro officers.",
+            "I'm aware of that, Corporal Clark.",
+            "Yes, sir. That's good that you're aware, sir...",
+            "Do you think the Wilmington attack...",
+            "Now that white people have accustomed themselves",
+            "to seeing Negro men with guns",
+            "fighting on their behalf,",
+            "and now that they can tolerate",
+            "Negro soldiers getting equal pay",
+            "maybe in a few years, they can abide the idea",
+            "of Negro lieutenants and captains.",
+            "In fifty years, maybe a Negro colonel.",
+            "In a hundred years, the vote."
+          ]
+        },
+        {
+          "shot": 22,
+          "duration": [
+            227.06016666666665,
+            238.48825
+          ],
+          "sentences": [
+            "What will you do after the war, Corporal Clark?",
+            "Work, sir.",
+            "Perhaps you'll hire me.",
+            "Perhaps I will."
+          ]
+        },
+        {
+          "shot": 23,
+          "duration": [
+            238.52995833333333,
+            244.86962499999998
+          ],
+          "sentences": [
+            "Perhaps I will.",
+            "But you should know, sir,",
+            "that I get sick at the smell of boot black",
+            "and I cannot cut hair."
+          ]
+        },
+        {
+          "shot": 24,
+          "duration": [
+            244.91133333333332,
+            255.29670833333333
+          ],
+          "sentences": [
+            "and I cannot cut hair.",
+            "I've yet to find a man could cut mine",
+            "so that it'd make any difference.",
+            "You got springy hair for a white man.",
+            "Yes, I do.",
+            "My last barber hanged himself."
+          ]
+        },
+        {
+          "shot": 25,
+          "duration": [
+            255.33841666666666,
+            263.6800833333333
+          ],
+          "sentences": [
+            "And the one before that.",
+            "Left me his scissors in his will."
+          ]
+        },
+        {
+          "shot": 26,
+          "duration": [
+            263.72179166666666,
+            267.8092083333333
+          ],
+          "sentences": [
+            "President Lincoln, sir.",
+            "Good evening, boys.",
+            "We saw you, and..."
+          ]
+        },
+        {
+          "shot": 27,
+          "duration": [
+            267.85091666666665,
+            273.8569166666666
+          ],
+          "sentences": [
+            "We saw you, and...",
+            "- We were at... - We was at Gettysburg.",
+            "You boys fight at Gettysburg?",
+            "No, didn't fight there, we just signed up last month."
+          ]
+        },
+        {
+          "shot": 28,
+          "duration": [
+            273.898625,
+            281.61466666666666
+          ],
+          "sentences": [
+            "No, didn't fight there, we just signed up last month.",
+            "We saw him two years ago at the cemetery dedication.",
+            "Yeah. We heard you speak... Goddamn.",
+            "Hey, how tall are you, anyway?",
+            "Jeez, shut up."
+          ]
+        },
+        {
+          "shot": 29,
+          "duration": [
+            281.65637499999997,
+            285.28499999999997
+          ],
+          "sentences": [
+            "Jeez, shut up.",
+            "Could you hear what I said?",
+            "No, sir. Not much."
+          ]
+        },
+        {
+          "shot": 30,
+          "duration": [
+            285.32670833333333,
+            293.7935
+          ],
+          "sentences": [
+            "No, sir. Not much.",
+            "It was...",
+            "\"Four score and seven years ago,\"",
+            "\"our fathers brought forth from this continent\"",
+            "\"a new nation, conceived in liberty\"",
+            "\"and dedicated to the proposition\"",
+            "\"that all men are created equal.\""
+          ]
+        },
+        {
+          "shot": 31,
+          "duration": [
+            293.8352083333333,
+            297.54724999999996
+          ],
+          "sentences": [
+            "\"that all men are created equal.\"",
+            "That's good. Thank you.",
+            "\"Now we are engaged in a great civil war,\""
+          ]
+        },
+        {
+          "shot": 32,
+          "duration": [
+            297.5889583333333,
+            305.5969583333333
+          ],
+          "sentences": [
+            "\"Now we are engaged in a great civil war,\"",
+            "\"testing whether that nation or any nation\"",
+            "\"so conceived and so dedicated,\"",
+            "\"can long endure.\"",
+            "\"We are met on a great battlefield of that war.\""
+          ]
+        },
+        {
+          "shot": 33,
+          "duration": [
+            305.63866666666667,
+            309.80949999999996
+          ],
+          "sentences": [
+            "\"We are met on a great battlefield of that war.\"",
+            "That's good, thank you.",
+            "\"We come to dedicate\"",
+            "\"a portion of that field\""
+          ]
+        },
+        {
+          "shot": 34,
+          "duration": [
+            309.8512083333333,
+            320.5285416666666
+          ],
+          "sentences": [
+            "\"a portion of that field\"",
+            "\"as a final resting place for those who here\"",
+            "\"gave their lives that that nation might live.\"",
+            "His uncles, they died on the second day of fighting.",
+            "I know the last part. It is...",
+            "Company up! Moving out!"
+          ]
+        },
+        {
+          "shot": 35,
+          "duration": [
+            320.57025,
+            323.698375
+          ],
+          "sentences": [
+            "Company up! Moving out!",
+            "You boys best go and find your company.",
+            "- And thank you. - Thank you, sir."
+          ]
+        },
+        {
+          "shot": 36,
+          "duration": [
+            323.7400833333333,
+            331.4978333333333
+          ],
+          "sentences": [
+            "- And thank you. - Thank you, sir.",
+            "- God bless you. - God bless you, too.",
+            "God bless you."
+          ]
+        },
+        {
+          "shot": 38,
+          "duration": [
+            339.339,
+            405.48841666666664
+          ],
+          "sentences": [
+            "\"That we here highly resolve that these dead\"",
+            "\"shall not have died in vain.\"",
+            "\"That this nation, under God,\"",
+            "\"shall have a new birth of freedom\"",
+            "\"and that government of the people, by the people,\"",
+            "\"for the people\"",
+            "\"shall not perish from the earth.\"",
+            "It's nighttime.",
+            "Ship's moved by some terribie power",
+            "at a terrific speed.",
+            "And though it's imperceptible in the darkness,",
+            "I have an intuition that we're headed towards a shore.",
+            "No one else seems to be aboard the vessel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0443272_0004",
+      "shot": [
+        116,
+        137
+      ],
+      "frame": [
+        29112,
+        33231
+      ],
+      "duration": [
+        1214.2371103333332,
+        1385.9680753333332
+      ],
+      "consistency": 0.9947720086473634,
+      "description": "To pass the amendment, Lincoln needs the support of Preston Blair  and his son Montgomery , the influential founders of the Republican Party and leaders of its conservative wing. The Blairs are eager to end the war. As a condition of his support, Preston Blair demands permission to visit the Confederate leadership in Richmond, Virginia, and invite them to send a peace delegation to Washington. This is awkward for Lincoln because he can't afford to end the war until the amendment passes, but he allows Blair to go secretly to Richmond.",
+      "subtitle": [
+        {
+          "shot": 116,
+          "duration": [
+            1212.7949166666665,
+            1222.9300416666665
+          ],
+          "sentences": [
+            "Send over to Blair House.",
+            "Ask Preston Blair can I call on him around 5:00."
+          ]
+        },
+        {
+          "shot": 117,
+          "duration": [
+            1222.97175,
+            1227.7265
+          ],
+          "sentences": [
+            "God help you.",
+            "God alone knows what he'll ask you to give him."
+          ]
+        },
+        {
+          "shot": 118,
+          "duration": [
+            1227.7682083333332,
+            1233.6490833333332
+          ],
+          "sentences": [
+            "God alone knows what he'll ask you to give him.",
+            "If the Blaire tell them to,",
+            "no Republican will balk at voting for the amendment."
+          ]
+        },
+        {
+          "shot": 119,
+          "duration": [
+            1233.6907916666667,
+            1238.7375
+          ],
+          "sentences": [
+            "no Republican will balk at voting for the amendment.",
+            "No conservative Republican is what you mean.",
+            "All Republicans ought to be conservative."
+          ]
+        },
+        {
+          "shot": 120,
+          "duration": [
+            1238.7792083333331,
+            1249.0394583333332
+          ],
+          "sentences": [
+            "All Republicans ought to be conservative.",
+            "I founded this party,",
+            "in my own goddamn home, to be a",
+            "conservative anti-slavery party,",
+            "not a hobbyhorse for goddamn radical abolitionists.",
+            "Damp down the dyspepsia, Daddy."
+          ]
+        },
+        {
+          "shot": 121,
+          "duration": [
+            1249.0811666666666,
+            1251.5002499999998
+          ],
+          "sentences": [
+            "Damp down the dyspepsia, Daddy.",
+            "You'll frighten the child.",
+            "You need us to keep the conservative side"
+          ]
+        },
+        {
+          "shot": 122,
+          "duration": [
+            1251.5419583333332,
+            1258.4655416666665
+          ],
+          "sentences": [
+            "You need us to keep the conservative side",
+            "of the party in the traces",
+            "while you diddle the radicals",
+            "and bundle up with Thaddeus Stevens's gang!",
+            "You need our help!"
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            1258.5072499999999,
+            1261.1765833333332
+          ],
+          "sentences": [
+            "You need our help!",
+            "Yes, sir, I do."
+          ]
+        },
+        {
+          "shot": 124,
+          "duration": [
+            1261.2182916666666,
+            1263.0534583333333
+          ],
+          "sentences": [
+            "Well, what do we get?",
+            "Blunt!"
+          ]
+        },
+        {
+          "shot": 125,
+          "duration": [
+            1263.0951666666665,
+            1283.657375
+          ],
+          "sentences": [
+            "Blunt!",
+            "Your manners, Monty, must be why Mr. Lincoln",
+            "pushed you out of his Cabinet.",
+            "- I wasn't pushed! - Oh, of course you weren't.",
+            "He was pushed out to placate the damn radicals!",
+            "- I agreed to resign. - Oh, Daddy, please! Daddy.",
+            "You don't mind, boy, do you?",
+            "He spends his days with soldiers."
+          ]
+        },
+        {
+          "shot": 126,
+          "duration": [
+            1283.6990833333332,
+            1285.6176666666665
+          ],
+          "sentences": [
+            "He spends his days with soldiers.",
+            "They taught me a song."
+          ]
+        },
+        {
+          "shot": 127,
+          "duration": [
+            1285.659375,
+            1287.8699166666665
+          ],
+          "sentences": [
+            "They taught me a song.",
+            "Did they?"
+          ]
+        },
+        {
+          "shot": 128,
+          "duration": [
+            1287.911625,
+            1296.9623333333332
+          ],
+          "sentences": [
+            "Soldiers know all manner of songs.",
+            "How's your brother Bob?",
+            "He's at school now, but he's coming",
+            "to visit in four days for the shindy.",
+            "At school. Ain't that fine?"
+          ]
+        },
+        {
+          "shot": 129,
+          "duration": [
+            1297.0040416666666,
+            1321.1531666666665
+          ],
+          "sentences": [
+            "At school. Ain't that fine?",
+            "Good he's not in the Army.",
+            "He wants to be, but Mama said he cannot.",
+            "Dangerous life, soldiering.",
+            "Your mama is wise to keep him clean out of that.",
+            "Now, your daddy knows that what I want",
+            "in return for all the help I can give him",
+            "is to go down to Richmond, like he said I could",
+            "as soon as Savannah fell",
+            "and talk to Jefferson Davis."
+          ]
+        },
+        {
+          "shot": 130,
+          "duration": [
+            1321.194875,
+            1324.0727499999998
+          ],
+          "sentences": [
+            "and talk to Jefferson Davis.",
+            "Now give me terms I can offer to Jefferson Davis"
+          ]
+        },
+        {
+          "shot": 131,
+          "duration": [
+            1324.1144583333332,
+            1327.8682083333333
+          ],
+          "sentences": [
+            "Now give me terms I can offer to Jefferson Davis",
+            "to start negotiating for peace.",
+            "He'll talk to me."
+          ]
+        },
+        {
+          "shot": 132,
+          "duration": [
+            1327.9099166666665,
+            1343.967625
+          ],
+          "sentences": [
+            "He'll talk to me.",
+            "Conservative members of your party",
+            "want you to listen to overtures from Richmond.",
+            "That above all!",
+            "They'll vote for this rash and dangerous amendment",
+            "only if every other possibility is exhausted."
+          ]
+        },
+        {
+          "shot": 133,
+          "duration": [
+            1344.0093333333332,
+            1361.1514583333333
+          ],
+          "sentences": [
+            "Our Republicans ain't abolitionists.",
+            "We can't tell our people they can vote yes",
+            "on abolishing slavery",
+            "unless at the same time we can tell them",
+            "that you're seeking a negotiated peace."
+          ]
+        },
+        {
+          "shot": 135,
+          "duration": [
+            1365.4057083333332,
+            1368.492125
+          ],
+          "sentences": [
+            "Leo, it's 100 miles to Richmond."
+          ]
+        },
+        {
+          "shot": 136,
+          "duration": [
+            1368.5338333333332,
+            1396.5618333333332
+          ],
+          "sentences": [
+            "Leo, it's 100 miles to Richmond.",
+            "Get him drunk so he can sleep.",
+            "Yes, ma'am.",
+            "Here, Daddy.",
+            "- Thank you. - Yes, sir, all right.",
+            "Where's my hat?",
+            "Leo has your hat.",
+            "All right?",
+            "Go make peace."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0443272_0005",
+      "shot": [
+        178,
+        221
+      ],
+      "frame": [
+        50704,
+        56653
+      ],
+      "duration": [
+        2114.796643666666,
+        2362.8818766666664
+      ],
+      "consistency": 0.9545420343499444,
+      "description": "The bedrock of support for the amendment lies at the other end of the party: the Radicals, lead by the creatively abusive Thaddeus Stevens  of Pennsylvania. The Radicals are abolitionists, and Stevens goes so far as to support full racial equality, including voting rights for black men -- an idea that angers and frightens most white people outside his own wing of the Republican Party.",
+      "subtitle": [
+        {
+          "shot": 178,
+          "duration": [
+            2113.5697916666663,
+            2127.5420833333333
+          ],
+          "sentences": [
+            "The House recognizes Fernando Wood,",
+            "the honorable Representative from New York.",
+            "Estimable colleagues."
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            2127.5837916666665,
+            2135.9671666666663
+          ],
+          "sentences": [
+            "Estimable colleagues.",
+            "Two bloody years ago this month",
+            "His Highness,",
+            "King Abraham Africanus the First,"
+          ]
+        },
+        {
+          "shot": 180,
+          "duration": [
+            2136.008875,
+            2144.267125
+          ],
+          "sentences": [
+            "our great usurping Caesar,",
+            "violator of habeas corpus and freedom of the press,",
+            "abuser of states' rights..."
+          ]
+        },
+        {
+          "shot": 181,
+          "duration": [
+            2144.308833333333,
+            2151.440958333333
+          ],
+          "sentences": [
+            "abuser of states' rights...",
+            "If Lincoln really were a tyrant, Mr. Wood,",
+            "he'd have had your empty head",
+            "impaled on a pike!"
+          ]
+        },
+        {
+          "shot": 183,
+          "duration": [
+            2153.568083333333,
+            2155.820333333333
+          ],
+          "sentences": [
+            "And the country better for it!"
+          ]
+        },
+        {
+          "shot": 184,
+          "duration": [
+            2155.8620416666663,
+            2164.036875
+          ],
+          "sentences": [
+            "And the country better for it!",
+            "Radical Republican autocrat,",
+            "ruling by fiat and martial law,",
+            "affixed his name to his heinous and illicit"
+          ]
+        },
+        {
+          "shot": 185,
+          "duration": [
+            2164.078583333333,
+            2174.3388333333332
+          ],
+          "sentences": [
+            "affixed his name to his heinous and illicit",
+            "Emancipation Proclamation",
+            "promising it would hasten the end of the war,",
+            "which yet rages on and on."
+          ]
+        },
+        {
+          "shot": 186,
+          "duration": [
+            2174.3805416666664,
+            2182.597083333333
+          ],
+          "sentences": [
+            "He claimed, as tyrants do",
+            "that the war's emergencies",
+            "permitted him to turn our army into..."
+          ]
+        },
+        {
+          "shot": 187,
+          "duration": [
+            2182.6387916666663,
+            2183.9734583333334
+          ],
+          "sentences": [
+            "permitted him to turn our army into...",
+            "The New York delegation is looking decidedly uninspired."
+          ]
+        },
+        {
+          "shot": 188,
+          "duration": [
+            2184.0151666666666,
+            2186.6427916666667
+          ],
+          "sentences": [
+            "The New York delegation is looking decidedly uninspired."
+          ]
+        },
+        {
+          "shot": 189,
+          "duration": [
+            2186.6845,
+            2199.5723749999997
+          ],
+          "sentences": [
+            "And radical Republicanism's abolitionist fanaticism!",
+            "His Emancipation Proclamation",
+            "has obliterated millions of dollars..."
+          ]
+        },
+        {
+          "shot": 190,
+          "duration": [
+            2199.6140833333334,
+            2203.9100416666665
+          ],
+          "sentences": [
+            "has obliterated millions of dollars...",
+            "Over in Pennsylvania,",
+            "who's the sweaty man eating his thumb?"
+          ]
+        },
+        {
+          "shot": 191,
+          "duration": [
+            2203.9517499999997,
+            2207.6637916666664
+          ],
+          "sentences": [
+            "who's the sweaty man eating his thumb?",
+            "Unknown to me. Seems jumpy."
+          ]
+        },
+        {
+          "shot": 192,
+          "duration": [
+            2207.7055,
+            2209.9160416666664
+          ],
+          "sentences": [
+            "Unknown to me. Seems jumpy.",
+            "Perhaps he'll jump."
+          ]
+        },
+        {
+          "shot": 193,
+          "duration": [
+            2209.95775,
+            2214.003458333333
+          ],
+          "sentences": [
+            "Perhaps he'll jump."
+          ]
+        },
+        {
+          "shot": 194,
+          "duration": [
+            2214.0451666666663,
+            2219.2169999999996
+          ],
+          "sentences": [
+            "But all that was not enough for this dictator,",
+            "who now seeks to insinuate..."
+          ]
+        },
+        {
+          "shot": 195,
+          "duration": [
+            2219.2587083333333,
+            2224.847625
+          ],
+          "sentences": [
+            "who now seeks to insinuate...",
+            "Jesus.",
+            "When's this son of liberty sum-a-bitch gonna sit down?",
+            "John Ellis is gonna break his watch if he doesn't stop."
+          ]
+        },
+        {
+          "shot": 196,
+          "duration": [
+            2224.889333333333,
+            2227.6837916666664
+          ],
+          "sentences": [
+            "John Ellis is gonna break his watch if he doesn't stop.",
+            "We are once again asked, nay"
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            2227.7255,
+            2238.3194166666667
+          ],
+          "sentences": [
+            "We are once again asked, nay",
+            "commanded, to consider a proposed 13th Amendment",
+            "which, if passed, shall set at immediate liberty",
+            "four million coloreds while manacling"
+          ]
+        },
+        {
+          "shot": 198,
+          "duration": [
+            2238.361125,
+            2241.239
+          ],
+          "sentences": [
+            "four million coloreds while manacling",
+            "the limbs of the white race in America.",
+            "If it is passed,"
+          ]
+        },
+        {
+          "shot": 199,
+          "duration": [
+            2241.280708333333,
+            2245.9520416666664
+          ],
+          "sentences": [
+            "If it is passed,",
+            "but it shall not pass!"
+          ]
+        },
+        {
+          "shot": 200,
+          "duration": [
+            2245.9937499999996,
+            2254.2102916666663
+          ],
+          "sentences": [
+            "What's more interesting",
+            "is how dismal and disgruntled",
+            "Mr. Yeaman appears."
+          ]
+        },
+        {
+          "shot": 201,
+          "duration": [
+            2254.252,
+            2257.2132916666665
+          ],
+          "sentences": [
+            "Mr. Yeaman appears.",
+            "Every member of this House..."
+          ]
+        },
+        {
+          "shot": 202,
+          "duration": [
+            2257.2549999999997,
+            2260.7167916666667
+          ],
+          "sentences": [
+            "Every member of this House...",
+            "He should be cheering right now.",
+            "Looks like he ate a bad oyster.",
+            "Party and the constituents it serves"
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            2260.7585,
+            2264.3037083333334
+          ],
+          "sentences": [
+            "Party and the constituents it serves",
+            "shall oppose..."
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            2264.3454166666666,
+            2267.2232916666667
+          ],
+          "sentences": [
+            "Point of order, Mr. Speaker, if you please."
+          ]
+        },
+        {
+          "shot": 205,
+          "duration": [
+            2267.265,
+            2270.3514166666664
+          ],
+          "sentences": [
+            "Point of order, Mr. Speaker, if you please.",
+            "Mr. Speaker, I still have the floor.",
+            "And the gentleman from Pennsylvania"
+          ]
+        },
+        {
+          "shot": 206,
+          "duration": [
+            2270.393125,
+            2284.699083333333
+          ],
+          "sentences": [
+            "is out of order!",
+            "When will Mr. Wood conclude his interminable gabble?",
+            "Some of us breathe oxygen",
+            "and we find the mephitic fumes of his oratory",
+            "a lethal challenge to our pulmonary capabilities!"
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            2284.7407916666666,
+            2290.7050833333333
+          ],
+          "sentences": [
+            "We shall oppose this amendment,",
+            "and any legislation that so affronts natural law"
+          ]
+        },
+        {
+          "shot": 208,
+          "duration": [
+            2290.7467916666665,
+            2299.338708333333
+          ],
+          "sentences": [
+            "and any legislation that so affronts natural law",
+            "insulting to God as to man!",
+            "Congress must never declare equal",
+            "those whom God created unequal!"
+          ]
+        },
+        {
+          "shot": 209,
+          "duration": [
+            2299.3804166666664,
+            2305.6366666666663
+          ],
+          "sentences": [
+            "Slavery is the only insult to natural law,"
+          ]
+        },
+        {
+          "shot": 210,
+          "duration": [
+            2305.678375,
+            2310.5165416666664
+          ],
+          "sentences": [
+            "Slavery is the only insult to natural law,",
+            "you fatuous nincompoop!",
+            "Order!"
+          ]
+        },
+        {
+          "shot": 211,
+          "duration": [
+            2310.55825,
+            2318.482833333333
+          ],
+          "sentences": [
+            "Order!",
+            "Procedure, Mr. Speaker.",
+            "Mr. Wood has the floor.",
+            "Instruct us,"
+          ]
+        },
+        {
+          "shot": 212,
+          "duration": [
+            2318.5245416666667,
+            2322.5702499999998
+          ],
+          "sentences": [
+            "Instruct us,",
+            "oh, Great Commoner.",
+            "What is unnatural, in your opinion?"
+          ]
+        },
+        {
+          "shot": 213,
+          "duration": [
+            2322.611958333333,
+            2328.8682083333333
+          ],
+          "sentences": [
+            "What is unnatural, in your opinion?",
+            "Niggrahs casting ballots?",
+            "Niggrah representatives?",
+            "Is that natural, Stevens?"
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            2328.9099166666665,
+            2343.007333333333
+          ],
+          "sentences": [
+            "Intermarriage?",
+            "What violates natural law?",
+            "Slavery and you.",
+            "Pendleton, you insult God!",
+            "You unnatural noise."
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            2343.0490416666667,
+            2350.473125
+          ],
+          "sentences": [
+            "You unnatural noise.",
+            "Mr. Colfax, please, use your gavel!"
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            2350.514833333333,
+            2352.975625
+          ],
+          "sentences": [
+            "- You are out of order! - Order in the Cabinet!",
+            "Instruct the Sergeant-at-Arms"
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            2353.017333333333,
+            2355.227875
+          ],
+          "sentences": [
+            "Instruct the Sergeant-at-Arms",
+            "to suppress this!",
+            "We are in session!"
+          ]
+        },
+        {
+          "shot": 218,
+          "duration": [
+            2355.2695833333332,
+            2359.231875
+          ],
+          "sentences": [
+            "We are in session!",
+            "Please don't encourage this!",
+            "Don't encourage this!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0443272_0008",
+      "shot": [
+        673,
+        824
+      ],
+      "frame": [
+        155023,
+        173921
+      ],
+      "duration": [
+        6465.7709583333335,
+        7253.953480333334
+      ],
+      "consistency": 0.8843279120568975,
+      "description": "The vote on the amendment is nearly postponed due to the rumor that a Confederate peace delegation is in Washington, ready to negotiate. James Ashley , the amendment's sponsor, is able to deny that a delegation is in Washington or on the way because Lincoln has cannily ordered the Confederate emissaries to be held at Hampton Roads, Virginia. The Thirteenth Amendment passes by two votes after Lincoln himself lobbies a few fence-sitting congressmen.",
+      "subtitle": [
+        {
+          "shot": 673,
+          "duration": [
+            6465.750958333333,
+            6470.505708333333
+          ],
+          "sentences": [
+            "We welcome you, ladies and gentlemen,"
+          ]
+        },
+        {
+          "shot": 674,
+          "duration": [
+            6470.547416666666,
+            6477.345875
+          ],
+          "sentences": [
+            "first in the history of this people's chamber,",
+            "to your House."
+          ]
+        },
+        {
+          "shot": 681,
+          "duration": [
+            6498.700541666666,
+            6503.079916666667
+          ],
+          "sentences": [
+            "Mr. Ashley, the floor is yours."
+          ]
+        },
+        {
+          "shot": 682,
+          "duration": [
+            6503.121625,
+            6526.728541666666
+          ],
+          "sentences": [
+            "On the matter of the joint resolution before us,",
+            "presenting a 13th Amendment",
+            "to our National Constitution,",
+            "which was passed last year by the Senate",
+            "and which has been debated now",
+            "by this estimable body for the past several weeks,",
+            "today we will vote."
+          ]
+        },
+        {
+          "shot": 685,
+          "duration": [
+            6530.899375,
+            6533.818958333333
+          ],
+          "sentences": [
+            "By mutual agreement,",
+            "we shall hear brief, final statements,"
+          ]
+        },
+        {
+          "shot": 686,
+          "duration": [
+            6533.8606666666665,
+            6544.746541666666
+          ],
+          "sentences": [
+            "we shall hear brief, final statements,",
+            "beginning with",
+            "the honorable George Pendleton of Ohio."
+          ]
+        },
+        {
+          "shot": 687,
+          "duration": [
+            6544.78825,
+            6551.711833333333
+          ],
+          "sentences": [
+            "I have just received",
+            "confirmation"
+          ]
+        },
+        {
+          "shot": 688,
+          "duration": [
+            6551.753541666666,
+            6561.805249999999
+          ],
+          "sentences": [
+            "of what previously has been merely rumored.",
+            "Affidavits from loyal citizens",
+            "recently returned from Richmond.",
+            "They testify that commissioners have indeed"
+          ]
+        },
+        {
+          "shot": 689,
+          "duration": [
+            6561.846958333333,
+            6568.353458333333
+          ],
+          "sentences": [
+            "come north and ought to have arrived",
+            "by now in Washington City",
+            "bearing an offer of immediate cessation"
+          ]
+        },
+        {
+          "shot": 690,
+          "duration": [
+            6568.395166666666,
+            6569.854958333332
+          ],
+          "sentences": [
+            "of our civil war."
+          ]
+        },
+        {
+          "shot": 691,
+          "duration": [
+            6569.8966666666665,
+            6573.525291666666
+          ],
+          "sentences": [
+            "Is it true, sir?"
+          ]
+        },
+        {
+          "shot": 692,
+          "duration": [
+            6573.566999999999,
+            6578.947375
+          ],
+          "sentences": [
+            "Are there Confederate commissioners in the capital?",
+            "I have no idea where they are or if they've arrived.",
+            "They'll arrive."
+          ]
+        },
+        {
+          "shot": 693,
+          "duration": [
+            6578.989083333333,
+            6585.120208333333
+          ],
+          "sentences": [
+            "I appeal to my fellow Democrats,",
+            "to all Republican representatives",
+            "who give a fig for peace,"
+          ]
+        },
+        {
+          "shot": 694,
+          "duration": [
+            6585.161916666666,
+            6588.665416666666
+          ],
+          "sentences": [
+            "postpone this vote!",
+            "Until we have answers"
+          ]
+        },
+        {
+          "shot": 695,
+          "duration": [
+            6588.707125,
+            6590.000083333332
+          ],
+          "sentences": [
+            "from the President himself!"
+          ]
+        },
+        {
+          "shot": 696,
+          "duration": [
+            6590.0417916666665,
+            6591.2096249999995
+          ],
+          "sentences": [
+            "Postpone the vote!"
+          ]
+        },
+        {
+          "shot": 697,
+          "duration": [
+            6591.251333333333,
+            6594.045791666666
+          ],
+          "sentences": [
+            "Postpone the vote!"
+          ]
+        },
+        {
+          "shot": 698,
+          "duration": [
+            6594.0875,
+            6601.6367083333325
+          ],
+          "sentences": [
+            "Postpone the vote! Postpone the vote!",
+            "Postpone the vote!"
+          ]
+        },
+        {
+          "shot": 699,
+          "duration": [
+            6601.678416666667,
+            6606.808541666666
+          ],
+          "sentences": [
+            "Postpone the vote!",
+            "- Postpone the vote! - Gentlemen!",
+            "Postpone the vote!"
+          ]
+        },
+        {
+          "shot": 700,
+          "duration": [
+            6606.8502499999995,
+            6610.353749999999
+          ],
+          "sentences": [
+            "Postpone the vote! Postpone the vote!"
+          ]
+        },
+        {
+          "shot": 701,
+          "duration": [
+            6610.3954583333325,
+            6612.397458333333
+          ],
+          "sentences": [
+            "Postpone the vote! Postpone the vote!"
+          ]
+        },
+        {
+          "shot": 702,
+          "duration": [
+            6612.439166666666,
+            6616.5682916666665
+          ],
+          "sentences": [
+            "I have made a motion!",
+            "Does anyone care to second my motion?"
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            6616.61,
+            6622.032083333333
+          ],
+          "sentences": [
+            "Does anyone care to second my motion?"
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            6627.537583333333,
+            6649.893249999999
+          ],
+          "sentences": [
+            "Gentlemen.",
+            "The conservative faction",
+            "of border and western Republicans",
+            "cannot approve this amendment,",
+            "about which we harbor grave doubts,",
+            "if a peace offer is being held hostage to its success.",
+            "Joining together with our Democratic colleagues,",
+            "I second the motion"
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            6649.934958333333,
+            6655.648999999999
+          ],
+          "sentences": [
+            "to postpone.",
+            "He must deny peace commissioners are in the city.",
+            "Quick, man. Quick."
+          ]
+        },
+        {
+          "shot": 718,
+          "duration": [
+            6703.696999999999,
+            6707.3256249999995
+          ],
+          "sentences": [
+            "This is precisely what Mr. Wood wishes me"
+          ]
+        },
+        {
+          "shot": 719,
+          "duration": [
+            6707.367333333333,
+            6709.327625
+          ],
+          "sentences": [
+            "to respond to?"
+          ]
+        },
+        {
+          "shot": 720,
+          "duration": [
+            6709.369333333333,
+            6713.790416666666
+          ],
+          "sentences": [
+            "Word for word, this is precisely",
+            "the assurance that he demands of me?"
+          ]
+        },
+        {
+          "shot": 721,
+          "duration": [
+            6713.832125,
+            6716.251208333333
+          ],
+          "sentences": [
+            "Yes, sir."
+          ]
+        },
+        {
+          "shot": 727,
+          "duration": [
+            6733.351624999999,
+            6746.614874999999
+          ],
+          "sentences": [
+            "Give this to Mr. Ashley.",
+            "I feel I have to say, Mr. Lincoln, that...",
+            "Could you please just step outside?"
+          ]
+        },
+        {
+          "shot": 728,
+          "duration": [
+            6746.6565833333325,
+            6750.368624999999
+          ],
+          "sentences": [
+            "You want to have a chat now,",
+            "with the whole of the House of Representatives",
+            "waiting on this?"
+          ]
+        },
+        {
+          "shot": 729,
+          "duration": [
+            6750.410333333333,
+            6762.380625
+          ],
+          "sentences": [
+            "waiting on this?",
+            "Making false representation to Congress, is...",
+            "- It's... - It's impeachable,",
+            "but I've made no such false representation.",
+            "But there are.",
+            "There is a delegation from Richmond."
+          ]
+        },
+        {
+          "shot": 730,
+          "duration": [
+            6762.422333333333,
+            6774.142374999999
+          ],
+          "sentences": [
+            "Give me the note, Johnnie.",
+            "Please, deliver that to Mr. Ashley."
+          ]
+        },
+        {
+          "shot": 731,
+          "duration": [
+            6774.184083333333,
+            6806.299499999999
+          ],
+          "sentences": [
+            "From the President.",
+            "\"So far as I know, there are no\"",
+            "\"peace commissioners in the city\"",
+            "\"nor are there likely to be.\"",
+            "\"So far as I know\"?",
+            "That means nothing.",
+            "Are there commissioners from the South, or aren't there?"
+          ]
+        },
+        {
+          "shot": 732,
+          "duration": [
+            6806.341208333333,
+            6809.594458333333
+          ],
+          "sentences": [
+            "The President has answered you, sir.",
+            "Your peace offer is a fiction."
+          ]
+        },
+        {
+          "shot": 733,
+          "duration": [
+            6809.636166666666,
+            6817.185374999999
+          ],
+          "sentences": [
+            "That is not a denial.",
+            "It is a lawyer's dodge!",
+            "Mr. Haddam, is your faction satisfied?"
+          ]
+        },
+        {
+          "shot": 735,
+          "duration": [
+            6818.853708333333,
+            6827.3205
+          ],
+          "sentences": [
+            "The conservative Republican faction is satisfied.",
+            "And we thank Mr. Lincoln.",
+            "I move to table Mr. Wood's motion."
+          ]
+        },
+        {
+          "shot": 736,
+          "duration": [
+            6827.362208333333,
+            6830.031541666666
+          ],
+          "sentences": [
+            "Tabled!"
+          ]
+        },
+        {
+          "shot": 738,
+          "duration": [
+            6831.908416666666,
+            6840.542041666667
+          ],
+          "sentences": [
+            "Mr. Colfax, I order the main question.",
+            "A motion has been made to bring the bill",
+            "for the 13th Amendment to a vote.",
+            "Do I hear a second?"
+          ]
+        },
+        {
+          "shot": 739,
+          "duration": [
+            6840.58375,
+            6841.793291666666
+          ],
+          "sentences": [
+            "I second the motion."
+          ]
+        },
+        {
+          "shot": 740,
+          "duration": [
+            6841.834999999999,
+            6848.049541666666
+          ],
+          "sentences": [
+            "I second the motion.",
+            "So moved, so ordered.",
+            "The Clerk will now...",
+            "Quiet, please!"
+          ]
+        },
+        {
+          "shot": 741,
+          "duration": [
+            6848.0912499999995,
+            6854.472624999999
+          ],
+          "sentences": [
+            "The Clerk will now call the roll for the voting."
+          ]
+        },
+        {
+          "shot": 742,
+          "duration": [
+            6854.514333333333,
+            6858.560041666667
+          ],
+          "sentences": [
+            "We begin with Connecticut."
+          ]
+        },
+        {
+          "shot": 743,
+          "duration": [
+            6858.60175,
+            6867.777583333333
+          ],
+          "sentences": [
+            "Mr. Augustus Benjamin,",
+            "on the matter of this amendment, how say you?",
+            "Nay!",
+            "Mr. Arthur Bentleigh."
+          ]
+        },
+        {
+          "shot": 744,
+          "duration": [
+            6867.819291666666,
+            6879.581041666666
+          ],
+          "sentences": [
+            "Nay!",
+            "Mr. John Ellis, how say you?",
+            "Aye!",
+            "What!"
+          ]
+        },
+        {
+          "shot": 746,
+          "duration": [
+            6883.042833333333,
+            6893.303083333333
+          ],
+          "sentences": [
+            "Missouri next. Mr. Walter Appleton.",
+            "I vote no.",
+            "Mr. Josiah Burton."
+          ]
+        },
+        {
+          "shot": 747,
+          "duration": [
+            6893.344791666666,
+            6899.434208333333
+          ],
+          "sentences": [
+            "Beanpole Burton is pleased to vote yea!"
+          ]
+        },
+        {
+          "shot": 748,
+          "duration": [
+            6899.475916666666,
+            6901.978416666666
+          ],
+          "sentences": [
+            "The State of New Jersey."
+          ]
+        },
+        {
+          "shot": 749,
+          "duration": [
+            6902.020124999999,
+            6908.776875
+          ],
+          "sentences": [
+            "- Mr. Nehemiah Cleary. - No!",
+            "Mr. James Martinson."
+          ]
+        },
+        {
+          "shot": 750,
+          "duration": [
+            6908.818583333333,
+            6916.91
+          ],
+          "sentences": [
+            "Mr. Martinson has delegated me",
+            "to say he is indisposed.",
+            "And he abstains."
+          ]
+        },
+        {
+          "shot": 751,
+          "duration": [
+            6916.951708333333,
+            6919.162249999999
+          ],
+          "sentences": [
+            "Mr. Austin J. Roberts."
+          ]
+        },
+        {
+          "shot": 752,
+          "duration": [
+            6919.203958333333,
+            6922.081833333333
+          ],
+          "sentences": [
+            "Also indisposed, also abstaining."
+          ]
+        },
+        {
+          "shot": 754,
+          "duration": [
+            6926.252666666666,
+            6928.338083333333
+          ],
+          "sentences": [
+            "Illinois concluded."
+          ]
+        },
+        {
+          "shot": 756,
+          "duration": [
+            6929.881291666667,
+            6932.842583333333
+          ],
+          "sentences": [
+            "Mr. Harold Hollister. How say you?"
+          ]
+        },
+        {
+          "shot": 757,
+          "duration": [
+            6932.884291666666,
+            6937.472208333333
+          ],
+          "sentences": [
+            "No.",
+            "Mr. Hutton."
+          ]
+        },
+        {
+          "shot": 758,
+          "duration": [
+            6937.513916666666,
+            6940.600333333333
+          ],
+          "sentences": [
+            "Mr. William Hutton. Cast your vote."
+          ]
+        },
+        {
+          "shot": 759,
+          "duration": [
+            6940.642041666666,
+            6949.692749999999
+          ],
+          "sentences": [
+            "William Hutton, remembering at this moment",
+            "his beloved brother Frederick",
+            "votes against the amendment."
+          ]
+        },
+        {
+          "shot": 763,
+          "duration": [
+            6961.496208333333,
+            6965.6253333333325
+          ],
+          "sentences": [
+            "Webster Allen votes no."
+          ]
+        },
+        {
+          "shot": 764,
+          "duration": [
+            6965.667041666667,
+            6973.4664999999995
+          ],
+          "sentences": [
+            "Webster Allen,",
+            "Illinois, Democrat,",
+            "votes no."
+          ]
+        },
+        {
+          "shot": 765,
+          "duration": [
+            6973.508208333333,
+            6987.563916666666
+          ],
+          "sentences": [
+            "Halberd Law, Indiana, Democrat,",
+            "votes no.",
+            "Archibald Moran, yes."
+          ]
+        },
+        {
+          "shot": 766,
+          "duration": [
+            6987.605624999999,
+            6991.317666666666
+          ],
+          "sentences": [
+            "Ambrose Baylor, yes."
+          ]
+        },
+        {
+          "shot": 767,
+          "duration": [
+            6991.359374999999,
+            7003.496499999999
+          ],
+          "sentences": [
+            "Mr. Walter H. Washburn.",
+            "Votes no.",
+            "And Mr. George Yeaman, how say you?"
+          ]
+        },
+        {
+          "shot": 771,
+          "duration": [
+            7011.25425,
+            7017.176833333333
+          ],
+          "sentences": [
+            "My vote ties us."
+          ]
+        },
+        {
+          "shot": 773,
+          "duration": [
+            7020.346666666666,
+            7022.056708333333
+          ],
+          "sentences": [
+            "Sir, Mr. Yeaman,"
+          ]
+        },
+        {
+          "shot": 774,
+          "duration": [
+            7022.098416666666,
+            7029.439083333333
+          ],
+          "sentences": [
+            "Sir, Mr. Yeaman,",
+            "I didn't hear your vote.",
+            "I said \"Aye\", Mr. McPherson!",
+            "Aye!"
+          ]
+        },
+        {
+          "shot": 775,
+          "duration": [
+            7029.480791666666,
+            7030.481791666666
+          ],
+          "sentences": [
+            "Traitor!"
+          ]
+        },
+        {
+          "shot": 776,
+          "duration": [
+            7030.523499999999,
+            7031.691333333333
+          ],
+          "sentences": [
+            "Traitor!",
+            "Order!"
+          ]
+        },
+        {
+          "shot": 782,
+          "duration": [
+            7044.495791666666,
+            7046.9148749999995
+          ],
+          "sentences": [
+            "Order in my chamber!"
+          ]
+        },
+        {
+          "shot": 784,
+          "duration": [
+            7051.085708333333,
+            7057.675625
+          ],
+          "sentences": [
+            "Mr. McPherson, you may proceed."
+          ]
+        },
+        {
+          "shot": 785,
+          "duration": [
+            7057.717333333333,
+            7066.517791666666
+          ],
+          "sentences": [
+            "Mr. Clay R. Hawkins of Ohio."
+          ]
+        },
+        {
+          "shot": 787,
+          "duration": [
+            7068.978583333333,
+            7074.066999999999
+          ],
+          "sentences": [
+            "Goddamn it, I'm voting yes."
+          ]
+        },
+        {
+          "shot": 789,
+          "duration": [
+            7075.026291666666,
+            7082.7006249999995
+          ],
+          "sentences": [
+            "I don't care, you shoot me dead!",
+            "You shoot me dead! I am voting yes!",
+            "Mr. Edwin F. LeClerk."
+          ]
+        },
+        {
+          "shot": 790,
+          "duration": [
+            7082.742333333333,
+            7083.951875
+          ],
+          "sentences": [
+            "No!"
+          ]
+        },
+        {
+          "shot": 791,
+          "duration": [
+            7083.993583333333,
+            7086.2458333333325
+          ],
+          "sentences": [
+            "No!"
+          ]
+        },
+        {
+          "shot": 792,
+          "duration": [
+            7086.287541666667,
+            7090.166416666666
+          ],
+          "sentences": [
+            "Oh, to hell with it. Shoot me dead, too! Yes!"
+          ]
+        },
+        {
+          "shot": 794,
+          "duration": [
+            7091.834749999999,
+            7094.33725
+          ],
+          "sentences": [
+            "I mean..."
+          ]
+        },
+        {
+          "shot": 795,
+          "duration": [
+            7094.378958333333,
+            7097.799041666666
+          ],
+          "sentences": [
+            "Abstention. Abstention!"
+          ]
+        },
+        {
+          "shot": 797,
+          "duration": [
+            7101.8864583333325,
+            7104.388958333333
+          ],
+          "sentences": [
+            "Spineless! No gender."
+          ]
+        },
+        {
+          "shot": 799,
+          "duration": [
+            7109.268833333333,
+            7112.271833333333
+          ],
+          "sentences": [
+            "Mr. Alexander Coffroth."
+          ]
+        },
+        {
+          "shot": 800,
+          "duration": [
+            7112.313541666666,
+            7120.905458333333
+          ],
+          "sentences": [
+            "I vote",
+            "yes."
+          ]
+        },
+        {
+          "shot": 802,
+          "duration": [
+            7124.492375,
+            7139.465666666666
+          ],
+          "sentences": [
+            "Yea.",
+            "James Brooks...",
+            "Nay.",
+            "Josiah Grenelle...",
+            "Yea.",
+            "Meyer Strauss..."
+          ]
+        },
+        {
+          "shot": 803,
+          "duration": [
+            7139.507374999999,
+            7147.014875
+          ],
+          "sentences": [
+            "Nay.",
+            "- Mr. Joseph Marstern. - Nay.",
+            "- Mr. Chilton A. Elliot. - No!"
+          ]
+        },
+        {
+          "shot": 804,
+          "duration": [
+            7147.056583333333,
+            7149.559083333333
+          ],
+          "sentences": [
+            "- Mr. Daniel G. Stuart. - I vote yes."
+          ]
+        },
+        {
+          "shot": 805,
+          "duration": [
+            7149.600791666666,
+            7150.560083333333
+          ],
+          "sentences": [
+            "- Mr. Howard Guilfoyle. - Yea."
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            7150.601791666666,
+            7152.353541666666
+          ],
+          "sentences": [
+            "- Mr. Howard Guilfoyle. - Yea.",
+            "- John F. McKenzie. - Yea."
+          ]
+        },
+        {
+          "shot": 807,
+          "duration": [
+            7152.39525,
+            7153.521374999999
+          ],
+          "sentences": [
+            "- Andrew E. Fink. - Nay."
+          ]
+        },
+        {
+          "shot": 808,
+          "duration": [
+            7153.5630833333325,
+            7155.147999999999
+          ],
+          "sentences": [
+            "- Andrew E. Fink. - Nay.",
+            "- Mr. John A. Castle. - Yea."
+          ]
+        },
+        {
+          "shot": 809,
+          "duration": [
+            7155.189708333332,
+            7156.6494999999995
+          ],
+          "sentences": [
+            "- Mr. Hanready. - Nay."
+          ]
+        },
+        {
+          "shot": 810,
+          "duration": [
+            7156.691208333333,
+            7158.192708333333
+          ],
+          "sentences": [
+            "- And Mr. Rufus Warren? - Yea."
+          ]
+        },
+        {
+          "shot": 811,
+          "duration": [
+            7158.234416666666,
+            7172.123291666666
+          ],
+          "sentences": [
+            "- And Mr. Rufus Warren? - Yea."
+          ]
+        },
+        {
+          "shot": 812,
+          "duration": [
+            7172.164999999999,
+            7180.92375
+          ],
+          "sentences": [
+            "The roll call concludes."
+          ]
+        },
+        {
+          "shot": 813,
+          "duration": [
+            7180.965458333333,
+            7190.224708333333
+          ],
+          "sentences": [
+            "The voting is completed. Now...",
+            "Mr. Clerk, please call my name.",
+            "I want to cast a vote.",
+            "I object."
+          ]
+        },
+        {
+          "shot": 814,
+          "duration": [
+            7190.266416666666,
+            7192.393541666666
+          ],
+          "sentences": [
+            "The Speaker doesn't vote."
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            7192.4352499999995,
+            7195.021166666666
+          ],
+          "sentences": [
+            "The Speaker may vote if he so chooses."
+          ]
+        },
+        {
+          "shot": 816,
+          "duration": [
+            7195.062875,
+            7197.106583333333
+          ],
+          "sentences": [
+            "It is highly unusual, sir."
+          ]
+        },
+        {
+          "shot": 817,
+          "duration": [
+            7197.148291666666,
+            7214.874333333333
+          ],
+          "sentences": [
+            "This isn't usual, Mr. Pendleton.",
+            "This is history.",
+            "How does Mr. Schuyler Colfax vote?",
+            "Aye, of course."
+          ]
+        },
+        {
+          "shot": 822,
+          "duration": [
+            7232.224999999999,
+            7250.159583333333
+          ],
+          "sentences": [
+            "The final vote.",
+            "Eight absent or not voting.",
+            "Fifty-six votes against.",
+            "One hundred and nineteen votes for.",
+            "With a margin of two votes..."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0443272_0009",
+      "shot": [
+        836,
+        843
+      ],
+      "frame": [
+        176085,
+        180033
+      ],
+      "duration": [
+        7344.246704666666,
+        7508.867000666666
+      ],
+      "consistency": 0.8667571038749696,
+      "description": "Congressman Stevens borrows the official copy of the amendment and takes it home to show to his biracial housekeeper and common-law wife, Lydia Smith .",
+      "subtitle": [
+        {
+          "shot": 836,
+          "duration": [
+            7336.57925,
+            7370.988624999999
+          ],
+          "sentences": [
+            "And up with the star",
+            "Shout, shout the battle cry of Freedom!",
+            "Congratulations, Mr. Chairman.",
+            "The bill, Mr. McPherson. May I?",
+            "The Union forever! Hurrah, boys, hurrah!",
+            "That's, that's the official bill.",
+            "I'll return it in the morning.",
+            "Creased,",
+            "but unharmed.",
+            "Shouting the battle cry of freedom",
+            "We are springing to the call Of the loyal, true and brave",
+            "Shouting the battle cry of freedom"
+          ]
+        },
+        {
+          "shot": 837,
+          "duration": [
+            7371.030333333333,
+            7374.116749999999
+          ],
+          "sentences": [
+            "And we'll fill our vacant ranks"
+          ]
+        },
+        {
+          "shot": 838,
+          "duration": [
+            7374.158458333332,
+            7376.11875
+          ],
+          "sentences": [
+            "And we'll fill our vacant ranks",
+            "With a million freemen more"
+          ]
+        },
+        {
+          "shot": 839,
+          "duration": [
+            7376.160458333333,
+            7377.286583333333
+          ],
+          "sentences": [
+            "With a million freemen more"
+          ]
+        },
+        {
+          "shot": 840,
+          "duration": [
+            7377.328291666666,
+            7380.998624999999
+          ],
+          "sentences": [
+            "Shouting the battle cry of freedom"
+          ]
+        },
+        {
+          "shot": 841,
+          "duration": [
+            7381.0403333333325,
+            7428.587833333333
+          ],
+          "sentences": [
+            "The Union forever!",
+            "Hurrah, boys, hurrah!",
+            "Down with the traitor And up with the star",
+            "A gift for you.",
+            "The greatest measure of the 19th century,",
+            "passed by corruption,",
+            "aided and abetted by the purest man in America."
+          ]
+        },
+        {
+          "shot": 842,
+          "duration": [
+            7428.629541666666,
+            7508.667833333333
+          ],
+          "sentences": [
+            "I wish you had been present.",
+            "- I wish I'd been. - It was a spectacle.",
+            "You can't bring your housekeeper to the House.",
+            "I won't give them gossip.",
+            "This is enough.",
+            "This is...",
+            "It's more than enough for now.",
+            "Read it to me again, my love.",
+            "- \"Proposed...\" - And adopted.",
+            "\"Adopted,\"",
+            "\"an amendment to\"",
+            "\"the Constitution of the United States.\"",
+            "\"Section One.\"",
+            "\"Neither slavery nor involuntary servitude\"",
+            "\"except as a punishment for crime\"",
+            "\"whereof the party shall have been duly convicted\"",
+            "\"shall exist within the United States\"",
+            "\"or any place subject to their jurisdiction.\"",
+            "Section Two.",
+            "\"Congress shall have power to enforce this amendment\"",
+            "\"by appropriate legislation.\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0443272_0010",
+      "shot": [
+        843,
+        855
+      ],
+      "frame": [
+        180049,
+        186102
+      ],
+      "duration": [
+        7509.578775666666,
+        7761.9874076666665
+      ],
+      "consistency": 0.9673738020179894,
+      "description": "Days after the vote, Lincoln and Seward meet with the Confederate delegation at Hampton Roads. The Confederates make negotiation conditional on Lincoln's written assurance that the Thirteenth Amendment will not be ratified. Lincoln responds that all the northern states will ratify it, and he has assurances that at least three Confederate states will do the same upon readmission to the Union; this makes the end of slavery a certainty. No agreements are made at the Hampton Roads Conference.",
+      "subtitle": [
+        {
+          "shot": 846,
+          "duration": [
+            7523.224041666666,
+            7571.730833333333
+          ],
+          "sentences": [
+            "Let me be blunt.",
+            "Will the Southern states",
+            "resume their former position in the Union",
+            "speedily enough to enable us",
+            "to block ratification to this here",
+            "13th Amendment?",
+            "I'd like peace immediately.",
+            "Yes, and?",
+            "I'd like your states restored to",
+            "their practical relations with the Union immediately.",
+            "If this could be given to me in writing,",
+            "as Vice President of the Confederacy,",
+            "I'd bring that document",
+            "with celerity, to Jefferson Davis.",
+            "Surrender.",
+            "And we can discuss reconstruction."
+          ]
+        },
+        {
+          "shot": 847,
+          "duration": [
+            7571.772541666666,
+            7584.702125
+          ],
+          "sentences": [
+            "Surrender won't be thought of.",
+            "Unless you've assured us, in writing,",
+            "that we'll be readmitted in time to block this amendment.",
+            "This is the arrogant demand of a conqueror."
+          ]
+        },
+        {
+          "shot": 848,
+          "duration": [
+            7584.743833333333,
+            7616.567291666666
+          ],
+          "sentences": [
+            "This is the arrogant demand of a conqueror.",
+            "You'll not be a conquered people, Mr. Hunter.",
+            "You will be citizens.",
+            "Returned to the laws and the guarantees of rights",
+            "of the Constitution.",
+            "Which now extinguishes slavery.",
+            "And with it, our economy.",
+            "All our laws will be determined by",
+            "a Congress of vengeful Yankees.",
+            "All our rights will be subject to a Supreme Court",
+            "benched by bloody Republican radicals.",
+            "All our traditions will be obliterated.",
+            "We won't know ourselves anymore."
+          ]
+        },
+        {
+          "shot": 849,
+          "duration": [
+            7616.6089999999995,
+            7635.252624999999
+          ],
+          "sentences": [
+            "We ain't here to discuss reconstruction.",
+            "We have no legal basis for that discussion.",
+            "But I don't want to deal falsely.",
+            "The Northern states will ratify, most of them.",
+            "As I figure it, it remains for two of the Southern states",
+            "to do the same,",
+            "even after all are readmitted.",
+            "And I've been working on that.",
+            "Tennessee and Louisiana."
+          ]
+        },
+        {
+          "shot": 850,
+          "duration": [
+            7635.294333333332,
+            7643.761124999999
+          ],
+          "sentences": [
+            "Arkansas, too, most likely. It'll be ratified.",
+            "Slavery, sir... It's done."
+          ]
+        },
+        {
+          "shot": 851,
+          "duration": [
+            7643.802833333333,
+            7681.507166666666
+          ],
+          "sentences": [
+            "If we submit ourselves to law, Alex,",
+            "even submit to losing freedoms,",
+            "the freedom to oppress, for instance",
+            "we may discover other freedoms",
+            "previously unknown to us.",
+            "Had you kept faith with the democratic process,",
+            "as frustrating as that can be...",
+            "Come, sir.",
+            "Spare us, at least, these pieties.",
+            "Did you defeat us with ballots?"
+          ]
+        },
+        {
+          "shot": 852,
+          "duration": [
+            7681.5488749999995,
+            7740.274208333332
+          ],
+          "sentences": [
+            "How have you held your Union together?",
+            "Through democracy?",
+            "How many hundreds of thousands have died",
+            "during your administration?",
+            "Your Union, sir, is bonded in cannon fire and death.",
+            "It may be you're right.",
+            "But say all we done is show the world",
+            "that democracy isn't chaos.",
+            "That there is a great, invisible strength",
+            "in a people's union.",
+            "Say we've shown that a people can endure awful sacrifice",
+            "and yet cohere.",
+            "Mightn't that save at least",
+            "the idea of democracy to aspire to?",
+            "Eventually to become worthy of?",
+            "At all rates, whatever may be proven",
+            "by blood and sacrifice"
+          ]
+        },
+        {
+          "shot": 853,
+          "duration": [
+            7740.315916666666,
+            7745.696291666666
+          ],
+          "sentences": [
+            "must have been proved by now."
+          ]
+        },
+        {
+          "shot": 854,
+          "duration": [
+            7745.737999999999,
+            7761.2535
+          ],
+          "sentences": [
+            "Shall we stop this bleeding?"
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

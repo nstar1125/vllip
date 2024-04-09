@@ -1,0 +1,3678 @@
+{
+  "imdb_id": "tt0268695",
+  "cast": null,
+  "scene": null,
+  "story": [
+    {
+      "id": "tt0268695_0000",
+      "shot": [
+        6,
+        60
+      ],
+      "frame": [
+        2471,
+        9958
+      ],
+      "duration": [
+        103.068913,
+        415.295757
+      ],
+      "consistency": 0.8961724668363237,
+      "description": "Alex Hartdegen is a scientist living at 1899 in New York City. Obsessed with the idea of time travel, he teaches at Columbia University as a professor of \"Applied Mechanics and Engineering\" and gets into trouble for his radical theories. He is a pen pal of Albert Einstein. As he goes to the park to meet his girlfriend Emma, he becomes distracted by an early motor car beside the park gates. He puts himself in immediate good graces with the driver who, while refueling, forgot to activate the parking brake something Alexander does quickly when it threatens get out of control.",
+      "subtitle": [
+        {
+          "shot": 6,
+          "duration": [
+            56.51479166666666,
+            106.35624999999999
+          ],
+          "sentences": [
+            "Subtitles by Ajeesh Vijayan",
+            "-But Professor -No.The answers are all there in the test."
+          ]
+        },
+        {
+          "shot": 8,
+          "duration": [
+            109.52608333333333,
+            142.016875
+          ],
+          "sentences": [
+            "Aren't you forgetting something?",
+            "I know. It's something to do with the third differential coefficient."
+          ]
+        },
+        {
+          "shot": 9,
+          "duration": [
+            142.05858333333333,
+            144.56108333333333
+          ],
+          "sentences": [
+            "I know. It's something to do with the third differential coefficient.",
+            "- Not that. Tonight. - What?"
+          ]
+        },
+        {
+          "shot": 10,
+          "duration": [
+            144.60279166666666,
+            147.10529166666666
+          ],
+          "sentences": [
+            "- Not that. Tonight. - What?",
+            "Emma?"
+          ]
+        },
+        {
+          "shot": 11,
+          "duration": [
+            147.147,
+            149.274125
+          ],
+          "sentences": [
+            "Emma?",
+            "-What time is it? -Almost 5:00"
+          ]
+        },
+        {
+          "shot": 12,
+          "duration": [
+            149.31583333333333,
+            154.8213333333333
+          ],
+          "sentences": [
+            "-What time is it? -Almost 5:00",
+            "Oh,God."
+          ]
+        },
+        {
+          "shot": 14,
+          "duration": [
+            160.36854166666666,
+            174.25741666666664
+          ],
+          "sentences": [
+            "My proposal for utilizing solarpower, rejected.",
+            "My concepts for harnessing micro-energy waves, rejected.",
+            "The dean suggests that I focus on something that might actually help mankind.",
+            "Like his study on the benefits of tobacco consumption."
+          ]
+        },
+        {
+          "shot": 15,
+          "duration": [
+            174.29912499999998,
+            187.27041666666665
+          ],
+          "sentences": [
+            "Like his study on the benefits of tobacco consumption.",
+            "Alex, the problem is your ideas are a bit too... radical.",
+            "The problem is with the faculty. They're dinosaurs.",
+            "They're already extinct, they just don't know it.",
+            "They'll be discovered by some future archaeologist, and he won't know what to make of them."
+          ]
+        },
+        {
+          "shot": 16,
+          "duration": [
+            187.31212499999998,
+            194.31912499999999
+          ],
+          "sentences": [
+            "They'll be discovered by some future archaeologist, and he won't know what to make of them.",
+            "Their dim little eyes, de void of any curiosity--",
+            "Alex, it's your first year as associate professor.",
+            "You might want to play things a little more conservatively."
+          ]
+        },
+        {
+          "shot": 17,
+          "duration": [
+            194.36083333333332,
+            196.82162499999998
+          ],
+          "sentences": [
+            "You might want to play things a little more conservatively.",
+            "You sound just like my father."
+          ]
+        },
+        {
+          "shot": 18,
+          "duration": [
+            196.86333333333332,
+            199.073875
+          ],
+          "sentences": [
+            "You sound just like my father.",
+            "Look at them, Philby. All alike. All in identical bowler hats."
+          ]
+        },
+        {
+          "shot": 19,
+          "duration": [
+            199.11558333333332,
+            201.70149999999998
+          ],
+          "sentences": [
+            "Look at them, Philby. All alike. All in identical bowler hats."
+          ]
+        },
+        {
+          "shot": 20,
+          "duration": [
+            201.7432083333333,
+            206.66479166666664
+          ],
+          "sentences": [
+            "Look at them, Philby. All alike. All in identical bowler hats.",
+            "Do you want your students to turn out like that?",
+            "I want my students prepared for the realities of the world they're about to greet."
+          ]
+        },
+        {
+          "shot": 21,
+          "duration": [
+            206.70649999999998,
+            208.95874999999998
+          ],
+          "sentences": [
+            "I want my students prepared for the realities of the world they're about to greet."
+          ]
+        },
+        {
+          "shot": 22,
+          "duration": [
+            209.0004583333333,
+            212.42054166666665
+          ],
+          "sentences": [
+            "Well, I don't. I want them to run along this street and knock off every bowler they see."
+          ]
+        },
+        {
+          "shot": 23,
+          "duration": [
+            212.46224999999998,
+            215.34012499999997
+          ],
+          "sentences": [
+            "Well, I don't. I want them to run along this street and knock off every bowler they see."
+          ]
+        },
+        {
+          "shot": 24,
+          "duration": [
+            215.3818333333333,
+            217.46724999999998
+          ],
+          "sentences": [
+            "Mrs. Watchit!"
+          ]
+        },
+        {
+          "shot": 25,
+          "duration": [
+            217.5089583333333,
+            221.80491666666666
+          ],
+          "sentences": [
+            "Mrs. Watchit!",
+            "Oh, huzzah, the master's home.",
+            "-Did you get it? -Hello, Mr. Philby."
+          ]
+        },
+        {
+          "shot": 26,
+          "duration": [
+            221.846625,
+            224.51595833333332
+          ],
+          "sentences": [
+            "-Did you get it? -Hello, Mr. Philby.",
+            "Hello, Mrs.Watchit. You're looking in the pink."
+          ]
+        },
+        {
+          "shot": 27,
+          "duration": [
+            224.55766666666665,
+            228.68679166666666
+          ],
+          "sentences": [
+            "Hello, Mrs.Watchit. You're looking in the pink.",
+            "Must be all the exercise I get scampering up and down these stairs like a wee lad."
+          ]
+        },
+        {
+          "shot": 28,
+          "duration": [
+            228.7285,
+            232.56566666666666
+          ],
+          "sentences": [
+            "Must be all the exercise I get scampering up and down these stairs like a wee lad.",
+            "-Don't torture me. Did you get it? -I got it.",
+            "-Good. Let me see. -But don'tyou think for one moment..."
+          ]
+        },
+        {
+          "shot": 29,
+          "duration": [
+            232.607375,
+            237.40383333333332
+          ],
+          "sentences": [
+            "-Good. Let me see. -But don'tyou think for one moment...",
+            "I'm going to let you go out in that filthy jacket.",
+            "Now, go in there and change."
+          ]
+        },
+        {
+          "shot": 30,
+          "duration": [
+            237.44554166666666,
+            238.94704166666665
+          ],
+          "sentences": [
+            "Now, go in there and change."
+          ]
+        },
+        {
+          "shot": 31,
+          "duration": [
+            238.98874999999998,
+            240.49024999999997
+          ],
+          "sentences": [
+            "Now, go in there and change."
+          ]
+        },
+        {
+          "shot": 33,
+          "duration": [
+            244.41083333333333,
+            248.33141666666666
+          ],
+          "sentences": [
+            "And you've got another letter from that annoying little man."
+          ]
+        },
+        {
+          "shot": 34,
+          "duration": [
+            248.373125,
+            262.136875
+          ],
+          "sentences": [
+            "And you've got another letter from that annoying little man.",
+            "Well, go ahead. Switch it on.",
+            "- It'll help people keep their teeth well into their 40s.",
+            "-You might think about having that cleaned. -Oh, who has the time?",
+            "-How did you know with Molly? -Know what?"
+          ]
+        },
+        {
+          "shot": 35,
+          "duration": [
+            262.17858333333334,
+            269.89462499999996
+          ],
+          "sentences": [
+            "-How did you know with Molly? -Know what?",
+            "-You were meant to be together. -She made the best shepherd's pie I ever tasted.",
+            "Don't you have a single romantic bone in your body?"
+          ]
+        },
+        {
+          "shot": 36,
+          "duration": [
+            269.9363333333333,
+            276.44283333333334
+          ],
+          "sentences": [
+            "Don't you have a single romantic bone in your body?",
+            "No. I'm all bowler hat."
+          ]
+        },
+        {
+          "shot": 37,
+          "duration": [
+            276.48454166666664,
+            281.3227083333333
+          ],
+          "sentences": [
+            "Why doy ou waste your time on that crackpot?",
+            "Because he has some very interesting ideas."
+          ]
+        },
+        {
+          "shot": 38,
+          "duration": [
+            281.36441666666667,
+            286.41112499999997
+          ],
+          "sentences": [
+            "Because he has some very interesting ideas.",
+            "A professor at Columbia should not be corresponding with a crazy German bookkeeper."
+          ]
+        },
+        {
+          "shot": 39,
+          "duration": [
+            286.45283333333333,
+            297.672375
+          ],
+          "sentences": [
+            "A professor at Columbia should not be corresponding with a crazy German bookkeeper.",
+            "He's a patent clerk, not a bookkeeper.",
+            "I think Mr. Einstein deserves all the support I can give him.",
+            "I wonder if we'll ever go too far?",
+            "-With what? -With this."
+          ]
+        },
+        {
+          "shot": 40,
+          "duration": [
+            297.7140833333333,
+            300.8005
+          ],
+          "sentences": [
+            "-With what? -With this.",
+            "With all of this."
+          ]
+        },
+        {
+          "shot": 41,
+          "duration": [
+            300.8422083333333,
+            303.01104166666664
+          ],
+          "sentences": [
+            "With all of this.",
+            "No such thing."
+          ]
+        },
+        {
+          "shot": 42,
+          "duration": [
+            303.05275,
+            305.68037499999997
+          ],
+          "sentences": [
+            "No such thing."
+          ]
+        },
+        {
+          "shot": 43,
+          "duration": [
+            305.72208333333333,
+            309.6009583333333
+          ],
+          "sentences": [
+            "All right. How do I look?",
+            "Practically decent. Really, Alex. Good luck tonight."
+          ]
+        },
+        {
+          "shot": 44,
+          "duration": [
+            309.6426666666666,
+            318.40141666666665
+          ],
+          "sentences": [
+            "Practically decent. Really, Alex. Good luck tonight.",
+            "She's a fine girl. She's done wonderful things for you.",
+            "Don't worry. You still have that alluring smell of chalk."
+          ]
+        },
+        {
+          "shot": 45,
+          "duration": [
+            318.44312499999995,
+            319.98633333333333
+          ],
+          "sentences": [
+            "Don't worry. You still have that alluring smell of chalk.",
+            "Oh, gotta hurry."
+          ]
+        },
+        {
+          "shot": 46,
+          "duration": [
+            320.02804166666664,
+            326.9099166666666
+          ],
+          "sentences": [
+            "Oh, gotta hurry.",
+            "Now, that's more like it. You look a proper gentleman for once.",
+            "Well, you better hope so. If Emma turns me down, you'll be next."
+          ]
+        },
+        {
+          "shot": 47,
+          "duration": [
+            326.951625,
+            331.706375
+          ],
+          "sentences": [
+            "Well, you better hope so. If Emma turns me down, you'll be next.",
+            "-Oh, I'm already swooning."
+          ]
+        },
+        {
+          "shot": 48,
+          "duration": [
+            331.7480833333333,
+            341.92491666666666
+          ],
+          "sentences": [
+            "-Oh, I'm already swooning.",
+            "All right. Wish me luck.",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 49,
+          "duration": [
+            341.96662499999996,
+            349.8912083333333
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 50,
+          "duration": [
+            349.93291666666664,
+            354.22887499999996
+          ],
+          "sentences": [
+            "Fresh flowers. Fresh flowers."
+          ]
+        },
+        {
+          "shot": 51,
+          "duration": [
+            354.2705833333333,
+            364.11375
+          ],
+          "sentences": [
+            "Fresh flowers. Fresh flowers.",
+            "-Have some flowers, sir. -Not tonight, thanks.",
+            "No. I promised her flowers."
+          ]
+        },
+        {
+          "shot": 52,
+          "duration": [
+            364.1554583333333,
+            366.366
+          ],
+          "sentences": [
+            "No. I promised her flowers."
+          ]
+        },
+        {
+          "shot": 53,
+          "duration": [
+            366.4077083333333,
+            383.1744583333333
+          ],
+          "sentences": [
+            "Spectacular.",
+            "Spectacular waste of money. Damn thing's always breaking down.",
+            "Do you need a lift? -Yes, yes.",
+            "-How do you keep the water temperature stable? - There's a cantilevered gasket..."
+          ]
+        },
+        {
+          "shot": 54,
+          "duration": [
+            383.21616666666665,
+            386.17745833333333
+          ],
+          "sentences": [
+            "-How do you keep the water temperature stable? - There's a cantilevered gasket...",
+            "- on the fuel regulator--"
+          ]
+        },
+        {
+          "shot": 55,
+          "duration": [
+            386.21916666666664,
+            387.34529166666664
+          ],
+          "sentences": [
+            "- on the fuel regulator--"
+          ]
+        },
+        {
+          "shot": 56,
+          "duration": [
+            387.387,
+            397.4387083333333
+          ],
+          "sentences": [
+            "- on the fuel regulator--",
+            "Oh, God. Uh",
+            "Much obliged. I'm always forgetting the damn brake.",
+            "Hop in. I'll give you a perambulation before it breaks down again."
+          ]
+        },
+        {
+          "shot": 57,
+          "duration": [
+            397.48041666666666,
+            400.23316666666665
+          ],
+          "sentences": [
+            "Hop in. I'll give you a perambulation before it breaks down again.",
+            "Oh, uh, I'm afraid I have a prior engagement."
+          ]
+        },
+        {
+          "shot": 58,
+          "duration": [
+            400.27487499999995,
+            406.15574999999995
+          ],
+          "sentences": [
+            "Oh, uh, I'm afraid I have a prior engagement.",
+            "Well, another time then. We perambulate here most every night.",
+            "Certainly."
+          ]
+        },
+        {
+          "shot": 59,
+          "duration": [
+            406.1974583333333,
+            423.0059166666666
+          ],
+          "sentences": [
+            "Certainly.",
+            "-Get a horse!",
+            "Yes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0268695_0001",
+      "shot": [
+        62,
+        163
+      ],
+      "frame": [
+        10811,
+        23501
+      ],
+      "duration": [
+        450.94018833333325,
+        980.1481333333332
+      ],
+      "consistency": 0.9342853875710426,
+      "description": "Forgetting the flowers, he meets Emma at the skating rink; they walk through the park where Alexander proposes to Emma. However, the romantic moment is short-lived: a robber emerges from nearby bushes and holds a gun on them. As the thug attempts to take Emma's engagement ring, Alexander tries to intervene; during the struggle, the gun goes off and Emma is fatally wounded, dying in Alexander's arms. For the next four years, Alexander spends every waking hour in his laboratory working on his time travel calculations. Eventually, he succeeds in building a working time machine.",
+      "subtitle": [
+        {
+          "shot": 62,
+          "duration": [
+            450.57512499999996,
+            452.70225
+          ],
+          "sentences": [
+            "Alexander?"
+          ]
+        },
+        {
+          "shot": 65,
+          "duration": [
+            458.29116666666664,
+            460.04291666666666
+          ],
+          "sentences": [
+            "-Oh! Whoa."
+          ]
+        },
+        {
+          "shot": 66,
+          "duration": [
+            460.08462499999996,
+            463.08762499999995
+          ],
+          "sentences": [
+            "-Oh! Whoa.",
+            "-You're late, Professor. -I got here as soon as I could."
+          ]
+        },
+        {
+          "shot": 67,
+          "duration": [
+            463.1293333333333,
+            466.96649999999994
+          ],
+          "sentences": [
+            "-You're late, Professor. -I got here as soon as I could."
+          ]
+        },
+        {
+          "shot": 68,
+          "duration": [
+            467.0082083333333,
+            474.0152083333333
+          ],
+          "sentences": [
+            "-You're late, Professor. -I got here as soon as I could.",
+            "Well, they say it's all the rage in Paris. But I just picked it up--",
+            "- Five dollars at Macy's. Silly, isn't it? - Very silly. I like it."
+          ]
+        },
+        {
+          "shot": 69,
+          "duration": [
+            474.0569166666666,
+            476.8930833333333
+          ],
+          "sentences": [
+            "- Five dollars at Macy's. Silly, isn't it? - Very silly. I like it."
+          ]
+        },
+        {
+          "shot": 70,
+          "duration": [
+            476.9347916666666,
+            480.5634166666666
+          ],
+          "sentences": [
+            "- Five dollars at Macy's. Silly, isn't it? - Very silly. I like it.",
+            "Well, where are they?"
+          ]
+        },
+        {
+          "shot": 71,
+          "duration": [
+            480.605125,
+            482.8990833333333
+          ],
+          "sentences": [
+            "Well, where are they?",
+            "-What? -The flowers."
+          ]
+        },
+        {
+          "shot": 72,
+          "duration": [
+            482.94079166666666,
+            485.3181666666666
+          ],
+          "sentences": [
+            "-What? -The flowers.",
+            "You promised me flowers tonight. Don't you even remember?"
+          ]
+        },
+        {
+          "shot": 73,
+          "duration": [
+            485.359875,
+            486.9447916666666
+          ],
+          "sentences": [
+            "You promised me flowers tonight. Don't you even remember?",
+            "Oh, I'm sorry. Well, I was distracted."
+          ]
+        },
+        {
+          "shot": 74,
+          "duration": [
+            486.9865,
+            492.8256666666666
+          ],
+          "sentences": [
+            "Oh, I'm sorry. Well, I was distracted.",
+            "Well, there's something new.",
+            "-Uh, Emma, I need to talk to you."
+          ]
+        },
+        {
+          "shot": 75,
+          "duration": [
+            492.867375,
+            494.7859583333333
+          ],
+          "sentences": [
+            "-Uh, Emma, I need to talk to you."
+          ]
+        },
+        {
+          "shot": 76,
+          "duration": [
+            494.82766666666663,
+            496.496
+          ],
+          "sentences": [
+            "-Uh, Emma, I need to talk to you."
+          ]
+        },
+        {
+          "shot": 78,
+          "duration": [
+            499.54070833333327,
+            506.9230833333333
+          ],
+          "sentences": [
+            "-Oh, uh, shall we walk through the park? -Yes."
+          ]
+        },
+        {
+          "shot": 79,
+          "duration": [
+            506.96479166666666,
+            539.7892499999999
+          ],
+          "sentences": [
+            "-Oh, uh, shall we walk through the park? -Yes.",
+            "Professor, you're shivering. I hope you're not coming down with something.",
+            "Well, I'm afraid I am.",
+            "I'm not sleeping very well, and even when I'm awake, I'm not much use.",
+            "I can't eat or think or do much of anything anymore.",
+            "And the worst part is, I don't know that I'll ever be well.",
+            "I think there's only one remedy, and that's foryou to marry me..."
+          ]
+        },
+        {
+          "shot": 80,
+          "duration": [
+            539.8309583333333,
+            543.5012916666666
+          ],
+          "sentences": [
+            "I think there's only one remedy, and that's foryou to marry me...",
+            "- and spend the rest of your life with me."
+          ]
+        },
+        {
+          "shot": 81,
+          "duration": [
+            543.543,
+            548.2560416666666
+          ],
+          "sentences": [
+            "- and spend the rest of your life with me."
+          ]
+        },
+        {
+          "shot": 82,
+          "duration": [
+            548.29775,
+            550.0912083333333
+          ],
+          "sentences": [
+            "Oh, Emma, I know it's right. I know we're meant to be together."
+          ]
+        },
+        {
+          "shot": 83,
+          "duration": [
+            550.1329166666666,
+            554.554
+          ],
+          "sentences": [
+            "Oh, Emma, I know it's right. I know we're meant to be together.",
+            "It's the only thing in my entire life I've never had to think about."
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            554.5957083333333,
+            557.7655416666666
+          ],
+          "sentences": [
+            "It's the only thing in my entire life I've never had to think about.",
+            "Oh, Alex."
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            557.80725,
+            560.4348749999999
+          ],
+          "sentences": [
+            "Oh, Alex."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            560.4765833333333,
+            568.3594583333332
+          ],
+          "sentences": [
+            "Uh-Uh, wait. I have something foryou."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            568.4011666666667,
+            578.6197083333333
+          ],
+          "sentences": [
+            "You know, the moment is rather dying here.",
+            "I know. Hold on. Oh."
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            583.3744583333333,
+            587.3367499999999
+          ],
+          "sentences": [
+            "-I know it's not a diamond. -A moonstone."
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            587.3784583333332,
+            590.7985416666667
+          ],
+          "sentences": [
+            "-I know it's not a diamond. -A moonstone.",
+            "Well, it's your birthstone. I thought--"
+          ]
+        },
+        {
+          "shot": 92,
+          "duration": [
+            590.84025,
+            592.592
+          ],
+          "sentences": [
+            "Well, it's your birthstone. I thought--"
+          ]
+        },
+        {
+          "shot": 93,
+          "duration": [
+            592.6337083333333,
+            595.5115833333333
+          ],
+          "sentences": [
+            "Well, it's your birthstone. I thought--",
+            "You thought right."
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            595.5532916666666,
+            598.5145833333332
+          ],
+          "sentences": [
+            "You thought right."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            601.8095416666666,
+            607.5235833333332
+          ],
+          "sentences": [
+            "I just might cry."
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            607.5652916666667,
+            635.3013333333333
+          ],
+          "sentences": [
+            "I just might cry.",
+            "I couldn't help but overhear.",
+            "Two fine young people starting out on the road oflife.",
+            "-I wish you the very best.",
+            "-Well, thankyou. -And as much as I hate to do this",
+            "moved as I am by your... protestations of love",
+            "I'll be needing your money now.",
+            "-Sir? -And your jewelry too."
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            635.3430416666666,
+            639.5555833333333
+          ],
+          "sentences": [
+            "-Sir? -And your jewelry too.",
+            "I guess we could call this your first little bump on the road to marital bliss."
+          ]
+        },
+        {
+          "shot": 99,
+          "duration": [
+            639.5972916666666,
+            643.6012916666666
+          ],
+          "sentences": [
+            "I guess we could call this your first little bump on the road to marital bliss.",
+            "-I don't understand -Don't make a scene.There's no cause for that."
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            643.6429999999999,
+            650.024375
+          ],
+          "sentences": [
+            "-I don't understand -Don't make a scene.There's no cause for that.",
+            "-Just give me your wallet, will you? - Hmm?"
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            650.0660833333333,
+            655.9469583333333
+          ],
+          "sentences": [
+            "Did you hear me, lad?",
+            "Uh, all right, all right. Here. That's everything."
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            655.9886666666666,
+            659.2419166666666
+          ],
+          "sentences": [
+            "Uh, all right, all right. Here. That's everything.",
+            "And your watch."
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            659.2836249999999,
+            661.8695416666666
+          ],
+          "sentences": [
+            "And your watch."
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            661.91125,
+            673.047375
+          ],
+          "sentences": [
+            "And the gloves.",
+            "-And the ring. -No."
+          ]
+        },
+        {
+          "shot": 105,
+          "duration": [
+            673.0890833333333,
+            675.299625
+          ],
+          "sentences": [
+            "-And the ring. -No."
+          ]
+        },
+        {
+          "shot": 106,
+          "duration": [
+            675.3413333333333,
+            679.3453333333333
+          ],
+          "sentences": [
+            "-And the ring. -No.",
+            "I'm afraid so, darling."
+          ]
+        },
+        {
+          "shot": 107,
+          "duration": [
+            679.3870416666666,
+            681.6392916666666
+          ],
+          "sentences": [
+            "-And maybe he'll buy you a diamond now. -Please, please. Not that."
+          ]
+        },
+        {
+          "shot": 108,
+          "duration": [
+            681.6809999999999,
+            683.7247083333333
+          ],
+          "sentences": [
+            "-And maybe he'll buy you a diamond now. -Please, please. Not that."
+          ]
+        },
+        {
+          "shot": 109,
+          "duration": [
+            683.7664166666666,
+            685.1845
+          ],
+          "sentences": [
+            "-And maybe he'll buy you a diamond now. -Please, please. Not that.",
+            "Don't!"
+          ]
+        },
+        {
+          "shot": 110,
+          "duration": [
+            685.2262083333333,
+            686.1020833333333
+          ],
+          "sentences": [
+            "Don't!"
+          ]
+        },
+        {
+          "shot": 111,
+          "duration": [
+            686.1437916666666,
+            686.8528333333333
+          ],
+          "sentences": [
+            "Don't!"
+          ]
+        },
+        {
+          "shot": 112,
+          "duration": [
+            686.8945416666667,
+            687.6452916666666
+          ],
+          "sentences": [
+            "Don't!"
+          ]
+        },
+        {
+          "shot": 118,
+          "duration": [
+            695.6532916666666,
+            697.1547916666666
+          ],
+          "sentences": [
+            "Why did you do that? It's only a ring."
+          ]
+        },
+        {
+          "shot": 119,
+          "duration": [
+            697.1964999999999,
+            700.3663333333333
+          ],
+          "sentences": [
+            "Why did you do that? It's only a ring."
+          ]
+        },
+        {
+          "shot": 120,
+          "duration": [
+            700.4080416666666,
+            702.1180833333333
+          ],
+          "sentences": [
+            "Why did you do that? It's only a ring."
+          ]
+        },
+        {
+          "shot": 122,
+          "duration": [
+            705.1627916666666,
+            706.8728333333332
+          ],
+          "sentences": [
+            "Emma?"
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            706.9145416666667,
+            710.45975
+          ],
+          "sentences": [
+            "Emma?"
+          ]
+        },
+        {
+          "shot": 126,
+          "duration": [
+            715.339625,
+            720.3863333333333
+          ],
+          "sentences": [
+            "Emma?",
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 127,
+          "duration": [
+            720.4280416666667,
+            748.372625
+          ],
+          "sentences": [
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 130,
+          "duration": [
+            758.2992083333332,
+            763.9715416666667
+          ],
+          "sentences": [
+            "- What?"
+          ]
+        },
+        {
+          "shot": 131,
+          "duration": [
+            764.01325,
+            772.6051666666666
+          ],
+          "sentences": [
+            "Oh. Oh, sir, Mr. Philby's here."
+          ]
+        },
+        {
+          "shot": 132,
+          "duration": [
+            772.6468749999999,
+            777.8604166666667
+          ],
+          "sentences": [
+            "Oh. Oh, sir, Mr. Philby's here.",
+            "- Here? - Yes, sir. He insisted on coming"
+          ]
+        },
+        {
+          "shot": 133,
+          "duration": [
+            777.902125,
+            782.406625
+          ],
+          "sentences": [
+            "- Here? - Yes, sir. He insisted on coming",
+            "-Tell him to go away. I'm busy. -I won't go away, Alex."
+          ]
+        },
+        {
+          "shot": 134,
+          "duration": [
+            782.4483333333333,
+            785.0342499999999
+          ],
+          "sentences": [
+            "-Tell him to go away. I'm busy. -I won't go away, Alex."
+          ]
+        },
+        {
+          "shot": 135,
+          "duration": [
+            785.0759583333332,
+            792.1246666666666
+          ],
+          "sentences": [
+            "My God. What's happened toyou?",
+            "I've been I've been working."
+          ]
+        },
+        {
+          "shot": 136,
+          "duration": [
+            792.1663749999999,
+            807.7235833333333
+          ],
+          "sentences": [
+            "I've been I've been working.",
+            "You remember that? You used to care about your work.",
+            "I care more about my life. And yours.",
+            "I came by the house every day after the funeral...",
+            "and every week and every other month.",
+            "Then I stopped coming. Did you even notice?"
+          ]
+        },
+        {
+          "shot": 137,
+          "duration": [
+            807.7652916666666,
+            817.7335833333333
+          ],
+          "sentences": [
+            "Then I stopped coming. Did you even notice?",
+            "-It hurt me, Alex... very much. -Then why are you here now?",
+            "- There are some things I have to say you may not like hearing. I know. I know."
+          ]
+        },
+        {
+          "shot": 138,
+          "duration": [
+            817.7752916666666,
+            825.5330416666666
+          ],
+          "sentences": [
+            "- There are some things I have to say you may not like hearing. I know. I know.",
+            "You're concerned. I know. I hear it from Mrs. Watchit every day.",
+            "But really... I need you to go."
+          ]
+        },
+        {
+          "shot": 139,
+          "duration": [
+            825.57475,
+            831.9978333333332
+          ],
+          "sentences": [
+            "But really... I need you to go.",
+            "- I won't leave. Not with you hiding down here. - I'm not hiding.",
+            "You know that's what it is.Mrs.Watchit says you're in here all hours,day and night."
+          ]
+        },
+        {
+          "shot": 140,
+          "duration": [
+            832.0395416666667,
+            833.0405416666666
+          ],
+          "sentences": [
+            "You know that's what it is.Mrs.Watchit says you're in here all hours,day and night."
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            833.0822499999999,
+            838.1289583333332
+          ],
+          "sentences": [
+            "Alex, will you please stand still and look at me!"
+          ]
+        },
+        {
+          "shot": 142,
+          "duration": [
+            838.1706666666666,
+            841.9244166666666
+          ],
+          "sentences": [
+            "It wasn't your fault."
+          ]
+        },
+        {
+          "shot": 143,
+          "duration": [
+            841.9661249999999,
+            850.3077916666666
+          ],
+          "sentences": [
+            "It wasn't your fault.",
+            "No. It wasn't my fault.",
+            "Maybe we should blame Mrs. Watchit for picking up the ring from the jeweler."
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            850.3494999999999,
+            854.5203333333333
+          ],
+          "sentences": [
+            "Maybe we should blame Mrs. Watchit for picking up the ring from the jeweler."
+          ]
+        },
+        {
+          "shot": 145,
+          "duration": [
+            854.5620416666666,
+            857.857
+          ],
+          "sentences": [
+            "Maybe we should blame Mrs. Watchit for picking up the ring from the jeweler.",
+            "Or the jeweler for making it."
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            857.8987083333333,
+            870.9534166666666
+          ],
+          "sentences": [
+            "Or the jeweler for making it.",
+            "Or the poor bastard who tore the stone from the earth.",
+            "Maybe I should blame you for introducing me to Emma in the first place. Yes.",
+            "Alexander, nothing will ever change what happened."
+          ]
+        },
+        {
+          "shot": 147,
+          "duration": [
+            870.9951249999999,
+            876.1252499999999
+          ],
+          "sentences": [
+            "Alexander, nothing will ever change what happened.",
+            "No, you're wrong, because I will change it."
+          ]
+        },
+        {
+          "shot": 148,
+          "duration": [
+            876.1669583333332,
+            879.2533749999999
+          ],
+          "sentences": [
+            "No, you're wrong, because I will change it.",
+            "David, I appreciate your concern. I do."
+          ]
+        },
+        {
+          "shot": 149,
+          "duration": [
+            879.2950833333333,
+            885.0508333333332
+          ],
+          "sentences": [
+            "David, I appreciate your concern. I do.",
+            "But I ask you to have faith in me."
+          ]
+        },
+        {
+          "shot": 150,
+          "duration": [
+            885.0925416666666,
+            891.5573333333333
+          ],
+          "sentences": [
+            "But I ask you to have faith in me.",
+            "Well, I want to have faith in you, Alex, but",
+            "Wha What are What are you doing here?"
+          ]
+        },
+        {
+          "shot": 151,
+          "duration": [
+            891.5990416666666,
+            892.6000416666666
+          ],
+          "sentences": [
+            "Wha What are What are you doing here?"
+          ]
+        },
+        {
+          "shot": 152,
+          "duration": [
+            892.6417499999999,
+            894.7271666666666
+          ],
+          "sentences": [
+            "Wha What are What are you doing here?",
+            "I'll tell you what.Why don't you come by for dinner in a week, and I'll show you?"
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            894.768875,
+            899.3150833333333
+          ],
+          "sentences": [
+            "I'll tell you what.Why don't you come by for dinner in a week, and I'll show you?",
+            "-Why don't you come home with me now? Molly -Did you not hear me, David?"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            899.3567916666666,
+            900.6497499999999
+          ],
+          "sentences": [
+            "-Why don't you come home with me now? Molly -Did you not hear me, David?"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            900.6914583333332,
+            902.1095416666666
+          ],
+          "sentences": [
+            "-Why don't you come home with me now? Molly -Did you not hear me, David?"
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            902.1512499999999,
+            906.8642916666666
+          ],
+          "sentences": [
+            "-Why don't you come home with me now? Molly -Did you not hear me, David?",
+            "I can't leave when I'm so close."
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            906.906,
+            918.4592083333333
+          ],
+          "sentences": [
+            "I can't leave when I'm so close.",
+            "All right. We'll continue this conversation in a week."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            918.5009166666666,
+            924.3400833333333
+          ],
+          "sentences": [
+            "In a week, we'll never even have had this conversation."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0268695_0002",
+      "shot": [
+        137,
+        158
+      ],
+      "frame": [
+        19431,
+        21871
+      ],
+      "duration": [
+        810.4652026666666,
+        912.1649426666665
+      ],
+      "consistency": 0.9619598044203462,
+      "description": "His self-imposed exile has led to him being ostracized from his oldest friend David Philby, who eventually arrives at the lab to confront Alexander who in turn flies into a rage. Philby invites Alexander to dinner in the hope it would cause him to leave the lab and eventually return to a normal life, but Alexander postpones the dinner until the following week; after Philby has left Alexander remarks that in a week they \"wouldn't have had this conversation\".",
+      "subtitle": [
+        {
+          "shot": 137,
+          "duration": [
+            807.7652916666666,
+            817.7335833333333
+          ],
+          "sentences": [
+            "Then I stopped coming. Did you even notice?",
+            "-It hurt me, Alex... very much. -Then why are you here now?",
+            "- There are some things I have to say you may not like hearing. I know. I know."
+          ]
+        },
+        {
+          "shot": 138,
+          "duration": [
+            817.7752916666666,
+            825.5330416666666
+          ],
+          "sentences": [
+            "- There are some things I have to say you may not like hearing. I know. I know.",
+            "You're concerned. I know. I hear it from Mrs. Watchit every day.",
+            "But really... I need you to go."
+          ]
+        },
+        {
+          "shot": 139,
+          "duration": [
+            825.57475,
+            831.9978333333332
+          ],
+          "sentences": [
+            "But really... I need you to go.",
+            "- I won't leave. Not with you hiding down here. - I'm not hiding.",
+            "You know that's what it is.Mrs.Watchit says you're in here all hours,day and night."
+          ]
+        },
+        {
+          "shot": 140,
+          "duration": [
+            832.0395416666667,
+            833.0405416666666
+          ],
+          "sentences": [
+            "You know that's what it is.Mrs.Watchit says you're in here all hours,day and night."
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            833.0822499999999,
+            838.1289583333332
+          ],
+          "sentences": [
+            "Alex, will you please stand still and look at me!"
+          ]
+        },
+        {
+          "shot": 142,
+          "duration": [
+            838.1706666666666,
+            841.9244166666666
+          ],
+          "sentences": [
+            "It wasn't your fault."
+          ]
+        },
+        {
+          "shot": 143,
+          "duration": [
+            841.9661249999999,
+            850.3077916666666
+          ],
+          "sentences": [
+            "It wasn't your fault.",
+            "No. It wasn't my fault.",
+            "Maybe we should blame Mrs. Watchit for picking up the ring from the jeweler."
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            850.3494999999999,
+            854.5203333333333
+          ],
+          "sentences": [
+            "Maybe we should blame Mrs. Watchit for picking up the ring from the jeweler."
+          ]
+        },
+        {
+          "shot": 145,
+          "duration": [
+            854.5620416666666,
+            857.857
+          ],
+          "sentences": [
+            "Maybe we should blame Mrs. Watchit for picking up the ring from the jeweler.",
+            "Or the jeweler for making it."
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            857.8987083333333,
+            870.9534166666666
+          ],
+          "sentences": [
+            "Or the jeweler for making it.",
+            "Or the poor bastard who tore the stone from the earth.",
+            "Maybe I should blame you for introducing me to Emma in the first place. Yes.",
+            "Alexander, nothing will ever change what happened."
+          ]
+        },
+        {
+          "shot": 147,
+          "duration": [
+            870.9951249999999,
+            876.1252499999999
+          ],
+          "sentences": [
+            "Alexander, nothing will ever change what happened.",
+            "No, you're wrong, because I will change it."
+          ]
+        },
+        {
+          "shot": 148,
+          "duration": [
+            876.1669583333332,
+            879.2533749999999
+          ],
+          "sentences": [
+            "No, you're wrong, because I will change it.",
+            "David, I appreciate your concern. I do."
+          ]
+        },
+        {
+          "shot": 149,
+          "duration": [
+            879.2950833333333,
+            885.0508333333332
+          ],
+          "sentences": [
+            "David, I appreciate your concern. I do.",
+            "But I ask you to have faith in me."
+          ]
+        },
+        {
+          "shot": 150,
+          "duration": [
+            885.0925416666666,
+            891.5573333333333
+          ],
+          "sentences": [
+            "But I ask you to have faith in me.",
+            "Well, I want to have faith in you, Alex, but",
+            "Wha What are What are you doing here?"
+          ]
+        },
+        {
+          "shot": 151,
+          "duration": [
+            891.5990416666666,
+            892.6000416666666
+          ],
+          "sentences": [
+            "Wha What are What are you doing here?"
+          ]
+        },
+        {
+          "shot": 152,
+          "duration": [
+            892.6417499999999,
+            894.7271666666666
+          ],
+          "sentences": [
+            "Wha What are What are you doing here?",
+            "I'll tell you what.Why don't you come by for dinner in a week, and I'll show you?"
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            894.768875,
+            899.3150833333333
+          ],
+          "sentences": [
+            "I'll tell you what.Why don't you come by for dinner in a week, and I'll show you?",
+            "-Why don't you come home with me now? Molly -Did you not hear me, David?"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            899.3567916666666,
+            900.6497499999999
+          ],
+          "sentences": [
+            "-Why don't you come home with me now? Molly -Did you not hear me, David?"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            900.6914583333332,
+            902.1095416666666
+          ],
+          "sentences": [
+            "-Why don't you come home with me now? Molly -Did you not hear me, David?"
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            902.1512499999999,
+            906.8642916666666
+          ],
+          "sentences": [
+            "-Why don't you come home with me now? Molly -Did you not hear me, David?",
+            "I can't leave when I'm so close."
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            906.906,
+            918.4592083333333
+          ],
+          "sentences": [
+            "I can't leave when I'm so close.",
+            "All right. We'll continue this conversation in a week."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0268695_0003",
+      "shot": [
+        179,
+        233
+      ],
+      "frame": [
+        25672,
+        33327
+      ],
+      "duration": [
+        1070.7768853333334,
+        1389.9893093333333
+      ],
+      "consistency": 0.8786846435525962,
+      "description": "With the time machine finished, he travels back to that night four years ago and intercepts Emma before she was destined to meet his 1899 counterpart. Escorting her away from the park, they walk back to her apartment where he leaves her out in the street to purchase some flowers. However, despite Alexander having removed her from the danger of the robber, Emma is knocked down and trampled by a horse and carriage outside. The horses were spooked by the early motor car.",
+      "subtitle": [
+        {
+          "shot": 181,
+          "duration": [
+            1110.5677916666666,
+            1118.6174999999998
+          ],
+          "sentences": [
+            "Ah. Thank you, my good man."
+          ]
+        },
+        {
+          "shot": 188,
+          "duration": [
+            1139.9304583333333,
+            1143.9344583333332
+          ],
+          "sentences": [
+            "You're early. That's a first."
+          ]
+        },
+        {
+          "shot": 189,
+          "duration": [
+            1143.9761666666666,
+            1147.0625833333334
+          ],
+          "sentences": [
+            "You're early. That's a first.",
+            "I wanted to see you."
+          ]
+        },
+        {
+          "shot": 190,
+          "duration": [
+            1147.1042916666665,
+            1150.524375
+          ],
+          "sentences": [
+            "I wanted to see you.",
+            "Well, where are they?"
+          ]
+        },
+        {
+          "shot": 191,
+          "duration": [
+            1150.5660833333332,
+            1154.9871666666666
+          ],
+          "sentences": [
+            "Well, where are they?",
+            "-What? -The flowers."
+          ]
+        },
+        {
+          "shot": 192,
+          "duration": [
+            1155.028875,
+            1159.9087499999998
+          ],
+          "sentences": [
+            "-What? -The flowers.",
+            "You promised me flowers tonight. Don't you even remember?"
+          ]
+        },
+        {
+          "shot": 193,
+          "duration": [
+            1159.9504583333332,
+            1161.535375
+          ],
+          "sentences": [
+            "You promised me flowers tonight. Don't you even remember?"
+          ]
+        },
+        {
+          "shot": 199,
+          "duration": [
+            1171.3785416666665,
+            1175.6327916666667
+          ],
+          "sentences": [
+            "You never cease to surprise me."
+          ]
+        },
+        {
+          "shot": 200,
+          "duration": [
+            1175.6744999999999,
+            1181.4719583333333
+          ],
+          "sentences": [
+            "You never cease to surprise me."
+          ]
+        },
+        {
+          "shot": 201,
+          "duration": [
+            1181.5136666666665,
+            1185.7679166666667
+          ],
+          "sentences": [
+            "Emma, I need to talk toyou.",
+            "-Shall we walk through the park? -No!"
+          ]
+        },
+        {
+          "shot": 202,
+          "duration": [
+            1185.8096249999999,
+            1187.6030833333332
+          ],
+          "sentences": [
+            "-Shall we walk through the park? -No!"
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            1187.6447916666666,
+            1190.0221666666666
+          ],
+          "sentences": [
+            "-Shall we walk through the park? -No!",
+            "No."
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            1190.0638749999998,
+            1191.6487916666665
+          ],
+          "sentences": [
+            "No."
+          ]
+        },
+        {
+          "shot": 205,
+          "duration": [
+            1191.6905,
+            1198.2804166666665
+          ],
+          "sentences": [
+            "No. Let's go into the city.",
+            "-Alex, what is it? -Nothing. Let'sjust hurry."
+          ]
+        },
+        {
+          "shot": 206,
+          "duration": [
+            1198.322125,
+            1217.9250416666666
+          ],
+          "sentences": [
+            "-Alex, what is it? -Nothing. Let'sjust hurry.",
+            "Running along is all very well for you. You're not wearing a corset.",
+            "-Bleecker Street, and be quick about it."
+          ]
+        },
+        {
+          "shot": 209,
+          "duration": [
+            1229.603375,
+            1238.7792083333331
+          ],
+          "sentences": [
+            "Now you're all gallant."
+          ]
+        },
+        {
+          "shot": 210,
+          "duration": [
+            1238.8209166666666,
+            1263.5539583333332
+          ],
+          "sentences": [
+            "Professor, you're shivering. I hope you're not coming down with something.",
+            "No, no. I'm fine.",
+            "I'm wonderful. I'm walking down the street with you again.",
+            "But we took a walk three days ago."
+          ]
+        },
+        {
+          "shot": 211,
+          "duration": [
+            1263.5956666666666,
+            1267.3077083333333
+          ],
+          "sentences": [
+            "Well, not like this. Never like this."
+          ]
+        },
+        {
+          "shot": 212,
+          "duration": [
+            1267.3494166666667,
+            1268.4338333333333
+          ],
+          "sentences": [
+            "Well, not like this. Never like this.",
+            "-Heavens, look at that car. -Oh, I've seen it."
+          ]
+        },
+        {
+          "shot": 213,
+          "duration": [
+            1268.4755416666667,
+            1274.273
+          ],
+          "sentences": [
+            "-Heavens, look at that car. -Oh, I've seen it.",
+            "Now I know you're ill. You're passing up the chance to explore some new gadget."
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            1274.3147083333333,
+            1279.1111666666666
+          ],
+          "sentences": [
+            "Now I know you're ill. You're passing up the chance to explore some new gadget.",
+            "-It's only a machine. -Alexander, tell me what's going on."
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            1279.152875,
+            1282.7814999999998
+          ],
+          "sentences": [
+            "-It's only a machine. -Alexander, tell me what's going on.",
+            "-Is something wrong? -No."
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            1282.8232083333332,
+            1285.5759583333333
+          ],
+          "sentences": [
+            "-Is something wrong? -No."
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            1285.6176666666665,
+            1288.6623749999999
+          ],
+          "sentences": [
+            "-Is something wrong? -No.",
+            "No. Emma, listen to me."
+          ]
+        },
+        {
+          "shot": 218,
+          "duration": [
+            1288.7040833333333,
+            1292.1241666666665
+          ],
+          "sentences": [
+            "No. Emma, listen to me.",
+            "I need to leave you now, but I want you to go straight home and stay there."
+          ]
+        },
+        {
+          "shot": 219,
+          "duration": [
+            1292.165875,
+            1300.424125
+          ],
+          "sentences": [
+            "I need to leave you now, but I want you to go straight home and stay there.",
+            "I promise you I'll come by sometime later tonight, and I won't make any sense.",
+            "I'll be all upset thatyou didn't meet me in the park, butyou must trust me."
+          ]
+        },
+        {
+          "shot": 220,
+          "duration": [
+            1300.4658333333332,
+            1306.0130416666666
+          ],
+          "sentences": [
+            "I'll be all upset thatyou didn't meet me in the park, butyou must trust me.",
+            "Everything will be all right."
+          ]
+        },
+        {
+          "shot": 221,
+          "duration": [
+            1306.05475,
+            1309.8084999999999
+          ],
+          "sentences": [
+            "Just know how much I love you, how much I'll always love you."
+          ]
+        },
+        {
+          "shot": 222,
+          "duration": [
+            1309.8502083333333,
+            1312.3944166666665
+          ],
+          "sentences": [
+            "Just know how much I love you, how much I'll always love you."
+          ]
+        },
+        {
+          "shot": 223,
+          "duration": [
+            1312.436125,
+            1321.4868333333332
+          ],
+          "sentences": [
+            "All right.",
+            "But first, where are my flowers?"
+          ]
+        },
+        {
+          "shot": 224,
+          "duration": [
+            1321.5285416666666,
+            1324.7817916666665
+          ],
+          "sentences": [
+            "But first, where are my flowers?"
+          ]
+        },
+        {
+          "shot": 226,
+          "duration": [
+            1327.6179583333333,
+            1328.9943333333333
+          ],
+          "sentences": [
+            "-Flowers it is."
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            1329.0360416666665,
+            1335.6259583333333
+          ],
+          "sentences": [
+            "-Flowers it is.",
+            "Wait right there. Don't move."
+          ]
+        },
+        {
+          "shot": 229,
+          "duration": [
+            1337.4194166666666,
+            1349.1811666666665
+          ],
+          "sentences": [
+            "-Oh, can I help you, sir? -Yes, a dozen roses. White.",
+            "-No, no. Red. -Look out!"
+          ]
+        },
+        {
+          "shot": 230,
+          "duration": [
+            1349.222875,
+            1354.4781249999999
+          ],
+          "sentences": [
+            "-No, no. Red. -Look out!"
+          ]
+        },
+        {
+          "shot": 232,
+          "duration": [
+            1357.6479583333332,
+            1432.5978333333333
+          ],
+          "sentences": [
+            "- Easy. Easy.",
+            "I'm looking for Professor Hart degen.",
+            "Alex, I'm... I'm so sorry.",
+            "-This was not supposed to happen. -Ofcourse not.",
+            "-I know there's nothing I can say. -We were out ofthe park, Philby.",
+            "We were safe.",
+            "Why can't I change it?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0268695_0006",
+      "shot": [
+        352,
+        425
+      ],
+      "frame": [
+        47113,
+        52204
+      ],
+      "duration": [
+        1965.0434559999999,
+        2177.305657
+      ],
+      "consistency": 0.8788364160984086,
+      "description": "Frustrated, Alexander asks about the time machine itself and is given information on H.G. Wells' novel. Finding nothing of use, Alexander moves on to the future, until he hits a 'bump' seven years later in 2037, where he finds that the Moon mining operation has disrupted the lunar orbit. As a result, the Moon is breaking apart and showering Earth with massive chunks of rock. His presence outside of a shelter leads to an attempt by two military personnel to arrest him, but he escapes. He makes it into the machine just as the city is being destroyed, but is knocked unconscious and fails to witness the destruction of civilization. Alexander and his time machine speed through hundreds of millennia.",
+      "subtitle": [
+        {
+          "shot": 352,
+          "duration": [
+            1964.5042083333333,
+            1972.0951249999998
+          ],
+          "sentences": [
+            "Thank you. That's quite enough.",
+            "Will there be anything else?",
+            "Uh, no. No, I think I'll have better luck in a few hundred years."
+          ]
+        },
+        {
+          "shot": 353,
+          "duration": [
+            1972.1368333333332,
+            1978.0177083333333
+          ],
+          "sentences": [
+            "Uh, no. No, I think I'll have better luck in a few hundred years.",
+            "Live long and prosper."
+          ]
+        },
+        {
+          "shot": 366,
+          "duration": [
+            2022.77075,
+            2024.8144583333333
+          ],
+          "sentences": [
+            "Sir, where is your designated evacuation center?"
+          ]
+        },
+        {
+          "shot": 367,
+          "duration": [
+            2024.8561666666665,
+            2026.149125
+          ],
+          "sentences": [
+            "Sir, where is your designated evacuation center?"
+          ]
+        },
+        {
+          "shot": 368,
+          "duration": [
+            2026.190833333333,
+            2027.4837916666665
+          ],
+          "sentences": [
+            "Sir, where is your designated evacuation center?",
+            "Sir, you are subject to arrest under martial law--"
+          ]
+        },
+        {
+          "shot": 369,
+          "duration": [
+            2027.5255,
+            2028.27625
+          ],
+          "sentences": [
+            "Sir, you are subject to arrest under martial law--"
+          ]
+        },
+        {
+          "shot": 370,
+          "duration": [
+            2028.317958333333,
+            2030.7370416666665
+          ],
+          "sentences": [
+            "Sir, you are subject to arrest under martial law--",
+            "Please putyour hands out, palms together."
+          ]
+        },
+        {
+          "shot": 371,
+          "duration": [
+            2030.77875,
+            2032.1968333333332
+          ],
+          "sentences": [
+            "Please putyour hands out, palms together.",
+            "You will be held in detention until your evacuation center clears you for transport."
+          ]
+        },
+        {
+          "shot": 372,
+          "duration": [
+            2032.2385416666666,
+            2033.4480833333332
+          ],
+          "sentences": [
+            "You will be held in detention until your evacuation center clears you for transport."
+          ]
+        },
+        {
+          "shot": 373,
+          "duration": [
+            2033.4897916666666,
+            2034.6159166666666
+          ],
+          "sentences": [
+            "You will be held in detention until your evacuation center clears you for transport.",
+            "-Wait, wait! -Just take it easy."
+          ]
+        },
+        {
+          "shot": 374,
+          "duration": [
+            2034.6576249999998,
+            2036.7847499999998
+          ],
+          "sentences": [
+            "-Wait, wait! -Just take it easy."
+          ]
+        },
+        {
+          "shot": 375,
+          "duration": [
+            2036.8264583333332,
+            2038.0777083333332
+          ],
+          "sentences": [
+            "-Wait, wait! -Just take it easy.",
+            "- Hey, we got to get out of here! - Wait. How did this happen?"
+          ]
+        },
+        {
+          "shot": 376,
+          "duration": [
+            2038.1194166666664,
+            2038.9535833333332
+          ],
+          "sentences": [
+            "- Hey, we got to get out of here! - Wait. How did this happen?"
+          ]
+        },
+        {
+          "shot": 377,
+          "duration": [
+            2038.9952916666666,
+            2041.3726666666664
+          ],
+          "sentences": [
+            "- Hey, we got to get out of here! - Wait. How did this happen?",
+            "The moon. Come on. Move it."
+          ]
+        },
+        {
+          "shot": 378,
+          "duration": [
+            2041.4143749999998,
+            2042.957583333333
+          ],
+          "sentences": [
+            "The moon. Come on. Move it."
+          ]
+        },
+        {
+          "shot": 379,
+          "duration": [
+            2042.9992916666665,
+            2046.2525416666665
+          ],
+          "sentences": [
+            "The moon. Come on. Move it.",
+            "-That's impossible. What happened? -You been living under a rock?"
+          ]
+        },
+        {
+          "shot": 380,
+          "duration": [
+            2046.29425,
+            2047.7957499999998
+          ],
+          "sentences": [
+            "-That's impossible. What happened? -You been living under a rock?"
+          ]
+        },
+        {
+          "shot": 381,
+          "duration": [
+            2047.8374583333332,
+            2049.0052916666664
+          ],
+          "sentences": [
+            "-That's impossible. What happened? -You been living under a rock?"
+          ]
+        },
+        {
+          "shot": 382,
+          "duration": [
+            2049.047,
+            2051.5912083333333
+          ],
+          "sentences": [
+            "-That's impossible. What happened? -You been living under a rock?",
+            "Yes, I've been living under a rock. Now, tell me."
+          ]
+        },
+        {
+          "shot": 383,
+          "duration": [
+            2051.6329166666665,
+            2052.842458333333
+          ],
+          "sentences": [
+            "Yes, I've been living under a rock. Now, tell me."
+          ]
+        },
+        {
+          "shot": 384,
+          "duration": [
+            2052.8841666666667,
+            2056.7213333333334
+          ],
+          "sentences": [
+            "The demolitions for the lunar colonies screwed up the orbit, okay?"
+          ]
+        },
+        {
+          "shot": 385,
+          "duration": [
+            2056.7630416666666,
+            2060.7670416666665
+          ],
+          "sentences": [
+            "The demolitions for the lunar colonies screwed up the orbit, okay?",
+            "The moon's breaking up. All right? Come on."
+          ]
+        },
+        {
+          "shot": 386,
+          "duration": [
+            2060.8087499999997,
+            2061.851458333333
+          ],
+          "sentences": [
+            "The moon's breaking up. All right? Come on."
+          ]
+        },
+        {
+          "shot": 389,
+          "duration": [
+            2064.0202916666667,
+            2065.4800833333334
+          ],
+          "sentences": [
+            "- Hey! Forget him! Come on!"
+          ]
+        },
+        {
+          "shot": 390,
+          "duration": [
+            2065.5217916666666,
+            2066.689625
+          ],
+          "sentences": [
+            "- Hey! Forget him! Come on!"
+          ]
+        },
+        {
+          "shot": 391,
+          "duration": [
+            2066.731333333333,
+            2067.8574583333334
+          ],
+          "sentences": [
+            "- Hey! Forget him! Come on!"
+          ]
+        },
+        {
+          "shot": 392,
+          "duration": [
+            2067.8991666666666,
+            2069.6092083333333
+          ],
+          "sentences": [
+            "- Hey! Forget him! Come on!"
+          ]
+        },
+        {
+          "shot": 424,
+          "duration": [
+            2171.6695,
+            2203.7849166666665
+          ],
+          "sentences": [
+            "Emma?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0268695_0007",
+      "shot": [
+        424,
+        534
+      ],
+      "frame": [
+        52164,
+        64425
+      ],
+      "duration": [
+        2175.6988119999996,
+        2687.0350609999996
+      ],
+      "consistency": 0.859026929655441,
+      "description": "Regaining consciousness, Alexander brings the machine to a halt in 802,701 AD, and finds that civilization has devolved to a hunter-gatherer lifestyle. Calling themselves the Eloi, these survivors have built their homes into the side of a cliff on what resembles Manhattan. Alexander begins to develop a relationship with a woman named Mara, a teacher, and one of few who recall some of the Time Traveler's now obsolete language. He also realizes the Moon is now broken in pieces.",
+      "subtitle": [
+        {
+          "shot": 424,
+          "duration": [
+            2171.6695,
+            2203.7849166666665
+          ],
+          "sentences": [
+            "Emma?"
+          ]
+        },
+        {
+          "shot": 426,
+          "duration": [
+            2225.097875,
+            2233.9400416666667
+          ],
+          "sentences": [
+            "Shh!"
+          ]
+        },
+        {
+          "shot": 435,
+          "duration": [
+            2289.4955416666667,
+            2299.171875
+          ],
+          "sentences": [
+            "Hello?"
+          ]
+        },
+        {
+          "shot": 443,
+          "duration": [
+            2328.117458333333,
+            2329.869208333333
+          ],
+          "sentences": [
+            "Hello."
+          ]
+        },
+        {
+          "shot": 444,
+          "duration": [
+            2329.9109166666667,
+            2331.4541249999997
+          ],
+          "sentences": [
+            "Hello.",
+            "- Don't be afraid."
+          ]
+        },
+        {
+          "shot": 445,
+          "duration": [
+            2331.4958333333334,
+            2336.4174166666667
+          ],
+          "sentences": [
+            "- Don't be afraid."
+          ]
+        },
+        {
+          "shot": 446,
+          "duration": [
+            2336.459125,
+            2338.1691666666666
+          ],
+          "sentences": [
+            "Oh, wait. Don't-- Don't go."
+          ]
+        },
+        {
+          "shot": 447,
+          "duration": [
+            2338.2108749999998,
+            2339.7957916666664
+          ],
+          "sentences": [
+            "Oh, wait. Don't-- Don't go."
+          ]
+        },
+        {
+          "shot": 454,
+          "duration": [
+            2362.8187916666666,
+            2366.8227916666665
+          ],
+          "sentences": [
+            "Wait. I just want to talk toyou."
+          ]
+        },
+        {
+          "shot": 455,
+          "duration": [
+            2366.8644999999997,
+            2369.5755416666666
+          ],
+          "sentences": [
+            "Wait. I just want to talk toyou."
+          ]
+        },
+        {
+          "shot": 456,
+          "duration": [
+            2369.61725,
+            2371.4524166666665
+          ],
+          "sentences": [
+            "Wait. I just want to talk toyou."
+          ]
+        },
+        {
+          "shot": 464,
+          "duration": [
+            2403.15075,
+            2407.0713333333333
+          ],
+          "sentences": [
+            "- Hello."
+          ]
+        },
+        {
+          "shot": 465,
+          "duration": [
+            2407.1130416666665,
+            2409.9909166666666
+          ],
+          "sentences": [
+            "- Hello.",
+            "Oh, I'm sorry. I don't understand you."
+          ]
+        },
+        {
+          "shot": 466,
+          "duration": [
+            2410.032625,
+            2412.284875
+          ],
+          "sentences": [
+            "Oh, I'm sorry. I don't understand you.",
+            "-Do you know my words? -Yes."
+          ]
+        },
+        {
+          "shot": 467,
+          "duration": [
+            2412.326583333333,
+            2415.8300833333333
+          ],
+          "sentences": [
+            "-Do you know my words? -Yes."
+          ]
+        },
+        {
+          "shot": 469,
+          "duration": [
+            2418.4577083333334,
+            2422.086333333333
+          ],
+          "sentences": [
+            "The lex. The stone language."
+          ]
+        },
+        {
+          "shot": 470,
+          "duration": [
+            2422.1280416666664,
+            2425.8817916666667
+          ],
+          "sentences": [
+            "The lex. The stone language.",
+            "The stone language? But do you understand me? Do you understand me?"
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            2425.9235,
+            2428.968208333333
+          ],
+          "sentences": [
+            "The stone language? But do you understand me? Do you understand me?",
+            "We all learn it when we're young."
+          ]
+        },
+        {
+          "shot": 472,
+          "duration": [
+            2429.0099166666664,
+            2432.7636666666663
+          ],
+          "sentences": [
+            "We all learn it when we're young.",
+            "They tor'jen. Forget. They forget it."
+          ]
+        },
+        {
+          "shot": 473,
+          "duration": [
+            2432.805375,
+            2435.558125
+          ],
+          "sentences": [
+            "They tor'jen. Forget. They forget it.",
+            "- But I teach."
+          ]
+        },
+        {
+          "shot": 474,
+          "duration": [
+            2435.599833333333,
+            2438.5194166666665
+          ],
+          "sentences": [
+            "- But I teach."
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            2446.9444999999996,
+            2449.5304166666665
+          ],
+          "sentences": [
+            "-What is he saying? They're trying to decide if we should throw you in the river."
+          ]
+        },
+        {
+          "shot": 478,
+          "duration": [
+            2449.5721249999997,
+            2451.4072916666664
+          ],
+          "sentences": [
+            "-What is he saying? They're trying to decide if we should throw you in the river.",
+            "Tell me quickly, and tell me the truth. Where do you come from?"
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            2451.4489999999996,
+            2454.1600416666665
+          ],
+          "sentences": [
+            "Tell me quickly, and tell me the truth. Where do you come from?"
+          ]
+        },
+        {
+          "shot": 480,
+          "duration": [
+            2454.2017499999997,
+            2459.9575
+          ],
+          "sentences": [
+            "Tell me quickly, and tell me the truth. Where do you come from?",
+            "Well, actually, I'm from here. Uh,just not from now."
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            2459.999208333333,
+            2465.4212916666665
+          ],
+          "sentences": [
+            "Well, actually, I'm from here. Uh,just not from now.",
+            "You see, I built a machine that allows me to travel through time."
+          ]
+        },
+        {
+          "shot": 482,
+          "duration": [
+            2465.4629999999997,
+            2467.0479166666664
+          ],
+          "sentences": [
+            "You see, I built a machine that allows me to travel through time.",
+            "I'm from the past."
+          ]
+        },
+        {
+          "shot": 483,
+          "duration": [
+            2467.0896249999996,
+            2472.1363333333334
+          ],
+          "sentences": [
+            "I'm from the past.",
+            "Oh."
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            2488.360875,
+            2494.5754166666666
+          ],
+          "sentences": [
+            "I told them you hit your head...",
+            "and you are a wandering idiot."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            2494.6171249999998,
+            2496.8693749999998
+          ],
+          "sentences": [
+            "and you are a wandering idiot."
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            2505.8366666666666,
+            2510.508
+          ],
+          "sentences": [
+            "-What areyou doing? -Getting ready for the mor."
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            2510.549708333333,
+            2513.76125
+          ],
+          "sentences": [
+            "-What areyou doing? -Getting ready for the mor."
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            2513.802958333333,
+            2516.6391249999997
+          ],
+          "sentences": [
+            "-The night. -Oh. I'll come with you."
+          ]
+        },
+        {
+          "shot": 499,
+          "duration": [
+            2516.6808333333333,
+            2518.0155
+          ],
+          "sentences": [
+            "-The night. -Oh. I'll come with you."
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            2518.057208333333,
+            2521.810958333333
+          ],
+          "sentences": [
+            "-The night. -Oh. I'll come with you."
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            2537.9937916666663,
+            2542.79025
+          ],
+          "sentences": [
+            "-Eloi? -What are your people named?"
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            2542.831958333333,
+            2550.673125
+          ],
+          "sentences": [
+            "-Eloi? -What are your people named?",
+            "Well, I-I guess you'd call us New Yorkers.",
+            "New Yorkers. Are they friendly?"
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            2550.714833333333,
+            2553.926375
+          ],
+          "sentences": [
+            "New Yorkers. Are they friendly?",
+            "Until you talk to them."
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            2553.968083333333,
+            2557.6384166666667
+          ],
+          "sentences": [
+            "Until you talk to them.",
+            "-Tell me about your village. -It's a very busy place."
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            2557.680125,
+            2564.603708333333
+          ],
+          "sentences": [
+            "-Tell me about your village. -It's a very busy place.",
+            "Everyone seems to be in a hurry. And they all wear identical bowler hats."
+          ]
+        },
+        {
+          "shot": 507,
+          "duration": [
+            2564.6454166666663,
+            2565.8966666666665
+          ],
+          "sentences": [
+            "Everyone seems to be in a hurry. And they all wear identical bowler hats."
+          ]
+        },
+        {
+          "shot": 508,
+          "duration": [
+            2565.9383749999997,
+            2567.189625
+          ],
+          "sentences": [
+            "Little black round things on their heads."
+          ]
+        },
+        {
+          "shot": 509,
+          "duration": [
+            2567.231333333333,
+            2569.9006666666664
+          ],
+          "sentences": [
+            "Little black round things on their heads.",
+            "-What do you do there? -Well, I was a teacher like Mara."
+          ]
+        },
+        {
+          "shot": 510,
+          "duration": [
+            2569.9423749999996,
+            2573.571
+          ],
+          "sentences": [
+            "-What do you do there? -Well, I was a teacher like Mara."
+          ]
+        },
+        {
+          "shot": 511,
+          "duration": [
+            2573.612708333333,
+            2576.7825416666665
+          ],
+          "sentences": [
+            "-What do you do there? -Well, I was a teacher like Mara.",
+            "-And I make things. -Me also."
+          ]
+        },
+        {
+          "shot": 512,
+          "duration": [
+            2576.8242499999997,
+            2579.3684583333334
+          ],
+          "sentences": [
+            "-And I make things. -Me also.",
+            "I made a sess'quin'tan with my father. We still use it."
+          ]
+        },
+        {
+          "shot": 513,
+          "duration": [
+            2579.4101666666666,
+            2583.8729583333334
+          ],
+          "sentences": [
+            "I made a sess'quin'tan with my father. We still use it.",
+            "A sess'quin'tan?"
+          ]
+        },
+        {
+          "shot": 514,
+          "duration": [
+            2583.9146666666666,
+            2586.584
+          ],
+          "sentences": [
+            "A sess'quin'tan?",
+            "Mara, der'enjen'wenlen?"
+          ]
+        },
+        {
+          "shot": 515,
+          "duration": [
+            2586.625708333333,
+            2592.5065833333333
+          ],
+          "sentences": [
+            "Mara, der'enjen'wenlen?",
+            "Sess'quin'tan. Steps of rope."
+          ]
+        },
+        {
+          "shot": 516,
+          "duration": [
+            2592.5482916666665,
+            2599.0547916666665
+          ],
+          "sentences": [
+            "Sess'quin'tan. Steps of rope.",
+            "Oh, a rope ladder.",
+            "We can make one. I will teach you."
+          ]
+        },
+        {
+          "shot": 518,
+          "duration": [
+            2601.974375,
+            2607.5632916666664
+          ],
+          "sentences": [
+            "Will you tell me more lon'el on the next day?",
+            "Tomorrow? Yes, I will."
+          ]
+        },
+        {
+          "shot": 519,
+          "duration": [
+            2607.605,
+            2610.1492083333333
+          ],
+          "sentences": [
+            "Tomorrow? Yes, I will.",
+            "Why don't you take care ofthis for me tonight?"
+          ]
+        },
+        {
+          "shot": 520,
+          "duration": [
+            2610.1909166666665,
+            2613.5692916666667
+          ],
+          "sentences": [
+            "Why don't you take care ofthis for me tonight?",
+            "-Thank you."
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            2613.611,
+            2615.738125
+          ],
+          "sentences": [
+            "-Thank you."
+          ]
+        },
+        {
+          "shot": 525,
+          "duration": [
+            2626.2903333333334,
+            2628.2506249999997
+          ],
+          "sentences": [
+            "-Good night. -Good night."
+          ]
+        },
+        {
+          "shot": 526,
+          "duration": [
+            2628.2923333333333,
+            2633.255625
+          ],
+          "sentences": [
+            "-Good night. -Good night."
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            2633.297333333333,
+            2639.3033333333333
+          ],
+          "sentences": [
+            "Kalen will tire you if you let him. He's always been questioning."
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            2639.3450416666665,
+            2651.940958333333
+          ],
+          "sentences": [
+            "Kalen will tire you if you let him. He's always been questioning.",
+            "Our parents were firm, but it is his way.",
+            "-Where are your parents? -They've gone from this place."
+          ]
+        },
+        {
+          "shot": 529,
+          "duration": [
+            2651.9826666666663,
+            2655.5278749999998
+          ],
+          "sentences": [
+            "-Where are your parents? -They've gone from this place."
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            2655.569583333333,
+            2659.9906666666666
+          ],
+          "sentences": [
+            "-Where are your parents? -They've gone from this place.",
+            "Oh, I'm sorry."
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            2674.8805416666664,
+            2687.1427916666667
+          ],
+          "sentences": [
+            "You were right,Philby. I did go too far."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0268695_0008",
+      "shot": [
+        574,
+        594
+      ],
+      "frame": [
+        69832,
+        71831
+      ],
+      "duration": [
+        2912.585612,
+        2995.926926
+      ],
+      "consistency": 0.8399195505844786,
+      "description": "As Alexander is introduced to Eloi society, he is shown a collection of stone fragments and signs from what was once New York, including a sign from Tiffany and Co, the Empire State Building and a section of tiled panels from Brooklyn Bridge-City Hall Subway Station.",
+      "subtitle": [
+        {
+          "shot": 574,
+          "duration": [
+            2895.559333333333,
+            2928.1335416666666
+          ],
+          "sentences": [
+            "We keep these stones in many places.",
+            "This is the room where my parents taught me for the first time."
+          ]
+        },
+        {
+          "shot": 575,
+          "duration": [
+            2928.17525,
+            2934.3063749999997
+          ],
+          "sentences": [
+            "Why do you learn this language ifyou don't use it?"
+          ]
+        },
+        {
+          "shot": 576,
+          "duration": [
+            2934.3480833333333,
+            2939.728458333333
+          ],
+          "sentences": [
+            "Why do you learn this language ifyou don't use it?",
+            "It's a tradition we hand down."
+          ]
+        },
+        {
+          "shot": 577,
+          "duration": [
+            2939.7701666666667,
+            2943.7741666666666
+          ],
+          "sentences": [
+            "It's a tradition we hand down.",
+            "It meant something once. Must be here for a reason."
+          ]
+        },
+        {
+          "shot": 578,
+          "duration": [
+            2943.815875,
+            2945.984708333333
+          ],
+          "sentences": [
+            "It meant something once. Must be here for a reason."
+          ]
+        },
+        {
+          "shot": 579,
+          "duration": [
+            2946.0264166666666,
+            2948.362083333333
+          ],
+          "sentences": [
+            "''One generation passeth away, and another cometh."
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            2948.4037916666666,
+            2951.573625
+          ],
+          "sentences": [
+            "''One generation passeth away, and another cometh.",
+            "But the earth abideth forever.''"
+          ]
+        },
+        {
+          "shot": 581,
+          "duration": [
+            2951.615333333333,
+            2956.3283749999996
+          ],
+          "sentences": [
+            "But the earth abideth forever.''"
+          ]
+        },
+        {
+          "shot": 582,
+          "duration": [
+            2956.3700833333332,
+            2960.8328749999996
+          ],
+          "sentences": [
+            "Why have you come here?"
+          ]
+        },
+        {
+          "shot": 583,
+          "duration": [
+            2960.8745833333332,
+            2963.3770833333333
+          ],
+          "sentences": [
+            "Why have you come here?",
+            "Why have you traveled through time?"
+          ]
+        },
+        {
+          "shot": 584,
+          "duration": [
+            2963.4187916666665,
+            2964.5449166666663
+          ],
+          "sentences": [
+            "Why have you traveled through time?",
+            "To have a question answered."
+          ]
+        },
+        {
+          "shot": 585,
+          "duration": [
+            2964.586625,
+            2969.0494166666663
+          ],
+          "sentences": [
+            "To have a question answered.",
+            "Question?"
+          ]
+        },
+        {
+          "shot": 586,
+          "duration": [
+            2969.091125,
+            2971.9689999999996
+          ],
+          "sentences": [
+            "Question?",
+            "Yes. Why can't I change the past?"
+          ]
+        },
+        {
+          "shot": 587,
+          "duration": [
+            2972.0107083333332,
+            2974.3046666666664
+          ],
+          "sentences": [
+            "Yes. Why can't I change the past?",
+            "Why would you want to?"
+          ]
+        },
+        {
+          "shot": 588,
+          "duration": [
+            2974.3463749999996,
+            2977.849875
+          ],
+          "sentences": [
+            "Why would you want to?"
+          ]
+        },
+        {
+          "shot": 589,
+          "duration": [
+            2977.891583333333,
+            2982.5629166666663
+          ],
+          "sentences": [
+            "You've lost someone."
+          ]
+        },
+        {
+          "shot": 590,
+          "duration": [
+            2982.604625,
+            2986.2332499999998
+          ],
+          "sentences": [
+            "You've lost someone."
+          ]
+        },
+        {
+          "shot": 591,
+          "duration": [
+            2986.274958333333,
+            2988.777458333333
+          ],
+          "sentences": [
+            "Someone you loved very much."
+          ]
+        },
+        {
+          "shot": 592,
+          "duration": [
+            2988.8191666666667,
+            2993.657333333333
+          ],
+          "sentences": [
+            "Someone you loved very much."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0268695_0014",
+      "shot": [
+        1150,
+        1253
+      ],
+      "frame": [
+        118711,
+        123988
+      ],
+      "duration": [
+        4951.255727,
+        5171.3239619999995
+      ],
+      "consistency": 0.9108480785516364,
+      "description": "Finally accepting that he can never save Emma, Alexander travels back in time to rescue the trapped Mara. After setting her free and before escaping, he sets the time machine to travel to the future and uses his pocket watch to jam the controls, causing it to malfunction and explode, creating a time distortion stream. Alexander and Mara escape just as the explosion kills off the Morlocks.",
+      "subtitle": [
+        {
+          "shot": 1156,
+          "duration": [
+            4967.6710416666665,
+            4969.673041666666
+          ],
+          "sentences": [
+            "- What are you doing with it? - Changing the future."
+          ]
+        },
+        {
+          "shot": 1157,
+          "duration": [
+            4969.71475,
+            4972.21725
+          ],
+          "sentences": [
+            "- What are you doing with it? - Changing the future."
+          ]
+        },
+        {
+          "shot": 1158,
+          "duration": [
+            4972.258958333333,
+            4973.635333333333
+          ],
+          "sentences": [
+            "- What are you doing with it? - Changing the future."
+          ]
+        },
+        {
+          "shot": 1161,
+          "duration": [
+            4975.512208333333,
+            4976.388083333333
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 1162,
+          "duration": [
+            4976.4297916666665,
+            4977.097124999999
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 1163,
+          "duration": [
+            4977.138833333333,
+            4979.0574166666665
+          ],
+          "sentences": [
+            "Come on."
+          ]
+        },
+        {
+          "shot": 1182,
+          "duration": [
+            5013.717041666666,
+            5023.143125
+          ],
+          "sentences": [
+            "Wait. Wait here."
+          ]
+        },
+        {
+          "shot": 1222,
+          "duration": [
+            5110.188416666666,
+            5113.191416666667
+          ],
+          "sentences": [
+            "Go."
+          ]
+        },
+        {
+          "shot": 1223,
+          "duration": [
+            5113.233125,
+            5114.234125
+          ],
+          "sentences": [
+            "Go."
+          ]
+        },
+        {
+          "shot": 1229,
+          "duration": [
+            5126.621499999999,
+            5127.705916666666
+          ],
+          "sentences": [
+            "- Hurry!"
+          ]
+        },
+        {
+          "shot": 1230,
+          "duration": [
+            5127.747625,
+            5128.957166666666
+          ],
+          "sentences": [
+            "- Hurry!"
+          ]
+        },
+        {
+          "shot": 1231,
+          "duration": [
+            5128.998874999999,
+            5130.208416666666
+          ],
+          "sentences": [
+            "- Hurry!"
+          ]
+        },
+        {
+          "shot": 1235,
+          "duration": [
+            5135.296833333333,
+            5137.465666666666
+          ],
+          "sentences": [
+            "Huh?"
+          ]
+        },
+        {
+          "shot": 1236,
+          "duration": [
+            5137.507374999999,
+            5138.550083333333
+          ],
+          "sentences": [
+            "Huh?"
+          ]
+        },
+        {
+          "shot": 1237,
+          "duration": [
+            5138.591791666667,
+            5139.300833333333
+          ],
+          "sentences": [
+            "Huh?"
+          ]
+        },
+        {
+          "shot": 1246,
+          "duration": [
+            5151.062583333333,
+            5152.355541666666
+          ],
+          "sentences": [
+            "Alexander!"
+          ]
+        },
+        {
+          "shot": 1247,
+          "duration": [
+            5152.39725,
+            5154.148999999999
+          ],
+          "sentences": [
+            "Alexander!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0268695_0015",
+      "shot": [
+        1246,
+        1265
+      ],
+      "frame": [
+        123504,
+        130010
+      ],
+      "duration": [
+        5151.150931666666,
+        5422.473137666666
+      ],
+      "consistency": 0.8538526993990302,
+      "description": "Trapped in the future, Alexander resolves to build a new life for himself with Mara. He begins to rebuild civilization, Vox telling the Eloi the stories in his memory. This closing scene is shown side by side with a sequence in the year 1903, where David Philby chats with Alexander's elderly housekeeper, Mrs. Watchit, before leaving and throwing away his bowler hat on the street.",
+      "subtitle": [
+        {
+          "shot": 1246,
+          "duration": [
+            5151.062583333333,
+            5152.355541666666
+          ],
+          "sentences": [
+            "Alexander!"
+          ]
+        },
+        {
+          "shot": 1247,
+          "duration": [
+            5152.39725,
+            5154.148999999999
+          ],
+          "sentences": [
+            "Alexander!"
+          ]
+        },
+        {
+          "shot": 1256,
+          "duration": [
+            5199.277416666666,
+            5203.239708333333
+          ],
+          "sentences": [
+            "I'm sorry you lost your machine."
+          ]
+        },
+        {
+          "shot": 1257,
+          "duration": [
+            5203.281416666667,
+            5210.121583333333
+          ],
+          "sentences": [
+            "I'm sorry you lost your machine.",
+            "Oh, it's all right. It was only a machine."
+          ]
+        },
+        {
+          "shot": 1258,
+          "duration": [
+            5210.163291666667,
+            5213.499958333333
+          ],
+          "sentences": [
+            "Oh, it's all right. It was only a machine."
+          ]
+        },
+        {
+          "shot": 1261,
+          "duration": [
+            5223.259708333333,
+            5269.180583333333
+          ],
+          "sentences": [
+            "\"The congregation rose and stared...",
+            "'\"while the three dead boys came marching up thea isle..",
+            "\"Tom in their lead, Joe next,",
+            "\"and Huck,a ruin of drooping rags,",
+            "\"sneaking sheepishly in the rear.",
+            "\"They had hid in an unused gallery, listening to their own funeral sermon.",
+            "Aunt Polly, Mary and the Harpers threw themselves upon them--''",
+            "This is the place.",
+            "So it is."
+          ]
+        },
+        {
+          "shot": 1262,
+          "duration": [
+            5269.222291666666,
+            5304.007041666667
+          ],
+          "sentences": [
+            "-But there's nothing here. -Well, it was different then.",
+            "My laboratory was all around here.",
+            "The kitchen was up there where that tree is.",
+            "Not that Mrs. Watchit ever let me go in there.",
+            "I don't know what to tell you, sir.",
+            "He's been gone this whole week.",
+            "And you've no idea where he went?",
+            "-No, sir. -This would be my greenhouse."
+          ]
+        },
+        {
+          "shot": 1263,
+          "duration": [
+            5304.04875,
+            5336.706375
+          ],
+          "sentences": [
+            "-No, sir. -This would be my greenhouse.",
+            "There was a garden outside.",
+            "Gren 'tormar'tas?",
+            "Yes.",
+            "-I'm glad. -Sir?",
+            "I'm glad he's gone.",
+            "Maybe he's finally found someplace where he can be happy.",
+            "-This was my home. -His home.",
+            "Long ago.",
+            "You know, Molly and I were talking about engaging a housekeeper,"
+          ]
+        },
+        {
+          "shot": 1264,
+          "duration": [
+            5336.748083333333,
+            5433.511416666666
+          ],
+          "sentences": [
+            "You know, Molly and I were talking about engaging a housekeeper,",
+            "someone to live with us and help take care ofJamie.",
+            "Would you be interested?",
+            "-Perhaps just until the master returns. -Ofcourse.",
+            "But there'd be some changes made. I run a tight house.",
+            "Oh, I have no doubt of that. I'll call by in the morning, and we'll arrange it.",
+            "-Good night, Mrs. Watchit. -Good night, Mr. Philby.",
+            "-Godspeed, my fine lad.",
+            "Godspeed."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

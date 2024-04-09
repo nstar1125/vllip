@@ -1,0 +1,36 @@
+{
+  "imdb_id": "tt2011040",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 42,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 58,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 64,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 65,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 70,
+        "scale": "closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

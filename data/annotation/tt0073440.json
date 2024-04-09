@@ -1,0 +1,6377 @@
+{
+  "imdb_id": "tt0073440",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0073440_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        1088
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0001",
+      "shot": [
+        1,
+        6
+      ],
+      "frame": [
+        1088,
+        3965
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0002",
+      "shot": [
+        6,
+        22
+      ],
+      "frame": [
+        3965,
+        8740
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0003",
+      "shot": [
+        22,
+        31
+      ],
+      "frame": [
+        8740,
+        12029
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0004",
+      "shot": [
+        31,
+        44
+      ],
+      "frame": [
+        12029,
+        14666
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0005",
+      "shot": [
+        44,
+        45
+      ],
+      "frame": [
+        14666,
+        15146
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0006",
+      "shot": [
+        45,
+        46
+      ],
+      "frame": [
+        15146,
+        15578
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0007",
+      "shot": [
+        46,
+        47
+      ],
+      "frame": [
+        15578,
+        15748
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0008",
+      "shot": [
+        47,
+        48
+      ],
+      "frame": [
+        15748,
+        15928
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0009",
+      "shot": [
+        48,
+        49
+      ],
+      "frame": [
+        15928,
+        16669
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0010",
+      "shot": [
+        49,
+        51
+      ],
+      "frame": [
+        16669,
+        16856
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0011",
+      "shot": [
+        51,
+        59
+      ],
+      "frame": [
+        16856,
+        18748
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0012",
+      "shot": [
+        59,
+        60
+      ],
+      "frame": [
+        18748,
+        19176
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0013",
+      "shot": [
+        60,
+        62
+      ],
+      "frame": [
+        19176,
+        19592
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0014",
+      "shot": [
+        62,
+        63
+      ],
+      "frame": [
+        19592,
+        20182
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0015",
+      "shot": [
+        63,
+        65
+      ],
+      "frame": [
+        20182,
+        20442
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0016",
+      "shot": [
+        65,
+        67
+      ],
+      "frame": [
+        20442,
+        20889
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0017",
+      "shot": [
+        67,
+        68
+      ],
+      "frame": [
+        20889,
+        21074
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0018",
+      "shot": [
+        68,
+        77
+      ],
+      "frame": [
+        21074,
+        22957
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0019",
+      "shot": [
+        77,
+        79
+      ],
+      "frame": [
+        22957,
+        23220
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0020",
+      "shot": [
+        79,
+        80
+      ],
+      "frame": [
+        23220,
+        23609
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0021",
+      "shot": [
+        80,
+        83
+      ],
+      "frame": [
+        23609,
+        24368
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0022",
+      "shot": [
+        83,
+        85
+      ],
+      "frame": [
+        24368,
+        25154
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0023",
+      "shot": [
+        85,
+        86
+      ],
+      "frame": [
+        25154,
+        25498
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0024",
+      "shot": [
+        86,
+        97
+      ],
+      "frame": [
+        25498,
+        26575
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0025",
+      "shot": [
+        97,
+        101
+      ],
+      "frame": [
+        26575,
+        27305
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0026",
+      "shot": [
+        101,
+        106
+      ],
+      "frame": [
+        27305,
+        27855
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0027",
+      "shot": [
+        106,
+        107
+      ],
+      "frame": [
+        27855,
+        27979
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0028",
+      "shot": [
+        107,
+        119
+      ],
+      "frame": [
+        27979,
+        30147
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0029",
+      "shot": [
+        119,
+        120
+      ],
+      "frame": [
+        30147,
+        30270
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0030",
+      "shot": [
+        120,
+        121
+      ],
+      "frame": [
+        30270,
+        30834
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0031",
+      "shot": [
+        121,
+        129
+      ],
+      "frame": [
+        30834,
+        32301
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0032",
+      "shot": [
+        129,
+        130
+      ],
+      "frame": [
+        32301,
+        32437
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0033",
+      "shot": [
+        130,
+        135
+      ],
+      "frame": [
+        32437,
+        32916
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0034",
+      "shot": [
+        135,
+        145
+      ],
+      "frame": [
+        32916,
+        35158
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0035",
+      "shot": [
+        145,
+        151
+      ],
+      "frame": [
+        35158,
+        35985
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0036",
+      "shot": [
+        151,
+        152
+      ],
+      "frame": [
+        35985,
+        36573
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0037",
+      "shot": [
+        152,
+        156
+      ],
+      "frame": [
+        36573,
+        37832
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0038",
+      "shot": [
+        156,
+        157
+      ],
+      "frame": [
+        37832,
+        38407
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0039",
+      "shot": [
+        157,
+        158
+      ],
+      "frame": [
+        38407,
+        38640
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0040",
+      "shot": [
+        158,
+        159
+      ],
+      "frame": [
+        38640,
+        39467
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0041",
+      "shot": [
+        159,
+        160
+      ],
+      "frame": [
+        39467,
+        39946
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0042",
+      "shot": [
+        160,
+        161
+      ],
+      "frame": [
+        39946,
+        40339
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0043",
+      "shot": [
+        161,
+        178
+      ],
+      "frame": [
+        40339,
+        43489
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0044",
+      "shot": [
+        178,
+        181
+      ],
+      "frame": [
+        43489,
+        45121
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0045",
+      "shot": [
+        181,
+        182
+      ],
+      "frame": [
+        45121,
+        45805
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0046",
+      "shot": [
+        182,
+        185
+      ],
+      "frame": [
+        45805,
+        46597
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0047",
+      "shot": [
+        185,
+        188
+      ],
+      "frame": [
+        46597,
+        47516
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0048",
+      "shot": [
+        188,
+        192
+      ],
+      "frame": [
+        47516,
+        48257
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0049",
+      "shot": [
+        192,
+        193
+      ],
+      "frame": [
+        48257,
+        48385
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0050",
+      "shot": [
+        193,
+        214
+      ],
+      "frame": [
+        48385,
+        52686
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0051",
+      "shot": [
+        214,
+        225
+      ],
+      "frame": [
+        52686,
+        55046
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0052",
+      "shot": [
+        225,
+        228
+      ],
+      "frame": [
+        55046,
+        56461
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0053",
+      "shot": [
+        228,
+        231
+      ],
+      "frame": [
+        56461,
+        56723
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0054",
+      "shot": [
+        231,
+        244
+      ],
+      "frame": [
+        56723,
+        58725
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0055",
+      "shot": [
+        244,
+        247
+      ],
+      "frame": [
+        58725,
+        59630
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0056",
+      "shot": [
+        247,
+        249
+      ],
+      "frame": [
+        59630,
+        61813
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0057",
+      "shot": [
+        249,
+        252
+      ],
+      "frame": [
+        61813,
+        63628
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0058",
+      "shot": [
+        252,
+        254
+      ],
+      "frame": [
+        63628,
+        64107
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0059",
+      "shot": [
+        254,
+        256
+      ],
+      "frame": [
+        64107,
+        65072
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0060",
+      "shot": [
+        256,
+        261
+      ],
+      "frame": [
+        65072,
+        67307
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0061",
+      "shot": [
+        261,
+        262
+      ],
+      "frame": [
+        67307,
+        67735
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0062",
+      "shot": [
+        262,
+        264
+      ],
+      "frame": [
+        67735,
+        67917
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0063",
+      "shot": [
+        264,
+        267
+      ],
+      "frame": [
+        67917,
+        68322
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0064",
+      "shot": [
+        267,
+        274
+      ],
+      "frame": [
+        68322,
+        71544
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0065",
+      "shot": [
+        274,
+        275
+      ],
+      "frame": [
+        71544,
+        72188
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0066",
+      "shot": [
+        275,
+        294
+      ],
+      "frame": [
+        72188,
+        77582
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0067",
+      "shot": [
+        294,
+        295
+      ],
+      "frame": [
+        77582,
+        77733
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0068",
+      "shot": [
+        295,
+        296
+      ],
+      "frame": [
+        77733,
+        78338
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0069",
+      "shot": [
+        296,
+        308
+      ],
+      "frame": [
+        78338,
+        84134
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0070",
+      "shot": [
+        308,
+        309
+      ],
+      "frame": [
+        84134,
+        84351
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0071",
+      "shot": [
+        309,
+        316
+      ],
+      "frame": [
+        84351,
+        86261
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0072",
+      "shot": [
+        316,
+        317
+      ],
+      "frame": [
+        86261,
+        86570
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0073",
+      "shot": [
+        317,
+        321
+      ],
+      "frame": [
+        86570,
+        87185
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0074",
+      "shot": [
+        321,
+        324
+      ],
+      "frame": [
+        87185,
+        88365
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0075",
+      "shot": [
+        324,
+        325
+      ],
+      "frame": [
+        88365,
+        88625
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0076",
+      "shot": [
+        325,
+        326
+      ],
+      "frame": [
+        88625,
+        89182
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0077",
+      "shot": [
+        326,
+        342
+      ],
+      "frame": [
+        89182,
+        92977
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0078",
+      "shot": [
+        342,
+        344
+      ],
+      "frame": [
+        92977,
+        93727
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0079",
+      "shot": [
+        344,
+        363
+      ],
+      "frame": [
+        93727,
+        98393
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0080",
+      "shot": [
+        363,
+        364
+      ],
+      "frame": [
+        98393,
+        98966
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0081",
+      "shot": [
+        364,
+        368
+      ],
+      "frame": [
+        98966,
+        99871
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0082",
+      "shot": [
+        368,
+        369
+      ],
+      "frame": [
+        99871,
+        99959
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0083",
+      "shot": [
+        369,
+        388
+      ],
+      "frame": [
+        99959,
+        104431
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0084",
+      "shot": [
+        388,
+        418
+      ],
+      "frame": [
+        104431,
+        119905
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0085",
+      "shot": [
+        418,
+        419
+      ],
+      "frame": [
+        119905,
+        121513
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0086",
+      "shot": [
+        419,
+        430
+      ],
+      "frame": [
+        121513,
+        123301
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0087",
+      "shot": [
+        430,
+        435
+      ],
+      "frame": [
+        123301,
+        124587
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0088",
+      "shot": [
+        435,
+        438
+      ],
+      "frame": [
+        124587,
+        126890
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0089",
+      "shot": [
+        438,
+        440
+      ],
+      "frame": [
+        126890,
+        128775
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0090",
+      "shot": [
+        440,
+        441
+      ],
+      "frame": [
+        128775,
+        128945
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0091",
+      "shot": [
+        441,
+        443
+      ],
+      "frame": [
+        128945,
+        129164
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0092",
+      "shot": [
+        443,
+        454
+      ],
+      "frame": [
+        129164,
+        130721
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0093",
+      "shot": [
+        454,
+        471
+      ],
+      "frame": [
+        130721,
+        136524
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0094",
+      "shot": [
+        471,
+        472
+      ],
+      "frame": [
+        136524,
+        138429
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0095",
+      "shot": [
+        472,
+        475
+      ],
+      "frame": [
+        138429,
+        139192
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0096",
+      "shot": [
+        475,
+        476
+      ],
+      "frame": [
+        139192,
+        140726
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0097",
+      "shot": [
+        476,
+        477
+      ],
+      "frame": [
+        140726,
+        140899
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0098",
+      "shot": [
+        477,
+        478
+      ],
+      "frame": [
+        140899,
+        141072
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0099",
+      "shot": [
+        478,
+        482
+      ],
+      "frame": [
+        141072,
+        143798
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0100",
+      "shot": [
+        482,
+        483
+      ],
+      "frame": [
+        143798,
+        144455
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0101",
+      "shot": [
+        483,
+        486
+      ],
+      "frame": [
+        144455,
+        146306
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0102",
+      "shot": [
+        486,
+        495
+      ],
+      "frame": [
+        146306,
+        148858
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0103",
+      "shot": [
+        495,
+        555
+      ],
+      "frame": [
+        148858,
+        164422
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0104",
+      "shot": [
+        555,
+        556
+      ],
+      "frame": [
+        164422,
+        165398
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0105",
+      "shot": [
+        556,
+        646
+      ],
+      "frame": [
+        165398,
+        189343
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0106",
+      "shot": [
+        646,
+        647
+      ],
+      "frame": [
+        189343,
+        189647
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0107",
+      "shot": [
+        647,
+        654
+      ],
+      "frame": [
+        189647,
+        194987
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0108",
+      "shot": [
+        654,
+        660
+      ],
+      "frame": [
+        194987,
+        200228
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0109",
+      "shot": [
+        660,
+        674
+      ],
+      "frame": [
+        200228,
+        207279
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0110",
+      "shot": [
+        674,
+        675
+      ],
+      "frame": [
+        207279,
+        207841
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0111",
+      "shot": [
+        675,
+        707
+      ],
+      "frame": [
+        207841,
+        216162
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0112",
+      "shot": [
+        707,
+        708
+      ],
+      "frame": [
+        216162,
+        216208
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0113",
+      "shot": [
+        708,
+        711
+      ],
+      "frame": [
+        216208,
+        216880
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0114",
+      "shot": [
+        711,
+        712
+      ],
+      "frame": [
+        216880,
+        216945
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0073440_0115",
+      "shot": [
+        712,
+        746
+      ],
+      "frame": [
+        216945,
+        223706
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0073440_0002",
+      "shot": [
+        4,
+        37
+      ],
+      "frame": [
+        2490,
+        13689
+      ],
+      "duration": [
+        103.892646,
+        570.921621
+      ],
+      "consistency": 0.8435250168364822,
+      "description": "The film opens with a campaign van for presidential candidate Hal Phillip Walker driving around Nashville as an external loudspeaker blares Walker's folksy political aphorisms and vaguely anti-establishment populism. This is juxtaposed with country superstar Haven Hamilton (Henry Gibson) recording an overblown patriotic song (\"200 Years\") intended to commemorate the upcoming Bicentennial, and growing irritated with the accompanying musicians in the studio. A young Englishwoman named Opal (Geraldine Chaplin), who claims to be working on a radio documentary for the BBC, appears in the studio but is told to leave by Haven. Down the hall from Haven's session is Linnea Reese (Lily Tomlin), a white gospel singer recording a song with a black choir.",
+      "subtitle": [
+        {
+          "shot": 4,
+          "duration": [
+            104.104,
+            128.002875
+          ],
+          "sentences": [
+            "Fellow taxpayers...",
+            "and stockholders in America...",
+            "on the first Tuesday in November...",
+            "we have to make some vital decisions about our management.",
+            "Let me go directly to the point.",
+            "I'm for doing some replacing.",
+            "I've discussed the Replacement Party...",
+            "with people all over this country...",
+            "and I'm often confronted with the statement...",
+            "\"I don't want to get mixed up in politics\"..."
+          ]
+        },
+        {
+          "shot": 5,
+          "duration": [
+            128.04458333333332,
+            165.33183333333332
+          ],
+          "sentences": [
+            "\"I don't want to get mixed up in politics\"...",
+            "or \"I'm tired of politics,\" or \"I'm not interested.\"",
+            "Almost as often someone says, \"I can't do anything about it anyway.\"",
+            "Let me point out two things.",
+            "Number one:",
+            "All of us are deeply involved with politics...",
+            "whether we know it or not...",
+            "and whether we like it or not.",
+            "And number two:",
+            "We can do something about it.",
+            "When you pay more for an automobile...",
+            "than it cost Columbus to make his first voyage to America...",
+            "that's politics."
+          ]
+        },
+        {
+          "shot": 14,
+          "duration": [
+            318.693375,
+            325.3667083333333
+          ],
+          "sentences": [
+            "- That girl down there. - Hold it! Hold it, everybody.",
+            "Honey, you gotta get her out.",
+            "- Bob. - Yes, sir."
+          ]
+        },
+        {
+          "shot": 15,
+          "duration": [
+            325.40841666666665,
+            327.03504166666664
+          ],
+          "sentences": [
+            "I want to talk to Buddy."
+          ]
+        },
+        {
+          "shot": 16,
+          "duration": [
+            327.07675,
+            330.87220833333333
+          ],
+          "sentences": [
+            "Buddy?",
+            "Y-Yes, sir, Dad?"
+          ]
+        },
+        {
+          "shot": 17,
+          "duration": [
+            330.91391666666664,
+            334.29229166666664
+          ],
+          "sentences": [
+            "Buddy, who is that woman in there with the hat on?"
+          ]
+        },
+        {
+          "shot": 18,
+          "duration": [
+            334.334,
+            347.972625
+          ],
+          "sentences": [
+            "- She a friend of yours? - Mr. Hamilton, I'm Opal.",
+            "I'm from the BBC, and I'm doing a documentary on Nashville.",
+            "You know I don't allow no people visitin' when I'm recording.",
+            "I want no recording equipment in that studio.",
+            "- Buddy, escort the lady out. - Yes, sir."
+          ]
+        },
+        {
+          "shot": 19,
+          "duration": [
+            348.0143333333333,
+            352.0183333333333
+          ],
+          "sentences": [
+            "If she wants a copy of this record, she can buy it when it's released."
+          ]
+        },
+        {
+          "shot": 20,
+          "duration": [
+            352.0600416666666,
+            359.85949999999997
+          ],
+          "sentences": [
+            "No, darling, I'm sorry. No strangers at all.",
+            "Mr. Hamilton, I'll be waiting outside for you.",
+            "We'll have a little interview."
+          ]
+        },
+        {
+          "shot": 21,
+          "duration": [
+            359.90120833333333,
+            364.489125
+          ],
+          "sentences": [
+            "I want to do another one. Jimmy, you count off.",
+            "I want to hear a little more Haven in this one."
+          ]
+        },
+        {
+          "shot": 23,
+          "duration": [
+            369.41070833333333,
+            399.9412083333333
+          ],
+          "sentences": [
+            "Ah, there we are.",
+            "This is Studio B right here.",
+            "- They're doing some gospel. - Oh, how sweet!",
+            "A recording of some sort. Glenn, how are you?",
+            "- Mind if we sit in? - Come on in.",
+            "It's so little!",
+            "We'll be going down front so we'll get out of their way.",
+            "It's so pretty! I've been to all the recording studios in London.",
+            "They're always enormous and very impersonal.",
+            "This is so cozy.",
+            "- Keep down so they can... - Yes, of course.",
+            "So they can see what's going on.",
+            "There we are."
+          ]
+        },
+        {
+          "shot": 25,
+          "duration": [
+            403.36129166666666,
+            418.75166666666667
+          ],
+          "sentences": [
+            "This is a choir... a black choir...",
+            "from part of... from Fisk University here in town.",
+            "Good Lord!",
+            "- The lady singing is... - Is she a missionary?",
+            "No, she's not. She's a gospel singer.",
+            "She's the wife of our attorney."
+          ]
+        },
+        {
+          "shot": 26,
+          "duration": [
+            418.79337499999997,
+            437.311875
+          ],
+          "sentences": [
+            "I was making a documentary in Kenya...",
+            "and there was this marvelous woman who was a missionary.",
+            "That's why I asked. She was sensational.",
+            "She was converting Kikuyus by the dozens.",
+            "She was trying to convert Masais. Of course, they were hopeless.",
+            "I mean, they have their own sort of religion."
+          ]
+        },
+        {
+          "shot": 28,
+          "duration": [
+            459.6258333333333,
+            487.69554166666666
+          ],
+          "sentences": [
+            "Look at that. That rhythm is fantastic.",
+            "You know, it's funny. You can tell...",
+            "It's come down in the genes through ages and ages...",
+            "and hundreds of years, but it's there.",
+            "Take off those robes...",
+            "and one is in... in... in darkest Africa.",
+            "I can just see their naked, frenzied bodies...",
+            "dancing to the beat of...",
+            "Do they carry on like that in church?",
+            "Depends on which church you go to."
+          ]
+        },
+        {
+          "shot": 32,
+          "duration": [
+            524.3154583333333,
+            527.3601666666666
+          ],
+          "sentences": [
+            "Hold it, everybody."
+          ]
+        },
+        {
+          "shot": 33,
+          "duration": [
+            527.401875,
+            536.9947916666666
+          ],
+          "sentences": [
+            "Damn it, Bob.",
+            "What's the name of the piano player, Bob?",
+            "- That's Frog. - \"That's Frog.\" He plays like a frog."
+          ]
+        },
+        {
+          "shot": 34,
+          "duration": [
+            537.0364999999999,
+            541.1239166666667
+          ],
+          "sentences": [
+            "We'll try it again."
+          ]
+        },
+        {
+          "shot": 35,
+          "duration": [
+            541.165625,
+            544.5857083333333
+          ],
+          "sentences": [
+            "Jimmy, you count off."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0073440_0005",
+      "shot": [
+        83,
+        210
+      ],
+      "frame": [
+        24370,
+        51546
+      ],
+      "duration": [
+        1016.4503646666666,
+        2149.8605826666667
+      ],
+      "consistency": 0.8502970016457008,
+      "description": "After greeting the crowds on the tarmac, Barbara Jean faints due to the heat, and her handlers, headed by her domineering husband-manager Barnett (Allen Garfield), rush her to the hospital. Barbara Jean's appearance having been cut short, those in attendance depart the airport in a rush, and wind up stranded on the highway after a pile-up occurs. During the commotion, Winifred (Barbara Harris), an aspiring country singer who has chosen the stage name \"Albuquerque,\" runs away from her husband, Star (Bert Remsen), after he refuses to take her to the Grand Ole Opry. Star gives a ride to Kenny Frasier (David Hayward), a nondescript, bespectacled young man who has just arrived in town carrying a violin case. Opal takes advantage of the traffic jam to interview first Linnea and then Tommy Brown (Timothy Brown), an African-American country singer who is performing at the Opry. Tommy and his entourage later go to Lady Pearl's nightclub, but Wade, who is drinking and trying to pick up white girls at the bar, insults Tommy for acting too \"white\" and starts a fight.",
+      "subtitle": [
+        {
+          "shot": 83,
+          "duration": [
+            1016.3486666666666,
+            1045.4610833333334
+          ],
+          "sentences": [
+            "Here she comes! Our Barbara Jean!",
+            "Come on. Get on the other side.",
+            "Here's our own Barbara Jean!",
+            "May I have a word, Barnett?",
+            "None of that shit. Come on. Come on.",
+            "Get up there. Come on.",
+            "Who do you think you are? Marlon Brando?",
+            "Barbara Jean, ladies and gentlemen!",
+            "- Hi! - Ah, look at that!"
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            1045.5027916666666,
+            1049.0897083333332
+          ],
+          "sentences": [
+            "Thank you so much. Hi, sweetie, darling!"
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            1049.1314166666666,
+            1063.437375
+          ],
+          "sentences": [
+            "Hi, Bill. Hi, Mary. Where's Tom?",
+            "- Take my bag? - Sure.",
+            "- You were supposed to meet us at the gate. - Then let's go meet at the gate.",
+            "- Norman, let's go to the limo. - The limo is just outside."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            1063.4790833333332,
+            1078.9111666666665
+          ],
+          "sentences": [
+            "Barbara Jean, for you.",
+            "- Thank you, Haven. - Right here for the photographer.",
+            "Thank you, Tennessee Twirlers, for coming out today...",
+            "and thank you, Franklin High School Band.",
+            "I think you kids get better every year."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            1104.5617916666665,
+            1108.35725
+          ],
+          "sentences": [
+            "Oh, little beauty! Thank you so much!"
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            1108.3989583333332,
+            1118.0335833333334
+          ],
+          "sentences": [
+            "Are you gonna ride into town with me or not?",
+            "Go on without me. I'm gonna wait, 'cause I think she's gonna sing.",
+            "Her? She ain't gonna sing. She don't sing unless she get paid."
+          ]
+        },
+        {
+          "shot": 98,
+          "duration": [
+            1118.0752916666665,
+            1126.4586666666667
+          ],
+          "sentences": [
+            "I'd like to thank you...",
+            "for coming out to greet me today.",
+            "It's great to be home. It's hot as a firecracker."
+          ]
+        },
+        {
+          "shot": 100,
+          "duration": [
+            1128.37725,
+            1138.8043333333333
+          ],
+          "sentences": [
+            "What's so funny about that?",
+            "Me and the boys are gonna be out at the Opry this week...",
+            "and like my granddaddy always used to say...",
+            "if you're down to the river, I hope you'll drop in."
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            1138.8460416666667,
+            1143.3088333333333
+          ],
+          "sentences": [
+            "Oh! Yes, that's sweet.",
+            "Who writes your material, darlin'?"
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            1143.3505416666667,
+            1147.2294166666666
+          ],
+          "sentences": [
+            "Barnett, who are all those people inside?"
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            1147.271125,
+            1150.4826666666665
+          ],
+          "sentences": [
+            "It's just airport security, 'cause of all the hijackers."
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            1150.524375,
+            1158.6575
+          ],
+          "sentences": [
+            "- Did they come to see me? - They can see you pretty good.",
+            "Then I'd like to go in and say hello.",
+            "I believe Barbara Jean wants to go inside..."
+          ]
+        },
+        {
+          "shot": 105,
+          "duration": [
+            1158.6992083333332,
+            1161.7439166666666
+          ],
+          "sentences": [
+            "- Barnett, I'm sorry, darlin'. - To see the fans who were not able..."
+          ]
+        },
+        {
+          "shot": 106,
+          "duration": [
+            1161.785625,
+            1166.91575
+          ],
+          "sentences": [
+            "to make it out here.",
+            "This was a little bit unscheduled. She's on her way down there..."
+          ]
+        },
+        {
+          "shot": 107,
+          "duration": [
+            1166.9574583333333,
+            1181.555375
+          ],
+          "sentences": [
+            "probably to greet some fans inside there.",
+            "- Stepping down the walkway with Barnett. - Watch out for the water.",
+            "Right behind, Haven Hamilton...",
+            "and all the other friends, members, and, uh...",
+            "She's fallen! Harold, come on!"
+          ]
+        },
+        {
+          "shot": 108,
+          "duration": [
+            1181.5970833333333,
+            1184.2247083333332
+          ],
+          "sentences": [
+            "She's fallen! Harold, come on!",
+            "She's fallen somewhere down there."
+          ]
+        },
+        {
+          "shot": 109,
+          "duration": [
+            1184.2664166666666,
+            1187.060875
+          ],
+          "sentences": [
+            "If we can get down there... if we have enough cable."
+          ]
+        },
+        {
+          "shot": 110,
+          "duration": [
+            1187.1025833333333,
+            1190.3141249999999
+          ],
+          "sentences": [
+            "Don't know how far we can make it."
+          ]
+        },
+        {
+          "shot": 111,
+          "duration": [
+            1190.3558333333333,
+            1193.817625
+          ],
+          "sentences": [
+            "Who do you think is running Congress?"
+          ]
+        },
+        {
+          "shot": 112,
+          "duration": [
+            1193.8593333333333,
+            1207.8733333333332
+          ],
+          "sentences": [
+            "Farmers? Engineers? Teachers? Businessmen?",
+            "No, my friends. Congress is run by lawyers.",
+            "A lawyer is trained for two things and two things only:",
+            "To clarify... that's one..."
+          ]
+        },
+        {
+          "shot": 113,
+          "duration": [
+            1207.9150416666666,
+            1219.8853333333332
+          ],
+          "sentences": [
+            "And to confuse... that's the other thing.",
+            "He does whichever is to his client's advantage.",
+            "Did you ever ask a lawyer the time of day?",
+            "He told you how to make a watch, didn't he?"
+          ]
+        },
+        {
+          "shot": 114,
+          "duration": [
+            1219.9270416666666,
+            1224.3898333333332
+          ],
+          "sentences": [
+            "He told you how to make a watch, didn't he?",
+            "Ever ask a lawyer how to get to Mr. Jones's house in the country?"
+          ]
+        },
+        {
+          "shot": 115,
+          "duration": [
+            1224.4315416666666,
+            1235.7762083333332
+          ],
+          "sentences": [
+            "Ever ask a lawyer how to get to Mr. Jones's house in the country?",
+            "You got lost, didn't you?",
+            "Congress is composed of 535 individuals.",
+            "Two hundred and eighty-eight are lawyers."
+          ]
+        },
+        {
+          "shot": 116,
+          "duration": [
+            1235.8179166666666,
+            1244.2012916666665
+          ],
+          "sentences": [
+            "And you wonder what's wrong in Congress.",
+            "No wonder we often know how to make a watch...",
+            "but we don't know the time of day."
+          ]
+        },
+        {
+          "shot": 117,
+          "duration": [
+            1244.243,
+            1252.2092916666666
+          ],
+          "sentences": [
+            "but we don't know the time of day.",
+            "No wonder it takes six or seven years..."
+          ]
+        },
+        {
+          "shot": 118,
+          "duration": [
+            1252.251,
+            1257.3394166666665
+          ],
+          "sentences": [
+            "What the hell is the matter with you?"
+          ]
+        },
+        {
+          "shot": 120,
+          "duration": [
+            1262.51125,
+            1285.9930416666666
+          ],
+          "sentences": [
+            "Yes, I'm talking about replacement.",
+            "Replacing this lawyeristic, red-taped...",
+            "and blank-taped government...",
+            "with the yes-and-no language of farmers and teachers...",
+            "engineers and businessmen.",
+            "I'm not pessimistic about this country."
+          ]
+        },
+        {
+          "shot": 121,
+          "duration": [
+            1286.0347499999998,
+            1304.0527499999998
+          ],
+          "sentences": [
+            "She finally collapsed here on the sidewalk. Sort of a faint.",
+            "That's all we've been able to determine at this moment.",
+            "We interviewed Mr. Sperry. He said the same thing.",
+            "Haven Hamilton said the same thing as well.",
+            "That's about it for the moment from Metro Airport.",
+            "For Channel Two News, this is Bill Jenkins reporting."
+          ]
+        },
+        {
+          "shot": 122,
+          "duration": [
+            1304.0944583333333,
+            1308.5989583333333
+          ],
+          "sentences": [
+            "Let's consider our national anthem.",
+            "Nobody knows the words."
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            1308.6406666666667,
+            1313.1451666666667
+          ],
+          "sentences": [
+            "Nobody can sing it.",
+            "Nobody understands it."
+          ]
+        },
+        {
+          "shot": 124,
+          "duration": [
+            1313.1868749999999,
+            1320.444125
+          ],
+          "sentences": [
+            "Yee-haw!"
+          ]
+        },
+        {
+          "shot": 127,
+          "duration": [
+            1326.8672083333333,
+            1331.204875
+          ],
+          "sentences": [
+            "I suppose all the lawyers supported it..."
+          ]
+        },
+        {
+          "shot": 128,
+          "duration": [
+            1331.2465833333333,
+            1347.1791666666666
+          ],
+          "sentences": [
+            "because a lawyer wrote the words...",
+            "and a judge wrote the tune.",
+            "Careful, Buddy.",
+            "- Read it carefully. - Watch out for that truck.",
+            "And I say \"read it\" because I know you can't sing it.",
+            "Read all four verses, and you'll understand what I'm talking about."
+          ]
+        },
+        {
+          "shot": 129,
+          "duration": [
+            1347.220875,
+            1352.8515
+          ],
+          "sentences": [
+            "Yes, sir, I would support work and vote for replacement.",
+            "- Change our national anthem back to something people can understand... - This is terrific, Norman."
+          ]
+        },
+        {
+          "shot": 130,
+          "duration": [
+            1352.8932083333332,
+            1354.0193333333332
+          ],
+          "sentences": [
+            "- Change our national anthem back to something people can understand... - This is terrific, Norman."
+          ]
+        },
+        {
+          "shot": 131,
+          "duration": [
+            1354.0610416666666,
+            1357.3977083333332
+          ],
+          "sentences": [
+            "- Change our national anthem back to something people can understand... - This is terrific, Norman.",
+            "Back to something that would make a light shine in their faces."
+          ]
+        },
+        {
+          "shot": 132,
+          "duration": [
+            1357.4394166666666,
+            1359.6499583333332
+          ],
+          "sentences": [
+            "Back to something that would make a light shine in their faces."
+          ]
+        },
+        {
+          "shot": 133,
+          "duration": [
+            1359.6916666666666,
+            1368.2001666666665
+          ],
+          "sentences": [
+            "Hey, man, get off my car! Don't lean on my car!",
+            "I just got this goddamn thing fixed, so don't lean on it.",
+            "Oh, Jesus Christ. Oh, God."
+          ]
+        },
+        {
+          "shot": 134,
+          "duration": [
+            1368.241875,
+            1372.8297916666666
+          ],
+          "sentences": [
+            "Oh, Jesus Christ. Oh, God.",
+            "Hey, man, get the hell off my car!"
+          ]
+        },
+        {
+          "shot": 135,
+          "duration": [
+            1372.8715,
+            1381.0463333333332
+          ],
+          "sentences": [
+            "You almost made me fall!",
+            "Great, thanks. Can I have one too?",
+            "Thanks a lot. Just keep those cards and letters comin' in, folks."
+          ]
+        },
+        {
+          "shot": 136,
+          "duration": [
+            1381.0880416666666,
+            1397.396
+          ],
+          "sentences": [
+            "- I feel faint. - I'm gonna get us a Popsicle.",
+            "Just a minute. Hello?",
+            "- All those mangled bodies. - Would you go to that Popsicle truck...",
+            "and get us a couple sweet ices?",
+            "There must be 20 cars piled up, one on top of the other, some of them upside-down.",
+            "- Come on. - I saw a leg sticking out."
+          ]
+        },
+        {
+          "shot": 137,
+          "duration": [
+            1397.4377083333331,
+            1408.7406666666666
+          ],
+          "sentences": [
+            "This is gonna be a mess. I don't know how long it...",
+            "Can you just pull on through where the ambulance went?",
+            "You want to try it?",
+            "- What's the matter, son? - It's stalled."
+          ]
+        },
+        {
+          "shot": 138,
+          "duration": [
+            1408.782375,
+            1423.2551666666666
+          ],
+          "sentences": [
+            "- What did you want? Popsicle? - I wish my cameraman had been here.",
+            "He's never around. I need something like this for my documentary.",
+            "I need it. It's... It's America.",
+            "Those cars smashing into each other...",
+            "and all those mangled corpses...",
+            "Just a minute. Just a minute."
+          ]
+        },
+        {
+          "shot": 139,
+          "duration": [
+            1423.296875,
+            1437.2691666666665
+          ],
+          "sentences": [
+            "Well, it's hard to really say.",
+            "You see...",
+            "after they opened her up, they figured they ought to do an exploratory.",
+            "You know, give her kind of an overhaul."
+          ]
+        },
+        {
+          "shot": 140,
+          "duration": [
+            1437.310875,
+            1445.2771666666665
+          ],
+          "sentences": [
+            "- Twenty dollars? - Twenty dollars.",
+            "- I'll give you five. - No, I'll take 15.",
+            "You'll take 15? I'll give you ten."
+          ]
+        },
+        {
+          "shot": 141,
+          "duration": [
+            1445.318875,
+            1446.445
+          ],
+          "sentences": [
+            "I can think of no sensible reason why New York..."
+          ]
+        },
+        {
+          "shot": 142,
+          "duration": [
+            1446.4867083333331,
+            1451.4499999999998
+          ],
+          "sentences": [
+            "I can think of no sensible reason why New York...",
+            "must of necessity have 12,000..."
+          ]
+        },
+        {
+          "shot": 143,
+          "duration": [
+            1451.4917083333332,
+            1454.5364166666666
+          ],
+          "sentences": [
+            "major crimes committed...",
+            "for every 1,000 committed in Tokyo."
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            1454.578125,
+            1466.339875
+          ],
+          "sentences": [
+            "for every 1,000 committed in Tokyo.",
+            "- Excuse me. - Yet these are the true victims.",
+            "Some very funny notions have developed in American politics."
+          ]
+        },
+        {
+          "shot": 145,
+          "duration": [
+            1466.3815833333333,
+            1470.5941249999998
+          ],
+          "sentences": [
+            "Um, let me see.",
+            "Um, have you any children?"
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            1470.6358333333333,
+            1484.6915416666666
+          ],
+          "sentences": [
+            "Yes, I have two children. I have a boy and a girl.",
+            "Oh, isn't that nice! How old are they?",
+            "Twelve and 11.",
+            "Do they want to be singers like their mummy?",
+            "Um, well, my children are deaf."
+          ]
+        },
+        {
+          "shot": 147,
+          "duration": [
+            1484.73325,
+            1486.2764583333333
+          ],
+          "sentences": [
+            "Um, well, my children are deaf."
+          ]
+        },
+        {
+          "shot": 148,
+          "duration": [
+            1486.3181666666665,
+            1489.4879999999998
+          ],
+          "sentences": [
+            "They're... They are deaf. They were born deaf."
+          ]
+        },
+        {
+          "shot": 149,
+          "duration": [
+            1489.5297083333332,
+            1491.6151249999998
+          ],
+          "sentences": [
+            "Oh, my God, how awful!"
+          ]
+        },
+        {
+          "shot": 150,
+          "duration": [
+            1491.6568333333332,
+            1500.8326666666665
+          ],
+          "sentences": [
+            "- It's so depressing. - Now, just a minute. That's not so.",
+            "- I wish you could see my boy. - Oh, I couldn't.",
+            "- He has the most incredible personality. - It's the sadness of it."
+          ]
+        },
+        {
+          "shot": 151,
+          "duration": [
+            1500.8743749999999,
+            1525.3571666666667
+          ],
+          "sentences": [
+            "What happened is, he made a million dollars on a flyswatter...",
+            "because it had a red dot in the center.",
+            "- Flyswatter? - That's right. Just a red dot.",
+            "He was sittin' in a buffet, and he was eatin'...",
+            "and he saw a woman, and she was swattin' flies.",
+            "And, uh, she... He said...",
+            "\"What makes the difference in flyswatters?\"",
+            "'Cause it has to do with the Industrial Revolution."
+          ]
+        },
+        {
+          "shot": 152,
+          "duration": [
+            1525.3988749999999,
+            1545.2520416666666
+          ],
+          "sentences": [
+            "The thing with these country people is they have a real grassroots appeal.",
+            "- Well, hell, they got fans. - And they're the people that elect the president.",
+            "- We're gonna do everything we can. - You line up a lot of movie stars...",
+            "I think people here feel that movie stars are eccentric and crazy.",
+            "- Communists. - Well...",
+            "- A lot of 'em are. - It's been said, now."
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            1545.2937499999998,
+            1557.9730833333333
+          ],
+          "sentences": [
+            "- Then I want to go to the Grand Ole Opry. - Forget that.",
+            "- 'Cause I have to have my record... - I don't like music.",
+            "- I'm gonna go see what's goin' on. - I have a gold record...",
+            "- and it needs to be signed. - Get the hell away from my truck!"
+          ]
+        },
+        {
+          "shot": 154,
+          "duration": [
+            1558.0147916666665,
+            1561.56
+          ],
+          "sentences": [
+            "- Goddamn it! Sons of bitches! - Shit!"
+          ]
+        },
+        {
+          "shot": 155,
+          "duration": [
+            1561.6017083333331,
+            1577.8679583333333
+          ],
+          "sentences": [
+            "I say, could I please speak to Mr. Tommy Brown?",
+            "- What? - I'm sorry.",
+            "Is it possible to have a few words with Mr. Tommy Brown?",
+            "I'm from the BBC. I'm doing a documentary on Nashville.",
+            "What is the BBC?",
+            "- British Broadcasting Company. - Oh, English."
+          ]
+        },
+        {
+          "shot": 156,
+          "duration": [
+            1577.9096666666665,
+            1601.85025
+          ],
+          "sentences": [
+            "It was called \"Wanda, Wander.\"",
+            "No, that song was called \"Wonder, Wanda.\"",
+            "- I don't really know. - Thank you, thank you.",
+            "- Goddamn it, it was \"Wanda, Wander.\" - It was \"Wonder, Wanda.\"",
+            "\"Wanda, Wander\"! What difference does it make? It was a hit!"
+          ]
+        },
+        {
+          "shot": 157,
+          "duration": [
+            1601.8919583333332,
+            1611.5682916666665
+          ],
+          "sentences": [
+            "There's no breathing space.",
+            "What we need, first and foremost...",
+            "is a commonsense approach.",
+            "Nothing complicated."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            1611.61,
+            1646.0610833333333
+          ],
+          "sentences": [
+            "Is Mr. Brown going to... Will he be here soon?",
+            "Yeah, he's in the back changin'. He has to put his makeup on.",
+            "Whenever he's going to have an interview, he puts his makeup on...",
+            "and likes to get all prettied up, you know?",
+            "That's nice.",
+            "He must be a marvelous person...",
+            "to have all you lovely people working for him.",
+            "I know the problems in the South. I mean, I've heard of them.",
+            "Well, yeah.",
+            "- He's a very liberal guy. - That's lovely.",
+            "By the way, I'd like for you to meet his wife. This is Joy.",
+            "- Mrs. Brown? - Yes."
+          ]
+        },
+        {
+          "shot": 159,
+          "duration": [
+            1646.1027916666665,
+            1666.0393749999998
+          ],
+          "sentences": [
+            "Today in America...",
+            "with its unmatched resources...",
+            "it is exceedingly ridiculous...",
+            "a total absurdity..."
+          ]
+        },
+        {
+          "shot": 160,
+          "duration": [
+            1666.0810833333333,
+            1682.43075
+          ],
+          "sentences": [
+            "that any citizen with any ailment...",
+            "mental or physical, should go medically unattended.",
+            "We're settin' up everything for you.",
+            "- We got pictures the right height. - Oh, the little bird again.",
+            "Isn't that beautiful? I remember when you gave that to me.",
+            "I remember I almost threw it out."
+          ]
+        },
+        {
+          "shot": 161,
+          "duration": [
+            1682.4724583333332,
+            1698.0296666666666
+          ],
+          "sentences": [
+            "Good afternoon, girls.",
+            "I'd like you to wait outside the room a while...",
+            "because I know Aunt Esther would like to fix herself up a little.",
+            "I want my dog. Where is my dog?"
+          ]
+        },
+        {
+          "shot": 162,
+          "duration": [
+            1698.071375,
+            1705.578875
+          ],
+          "sentences": [
+            "- I just need one shot. - I'm sorry. - Could you excuse us?",
+            "- Come on in, sir. - How you doin', Howard?",
+            "I'm sorry. No press allowed."
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            1705.6205833333331,
+            1724.5561666666665
+          ],
+          "sentences": [
+            "We'll put these pictures above your head.",
+            "- Delbert, I got no time. - I know.",
+            "I just stopped by to see Barbara Jean.",
+            "How you doin'? How's lawyerin'?",
+            "Nobody pays me no mind. I'm just like another flunky.",
+            "- Would you mind crankin' me up? - More white carnations!",
+            "If I told him once, I told him twice.",
+            "Bud, this is a hospital! This ain't no construction site!"
+          ]
+        },
+        {
+          "shot": 164,
+          "duration": [
+            1724.597875,
+            1732.2305
+          ],
+          "sentences": [
+            "- I am not the press. - Go build another chair!",
+            "Goddamn it!",
+            "I am not the press. I am from the BBC."
+          ]
+        },
+        {
+          "shot": 165,
+          "duration": [
+            1732.2722083333333,
+            1734.0656666666666
+          ],
+          "sentences": [
+            "Damned if I don't keep my pledge."
+          ]
+        },
+        {
+          "shot": 166,
+          "duration": [
+            1734.1073749999998,
+            1740.363625
+          ],
+          "sentences": [
+            "- Look who's here... Mr. Brown. - Glad you're here, but cut it short.",
+            "How do you do? Nice to see you."
+          ]
+        },
+        {
+          "shot": 167,
+          "duration": [
+            1740.4053333333331,
+            1745.8274166666665
+          ],
+          "sentences": [
+            "You look as beautiful as a big, black butterfly.",
+            "I'm gettin' jealous. I'm gettin' jealous."
+          ]
+        },
+        {
+          "shot": 168,
+          "duration": [
+            1745.869125,
+            1749.8731249999998
+          ],
+          "sentences": [
+            "- You better get out of here. - He's gettin' mighty jealous.",
+            "I gotta sit myself up a bit. Hi."
+          ]
+        },
+        {
+          "shot": 169,
+          "duration": [
+            1749.9148333333333,
+            1752.3339166666665
+          ],
+          "sentences": [
+            "I gotta sit myself up a bit. Hi."
+          ]
+        },
+        {
+          "shot": 170,
+          "duration": [
+            1752.375625,
+            1753.9605416666666
+          ],
+          "sentences": [
+            "- I need to talk to you. - You got it."
+          ]
+        },
+        {
+          "shot": 171,
+          "duration": [
+            1754.0022499999998,
+            1757.4223333333332
+          ],
+          "sentences": [
+            "- I need to talk to you. - You got it.",
+            "All right, everybody. Doctor's gotta talk turkey."
+          ]
+        },
+        {
+          "shot": 172,
+          "duration": [
+            1757.4640416666666,
+            1762.2187916666664
+          ],
+          "sentences": [
+            "Barnett, there's somebody I want you to meet.",
+            "- John Triplette from California. - John Triple?"
+          ]
+        },
+        {
+          "shot": 173,
+          "duration": [
+            1762.2604999999999,
+            1763.887125
+          ],
+          "sentences": [
+            "- Triplette. - Okay. All right."
+          ]
+        },
+        {
+          "shot": 174,
+          "duration": [
+            1763.9288333333332,
+            1775.2317916666666
+          ],
+          "sentences": [
+            "- He's a killer. - Give us some good news.",
+            "Excuse us, please.",
+            "- Are you a relative? - What? No, no.",
+            "- Can you tell me how she is? - She's fine. It's her husband I'm concerned about."
+          ]
+        },
+        {
+          "shot": 175,
+          "duration": [
+            1775.2734999999998,
+            1778.6518749999998
+          ],
+          "sentences": [
+            "- Now, say somethin' good. You got two seconds. - Fair."
+          ]
+        },
+        {
+          "shot": 176,
+          "duration": [
+            1778.6935833333332,
+            1786.0759583333331
+          ],
+          "sentences": [
+            "- Can I have a light? - Excuse me?",
+            "- Can I have a light? - Yeah, sure.",
+            "The incident you described just now is very similar..."
+          ]
+        },
+        {
+          "shot": 177,
+          "duration": [
+            1786.1176666666665,
+            1813.812
+          ],
+          "sentences": [
+            "The incident you described just now is very similar...",
+            "to what you have here for your second admission...",
+            "- when it was diagnosed as some kind of intestinal disorder. -  - What's your name?",
+            "Bud Hamilton's my name.",
+            "Esther's awake, and she's dying to see you.",
+            "I'll be there in a minute, okay? I'm talking to someone right now.",
+            "- I'm talking to someone. - I beg your pardon.",
+            "- That's my uncle. - Your uncle?",
+            "I've got a sick aunt down the hall.",
+            "I just got in from Los Angeles a few hours ago.",
+            "- I'm L.A. Joan. - L.A. Joan?"
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            1813.8537083333333,
+            1861.1926666666666
+          ],
+          "sentences": [
+            "What do you do?",
+            "Well, I know it sounds arrogant...",
+            "but I'm on my way to town, if I ever make it...",
+            "to become a country-western singer or a star.",
+            "- Yeah? - Yeah.",
+            "What are you gonna do if you don't?",
+            "If I don't? I don't know. I could always go into sales.",
+            "- Like ladies' clothes? - I don't know.",
+            "Well, I know all about trucks, so I'd go into trucking, I guess.",
+            "- You're kiddin' me. - No, I'm not kiddin' you.",
+            "I'm in a truck enough.",
+            "And I know how to fix motors and all that.",
+            "- Nobody'd buy trucks from a girl. - I been fixin' motors a long time.",
+            "They'd buy 'em from me 'cause I know all about motors.",
+            "Why do you say that? Because now...",
+            "See, what's happenin' is, if I can't sell trucks and I can't go...",
+            "- Nobody'd buy a truck from a girl. - I knew this would happen.",
+            "Don't say you saw me."
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            1861.2343749999998,
+            1875.2066666666665
+          ],
+          "sentences": [
+            "Hey, you haven't seen my wife, have ya?",
+            "- She's sort of an ordinary-lookin' lady. - Huh-uh.",
+            "- Are you going into town? - You're not one of them country singers, are ya?",
+            "- No. Can you give me a ride? - All right, get in. - Thank you."
+          ]
+        },
+        {
+          "shot": 180,
+          "duration": [
+            1875.248375,
+            1881.8799999999999
+          ],
+          "sentences": [
+            "- No. Can you give me a ride? - All right, get in. - Thank you.",
+            "You look like a guy I was in the navy with.",
+            "He wouldn't take a bath. We had to pee in his bed to get him discharged."
+          ]
+        },
+        {
+          "shot": 181,
+          "duration": [
+            1881.9217083333333,
+            1910.4084999999998
+          ],
+          "sentences": [
+            "Hi.",
+            "My name's Sueleen Gay...",
+            "and I'm here to sing you all a couple of songs tonight that I wrote.",
+            "And I sure hope you're gonna enjoy 'em, honey...",
+            "'cause I know I'm gonna enjoy singin' 'em to ya.",
+            "The first one I'm gonna sing tonight is called...",
+            "\"Let Me Be The One.\""
+          ]
+        },
+        {
+          "shot": 182,
+          "duration": [
+            1910.4502083333332,
+            1936.726458333333
+          ],
+          "sentences": [
+            "Let's go.",
+            "Oh, what about your... your aunt and uncle?",
+            "Oh, it's cool. I can see them anytime.",
+            "- What kind of car you got? - I have a little... Here.",
+            "Martha!",
+            "And, uh...",
+            "that... that being true...",
+            "I would suggest, on the basis of the first account..."
+          ]
+        },
+        {
+          "shot": 188,
+          "duration": [
+            1981.8131666666666,
+            1992.9909999999998
+          ],
+          "sentences": [
+            "How come you're not wearing the blue dress?",
+            "Because I didn't want to.",
+            "You're supposed to wear the blue dress when I wear this.",
+            "- I don't want to dress like twins anymore. - We're not twins. We're a trio."
+          ]
+        },
+        {
+          "shot": 189,
+          "duration": [
+            1993.0327083333332,
+            1997.7040416666666
+          ],
+          "sentences": [
+            "Hi, young stud. Come on in, sit down..."
+          ]
+        },
+        {
+          "shot": 190,
+          "duration": [
+            1997.7457499999998,
+            2001.9582916666666
+          ],
+          "sentences": [
+            "right over here."
+          ]
+        },
+        {
+          "shot": 191,
+          "duration": [
+            2001.9999999999998,
+            2012.677333333333
+          ],
+          "sentences": [
+            "Yeah! Whoo.",
+            "I'm sorry. I'm sorry to...",
+            "That's okay.",
+            "He looks like Howdy Doody."
+          ]
+        },
+        {
+          "shot": 192,
+          "duration": [
+            2012.7190416666665,
+            2018.0159999999998
+          ],
+          "sentences": [
+            "Okay, this is, uh...",
+            "Right here at Deemens Den."
+          ]
+        },
+        {
+          "shot": 193,
+          "duration": [
+            2018.0577083333333,
+            2029.7360416666666
+          ],
+          "sentences": [
+            "- Hi, everybody. My name's Sheila. - And my name's Patti.",
+            "And we're the Smokey Mountain Laurel."
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            2059.682625,
+            2081.82975
+          ],
+          "sentences": [
+            "Come on, Becky, let's go. It's gettin' late.",
+            "I gotta get up and go...",
+            "Sorry. Oh! Tom!",
+            "- Yeah? - Tom, hello.",
+            "Another one of his girlfriends.",
+            "I was looking for you. This chap told me you were in here.",
+            "- Who are you? - I'm Opal from the BBC. Hello.",
+            "Good evening, ladies.",
+            "You don't mind if I sit down for a little bit."
+          ]
+        },
+        {
+          "shot": 198,
+          "duration": [
+            2081.871458333333,
+            2093.6749166666664
+          ],
+          "sentences": [
+            "All right. I want to hear it some more...",
+            "for my Misty Mountain Boys!"
+          ]
+        },
+        {
+          "shot": 199,
+          "duration": [
+            2093.716625,
+            2100.139708333333
+          ],
+          "sentences": [
+            "I got a couple announcements I wanna make.",
+            "We got some stars here tonight."
+          ]
+        },
+        {
+          "shot": 200,
+          "duration": [
+            2100.1814166666663,
+            2102.475375
+          ],
+          "sentences": [
+            "- Can't be us. - And one of 'em is..."
+          ]
+        },
+        {
+          "shot": 201,
+          "duration": [
+            2102.517083333333,
+            2104.477375
+          ],
+          "sentences": [
+            "Tommy Brown's back in town!"
+          ]
+        },
+        {
+          "shot": 202,
+          "duration": [
+            2104.519083333333,
+            2111.5677916666664
+          ],
+          "sentences": [
+            "Tommy Brown, stand up and show it all off!",
+            "Oh, ain't he beautiful!"
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            2111.6095,
+            2113.4446666666663
+          ],
+          "sentences": [
+            "Tommy Brown's the whitest nigger in town!"
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            2113.486375,
+            2117.115
+          ],
+          "sentences": [
+            "It's gettin' late.",
+            "- I'm very sorry. - That marshmallow!"
+          ]
+        },
+        {
+          "shot": 205,
+          "duration": [
+            2117.156708333333,
+            2120.4516666666664
+          ],
+          "sentences": [
+            "He oughta drink some of that milk! It fits his personality!"
+          ]
+        },
+        {
+          "shot": 206,
+          "duration": [
+            2120.493375,
+            2141.2641249999997
+          ],
+          "sentences": [
+            "This is not typical of Lady Pearl's parlors, you understand.",
+            "It's not typical of Nashville. I hope you'll tell the other ones.",
+            "Hey, he's leavin'! The Oreo cookie's leavin'!",
+            "Calm down. You're drunk.",
+            "I'm drunk, but shit, he's still the whitest nigger in town...",
+            "and I ain't gonna change my mind about that, I'll tell you right now.",
+            "Shit! Hey, where you goin', Tommy Brown?"
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            2141.3058333333333,
+            2144.934458333333
+          ],
+          "sentences": [
+            "Come on back here!",
+            "Hey, get your hands off..."
+          ]
+        },
+        {
+          "shot": 208,
+          "duration": [
+            2144.9761666666664,
+            2146.39425
+          ],
+          "sentences": [
+            "Hey, get your hands off..."
+          ]
+        },
+        {
+          "shot": 209,
+          "duration": [
+            2146.435958333333,
+            2149.9394583333333
+          ],
+          "sentences": [
+            "Listen, boys! I got two guns here!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0073440_0009",
+      "shot": [
+        308,
+        419
+      ],
+      "frame": [
+        84183,
+        121382
+      ],
+      "duration": [
+        3511.172617333333,
+        5062.6374823333335
+      ],
+      "consistency": 0.9353562776299156,
+      "description": "At Opryland USA, the Grand Ole Opry broadcast begins with Tommy Brown (\"Bluebird\") and Haven Hamilton (\"For the Sake of the Children\", \"Keep a-Goin\"). Haven then introduces Connie White (Karen Black) as a substitute for the hospitalized Barbara Jean. Connie sings \"Memphis\" and \"I Don't Know If I Found It in You\" while Barbara Jean and Barnett listen morosely on the radio in her hospital room. Winifred tries unsuccessfully to get backstage. Barbara Jean and Barnett have an argument because he is going to the after-show gathering to thank Connie for substituting at the last minute. Barbara Jean doesn't want him to go, and he suggests in an accusatory tone that she may be headed for another nervous breakdown. Barnett finally calms down Barbara Jean and goes to the after-party at a nightclub, but Connie doesn't seem happy to see him. Connie takes the stage (\"Rolling Stone\") but the disgruntled Barnett criticizes her performance. Lady Pearl regales Opal with stories about the Kennedy brothers, rendering Opal for once speechless. Haven tells Triplette that Barbara Jean and Connie never appear on the same stage, and that he (Haven) will appear anyplace Barbara Jean also appears. Bill gets upset when his wife Mary doesn't show up all evening, and he confesses to chauffeur Norman (David Arkin), that he suspects her of having an affair. Mary, in bed with Tom, keeps whispering \"I Love You,\" but Tom doesn't respond.",
+      "subtitle": [
+        {
+          "shot": 308,
+          "duration": [
+            3509.0889166666666,
+            3518.0979166666666
+          ],
+          "sentences": [
+            "Go get a Goo Goo, friends, and settle back...",
+            "for 30 of the goodest minutes in radio..."
+          ]
+        },
+        {
+          "shot": 309,
+          "duration": [
+            3518.139625,
+            3527.357166666666
+          ],
+          "sentences": [
+            "the Goo Goo Grand Ole Opry!",
+            "It's sent your way by the makers of Goo Goo...",
+            "the goodest candy bar in the world...",
+            "and King Leo pure stick candy, the candy that roars with flavor."
+          ]
+        },
+        {
+          "shot": 310,
+          "duration": [
+            3527.398875,
+            3541.9133749999996
+          ],
+          "sentences": [
+            "and King Leo pure stick candy, the candy that roars with flavor.",
+            "Now a big welcome, if you please, for the Goo Goo man of the hour...",
+            "Tommy Brown!"
+          ]
+        },
+        {
+          "shot": 316,
+          "duration": [
+            3597.8025416666665,
+            3610.648708333333
+          ],
+          "sentences": [
+            "Okay, this is it.",
+            "- This is it, all right. - Yeah, all right.",
+            "- It's the new one! - Yeah, I know.",
+            "- It's the new one, all right. - Have you got the time?",
+            "Sure. Yeah. It's, uh..."
+          ]
+        },
+        {
+          "shot": 320,
+          "duration": [
+            3627.832541666666,
+            3636.299333333333
+          ],
+          "sentences": [
+            "All right!"
+          ]
+        },
+        {
+          "shot": 321,
+          "duration": [
+            3636.3410416666666,
+            3647.3937499999997
+          ],
+          "sentences": [
+            "I'm Del Reese, and I'm goin' back to Haven Hamilton's group.",
+            "- Remember me? - This young lady's with me here.",
+            "I'm being interviewed by her...",
+            "and I really gotta go to the bathroom."
+          ]
+        },
+        {
+          "shot": 322,
+          "duration": [
+            3647.435458333333,
+            3665.870541666666
+          ],
+          "sentences": [
+            "Oh, yeah! Thank you!"
+          ]
+        },
+        {
+          "shot": 323,
+          "duration": [
+            3665.91225,
+            3685.5151666666666
+          ],
+          "sentences": [
+            "Thank you, Tommy. Beautiful job, as always.",
+            "Say, Harold Weakly, have you been on vacation yet?",
+            "Gosh, no. I've been busier than a puppy...",
+            "in a room full of rubber balls.",
+            "And if you're like me, all that hustling and bustling...",
+            "makes you want to sit down and let the world go by...",
+            "while you enjoy a Goo Goo candy cluster."
+          ]
+        },
+        {
+          "shot": 324,
+          "duration": [
+            3685.5568749999998,
+            3696.359333333333
+          ],
+          "sentences": [
+            "- Hey, Steve. She's with me. - Excuse me. Can I help you?",
+            "- I'm with these people here. - Do you have a backstage pass?",
+            "A pass? They didn't need a pass.",
+            "You need a pass to go backstage."
+          ]
+        },
+        {
+          "shot": 325,
+          "duration": [
+            3696.4010416666665,
+            3719.590875
+          ],
+          "sentences": [
+            "Go get a Goo Goo, the South's favorite piece of candy for 62 years."
+          ]
+        },
+        {
+          "shot": 326,
+          "duration": [
+            3719.632583333333,
+            3727.3069166666664
+          ],
+          "sentences": [
+            "- You ready to do the song? - Right. - Okay."
+          ]
+        },
+        {
+          "shot": 328,
+          "duration": [
+            3731.8114166666664,
+            3737.6922916666663
+          ],
+          "sentences": [
+            "I wouldn't worry about killin' 'em. They're already dead.",
+            "- Yes, thank you. - You're lucky to be alive."
+          ]
+        },
+        {
+          "shot": 329,
+          "duration": [
+            3737.734,
+            3739.98625
+          ],
+          "sentences": [
+            "Haven Hamilton!"
+          ]
+        },
+        {
+          "shot": 330,
+          "duration": [
+            3740.027958333333,
+            3754.667583333333
+          ],
+          "sentences": [
+            "Yeah.",
+            "Thank you. Thank you.",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 331,
+          "duration": [
+            3754.7092916666666,
+            3762.7589999999996
+          ],
+          "sentences": [
+            "Excuse me.",
+            "Well, I want to thank you for that wonderful, warm welcome."
+          ]
+        },
+        {
+          "shot": 332,
+          "duration": [
+            3762.800708333333,
+            3770.433333333333
+          ],
+          "sentences": [
+            "And I'm sure you meant to share it with...",
+            "with Bud Hamilton, my son, who's here.",
+            "Stand up, Bud."
+          ]
+        },
+        {
+          "shot": 333,
+          "duration": [
+            3770.4750416666666,
+            3778.8167083333333
+          ],
+          "sentences": [
+            "Isn't he somethin' else?",
+            "Yes, indeed. Yes, indeed."
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            3778.8584166666665,
+            3783.571458333333
+          ],
+          "sentences": [
+            "God bless you, and thank you so much for that warm welcome."
+          ]
+        },
+        {
+          "shot": 335,
+          "duration": [
+            3783.6131666666665,
+            3791.6211666666663
+          ],
+          "sentences": [
+            "- How tall is that guy? - Who?",
+            "- Today I'd like to do a special treat for you... - Haven.",
+            "- A brand-new song. - Don't ever ask him that, John."
+          ]
+        },
+        {
+          "shot": 342,
+          "duration": [
+            3877.915708333333,
+            3903.190958333333
+          ],
+          "sentences": [
+            "That's funny, because... Oh, there's Connie White!",
+            "How are you, honey?",
+            "You know what? You remember you signed my album?",
+            "Well, thank you for coming to the show.",
+            "I have a song I wrote. I'll give you a call tomorrow.",
+            "- That's fine. - We'll just chat, you know, and...",
+            "You remember what I wrote on the program? Will you remember?",
+            "- \"I'm your friend. Connie White.\" - I like your dress. I'm gonna get one too.",
+            "But I like the gold one with the be..."
+          ]
+        },
+        {
+          "shot": 343,
+          "duration": [
+            3903.2326666666663,
+            3909.15525
+          ],
+          "sentences": [
+            "But I like the gold one with the be...",
+            "you know, when you... when you have no waist."
+          ]
+        },
+        {
+          "shot": 349,
+          "duration": [
+            3960.623333333333,
+            3975.9302916666666
+          ],
+          "sentences": [
+            "Thank you. Thank you."
+          ]
+        },
+        {
+          "shot": 350,
+          "duration": [
+            3975.9719999999998,
+            3978.4745
+          ],
+          "sentences": [
+            "- He's got the entire galaxy on the back of his shirt. - Thank you so much."
+          ]
+        },
+        {
+          "shot": 351,
+          "duration": [
+            3978.516208333333,
+            3980.3513749999997
+          ],
+          "sentences": [
+            "- He's got the entire galaxy on the back of his shirt. - Thank you so much."
+          ]
+        },
+        {
+          "shot": 352,
+          "duration": [
+            3980.393083333333,
+            3997.0764166666663
+          ],
+          "sentences": [
+            "And now I'd like to do a special old favorite...",
+            "the song that got me started in this business...",
+            "that's been so kind to me...",
+            "a song you've loved through the years...",
+            "and one I'm sure you're gonna love tonight."
+          ]
+        },
+        {
+          "shot": 353,
+          "duration": [
+            3997.1181249999995,
+            4000.4547916666666
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 358,
+          "duration": [
+            4032.945583333333,
+            4065.0609999999997
+          ],
+          "sentences": [
+            "Well, now, Wilton's goin'!",
+            "Come on, Wilton! Let's hear it for Wilton!",
+            "You gettin' ready, Joe?"
+          ]
+        },
+        {
+          "shot": 359,
+          "duration": [
+            4065.102708333333,
+            4071.859458333333
+          ],
+          "sentences": [
+            "Now everybody's goin'!"
+          ]
+        },
+        {
+          "shot": 363,
+          "duration": [
+            4103.808041666666,
+            4127.665208333333
+          ],
+          "sentences": [
+            "Yes, sir!",
+            "Well, thank you. Thank you, and God love you.",
+            "Thank you so much.",
+            "Thank you.",
+            "Of course, we want to send very special wishes...",
+            "and greetings to our own Barbara Jean.",
+            "I know most of you read..."
+          ]
+        },
+        {
+          "shot": 364,
+          "duration": [
+            4127.706916666666,
+            4131.669208333333
+          ],
+          "sentences": [
+            "that she collapsed out at the airport.",
+            "She's in the hospital."
+          ]
+        },
+        {
+          "shot": 365,
+          "duration": [
+            4131.710916666666,
+            4139.927458333333
+          ],
+          "sentences": [
+            "She's in Vanderbilt Hospital recuperating...",
+            "and Barnett tells me she really cried real tears...",
+            "because she couldn't be here with you tonight.",
+            "But I hope you'll send some letters and best wishes and prayers to her."
+          ]
+        },
+        {
+          "shot": 366,
+          "duration": [
+            4139.969166666667,
+            4155.484666666666
+          ],
+          "sentences": [
+            "But I hope you'll send some letters and best wishes and prayers to her.",
+            "That's Vanderbilt Hospital, Nashville, Tennessee 27322.",
+            "And you tell her Haven told you to write.",
+            "Now, as a special stand-in for her...",
+            "we have her dear friend Connie White..."
+          ]
+        },
+        {
+          "shot": 367,
+          "duration": [
+            4155.5263749999995,
+            4165.41125
+          ],
+          "sentences": [
+            "who got out of the dentist's chair this morning...",
+            "where she was having some root-canal work...",
+            "and came all the way out here to sing for you.",
+            "Miss Connie White, who's a friend not only of Barbara Jean's..."
+          ]
+        },
+        {
+          "shot": 368,
+          "duration": [
+            4165.452958333333,
+            4169.081583333333
+          ],
+          "sentences": [
+            "but a friend of yours and mine.",
+            "A wonderful singer in her own way..."
+          ]
+        },
+        {
+          "shot": 369,
+          "duration": [
+            4169.123291666667,
+            4171.750916666666
+          ],
+          "sentences": [
+            "Miss Connie White!"
+          ]
+        },
+        {
+          "shot": 370,
+          "duration": [
+            4171.792625,
+            4177.006166666666
+          ],
+          "sentences": [
+            "Come on out, Connie!",
+            "- Hi, Del. How are you? - I want you to meet John Triplette."
+          ]
+        },
+        {
+          "shot": 371,
+          "duration": [
+            4177.047874999999,
+            4179.7172083333335
+          ],
+          "sentences": [
+            "- Hi, Del. How are you? - I want you to meet John Triplette."
+          ]
+        },
+        {
+          "shot": 372,
+          "duration": [
+            4179.758916666667,
+            4185.181
+          ],
+          "sentences": [
+            "You look so good. Wonderful!",
+            "Isn't she lovely, folks? Isn't she beautiful?"
+          ]
+        },
+        {
+          "shot": 373,
+          "duration": [
+            4185.222708333333,
+            4189.602083333333
+          ],
+          "sentences": [
+            "We might want to talk.",
+            "- We'll talk about it later. - Nice to see you."
+          ]
+        },
+        {
+          "shot": 374,
+          "duration": [
+            4189.643791666666,
+            4198.485958333333
+          ],
+          "sentences": [
+            "Well, who do we have here?",
+            "- What is your name, honey? - Paul Harris."
+          ]
+        },
+        {
+          "shot": 375,
+          "duration": [
+            4198.527666666666,
+            4203.94975
+          ],
+          "sentences": [
+            "Paul Harris.",
+            "He's 13, he said. And what's your name, honey?"
+          ]
+        },
+        {
+          "shot": 376,
+          "duration": [
+            4203.991458333333,
+            4211.415541666666
+          ],
+          "sentences": [
+            "Last time I saw a dress like that, I was headin' for the junior prom.",
+            "You boys havin' a good time tonight?",
+            "The girl fell out of the car."
+          ]
+        },
+        {
+          "shot": 377,
+          "duration": [
+            4211.4572499999995,
+            4217.755208333333
+          ],
+          "sentences": [
+            "I want you to study real hard, because just remember...",
+            "any one of you can grow up to be the president."
+          ]
+        },
+        {
+          "shot": 388,
+          "duration": [
+            4355.642958333333,
+            4460.372583333333
+          ],
+          "sentences": [
+            "Turn that off.",
+            "Okay. One more minute, darlin'.",
+            "- Right now. - She'll be through in a moment.",
+            "I want you to turn it off right now!",
+            "It bothers me.",
+            "It bothers me too, but I gotta listen, don't I?",
+            "- Why? - Come on, now, honey.",
+            "I gotta go to the King of the Road and thank her for you.",
+            "- Thank her? - I gotta know what songs she sang.",
+            "You can ask anybody. You can call.",
+            "You can send flowers. You can send a message.",
+            "Come on. Don't get upset, now.",
+            "You're makin' me ruin my nail-polish job.",
+            "Do I tell you how to sing, darlin'? Hmm?",
+            "Have I ever told you how to sing a song?",
+            "That ain't the point. I know why you're goin' over there.",
+            "Don't tell me how to run your life. I've been doin' pretty good with it.",
+            "You go... Wh...",
+            "Let's calm down. We're gettin' on each other's nerves.",
+            "You're goin' to the King of the Road so you can hobnob with everybody.",
+            "- So I can do what? \"Hobnob\"? - I ain't got no friends.",
+            "I gotta sit here in this goddamn hospital.",
+            "- They're all gonna talk about how I'm a nut. - I ain't doin' no hobnobbin'.",
+            "Now, whoa, whoa, whoa.",
+            "\"Barbara Jean had another collapse.\"",
+            "You know what? While you're at it...",
+            "why don't you take her some of my flowers?",
+            "- Are you through? - No, I ain't through.",
+            "- Are you through, darlin'? - Take her this nice black one. That'll cheer her up.",
+            "- Why don't you try these? - Are you through?",
+            "- And these. - I said, are you through?",
+            "And why don't you try these? And this..."
+          ]
+        },
+        {
+          "shot": 389,
+          "duration": [
+            4460.414291666666,
+            4487.357875
+          ],
+          "sentences": [
+            "And why don't you try these? And this...",
+            "Are you through, I said? Are you through...",
+            "Are you goin' nutsy on me?",
+            "'Cause I won't stand for that, Barbara Jean.",
+            "Huh? You havin' one of them nervous breakdowns again?",
+            "- Huh? - No.",
+            "You could've fooled me, 'cause it looks like you're ready for it.",
+            "You just settle down and shape up. You understand?",
+            "The only reason I'm goin' over there is 'cause I love you.",
+            "I don't love to go over there and hobnob with them phonies."
+          ]
+        },
+        {
+          "shot": 390,
+          "duration": [
+            4487.399583333333,
+            4496.408583333333
+          ],
+          "sentences": [
+            "Why do you make me raise my voice to you?",
+            "Why do you put us both through this?",
+            "Are you all right?"
+          ]
+        },
+        {
+          "shot": 391,
+          "duration": [
+            4496.450291666666,
+            4505.500999999999
+          ],
+          "sentences": [
+            "Come on, now. Let's have a little smile for Barnett.",
+            "- I'm tired of this place. - Come on, now."
+          ]
+        },
+        {
+          "shot": 392,
+          "duration": [
+            4505.542708333333,
+            4537.908375
+          ],
+          "sentences": [
+            "Come on, now. Get up.",
+            "You help me, I help you. All right? Come on, now.",
+            "Come on.",
+            "Now, where's Barnett goin'?",
+            "Where am I goin'? Hmm?",
+            "- King of the Road. - And why am I goin' there?",
+            "- To see Connie. - And why am I doin' that?",
+            "To thank her for singin' at the Opry.",
+            "- Who am I doin' that for? - You're doin' it for me.",
+            "That's right."
+          ]
+        },
+        {
+          "shot": 393,
+          "duration": [
+            4537.950083333333,
+            4542.663125
+          ],
+          "sentences": [
+            "Now, I'm walkin' out now.",
+            "What do you say? You say \"bye-bye.\""
+          ]
+        },
+        {
+          "shot": 394,
+          "duration": [
+            4542.704833333333,
+            4545.624416666667
+          ],
+          "sentences": [
+            "Bye.",
+            "- Bye-bye. - Bye."
+          ]
+        },
+        {
+          "shot": 395,
+          "duration": [
+            4545.666125,
+            4559.096208333333
+          ],
+          "sentences": [
+            "Barnett?"
+          ]
+        },
+        {
+          "shot": 396,
+          "duration": [
+            4559.137916666667,
+            4565.352458333333
+          ],
+          "sentences": [
+            "- Hello, Ben. - Hi."
+          ]
+        },
+        {
+          "shot": 397,
+          "duration": [
+            4565.394166666666,
+            4571.525291666666
+          ],
+          "sentences": [
+            "Aren't they wonderful? So marvelous."
+          ]
+        },
+        {
+          "shot": 399,
+          "duration": [
+            4587.207625,
+            4600.804541666666
+          ],
+          "sentences": [
+            "What are you upset about?",
+            "She's really late.",
+            "- Well, she's not that late. - No, she's late."
+          ]
+        },
+        {
+          "shot": 400,
+          "duration": [
+            4600.84625,
+            4683.011666666666
+          ],
+          "sentences": [
+            "- Thank you. - He's right over there.",
+            "I thought you were very, very good tonight.",
+            "Thank you. Thank you so much.",
+            "She sounded beautiful. She looked beautiful.",
+            "Well, Sue, I didn't expect to see you.",
+            "- I wanted you to meet Julie Christie. - Well, excuse my back.",
+            "- So nice to see you. - Did you see Doctor Zhivago?",
+            "- She the one that got off the train? - Will you be here a while?",
+            "- No, just passing through. - Please sit down.",
+            "- Do sit down and have a drink with us. - We're not staying.",
+            "You're English, aren't you? I could tell.",
+            "Look at her. Isn't she lovely?",
+            "- This is such a coincidence. - I'm Del Reese.",
+            "Yes. I was talkin' about the Christy Minstrels just this mornin'...",
+            "and now we have Julie Christie here.",
+            "- I met you with Peter Finch. - Oh, yeah?",
+            "- You won't sit down and stay? - No, thank you.",
+            "- Julie has a friend at the Exit/In. - I hope your stay is very nice...",
+            "and I hope you'll remember what film facilities we have in Nashville.",
+            "- Oh, yeah, sure. - Thank you. Good to see you.",
+            "- Have a lovely evening. Good-bye. - Bye-bye.",
+            "Nice to see you. Well, isn't that an honor?",
+            "- What a surprise. Julie Christie. - Who's Julie Christie?",
+            "\"Who's Julie Christie?\" She's a famous star. She's won the Academy Award.",
+            "- Oh! - No, I'm not kiddin'.",
+            "She got it for one of those pictures. I don't know which one.",
+            "- She's done so many. - Isn't he a gem?",
+            "- He's got the worst sense of humor. - No, she's lovely.",
+            "Come on. She can't even comb her hair."
+          ]
+        },
+        {
+          "shot": 401,
+          "duration": [
+            4683.0533749999995,
+            4722.676291666667
+          ],
+          "sentences": [
+            "Oh, you've got a Hal Phillip Walker button.",
+            "No, it's Kennedy. Isn't that rather ancient?",
+            "How strange! I thought everybody in the South didn't go for Kennedy.",
+            "It's John Fitzgerald Kennedy.",
+            "Well, he...",
+            "he took the whole South...",
+            "except for Tennessee, Florida, Kentucky.",
+            "And there's a reason he didn't take Tennessee.",
+            "But he got 481,453 votes...",
+            "and the asshole got 556,577 votes."
+          ]
+        },
+        {
+          "shot": 402,
+          "duration": [
+            4722.718,
+            4731.852124999999
+          ],
+          "sentences": [
+            "I just can tell. It's something...",
+            "It's the way she looks at me.",
+            "You know that feeling you get that there's somethin' else going on?"
+          ]
+        },
+        {
+          "shot": 403,
+          "duration": [
+            4731.893833333333,
+            4739.067666666666
+          ],
+          "sentences": [
+            "And if I do a performance when I'm too tired, it doesn't have...",
+            "- Hey, y'all. - Hi, Barnett. - How are you, Connie?"
+          ]
+        },
+        {
+          "shot": 404,
+          "duration": [
+            4739.109375,
+            4765.093666666667
+          ],
+          "sentences": [
+            "Now, the problem we got here...",
+            "is anti-Catholicism.",
+            "These dumbheads around here, they're all...",
+            "Baptists and whatever, I don't know.",
+            "Even to teach 'em to make change over the bar...",
+            "you gotta crack their skulls...",
+            "let alone teach 'em to vote for the Catholic...",
+            "just because he happens to be a better man."
+          ]
+        },
+        {
+          "shot": 405,
+          "duration": [
+            4765.135375,
+            4777.439333333333
+          ],
+          "sentences": [
+            "Here, this is just somethin'...",
+            "somethin' that Barbara Jean told me to pick up for you.",
+            "- You shouldn't have. - I know, but she told me.",
+            "- I told her I shouldn't have. - Did you get the flowers we sent?"
+          ]
+        },
+        {
+          "shot": 406,
+          "duration": [
+            4777.481041666666,
+            4787.157375
+          ],
+          "sentences": [
+            "Thank you.",
+            "Appreciate it."
+          ]
+        },
+        {
+          "shot": 407,
+          "duration": [
+            4787.199083333333,
+            4808.011541666667
+          ],
+          "sentences": [
+            "Thank you very much. As most of you might have noticed...",
+            "we have a celebrity with us tonight.",
+            "If we get our hands together, we might can get a song.",
+            "- Miss Connie White. - From the goodness of her heart.",
+            "What do you want, a few bucks?",
+            "Huh? You holdin' out for somethin' better?",
+            "She's a real sweetie pie."
+          ]
+        },
+        {
+          "shot": 408,
+          "duration": [
+            4808.05325,
+            4817.354208333333
+          ],
+          "sentences": [
+            "Thank you very much.",
+            "That's what I love about this place. Can you see me? I can't see you."
+          ]
+        },
+        {
+          "shot": 409,
+          "duration": [
+            4817.395916666666,
+            4824.903416666666
+          ],
+          "sentences": [
+            "- That was a nice gesture. - I'm gonna sing something y'all know.",
+            "- What was a nice gesture? - Join me on the choruses.",
+            "Don't seem to be appreciated, do it?"
+          ]
+        },
+        {
+          "shot": 410,
+          "duration": [
+            4824.945124999999,
+            4851.09625
+          ],
+          "sentences": [
+            "\"Rolling Stone.\"",
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 412,
+          "duration": [
+            4855.642458333333,
+            4862.440916666666
+          ],
+          "sentences": [
+            "Everybody!"
+          ]
+        },
+        {
+          "shot": 413,
+          "duration": [
+            4862.482625,
+            4882.502625
+          ],
+          "sentences": [
+            "And all I remember the next few days was...",
+            "I was just lookin' at that TV set and seein' it all...",
+            "seein' that great fat-bellied sheriff...",
+            "sayin', \"Ruby, you son of a bitch.\"",
+            "And Oswald...",
+            "and her in her little pink suit."
+          ]
+        },
+        {
+          "shot": 414,
+          "duration": [
+            4882.544333333333,
+            4902.814583333333
+          ],
+          "sentences": [
+            "Here's the best. Here's Vassar."
+          ]
+        },
+        {
+          "shot": 415,
+          "duration": [
+            4902.856291666666,
+            4946.483208333333
+          ],
+          "sentences": [
+            "And then comes Bobby.",
+            "Oh, I worked for him.",
+            "- Don't you think we... - I worked here. I worked all over the country.",
+            "I worked out in California, out in Stockton.",
+            "Bobby came here and spoke, he went down to Memphis...",
+            "and then he even went out to Stockton, California...",
+            "and spoke off the Santa Fe train at the old Santa Fe depot.",
+            "Oh...",
+            "he was a beautiful man.",
+            "He was not much like...",
+            "uh, John, you know.",
+            "He was more puny-like.",
+            "But all the time I was workin' for him...",
+            "I was just so scared.",
+            "Inside, you know? Just scared."
+          ]
+        },
+        {
+          "shot": 416,
+          "duration": [
+            4946.524916666666,
+            4976.72175
+          ],
+          "sentences": [
+            "Haven, do you think we could get Connie out to the rally?",
+            "Connie White and Barbara Jean never appear on the same stage together.",
+            "Connie can replace Barbara Jean, but that's it.",
+            "As for Haven Hamilton, well...",
+            "I'll appear wherever Barbara Jean appears.",
+            "I got a good mind to take you outside. With my wife in the hospital, you puttin' that shit on me?",
+            "Calm down, Barnett. Calm down, enjoy the show.",
+            "- Barnett's angry. - Okay."
+          ]
+        },
+        {
+          "shot": 417,
+          "duration": [
+            4976.763458333333,
+            5000.996
+          ],
+          "sentences": [
+            "I think she's having an affair here. I really do.",
+            "You are way, way off.",
+            "Are you kidding?"
+          ]
+        },
+        {
+          "shot": 418,
+          "duration": [
+            5001.037708333333,
+            5068.062999999999
+          ],
+          "sentences": [
+            "I love you.",
+            "I love you."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0073440_0011",
+      "shot": [
+        419,
+        472
+      ],
+      "frame": [
+        121515,
+        137045
+      ],
+      "duration": [
+        5068.227208333333,
+        5715.895130333332
+      ],
+      "consistency": 0.9037493800719696,
+      "description": "It is Sunday morning and the characters are shown attending various local church services. A Roman Catholic service includes Lady Pearl, Wade and Sueleen; Haven Hamilton sings in the choir at a Protestant service; and Linnea is seen in the choir at a black Protestant church as a baptism is taking place, with Tommy Brown in the pews. At the hospital chapel, Barbara Jean sings a hymn from her wheelchair while Mr. Green and Pfc. Kelly, among others, watch. Mr. Green tells Kelly how he and his wife lost their son in WWII. Opal wanders alone through a huge auto scrap yard making free-form poetic speeches about the cars into her tape recorder. Haven, Tommy Brown and their families attend the stock car races, where Winifred attempts to sing on a small stage but cannot be heard over the cars. Bill and Mary argue in their hotel room and are interrupted by Triplette, who wants to recruit them for the Walker concert gala. Tom tries to get Norman to score him some pills.",
+      "subtitle": [
+        {
+          "shot": 431,
+          "duration": [
+            5161.739916666666,
+            5174.043874999999
+          ],
+          "sentences": [
+            "And on the profession of your faith...",
+            "I baptize you, my sister...",
+            "in the name of the Father and of the Son...",
+            "and of the Holy Ghost.",
+            "Amen."
+          ]
+        },
+        {
+          "shot": 436,
+          "duration": [
+            5227.263708333333,
+            5278.773499999999
+          ],
+          "sentences": [
+            "is on the same floor with Barbara Jean.",
+            "in the service too.",
+            "- Yes, sir. - Oh, not the army. It was the navy.",
+            "We lost him in the South Pacific. We don't know how.",
+            "Sorry to hear that, sir.",
+            "- World War I I. - Yes, sir."
+          ]
+        },
+        {
+          "shot": 438,
+          "duration": [
+            5292.370416666667,
+            5367.028333333333
+          ],
+          "sentences": [
+            "I'm wandering in a graveyard.",
+            "The dead here have no crosses...",
+            "nor tombstones, nor wreaths to sing of their past glory...",
+            "but lie in rotting, decaying...",
+            "rusty heaps...",
+            "their innards ripped out...",
+            "by greedy, vulturous hands...",
+            "their vast, vacant skeletons...",
+            "sadly sighing to the sky.",
+            "The rust on their bodies...",
+            "is the color of dried blood.",
+            "Dried blood.",
+            "I'm reminded of...",
+            "of an elephant's secret burial ground.",
+            "Yes.",
+            "Cet air de myst\u00e8re.",
+            "Cette essence de I'irr\u00e9el.",
+            "These cars are trying to communicate.",
+            "O cars, are you trying to tell me something?",
+            "- Are you trying to convey some secret... - What? What? Excuse me?",
+            "Oh, excuse me.",
+            "I thought I was completely alone.",
+            "How embarrassing! Oh, you're a musician!"
+          ]
+        },
+        {
+          "shot": 444,
+          "duration": [
+            5392.595541666667,
+            5402.271874999999
+          ],
+          "sentences": [
+            "A round of applause for Miss Daisy Hoy."
+          ]
+        },
+        {
+          "shot": 446,
+          "duration": [
+            5411.65625,
+            5418.371291666666
+          ],
+          "sentences": [
+            "Miss Albuquerque.",
+            "Hi, Frog."
+          ]
+        },
+        {
+          "shot": 449,
+          "duration": [
+            5423.751666666666,
+            5431.592833333333
+          ],
+          "sentences": [
+            "This is with gestures.",
+            "Miss Jill Brown on the track in number 78."
+          ]
+        },
+        {
+          "shot": 454,
+          "duration": [
+            5452.155041666666,
+            5469.5891249999995
+          ],
+          "sentences": [
+            "You wanna talk about yesterday?",
+            "Get up, goddamn it!",
+            "You fucker!"
+          ]
+        },
+        {
+          "shot": 455,
+          "duration": [
+            5469.630833333333,
+            5502.246749999999
+          ],
+          "sentences": [
+            "You wanna talk about yesterday?",
+            "Do you wanna talk about yesterday or not? What are you...",
+            "Shit. Come out of there!",
+            "You leave me alone!",
+            "Come out of there! Come on!",
+            "Look, I know what's... Come on!",
+            "For Christ's sake, what... Now...",
+            "What are you doing? You wanna talk about yesterday or not?",
+            "Oh, that's terrific. Hey, that's great. Hey, terrific.",
+            "It's great. Oh, thanks. My turtle. Thanks a lot.",
+            "Look, just relax!"
+          ]
+        },
+        {
+          "shot": 456,
+          "duration": [
+            5502.2884583333325,
+            5504.457291666667
+          ],
+          "sentences": [
+            "Look, I know what's goin' on."
+          ]
+        },
+        {
+          "shot": 458,
+          "duration": [
+            5506.500999999999,
+            5512.590416666666
+          ],
+          "sentences": [
+            "Great. House detective.",
+            "Bill, hi. I'm John Triplette."
+          ]
+        },
+        {
+          "shot": 459,
+          "duration": [
+            5512.632124999999,
+            5519.222041666666
+          ],
+          "sentences": [
+            "Am I early? I called you this morning.",
+            "- Oh, the guy from TV. - Yeah. How are ya? - Come on in."
+          ]
+        },
+        {
+          "shot": 460,
+          "duration": [
+            5519.263749999999,
+            5625.703416666666
+          ],
+          "sentences": [
+            "- Thank you. - Sure.",
+            "Just... We're just cleanin' up here.",
+            "- You know, the... - Sunday morning blues.",
+            "- Would you hold this? - Sure.",
+            "Thanks. Let me just move this over here.",
+            "- Is this your new album? - Yeah. That's our only album.",
+            "It's a very good one, though. I've heard it.",
+            "- Oh, thank you. - It's terrific.",
+            "- I'm really sorry about the mess. - That's all right.",
+            "You oughta see my room.",
+            "We had a little party last night. Had a pretty good time too.",
+            "- Uh... - I wanted to, um...",
+            "tell you about what we're trying to do with this show.",
+            "- Can I get you a drink? - No, thanks.",
+            "- I could call down. - I don't want to take up your time.",
+            "I just want to tell you a little bit about what we're trying to do.",
+            "I know you're astute politically, and I'm certainly not here to sell you a bill of goods.",
+            "- Don't care. Don't care about politics. - No politics? Okay, great.",
+            "Let me tell you, then, I've got a problem...",
+            "that I think could work to your advantage.",
+            "As you know, this redneck music is very popular right now...",
+            "and I've got an awful lot of these local yokels...",
+            "on the bill singing...",
+            "- Your basic country folk. - Country crapola. Right.",
+            "So I think, uh...",
+            "What I'm going for is a broader appeal.",
+            "- Which is where we would fit in. - More than just this Southern thing.",
+            "And I think that a really hip group like yours...",
+            "could walk off with the evening.",
+            "Yeah. Probably the only rock group on the...",
+            "- Absolutely, yeah. - Sounds good.",
+            "- Sounds inviting. - Yeah.",
+            "And I think you do get a lot of...",
+            "a big audience from these country guys.",
+            "Is this just network, or is it...",
+            "It's better than network. It's syndicated.",
+            "They'll be showing it for a year and a half."
+          ]
+        },
+        {
+          "shot": 461,
+          "duration": [
+            5625.7451249999995,
+            5646.223916666666
+          ],
+          "sentences": [
+            "- Your glasses, sweetheart. - Oh, thanks.",
+            "This is my wife, Mary. This is John Triplette.",
+            "Sit down, dear. Go ahead.",
+            "He's, uh... he's the fella from the television show...",
+            "that they're doing for Hal Phillip Walker.",
+            "That political thing going on. He's offered us a spot."
+          ]
+        },
+        {
+          "shot": 462,
+          "duration": [
+            5646.265625,
+            5658.027375
+          ],
+          "sentences": [
+            "You're doing some great promotion on that guy. All those buttons and...",
+            "- Thank you. I'm trying. - And bumper stickers.",
+            "Anyways, we got a great time spot on this gala...",
+            "and we're gonna walk away with the show, John says."
+          ]
+        },
+        {
+          "shot": 463,
+          "duration": [
+            5658.069083333333,
+            5665.1595
+          ],
+          "sentences": [
+            "and we're gonna walk away with the show, John says.",
+            "We can't vote for him because we're registered Democrats.",
+            "And besides, he's a little crazy, isn't he?"
+          ]
+        },
+        {
+          "shot": 465,
+          "duration": [
+            5666.660999999999,
+            5669.664
+          ],
+          "sentences": [
+            "Well, they're all a little crazy."
+          ]
+        },
+        {
+          "shot": 466,
+          "duration": [
+            5669.705708333333,
+            5675.41975
+          ],
+          "sentences": [
+            "- I'll drink to that. - That's the name of the game.",
+            "But I think the thing you should consider is your future."
+          ]
+        },
+        {
+          "shot": 467,
+          "duration": [
+            5675.461458333333,
+            5681.759416666666
+          ],
+          "sentences": [
+            "It would give you a great shot.",
+            "But it doesn't make any difference. We're registered Democrats."
+          ]
+        },
+        {
+          "shot": 468,
+          "duration": [
+            5681.801125,
+            5684.261916666666
+          ],
+          "sentences": [
+            "Well, I'm a registered Democrat!"
+          ]
+        },
+        {
+          "shot": 469,
+          "duration": [
+            5684.303625,
+            5688.683
+          ],
+          "sentences": [
+            "The only reason we're registered Democrats...",
+            "is because your father's a registered Democrat..."
+          ]
+        },
+        {
+          "shot": 470,
+          "duration": [
+            5688.724708333333,
+            5694.146791666666
+          ],
+          "sentences": [
+            "and his father's a registered Democrat.",
+            "Tom's a registered Democrat, and he wouldn't do it."
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            5694.188499999999,
+            5773.601166666666
+          ],
+          "sentences": [
+            "- Hi, Tom. - Hi, Norman. How you doin'?",
+            "Good. I'm sure glad you called. Is there anything I can...",
+            "- Sit down. - Okay.",
+            "- You don't have any speckled birds, do you? - What? Oh.",
+            "You know, LA turnarounds. Uppers.",
+            "Uh, no, no, I, uh...",
+            "But I know where to get some grass.",
+            "- No, thanks. I don't need any grass. - Okay.",
+            "- Uh, can I ask you a question? - Mm-hmm.",
+            "Is there something... Are you angry at Bill?",
+            "- No. - Oh.",
+            "'Cause I, uh... You know, I, uh...",
+            "Bill and Mary and you and, uh...",
+            "Well, Bill... I mean, Bill seems to be, um...",
+            "Uh...",
+            "- I'm just confused. - Mm.",
+            "Uh...",
+            "- Here, why don't you write yourself a hit? - Okay.",
+            "- Hello. - Hi. Can I talk to Cherry, please?",
+            "She's in bed with R.Y. You wanna talk to R.Y?",
+            "- I'd rather talk to her, if I could. - Who is this?",
+            "- This is Frank, one of the cooks at the restaurant. - Are you a Jehovah Witness?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0073440_0013",
+      "shot": [
+        475,
+        484
+      ],
+      "frame": [
+        139207,
+        145538
+      ],
+      "duration": [
+        5806.113229,
+        6070.118262999999
+      ],
+      "consistency": 0.901378172205609,
+      "description": "Opal walks alone through a large school bus parking lot trying to spin a commentary linking the buses to racism in the South, but has trouble hitting the right note. Barbara Jean is discharged from the hospital at the same time Mr. Green shows up to visit his sick wife. Barbara Jean asks after Mrs. Green and sends her regards. After Barbara Jean and her entourage have left, a nurse tells Mr. Green his wife died earlier that morning. Pfc. Kelly tells Mr. Green why he has been following Barbara Jean around; his mother saved Barbara Jean's life in the fire and loved her more than anything. She asked her son to go see Barbara Jean on his leave from Vietnam service. Back at Mr. Green's house, Kenny gets upset when Martha tries to look at his violin case.",
+      "subtitle": [
+        {
+          "shot": 475,
+          "duration": [
+            5805.466333333333,
+            5869.405208333333
+          ],
+          "sentences": [
+            "The buses!",
+            "The buses are empty...",
+            "and look almost menacing...",
+            "threatening, as so many yellow dragons...",
+            "watching me with their hollow, vacant eyes.",
+            "I wonder how many little black children and white children...",
+            "have yellow nightmares...",
+            "their own special brand of fear for the yellow peril.",
+            "I can't have... I can't start...",
+            "Damn it! It's got to be more... positive.",
+            "No, more negative. Start again.",
+            "Yellow is the color of caution.",
+            "No.",
+            "Yellow is the color of cowardice.",
+            "Yellow is the color of sunshine.",
+            "And yet I see very little sunshine...",
+            "in the lives of all the little black children and white children.",
+            "I see their lives, rather, as a study in grayness...",
+            "a mixture of black and...",
+            "Oh, Christ, no. That's fascist. Oh!",
+            "Yellow, yellow, yellow. Yellow fever."
+          ]
+        },
+        {
+          "shot": 476,
+          "duration": [
+            5869.446916666666,
+            5876.620749999999
+          ],
+          "sentences": [
+            "I think we'll be able to talk about it. They're checkin' out now.",
+            "- Get together with him before he leaves. - What about the place?"
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            5876.662458333333,
+            5883.8362916666665
+          ],
+          "sentences": [
+            "- It's not bad at all. - Think it'll work out?",
+            "Yeah. It's got this bizarre stage that drops out of the ceiling.",
+            "- I know. - Have you seen it?"
+          ]
+        },
+        {
+          "shot": 478,
+          "duration": [
+            5883.878,
+            5941.393791666666
+          ],
+          "sentences": [
+            "They're gettin' out this mornin'.",
+            "- The place is very confused. - Bye-bye!",
+            "Wait a minute. Here we go. Uh, Barnett?",
+            "- Yes? - Phone's for you.",
+            "- Is it important, or what? - Bye, girls.",
+            "- Hello. - Hello, Barnett. John Triplette.",
+            "Oh, are you... Are you going...",
+            "Mr. Green, how are you? I'm goin' home.",
+            "- I'm glad to hear that. - Thank you. How is Mrs. Green?",
+            "She's fine, and she's gonna be thrilled I saw you again.",
+            "Give her my very best. And is she takin' her vitamin E?",
+            "- Got 'em right here. - All right. Good for you.",
+            "- You take care, darlin'. Bye-bye. - Unbelievable.",
+            "All right, come on. Let's get her on there.",
+            "We got to go with those white horseshoes, huh?",
+            "We're gonna live with those for infamy.",
+            "Take that on the other elevator.",
+            "Didn't the doctor get ahold of you?",
+            "I'm really sorry I have to tell you this."
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            5941.4355,
+            5954.365083333333
+          ],
+          "sentences": [
+            "Mrs. Green expired this morning.",
+            "What?",
+            "Mrs. Green died this morning."
+          ]
+        },
+        {
+          "shot": 480,
+          "duration": [
+            5954.406791666666,
+            5956.909291666666
+          ],
+          "sentences": [
+            "Wait right here. Let me go get the doctor."
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            5956.951,
+            5997.533208333333
+          ],
+          "sentences": [
+            "Mr. Green?",
+            "Mr. Green, you know, my mama saved her life.",
+            "They used to live next door to each other. My mama put out the flames.",
+            "She always loved Barbara Jean more than anything.",
+            "She's still keepin' a scrapbook on her.",
+            "The only thing she said to me when I joined up was...",
+            "\"Son, when you're doin' your travels, I want you to see Barbara Jean.",
+            "Don't say nothin' about me. Just see Barbara Jean.\"",
+            "So that's what I been doin'.",
+            "Now I'm gonna go over to Opryland and hear her sing.",
+            "Give my best to your wife, now."
+          ]
+        },
+        {
+          "shot": 482,
+          "duration": [
+            5997.5749166666665,
+            6024.935583333333
+          ],
+          "sentences": [
+            "Let me turn this... Wait a minute. Don't laugh.",
+            "I... Let me... Just...",
+            "I have a theory about political assassination.",
+            "You see, I believe people like Madame Pearl...",
+            "and all these people here in this country who carry guns...",
+            "are the real assassins.",
+            "Because, you see, they stimulate other people...",
+            "who are perhaps innocent...",
+            "and who eventually are the ones who pull the trigger."
+          ]
+        },
+        {
+          "shot": 483,
+          "duration": [
+            6024.977291666666,
+            6083.702625
+          ],
+          "sentences": [
+            "- Mom? - Kenny? Where are you, Kenny?",
+            "- I'm in Nashville. How are you? - I've been so worried.",
+            "- There's no reason to worry. - I haven't been able to sleep.",
+            "I had to take some NyQuil so I could go to sleep, you know?",
+            "- Puts you right out. - Did it help?",
+            "Yeah, it did. Where are you staying in Nashville?",
+            "- I'm staying at a rooming house. - Who you talkin' to?",
+            "- To my mother. - Who are you talking to, Kenny?",
+            "- A girl that lives in the rooming house. - A girl that lives...",
+            "- Who owns that rooming house? - Her uncle.",
+            "A man owns the rooming house? It can't be very clean.",
+            "- Don't be silly. - I bet the sheets aren't clean.",
+            "In the South you can pick up this parasite...",
+            "- Joan, put that down, please! - Kenny, listen...",
+            "- Just a minute. - Just wanted to look at your fiddle.",
+            "Kenny! You can get this parasite fungus in the South.",
+            "It's difficult to get rid of. When are you coming home?",
+            "- I don't know. A couple of weeks. - You left your blue suit in the closet.",
+            "- I don't need my blue suit. - I would really like you to get home as soon as you can.",
+            "- I'm... been a little... - Mother, just listen to me."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0073440_0014",
+      "shot": [
+        487,
+        555
+      ],
+      "frame": [
+        146622,
+        164270
+      ],
+      "duration": [
+        6115.393392666666,
+        6851.407547999999
+      ],
+      "consistency": 0.8354924945542237,
+      "description": "Barbara Jean performs a matinee at Opryland USA. Triplette and Del attend and try to convince Barnett to have Barbara Jean play the Walker concert gala at the Parthenon the next day, but he refuses. Kenny and Pfc. Kelly are both in the audience and watch raptly as Barbara Jean sings, although Opal annoyingly tries to interview Kelly about Vietnam during a song. Barbara Jean gets through the first couple of songs (\"Tapedeck in his Tractor\", \"Dues\") all right, but then begins to tell rambling stories about her childhood instead of starting the next song. After several false starts, Barnett escorts her from the stage and tells the disappointed audience that they can come to the Parthenon tomorrow and see Barbara Jean perform for free, thus committing her to the Walker concert.",
+      "subtitle": [
+        {
+          "shot": 490,
+          "duration": [
+            6132.292833333333,
+            6137.6314999999995
+          ],
+          "sentences": [
+            "Let's find Barnett. I hope he's not in a bad mood."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            6137.673208333333,
+            6162.197708333333
+          ],
+          "sentences": [
+            "- Hey, Barnett. - I'm obliged to you, but...",
+            "- Hey, Barnett. - What do you want now?",
+            "This guy wants her to do four shows. What do you want?",
+            "Don't let her do too much. How you hangin'?",
+            "- You feelin' better she's better? - Yeah, I feel swell.",
+            "We gotta talk to you. We're gonna do a show.",
+            "Okay? John's doing this show.",
+            "Haven's gonna do it. We want Barbara Jean to headline it.",
+            "- Unbelievable. - Now wait a second."
+          ]
+        },
+        {
+          "shot": 492,
+          "duration": [
+            6162.239416666666,
+            6167.4946666666665
+          ],
+          "sentences": [
+            "I wish they wouldn't rush us. Get a shot.",
+            "It's for this candidate, Hal Phillip Walker."
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            6167.536375,
+            6200.861333333333
+          ],
+          "sentences": [
+            "We don't want her to make any political statement at all.",
+            "What do you think her bein' there's gonna be?",
+            "- Ain't that a political statement? - People haven't seen her.",
+            "No! No, fellas. Don't take it personal.",
+            "No. No politics, no government, no nothin'.",
+            "- All right? Okay? - All right.",
+            "- I heard you all out. - Hello, boys. How's it goin'?",
+            "I believe I met you before in the hospital.",
+            "Look at that. Didn't Jewel show you how to do her hair?",
+            "- Come on, darlin'. - How's it goin'?",
+            "- No pictures. - I'm all excited. A little rushed, but...",
+            "- How do you feel? - Great.",
+            "I told the band you're gonna start off with the cowboy song."
+          ]
+        },
+        {
+          "shot": 494,
+          "duration": [
+            6200.9030416666665,
+            6208.577375
+          ],
+          "sentences": [
+            "- Forget it. - No, just leave it to me.",
+            "He's crazy. He can take a flying leap.",
+            "I'm gonna stay after him like a rodent, man."
+          ]
+        },
+        {
+          "shot": 508,
+          "duration": [
+            6339.875208333333,
+            6342.3777083333325
+          ],
+          "sentences": [
+            "Thank you. Thank you."
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            6463.623833333333,
+            6473.258458333333
+          ],
+          "sentences": [
+            "Have you been in Vietnam?",
+            "Yes, you have. I can tell by your face."
+          ]
+        },
+        {
+          "shot": 523,
+          "duration": [
+            6517.427583333333,
+            6522.098916666666
+          ],
+          "sentences": [
+            "Was it awful?",
+            "It was... It was kind of hot and wet."
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            6550.377166666666,
+            6558.635416666666
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            6558.677124999999,
+            6573.275041666666
+          ],
+          "sentences": [
+            "I want to tell you all a little secret you might not know...",
+            "and that is that last night I thanked my lucky stars...",
+            "that I could be here at all to sing for ya.",
+            "I heard on the radio this cutest little boy, nine years old..."
+          ]
+        },
+        {
+          "shot": 529,
+          "duration": [
+            6573.31675,
+            6579.656416666666
+          ],
+          "sentences": [
+            "I heard on the radio this cutest little boy, nine years old...",
+            "and you know how a deejay'll play a tune...",
+            "and ask everybody to phone in how they like it?"
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            6579.698125,
+            6631.750125
+          ],
+          "sentences": [
+            "I was listenin' to it, and they asked for callers to call in.",
+            "This little nine-year-old called in. The song had voices in the background...",
+            "like the way they use backup voices these days...",
+            "soundin' like little munchkins?",
+            "The deejay said, \"How old are you, son?\"",
+            "The boy said, \"I'm nine, and I think it's gonna be a hit.\"",
+            "The deejay said, \"Why?\" \"Because it had those chipmunks in it.\"",
+            "And I thought that was so cute because I can sing like a munchkin myself...",
+            "and I'm real fond of The Wizard of Oz.",
+            "Plus, I live, you know, just a ways out here...",
+            "off of Interstate 24 on the road to Chattanooga...",
+            "so you can see why I kinda related to that.",
+            "I think me and the boys are gonna strike up another tune. Let's go, boys.",
+            "Three, four, one, two.",
+            "I think there's a storm."
+          ]
+        },
+        {
+          "shot": 531,
+          "duration": [
+            6631.791833333333,
+            6635.712416666666
+          ],
+          "sentences": [
+            "Seems like it's a-brewin'.",
+            "That's what my granddaddy used to say all the time..."
+          ]
+        },
+        {
+          "shot": 532,
+          "duration": [
+            6635.7541249999995,
+            6645.388749999999
+          ],
+          "sentences": [
+            "That's what my granddaddy used to say all the time...",
+            "Once he got deaf...",
+            "he never talked much no more."
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            6645.430458333333,
+            6648.933958333333
+          ],
+          "sentences": [
+            "Except sometimes he'd say, \"Oh, gosh\"...",
+            "or \"Oh, durn it\" or \"My word.\""
+          ]
+        },
+        {
+          "shot": 534,
+          "duration": [
+            6648.975666666666,
+            6659.903249999999
+          ],
+          "sentences": [
+            "or \"Oh, durn it\" or \"My word.\"",
+            "My granny, she'd go around clickin' her teeth to the radio all day.",
+            "Boy, was she a lot of fun, and cooked always...",
+            "my favorite, roast beef, and she was a sweetheart."
+          ]
+        },
+        {
+          "shot": 535,
+          "duration": [
+            6659.944958333333,
+            6667.827833333333
+          ],
+          "sentences": [
+            "She raised chickens too. She, uh...",
+            "In fact, did you ever hear a chicken sound?",
+            "You know how chickens go?"
+          ]
+        },
+        {
+          "shot": 536,
+          "duration": [
+            6667.869541666666,
+            6670.1635
+          ],
+          "sentences": [
+            "You know how chickens go?"
+          ]
+        },
+        {
+          "shot": 537,
+          "duration": [
+            6670.205208333333,
+            6672.9579583333325
+          ],
+          "sentences": [
+            "Here, chick, chick, chick, chick. Here, chick, chick, chick, chick."
+          ]
+        },
+        {
+          "shot": 538,
+          "duration": [
+            6672.999666666667,
+            6697.774416666666
+          ],
+          "sentences": [
+            "Anyway, I guess we'd better strike up this tune before it's too late.",
+            "- Okay, boys. - Three, four, one, two.",
+            "I ever really got was when Mama...",
+            "My grandma... she's the one who clacked her false teeth to the radio."
+          ]
+        },
+        {
+          "shot": 539,
+          "duration": [
+            6697.816124999999,
+            6703.571875
+          ],
+          "sentences": [
+            "She taught my mama how to sing, and Mama taught me.",
+            "One time she took me, 'cause we was gonna get a new Frigidaire."
+          ]
+        },
+        {
+          "shot": 540,
+          "duration": [
+            6703.613583333333,
+            6712.122083333333
+          ],
+          "sentences": [
+            "One time she took me, 'cause we was gonna get a new Frigidaire.",
+            "She took me to the Frigidaire store where the man was advertisin'.",
+            "This record was goin' 'round...",
+            "and my mama told him I knew how to sing."
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            6712.163791666666,
+            6716.876833333333
+          ],
+          "sentences": [
+            "He said, \"If she learns this tune, I'll give y'all a quarter.\""
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            6716.918541666666,
+            6745.405333333333
+          ],
+          "sentences": [
+            "So Mama and I went home...",
+            "And then what happened? Let's see, I think... Uh, yeah.",
+            "We went home...",
+            "and I learned both sides of the record in half an hour.",
+            "We went back and pranced in real fancy and told him I'd learned 'em...",
+            "and he said, \"Let me hear\"...",
+            "so I sang him both sides of the record instead of one.",
+            "So he gave us 50 cents, and we went across the street and had us a soda.",
+            "Ever since then, I been workin'. I don't...",
+            "I think ever since then I been workin' and doin' my..."
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            6745.447041666666,
+            6771.181083333333
+          ],
+          "sentences": [
+            "I think ever since then I been workin' and doin' my...",
+            "- Come on, come on. - Supportin' myself.",
+            "- Anyway... - Hey, hey. Hey, hey.",
+            "- Am I all right? - I'm gonna get you some lemonade.",
+            "- Am I all right? - You're fine. It's the microphone.",
+            "- I ain't done. - I know.",
+            "- I ain't done. - Go get some... glass of water.",
+            "Boys, help her off. You'll come back. Okay, darlin'?",
+            "Thank you!",
+            "All right. Watch the wire.",
+            "All right. Okay.",
+            "Aw, come on. Have a heart, now."
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            6771.222791666666,
+            6773.141374999999
+          ],
+          "sentences": [
+            "Aw, come on. Have a heart, now."
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            6773.183083333332,
+            6776.352916666666
+          ],
+          "sentences": [
+            "Thank you!"
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            6776.394625,
+            6788.573458333333
+          ],
+          "sentences": [
+            "Come on, now. It's just too soon.",
+            "All of you must know... Come on.",
+            "You didn't mean that, did you? That little girl's just come out of the hospital."
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            6788.6151666666665,
+            6792.118666666666
+          ],
+          "sentences": [
+            "You know that girl just come out of the hospital."
+          ]
+        },
+        {
+          "shot": 549,
+          "duration": [
+            6795.872416666666,
+            6801.836708333333
+          ],
+          "sentences": [
+            "I'm sorry. That little girl's in there cryin' her eyes out...",
+            "'cause she didn't want to disappoint you."
+          ]
+        },
+        {
+          "shot": 550,
+          "duration": [
+            6801.878416666666,
+            6803.797
+          ],
+          "sentences": [
+            "'cause she didn't want to disappoint you."
+          ]
+        },
+        {
+          "shot": 552,
+          "duration": [
+            6806.716583333333,
+            6826.653166666666
+          ],
+          "sentences": [
+            "Y'all show up at Centennial Park tomorrow at the Parthenon.",
+            "You'll see her for free as our guests. How's that?",
+            "All right? Okay, let's hear a welcome.",
+            "A get-well welcome for Barbara Jean. Let's hear it. Come on!"
+          ]
+        },
+        {
+          "shot": 554,
+          "duration": [
+            6832.116958333333,
+            6857.725874999999
+          ],
+          "sentences": [
+            "Ingrates. All they are is ingrates.",
+            "I got trapped out there, and you guys know it.",
+            "- I want some ground rules right now. - You name it.",
+            "- She's gonna sing first, right? - Right.",
+            "She's gonna be off before that man even shows.",
+            "Fine. Whatever you want.",
+            "- Never should've brought her here. - Any way you want it.",
+            "No paraphernalia, no literature being circulated. You understand?",
+            "And never, at any time, is she to be associated with Hal Phillip Walker."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0073440_0015",
+      "shot": [
+        555,
+        654
+      ],
+      "frame": [
+        164575,
+        194797
+      ],
+      "duration": [
+        6864.160658333332,
+        8124.617302333332
+      ],
+      "consistency": 0.992683248532268,
+      "description": "Tom calls Linnea and invites her to meet him that night at a club called the Exit Inn. Linnea arrives but sits by herself because Martha is trying to pick up Tom. Mary and Bill are also there, and Opal sits with them and mentions that she slept with Tom, causing Mary to look away in humiliation. Wade tries unsuccessfully to pick up Linnea, while Norman tries equally unsuccessfully to pick up Opal. Tom is introduced as a surprise guest artist. He casually mentions that he \"used to be in a trio,\" but then invites Bill and Mary up to the stage, where the three perform an uncomfortable rendition of \"Since You're Gone\". Again alone on the stage, Tom introduces his new solo number, \"I'm Easy,\" which he dedicates to someone special in the audience. Mary, Opal, and Martha all hope that they are the one, but Tom only has eyes for Linnea. She goes to his room where they make love. When Linnea says she has to go, Tom begs her to stay another hour, and is visibly miffed when she refuses. Without even waiting for her to get dressed and leave, Tom grabs the phone and calls a girlfriend in New York, inviting her to fly down and join him.",
+      "subtitle": [
+        {
+          "shot": 555,
+          "duration": [
+            6857.767583333333,
+            6898.433208333333
+          ],
+          "sentences": [
+            "- Hello? - Hey.",
+            "Guess who.",
+            "- Linnea? - Yes, it's me.",
+            "Hi. This is Tom.",
+            "Listen, I'm playing a gig tonight downtown. You want to come and meet me?",
+            "It's at a place called the, uh...",
+            "No Exit, or the Exit...",
+            "Exit Out, or somethin'.",
+            "Anyhow, it's right across the street from Friday's, on Church Street.",
+            "You know where that is, don't you?",
+            "Anyhow, I'll be there at 8:00, and, uh...",
+            "why don't you meet me there?",
+            "- Okay? - Um..."
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            6909.444208333332,
+            6922.874291666666
+          ],
+          "sentences": [
+            "Driver, could I have a wee bit more champagne?",
+            "- It's Norman. - Oh.",
+            "Norman, yes. Norman. Of course.",
+            "He doesn't like to be known as a driver.",
+            "Oh. Thank you so much, Norman."
+          ]
+        },
+        {
+          "shot": 561,
+          "duration": [
+            6939.515916666666,
+            6945.772166666666
+          ],
+          "sentences": [
+            "- Have you ever been to the ladies' restroom here? - No."
+          ]
+        },
+        {
+          "shot": 562,
+          "duration": [
+            6945.813875,
+            6948.19125
+          ],
+          "sentences": [
+            "I'm stuck here at the Exit/In with no place left to go."
+          ]
+        },
+        {
+          "shot": 563,
+          "duration": [
+            6948.232958333333,
+            6955.573624999999
+          ],
+          "sentences": [
+            "I'm stuck here at the Exit/In with no place left to go."
+          ]
+        },
+        {
+          "shot": 565,
+          "duration": [
+            6961.1208333333325,
+            6974.1755416666665
+          ],
+          "sentences": [
+            "- I'll have a cider. - Apple cider?",
+            "- Yes. Thank you. - Put it on my bill.",
+            "- On another bill? - Yeah.",
+            "Uh, all right. And would you put it in a wine glass, please?",
+            "Put it in a wine glass and put it on my bill."
+          ]
+        },
+        {
+          "shot": 566,
+          "duration": [
+            6974.21725,
+            6987.8975833333325
+          ],
+          "sentences": [
+            "Traveling in cozy, close quarters...",
+            "I mean, you sort of have to camp in one room.",
+            "- Well, Mary and I camp in one room. - Obviously, yes...",
+            "- Tom camps in a lot of rooms. - I shouldn't..."
+          ]
+        },
+        {
+          "shot": 567,
+          "duration": [
+            6987.939291666667,
+            6993.444791666666
+          ],
+          "sentences": [
+            "My name's Wade Coolidge. What's yours?",
+            "Um, Linnea is my name."
+          ]
+        },
+        {
+          "shot": 568,
+          "duration": [
+            6993.486499999999,
+            7029.105416666666
+          ],
+          "sentences": [
+            "Well, shall I say that Tom and I, um...",
+            "- You sang together? - No, I mean...",
+            "we sort of got to know each other, um...",
+            "in the biblical sense, shall we say.",
+            "- You went to church? - I'm sorry.",
+            "No, I'm sorry. This is dreadful.",
+            "But he is so attractive, I was wondering...",
+            "I shouldn't be asking you. I should really be asking Mary.",
+            "You went to bed with him, right?",
+            "Oh, yeah. I thought you understood that.",
+            "Well, I shouldn't...",
+            "Where did you go to bed with him?"
+          ]
+        },
+        {
+          "shot": 571,
+          "duration": [
+            7036.612916666666,
+            7041.78475
+          ],
+          "sentences": [
+            "Listen, we got a special treat tonight.",
+            "A friend of mine is in town cuttin' an album."
+          ]
+        },
+        {
+          "shot": 572,
+          "duration": [
+            7041.826458333333,
+            7043.578208333332
+          ],
+          "sentences": [
+            "- That's you. - Tom Frank is in the audience."
+          ]
+        },
+        {
+          "shot": 573,
+          "duration": [
+            7043.6199166666665,
+            7046.9148749999995
+          ],
+          "sentences": [
+            "Tom? Speak of the devil!"
+          ]
+        },
+        {
+          "shot": 574,
+          "duration": [
+            7046.956583333333,
+            7049.709333333333
+          ],
+          "sentences": [
+            "He's agreed to come up and do a couple of numbers."
+          ]
+        },
+        {
+          "shot": 575,
+          "duration": [
+            7049.751041666666,
+            7059.427374999999
+          ],
+          "sentences": [
+            "Let's make him feel at home. Tom Frank!",
+            "Come on!",
+            "Right."
+          ]
+        },
+        {
+          "shot": 576,
+          "duration": [
+            7059.4690833333325,
+            7062.5554999999995
+          ],
+          "sentences": [
+            "Goddamn it!"
+          ]
+        },
+        {
+          "shot": 577,
+          "duration": [
+            7062.597208333333,
+            7066.934875
+          ],
+          "sentences": [
+            "- I haven't seen him for more than two minutes in three days. -  - Thank you."
+          ]
+        },
+        {
+          "shot": 578,
+          "duration": [
+            7066.976583333333,
+            7070.730333333333
+          ],
+          "sentences": [
+            "- As y'all may remember, I used to be part of a trio. - \"Used to be\"?"
+          ]
+        },
+        {
+          "shot": 579,
+          "duration": [
+            7070.772041666666,
+            7073.232833333333
+          ],
+          "sentences": [
+            "- As y'all may remember, I used to be part of a trio. - \"Used to be\"?"
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            7073.274541666666,
+            7079.822749999999
+          ],
+          "sentences": [
+            "I been hidin' from 'em all week, but they found me tonight...",
+            "so we might as well have them up here too.",
+            "- Bill and Mary. - Lovely!"
+          ]
+        },
+        {
+          "shot": 581,
+          "duration": [
+            7079.864458333333,
+            7086.287541666667
+          ],
+          "sentences": [
+            "- Bill and Mary. - Lovely!",
+            "Yes, you must!"
+          ]
+        },
+        {
+          "shot": 582,
+          "duration": [
+            7086.32925,
+            7106.6412083333325
+          ],
+          "sentences": [
+            "I've been watching it all week.",
+            "Thank you, thank you."
+          ]
+        },
+        {
+          "shot": 583,
+          "duration": [
+            7106.682916666666,
+            7109.936166666666
+          ],
+          "sentences": [
+            "We don't need to sing at all. You guys can do it for us."
+          ]
+        },
+        {
+          "shot": 590,
+          "duration": [
+            7216.417541666666,
+            7230.222999999999
+          ],
+          "sentences": [
+            "Mm!"
+          ]
+        },
+        {
+          "shot": 592,
+          "duration": [
+            7247.365124999999,
+            7280.940333333333
+          ],
+          "sentences": [
+            "When this is all over, I'm gonna be taking them back to someplace...",
+            "and we could drive around.",
+            "I can show you a little bit of Nashville...",
+            "and I can tell you things that'd send you around the corner.",
+            "I'm not kidding. I know, for instance...",
+            "- Uh... What is your name? - Norman.",
+            "Yeah, Norman. Please, Norman, I...",
+            "I make a point never to gossip with servants.",
+            "Thank you.",
+            "Okay, fellas, I think you know...",
+            "we've got a good man to get behind.",
+            "I don't wanna take a lot of your time, 'cause we do have entertainment for ya."
+          ]
+        },
+        {
+          "shot": 593,
+          "duration": [
+            7280.982041666666,
+            7342.084749999999
+          ],
+          "sentences": [
+            "I don't wanna take a lot of your time, 'cause we do have entertainment for ya.",
+            "Uh, you got pledge cards on the table there.",
+            "You can pledge anything you want to.",
+            "I'll make sure... I'll make you pay, whatever you put down there.",
+            "If you got a check, don't be afraid to write it.",
+            "I'll get that to the bank quick, before you can stop it.",
+            "Any cash, anything at all.",
+            "Don't anybody be humble or shy.",
+            "That's all. And while you're writin', so you don't get bored or anything...",
+            "Just keep your eyes up, 'cause good things come from above.",
+            "- Hi, y'all. - Hi!",
+            "My name's Sueleen Gay..."
+          ]
+        },
+        {
+          "shot": 594,
+          "duration": [
+            7342.126458333333,
+            7345.963624999999
+          ],
+          "sentences": [
+            "and I'm here to sing you a song about a girl that never gets enough."
+          ]
+        },
+        {
+          "shot": 596,
+          "duration": [
+            7372.61525,
+            7380.206166666666
+          ],
+          "sentences": [
+            "She's the worst singer I ever heard.",
+            "She cannot sing a lick, can she?"
+          ]
+        },
+        {
+          "shot": 599,
+          "duration": [
+            7393.094041666666,
+            7404.480416666666
+          ],
+          "sentences": [
+            "Hey, you forgot your jacket."
+          ]
+        },
+        {
+          "shot": 600,
+          "duration": [
+            7404.5221249999995,
+            7423.666249999999
+          ],
+          "sentences": [
+            "Excuse me. I gotta go to the bathroom.",
+            "If you want more, it's gonna have to be me alone...",
+            "'cause it seems I just been deserted.",
+            "I'm gonna play somethin' that, uh...",
+            "I wrote just recently...",
+            "- and came here to record. - All right!"
+          ]
+        },
+        {
+          "shot": 601,
+          "duration": [
+            7423.7079583333325,
+            7426.877791666666
+          ],
+          "sentences": [
+            "I'm gonna dedicate this to someone special who might be here tonight."
+          ]
+        },
+        {
+          "shot": 602,
+          "duration": [
+            7426.919499999999,
+            7430.423
+          ],
+          "sentences": [
+            "This is a song called \"I'm Easy.\""
+          ]
+        },
+        {
+          "shot": 603,
+          "duration": [
+            7430.464708333333,
+            7435.719958333333
+          ],
+          "sentences": [
+            "This is a song called \"I'm Easy.\""
+          ]
+        },
+        {
+          "shot": 618,
+          "duration": [
+            7614.565291666666,
+            7619.320041666666
+          ],
+          "sentences": [
+            "Do it to me."
+          ]
+        },
+        {
+          "shot": 619,
+          "duration": [
+            7619.361749999999,
+            7623.574291666666
+          ],
+          "sentences": [
+            "- Hi. - Hi!"
+          ]
+        },
+        {
+          "shot": 620,
+          "duration": [
+            7623.615999999999,
+            7654.021374999999
+          ],
+          "sentences": [
+            "I'm gonna sing you all a song Barbara Jean wrote.",
+            "Just wanna get comfortable.",
+            "It's called, uh, \"One, I Love You.\""
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            7676.0850833333325,
+            7687.137791666666
+          ],
+          "sentences": [
+            "Boo! Come on, now!"
+          ]
+        },
+        {
+          "shot": 624,
+          "duration": [
+            7690.724708333333,
+            7696.688999999999
+          ],
+          "sentences": [
+            "Boo! Come on! Take it off!"
+          ]
+        },
+        {
+          "shot": 626,
+          "duration": [
+            7702.820124999999,
+            7714.164791666666
+          ],
+          "sentences": [
+            "- Did you tell Trout what you wanted? - Did I? It was your job.",
+            "- I know. - I assumed he knew what...",
+            "Well, I didn't think it was gonna be any problem."
+          ]
+        },
+        {
+          "shot": 629,
+          "duration": [
+            7736.562166666666,
+            7739.148083333333
+          ],
+          "sentences": [
+            "Come on! What is this?"
+          ]
+        },
+        {
+          "shot": 630,
+          "duration": [
+            7739.189791666666,
+            7760.085666666666
+          ],
+          "sentences": [
+            "Come on back here, baby!",
+            "- What's the matter, honey? - I don't understand what's goin' on.",
+            "Didn't Trout tell you you're supposed to strip?",
+            "I'm a singer!",
+            "Listen, go finish the show like you told Trout you'd do...",
+            "and I'll set it up so you can sing in the Parthenon."
+          ]
+        },
+        {
+          "shot": 631,
+          "duration": [
+            7760.127374999999,
+            7764.548458333333
+          ],
+          "sentences": [
+            "- Huh? - I'll set it up for you so you can sing in the Parthenon with Barbara Jean."
+          ]
+        },
+        {
+          "shot": 632,
+          "duration": [
+            7764.590166666666,
+            7784.526749999999
+          ],
+          "sentences": [
+            "- Go finish the show... - I'm gonna get to sing with Barbara Jean?",
+            "Yes, you are. Yes, you will. I'll take care of it.",
+            "Go finish the show like you told Trout you'd do, okay?",
+            "These fellas really like you, honey.",
+            "- Okay? - I'm gonna be as big a star as Barbara Jean is one day.",
+            "I know you are. You can't miss."
+          ]
+        },
+        {
+          "shot": 633,
+          "duration": [
+            7784.568458333333,
+            7812.5964583333325
+          ],
+          "sentences": [
+            "- Go on, now. - Come on, let's have the show!"
+          ]
+        },
+        {
+          "shot": 634,
+          "duration": [
+            7812.638166666666,
+            7815.933125
+          ],
+          "sentences": [
+            "Whoo! Hey! All right! All right!"
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            7840.541041666666,
+            7852.6364583333325
+          ],
+          "sentences": [
+            "You're my mama!"
+          ]
+        },
+        {
+          "shot": 641,
+          "duration": [
+            7852.678166666666,
+            7859.560041666666
+          ],
+          "sentences": [
+            "All right!"
+          ]
+        },
+        {
+          "shot": 643,
+          "duration": [
+            7862.3544999999995,
+            7885.794583333332
+          ],
+          "sentences": [
+            "Whoo! Hey, hey, hey!"
+          ]
+        },
+        {
+          "shot": 647,
+          "duration": [
+            7909.860291666666,
+            7983.141833333333
+          ],
+          "sentences": [
+            "Want to learn how to say something in sign language?",
+            "Yeah. How do you say \"I love you\"?",
+            "Well, you could say... Shorthand for it is...",
+            "This is shorthand.",
+            "Or you could say, \"I\"...",
+            "you could say, \"love you.\"",
+            "- \"I love you\"? - Mm-hmm.",
+            "Or you could just say, \"I'm happy I met you.\"",
+            "- I'm happy I met you. - Right.",
+            "Phew.",
+            "How can you smoke those things?",
+            "It's easy.",
+            "- Do you smoke? - No.",
+            "What do you wanna do that for?",
+            "- Doesn't look good. - No?",
+            "- Hm-mmm. - So what?"
+          ]
+        },
+        {
+          "shot": 649,
+          "duration": [
+            7985.310666666666,
+            7988.397083333332
+          ],
+          "sentences": [
+            "- Tom, I have to go. - Aw."
+          ]
+        },
+        {
+          "shot": 650,
+          "duration": [
+            7988.4387916666665,
+            8010.335666666666
+          ],
+          "sentences": [
+            "- Can't you just call him, tell him you're hung up? - No, I can't.",
+            "- Couldn't you just stay another hour? - No, no.",
+            "I just can't."
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            8028.937583333332,
+            8114.564791666666
+          ],
+          "sentences": [
+            "Long-distance operator. You want this charged to your room?",
+            "- Yeah, please. - Your room number, please?",
+            "One-twelve.",
+            "- Hello? - Hey.",
+            "- How you doin'? - Oh, wow.",
+            "Listen, I'm real sorry I left the way I did.",
+            "Oh, wow.",
+            "It's really nice to talk to you. It's okay.",
+            "It's nice to talk to you too.",
+            "- What are you doing? - I'm thinkin' about you.",
+            "You are? Wow.",
+            "Can you come down here?",
+            "- When? - Tonight.",
+            "- Oh, Tom, I can't do that. - Why not?",
+            "We have an opening at the museum tomorrow. I can't leave my job like that.",
+            "Why don't you quit? I'm makin' bread here.",
+            "We've tried that before. It doesn't work.",
+            "I need to be busy.",
+            "I'll wait for you here. When are you coming back?",
+            "About a week.",
+            "Okay, well, just come on back.",
+            "Move back in. It's fine.",
+            "I miss you.",
+            "I really do.",
+            "New York's really been nice. It's missed you too.",
+            "The weather's been terrific.",
+            "I went sailing.",
+            "- Yeah. - What's that?",
+            "That's just room service."
+          ]
+        },
+        {
+          "shot": 653,
+          "duration": [
+            8114.6065,
+            8132.541083333333
+          ],
+          "sentences": [
+            "There's 50 cents on the desk there. Just pick it up.",
+            "- Big tipper. - Yeah, well, times are hard.",
+            "Right, all that money.",
+            "You can afford to bring me down there, I see. Hmm.",
+            "- Yeah. Well, never mind. See you in a week. - I love you, Tom."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0073440_0016",
+      "shot": [
+        593,
+        657
+      ],
+      "frame": [
+        175650,
+        198487
+      ],
+      "duration": [
+        7326.077313333333,
+        8278.528509333333
+      ],
+      "consistency": 0.8910245738197382,
+      "description": "Sueleen appears at the all-male Walker fundraiser, but is booed off the stage when she sings poorly and doesn't take off her clothes. Del and Triplette explain to her that the men expect her to strip and that if she does so, they will let her sing the next day at the Parthenon with Barbara Jean. Sueleen is humiliated, but strips anyway. Winifred shows up at the fundraiser hoping to get a chance to sing, but after she sees what is going on, she stays hidden behind a curtain. Del drives Sueleen home and drunkenly comes on to her, but she is rescued by Wade. After he hears what happened, Wade tells Sueleen the truth, that she can't sing, and asks her to go back to Detroit with him the next day. Sueleen refuses because she is determined to sing at the Parthenon with Barbara Jean.",
+      "subtitle": [
+        {
+          "shot": 593,
+          "duration": [
+            7280.982041666666,
+            7342.084749999999
+          ],
+          "sentences": [
+            "I don't wanna take a lot of your time, 'cause we do have entertainment for ya.",
+            "Uh, you got pledge cards on the table there.",
+            "You can pledge anything you want to.",
+            "I'll make sure... I'll make you pay, whatever you put down there.",
+            "If you got a check, don't be afraid to write it.",
+            "I'll get that to the bank quick, before you can stop it.",
+            "Any cash, anything at all.",
+            "Don't anybody be humble or shy.",
+            "That's all. And while you're writin', so you don't get bored or anything...",
+            "Just keep your eyes up, 'cause good things come from above.",
+            "- Hi, y'all. - Hi!",
+            "My name's Sueleen Gay..."
+          ]
+        },
+        {
+          "shot": 594,
+          "duration": [
+            7342.126458333333,
+            7345.963624999999
+          ],
+          "sentences": [
+            "and I'm here to sing you a song about a girl that never gets enough."
+          ]
+        },
+        {
+          "shot": 596,
+          "duration": [
+            7372.61525,
+            7380.206166666666
+          ],
+          "sentences": [
+            "She's the worst singer I ever heard.",
+            "She cannot sing a lick, can she?"
+          ]
+        },
+        {
+          "shot": 599,
+          "duration": [
+            7393.094041666666,
+            7404.480416666666
+          ],
+          "sentences": [
+            "Hey, you forgot your jacket."
+          ]
+        },
+        {
+          "shot": 600,
+          "duration": [
+            7404.5221249999995,
+            7423.666249999999
+          ],
+          "sentences": [
+            "Excuse me. I gotta go to the bathroom.",
+            "If you want more, it's gonna have to be me alone...",
+            "'cause it seems I just been deserted.",
+            "I'm gonna play somethin' that, uh...",
+            "I wrote just recently...",
+            "- and came here to record. - All right!"
+          ]
+        },
+        {
+          "shot": 601,
+          "duration": [
+            7423.7079583333325,
+            7426.877791666666
+          ],
+          "sentences": [
+            "I'm gonna dedicate this to someone special who might be here tonight."
+          ]
+        },
+        {
+          "shot": 602,
+          "duration": [
+            7426.919499999999,
+            7430.423
+          ],
+          "sentences": [
+            "This is a song called \"I'm Easy.\""
+          ]
+        },
+        {
+          "shot": 603,
+          "duration": [
+            7430.464708333333,
+            7435.719958333333
+          ],
+          "sentences": [
+            "This is a song called \"I'm Easy.\""
+          ]
+        },
+        {
+          "shot": 618,
+          "duration": [
+            7614.565291666666,
+            7619.320041666666
+          ],
+          "sentences": [
+            "Do it to me."
+          ]
+        },
+        {
+          "shot": 619,
+          "duration": [
+            7619.361749999999,
+            7623.574291666666
+          ],
+          "sentences": [
+            "- Hi. - Hi!"
+          ]
+        },
+        {
+          "shot": 620,
+          "duration": [
+            7623.615999999999,
+            7654.021374999999
+          ],
+          "sentences": [
+            "I'm gonna sing you all a song Barbara Jean wrote.",
+            "Just wanna get comfortable.",
+            "It's called, uh, \"One, I Love You.\""
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            7676.0850833333325,
+            7687.137791666666
+          ],
+          "sentences": [
+            "Boo! Come on, now!"
+          ]
+        },
+        {
+          "shot": 624,
+          "duration": [
+            7690.724708333333,
+            7696.688999999999
+          ],
+          "sentences": [
+            "Boo! Come on! Take it off!"
+          ]
+        },
+        {
+          "shot": 626,
+          "duration": [
+            7702.820124999999,
+            7714.164791666666
+          ],
+          "sentences": [
+            "- Did you tell Trout what you wanted? - Did I? It was your job.",
+            "- I know. - I assumed he knew what...",
+            "Well, I didn't think it was gonna be any problem."
+          ]
+        },
+        {
+          "shot": 629,
+          "duration": [
+            7736.562166666666,
+            7739.148083333333
+          ],
+          "sentences": [
+            "Come on! What is this?"
+          ]
+        },
+        {
+          "shot": 630,
+          "duration": [
+            7739.189791666666,
+            7760.085666666666
+          ],
+          "sentences": [
+            "Come on back here, baby!",
+            "- What's the matter, honey? - I don't understand what's goin' on.",
+            "Didn't Trout tell you you're supposed to strip?",
+            "I'm a singer!",
+            "Listen, go finish the show like you told Trout you'd do...",
+            "and I'll set it up so you can sing in the Parthenon."
+          ]
+        },
+        {
+          "shot": 631,
+          "duration": [
+            7760.127374999999,
+            7764.548458333333
+          ],
+          "sentences": [
+            "- Huh? - I'll set it up for you so you can sing in the Parthenon with Barbara Jean."
+          ]
+        },
+        {
+          "shot": 632,
+          "duration": [
+            7764.590166666666,
+            7784.526749999999
+          ],
+          "sentences": [
+            "- Go finish the show... - I'm gonna get to sing with Barbara Jean?",
+            "Yes, you are. Yes, you will. I'll take care of it.",
+            "Go finish the show like you told Trout you'd do, okay?",
+            "These fellas really like you, honey.",
+            "- Okay? - I'm gonna be as big a star as Barbara Jean is one day.",
+            "I know you are. You can't miss."
+          ]
+        },
+        {
+          "shot": 633,
+          "duration": [
+            7784.568458333333,
+            7812.5964583333325
+          ],
+          "sentences": [
+            "- Go on, now. - Come on, let's have the show!"
+          ]
+        },
+        {
+          "shot": 634,
+          "duration": [
+            7812.638166666666,
+            7815.933125
+          ],
+          "sentences": [
+            "Whoo! Hey! All right! All right!"
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            7840.541041666666,
+            7852.6364583333325
+          ],
+          "sentences": [
+            "You're my mama!"
+          ]
+        },
+        {
+          "shot": 641,
+          "duration": [
+            7852.678166666666,
+            7859.560041666666
+          ],
+          "sentences": [
+            "All right!"
+          ]
+        },
+        {
+          "shot": 643,
+          "duration": [
+            7862.3544999999995,
+            7885.794583333332
+          ],
+          "sentences": [
+            "Whoo! Hey, hey, hey!"
+          ]
+        },
+        {
+          "shot": 647,
+          "duration": [
+            7909.860291666666,
+            7983.141833333333
+          ],
+          "sentences": [
+            "Want to learn how to say something in sign language?",
+            "Yeah. How do you say \"I love you\"?",
+            "Well, you could say... Shorthand for it is...",
+            "This is shorthand.",
+            "Or you could say, \"I\"...",
+            "you could say, \"love you.\"",
+            "- \"I love you\"? - Mm-hmm.",
+            "Or you could just say, \"I'm happy I met you.\"",
+            "- I'm happy I met you. - Right.",
+            "Phew.",
+            "How can you smoke those things?",
+            "It's easy.",
+            "- Do you smoke? - No.",
+            "What do you wanna do that for?",
+            "- Doesn't look good. - No?",
+            "- Hm-mmm. - So what?"
+          ]
+        },
+        {
+          "shot": 649,
+          "duration": [
+            7985.310666666666,
+            7988.397083333332
+          ],
+          "sentences": [
+            "- Tom, I have to go. - Aw."
+          ]
+        },
+        {
+          "shot": 650,
+          "duration": [
+            7988.4387916666665,
+            8010.335666666666
+          ],
+          "sentences": [
+            "- Can't you just call him, tell him you're hung up? - No, I can't.",
+            "- Couldn't you just stay another hour? - No, no.",
+            "I just can't."
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            8028.937583333332,
+            8114.564791666666
+          ],
+          "sentences": [
+            "Long-distance operator. You want this charged to your room?",
+            "- Yeah, please. - Your room number, please?",
+            "One-twelve.",
+            "- Hello? - Hey.",
+            "- How you doin'? - Oh, wow.",
+            "Listen, I'm real sorry I left the way I did.",
+            "Oh, wow.",
+            "It's really nice to talk to you. It's okay.",
+            "It's nice to talk to you too.",
+            "- What are you doing? - I'm thinkin' about you.",
+            "You are? Wow.",
+            "Can you come down here?",
+            "- When? - Tonight.",
+            "- Oh, Tom, I can't do that. - Why not?",
+            "We have an opening at the museum tomorrow. I can't leave my job like that.",
+            "Why don't you quit? I'm makin' bread here.",
+            "We've tried that before. It doesn't work.",
+            "I need to be busy.",
+            "I'll wait for you here. When are you coming back?",
+            "About a week.",
+            "Okay, well, just come on back.",
+            "Move back in. It's fine.",
+            "I miss you.",
+            "I really do.",
+            "New York's really been nice. It's missed you too.",
+            "The weather's been terrific.",
+            "I went sailing.",
+            "- Yeah. - What's that?",
+            "That's just room service."
+          ]
+        },
+        {
+          "shot": 653,
+          "duration": [
+            8114.6065,
+            8132.541083333333
+          ],
+          "sentences": [
+            "There's 50 cents on the desk there. Just pick it up.",
+            "- Big tipper. - Yeah, well, times are hard.",
+            "Right, all that money.",
+            "You can afford to bring me down there, I see. Hmm.",
+            "- Yeah. Well, never mind. See you in a week. - I love you, Tom."
+          ]
+        },
+        {
+          "shot": 655,
+          "duration": [
+            8141.800333333333,
+            8219.294416666666
+          ],
+          "sentences": [
+            "This it, honey?",
+            "Be careful gettin' out.",
+            "Hey.",
+            "Hey! Hey, wait just a minute.",
+            "Just hold it, will ya?",
+            "Now...",
+            "I know you don't do that all the time. I...",
+            "I want to tell you that I just... I mean...",
+            "Me personally, boy, I...",
+            "I'd just like to kiss you all over, every place.",
+            "You know what I'm telling you?",
+            "- I think you... - Sueleen?",
+            "You okay?",
+            "Shit, man."
+          ]
+        },
+        {
+          "shot": 656,
+          "duration": [
+            8219.336125,
+            8297.03875
+          ],
+          "sentences": [
+            "Didn't your mama teach you no manners?",
+            "Who was that?",
+            "What's the matter with you? Ain't you gonna talk to me?",
+            "Did it go all right?",
+            "- Oh, Wade. - What?",
+            "I had to do me a striptease tonight in front of all those men...",
+            "to get to sing at the Parthenon with Barbara Jean.",
+            "Oh, shit! Sueleen, I...",
+            "That's dreadful! That's terrible, girl!",
+            "I mean...",
+            "I been meanin' to tell you this for a long time:",
+            "You can't sing.",
+            "You may as well face the fact you cannot sing.",
+            "You ain't gonna never be no star. I wish you'd give it up.",
+            "They gonna kill ya. They gonna tear your heart out if you keep on.",
+            "They gonna walk on your soul, girl.",
+            "- I don't know what you're talkin' about. - You can't sing.",
+            "- Do you understand that? - Yeah? You wanna make a bet?",
+            "You wanna come to the Parthenon and watch me sing with Barbara Jean?",
+            "- I am leavin' for Detroit Wednesday. - You just come and watch.",
+            "I'm leavin' for Detroit, and if you wanna go, come on.",
+            "- They gonna kill you in this town! - You come and see.",
+            "- They gonna use you. You know that. - Bye, Wade.",
+            "Dumb bitch! I don't know why I stick around.",
+            "She makes me so goddamn mad I could spit!",
+            "Little more than a year ago, a man named Hal Phillip Walker..."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0073440_0019",
+      "shot": [
+        675,
+        747
+      ],
+      "frame": [
+        207862,
+        224028
+      ],
+      "duration": [
+        8669.58386,
+        9343.793167
+      ],
+      "consistency": 0.9396394938819811,
+      "description": "The Walker gala starts and Haven and Barbara Jean perform a song together (\"One, I Love You\"), then Barbara Jean sings a very personal solo song about her childhood (\"My Idaho Home\"). As the song ends, gunshots are heard. Kenny has pulled a gun from his violin case and fired at the performers, grazing Haven and seriously wounding Barbara Jean. Pfc. Kelly disarms Kenny as chaos breaks out. Barbara Jean is carried bleeding and unconscious from the stage. Haven tries to calm the crowd by exhorting them to sing, asserting that \"This isn't Dallas, this is Nashville\" in reference to the JFK assassination. As he is led from the stage for treatment of his wounds, Haven hands the microphone off to Winifred, who tentatively begins to sing \"It Don't Worry Me.\" As she is joined by Linnea's gospel choir, Winifred's confidence grows until all eyes are upon her. The film ends with the audience clapping and dancing as Winifred belts out the chorus, \"You may say that I'm not free, but it don't worry me.\" She has finally gotten her big break.",
+      "subtitle": [
+        {
+          "shot": 675,
+          "duration": [
+            8668.701708333332,
+            8707.115083333332
+          ],
+          "sentences": [
+            "And now, ladies and gentlemen...",
+            "Barbara Jean and Haven Hamilton."
+          ]
+        },
+        {
+          "shot": 682,
+          "duration": [
+            8746.904833333332,
+            8761.627875
+          ],
+          "sentences": [
+            "I'll find her."
+          ]
+        },
+        {
+          "shot": 688,
+          "duration": [
+            8818.05925,
+            8838.913416666666
+          ],
+          "sentences": [
+            "Thank you."
+          ]
+        },
+        {
+          "shot": 701,
+          "duration": [
+            8971.420791666666,
+            8994.902583333333
+          ],
+          "sentences": [
+            "For Mama and Daddy. Thank you."
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            8998.072416666666,
+            9003.74475
+          ],
+          "sentences": [
+            "Thank you so much, ladies and gentlemen."
+          ]
+        },
+        {
+          "shot": 704,
+          "duration": [
+            9003.786458333332,
+            9010.710041666665
+          ],
+          "sentences": [
+            "- Thank you. - Wonderful! Wonderful!",
+            "Let's hear it for Barbara Jean!"
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            9010.75175,
+            9013.713041666666
+          ],
+          "sentences": [
+            "Get that gun!"
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            9013.75475,
+            9015.715041666666
+          ],
+          "sentences": [
+            "Get that gun!"
+          ]
+        },
+        {
+          "shot": 708,
+          "duration": [
+            9017.675333333333,
+            9037.903875
+          ],
+          "sentences": [
+            "I'm all right. You get her.",
+            "- Dad? - Bud, help her off. I'm all right.",
+            "- Get Walker out of here! - Get Walker out of here!",
+            "- Get off your asses! - Watch her head!",
+            "Y'all take it easy now. This isn't Dallas, it's Nashville.",
+            "This is Nashville. You show 'em what we're made of.",
+            "They can't do this to us here in Nashville."
+          ]
+        },
+        {
+          "shot": 709,
+          "duration": [
+            9037.945583333332,
+            9040.823458333332
+          ],
+          "sentences": [
+            "Okay, everybody, sing!"
+          ]
+        },
+        {
+          "shot": 710,
+          "duration": [
+            9040.865166666666,
+            9045.661624999999
+          ],
+          "sentences": [
+            "Come on, somebody, sing!",
+            "No, I'm fine. You sing. You stay here and play."
+          ]
+        },
+        {
+          "shot": 712,
+          "duration": [
+            9048.414374999998,
+            9057.29825
+          ],
+          "sentences": [
+            "- Somebody sing. - You've been hurt.",
+            "- I'm gonna get somebody to help you. - Somebody sing. Sing.",
+            "Sing!",
+            "I think you've been hurt."
+          ]
+        },
+        {
+          "shot": 713,
+          "duration": [
+            9057.339958333332,
+            9069.518791666665
+          ],
+          "sentences": [
+            "Watch your step there. Watch your step there.",
+            "- Come on, easy, easy. - I can't stop that blood, man!",
+            "Excuse me. Have you got a car or somethin'?"
+          ]
+        },
+        {
+          "shot": 717,
+          "duration": [
+            9083.991583333333,
+            9087.536791666666
+          ],
+          "sentences": [
+            "Can you please tell me what's happened?"
+          ]
+        },
+        {
+          "shot": 736,
+          "duration": [
+            9240.189291666666,
+            9247.821916666666
+          ],
+          "sentences": [
+            "except Clorox bottles and plastic flyswatters..."
+          ]
+        },
+        {
+          "shot": 740,
+          "duration": [
+            9260.584666666666,
+            9263.921333333332
+          ],
+          "sentences": [
+            "Come on, everybody!"
+          ]
+        },
+        {
+          "shot": 741,
+          "duration": [
+            9263.963041666666,
+            9272.096166666666
+          ],
+          "sentences": [
+            "Come on, everybody!"
+          ]
+        },
+        {
+          "shot": 744,
+          "duration": [
+            9280.896625,
+            9323.772791666666
+          ],
+          "sentences": [
+            "Ain't gonna be nothin' left in our graves...",
+            "except flyswatters with red dots on 'em."
+          ]
+        },
+        {
+          "shot": 746,
+          "duration": [
+            9330.404416666666,
+            9634.166208333332
+          ],
+          "sentences": [
+            "I ain't gonna be worried."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

@@ -1,0 +1,31 @@
+{
+  "imdb_id": "tt2023453",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 9,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 18,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 53,
+        "scale": "full",
+        "movement": "push"
+      },
+      {
+        "shot": 65,
+        "scale": "closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

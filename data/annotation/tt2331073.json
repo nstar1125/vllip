@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt2331073",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 32,
+        "scale": "closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

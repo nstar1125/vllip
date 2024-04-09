@@ -1,0 +1,7407 @@
+{
+  "imdb_id": "tt0107688",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0107688_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        47
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0001",
+      "shot": [
+        1,
+        3
+      ],
+      "frame": [
+        47,
+        164
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0002",
+      "shot": [
+        3,
+        4
+      ],
+      "frame": [
+        164,
+        2131
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0003",
+      "shot": [
+        4,
+        11
+      ],
+      "frame": [
+        2131,
+        2945
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0004",
+      "shot": [
+        11,
+        12
+      ],
+      "frame": [
+        2945,
+        3215
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0005",
+      "shot": [
+        12,
+        18
+      ],
+      "frame": [
+        3215,
+        4199
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0006",
+      "shot": [
+        18,
+        32
+      ],
+      "frame": [
+        4199,
+        5819
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0007",
+      "shot": [
+        32,
+        37
+      ],
+      "frame": [
+        5819,
+        6440
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0008",
+      "shot": [
+        37,
+        54
+      ],
+      "frame": [
+        6440,
+        8676
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0009",
+      "shot": [
+        54,
+        57
+      ],
+      "frame": [
+        8676,
+        8952
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0010",
+      "shot": [
+        57,
+        90
+      ],
+      "frame": [
+        8952,
+        15300
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0011",
+      "shot": [
+        90,
+        97
+      ],
+      "frame": [
+        15300,
+        16764
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0012",
+      "shot": [
+        97,
+        145
+      ],
+      "frame": [
+        16764,
+        22642
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0013",
+      "shot": [
+        145,
+        168
+      ],
+      "frame": [
+        22642,
+        25055
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0014",
+      "shot": [
+        168,
+        187
+      ],
+      "frame": [
+        25055,
+        27425
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0015",
+      "shot": [
+        187,
+        198
+      ],
+      "frame": [
+        27425,
+        28983
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0016",
+      "shot": [
+        198,
+        207
+      ],
+      "frame": [
+        28983,
+        30047
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0017",
+      "shot": [
+        207,
+        209
+      ],
+      "frame": [
+        30047,
+        30280
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0018",
+      "shot": [
+        209,
+        261
+      ],
+      "frame": [
+        30280,
+        37794
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0019",
+      "shot": [
+        261,
+        262
+      ],
+      "frame": [
+        37794,
+        37832
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0020",
+      "shot": [
+        262,
+        277
+      ],
+      "frame": [
+        37832,
+        39583
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0021",
+      "shot": [
+        277,
+        294
+      ],
+      "frame": [
+        39583,
+        41743
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0022",
+      "shot": [
+        294,
+        307
+      ],
+      "frame": [
+        41743,
+        43491
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0023",
+      "shot": [
+        307,
+        311
+      ],
+      "frame": [
+        43491,
+        44220
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0024",
+      "shot": [
+        311,
+        313
+      ],
+      "frame": [
+        44220,
+        44901
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0025",
+      "shot": [
+        313,
+        315
+      ],
+      "frame": [
+        44901,
+        45043
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0026",
+      "shot": [
+        315,
+        340
+      ],
+      "frame": [
+        45043,
+        48368
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0027",
+      "shot": [
+        340,
+        341
+      ],
+      "frame": [
+        48368,
+        48919
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0028",
+      "shot": [
+        341,
+        359
+      ],
+      "frame": [
+        48919,
+        51190
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0029",
+      "shot": [
+        359,
+        370
+      ],
+      "frame": [
+        51190,
+        52832
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0030",
+      "shot": [
+        370,
+        396
+      ],
+      "frame": [
+        52832,
+        55277
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0031",
+      "shot": [
+        396,
+        398
+      ],
+      "frame": [
+        55277,
+        55515
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0032",
+      "shot": [
+        398,
+        399
+      ],
+      "frame": [
+        55515,
+        55626
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0033",
+      "shot": [
+        399,
+        400
+      ],
+      "frame": [
+        55626,
+        55757
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0034",
+      "shot": [
+        400,
+        413
+      ],
+      "frame": [
+        55757,
+        57662
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0035",
+      "shot": [
+        413,
+        435
+      ],
+      "frame": [
+        57662,
+        60067
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0036",
+      "shot": [
+        435,
+        443
+      ],
+      "frame": [
+        60067,
+        62339
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0037",
+      "shot": [
+        443,
+        446
+      ],
+      "frame": [
+        62339,
+        62822
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0038",
+      "shot": [
+        446,
+        462
+      ],
+      "frame": [
+        62822,
+        63613
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0039",
+      "shot": [
+        462,
+        467
+      ],
+      "frame": [
+        63613,
+        64131
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0040",
+      "shot": [
+        467,
+        469
+      ],
+      "frame": [
+        64131,
+        64467
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0041",
+      "shot": [
+        469,
+        473
+      ],
+      "frame": [
+        64467,
+        65213
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0042",
+      "shot": [
+        473,
+        476
+      ],
+      "frame": [
+        65213,
+        65953
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0043",
+      "shot": [
+        476,
+        497
+      ],
+      "frame": [
+        65953,
+        67777
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0044",
+      "shot": [
+        497,
+        499
+      ],
+      "frame": [
+        67777,
+        68507
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0045",
+      "shot": [
+        499,
+        500
+      ],
+      "frame": [
+        68507,
+        68557
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0046",
+      "shot": [
+        500,
+        506
+      ],
+      "frame": [
+        68557,
+        69309
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0047",
+      "shot": [
+        506,
+        532
+      ],
+      "frame": [
+        69309,
+        71695
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0048",
+      "shot": [
+        532,
+        549
+      ],
+      "frame": [
+        71695,
+        73506
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0049",
+      "shot": [
+        549,
+        586
+      ],
+      "frame": [
+        73506,
+        76779
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0050",
+      "shot": [
+        586,
+        595
+      ],
+      "frame": [
+        76779,
+        79438
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0051",
+      "shot": [
+        595,
+        600
+      ],
+      "frame": [
+        79438,
+        80012
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0052",
+      "shot": [
+        600,
+        602
+      ],
+      "frame": [
+        80012,
+        80263
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0053",
+      "shot": [
+        602,
+        607
+      ],
+      "frame": [
+        80263,
+        80721
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0054",
+      "shot": [
+        607,
+        612
+      ],
+      "frame": [
+        80721,
+        81233
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0055",
+      "shot": [
+        612,
+        613
+      ],
+      "frame": [
+        81233,
+        81312
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0056",
+      "shot": [
+        613,
+        614
+      ],
+      "frame": [
+        81312,
+        81392
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0057",
+      "shot": [
+        614,
+        625
+      ],
+      "frame": [
+        81392,
+        82819
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0058",
+      "shot": [
+        625,
+        626
+      ],
+      "frame": [
+        82819,
+        83064
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0059",
+      "shot": [
+        626,
+        627
+      ],
+      "frame": [
+        83064,
+        83131
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0060",
+      "shot": [
+        627,
+        628
+      ],
+      "frame": [
+        83131,
+        83185
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0061",
+      "shot": [
+        628,
+        629
+      ],
+      "frame": [
+        83185,
+        83238
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0062",
+      "shot": [
+        629,
+        636
+      ],
+      "frame": [
+        83238,
+        83588
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0063",
+      "shot": [
+        636,
+        637
+      ],
+      "frame": [
+        83588,
+        83711
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0064",
+      "shot": [
+        637,
+        638
+      ],
+      "frame": [
+        83711,
+        83920
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0065",
+      "shot": [
+        638,
+        639
+      ],
+      "frame": [
+        83920,
+        83972
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0066",
+      "shot": [
+        639,
+        640
+      ],
+      "frame": [
+        83972,
+        84036
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0067",
+      "shot": [
+        640,
+        642
+      ],
+      "frame": [
+        84036,
+        84496
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0068",
+      "shot": [
+        642,
+        659
+      ],
+      "frame": [
+        84496,
+        85508
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0069",
+      "shot": [
+        659,
+        673
+      ],
+      "frame": [
+        85508,
+        86653
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0070",
+      "shot": [
+        673,
+        684
+      ],
+      "frame": [
+        86653,
+        87303
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0071",
+      "shot": [
+        684,
+        691
+      ],
+      "frame": [
+        87303,
+        88780
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0072",
+      "shot": [
+        691,
+        696
+      ],
+      "frame": [
+        88780,
+        89027
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0073",
+      "shot": [
+        696,
+        715
+      ],
+      "frame": [
+        89027,
+        93224
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0074",
+      "shot": [
+        715,
+        716
+      ],
+      "frame": [
+        93224,
+        93404
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0075",
+      "shot": [
+        716,
+        717
+      ],
+      "frame": [
+        93404,
+        93552
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0076",
+      "shot": [
+        717,
+        718
+      ],
+      "frame": [
+        93552,
+        93637
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0077",
+      "shot": [
+        718,
+        723
+      ],
+      "frame": [
+        93637,
+        93899
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0078",
+      "shot": [
+        723,
+        724
+      ],
+      "frame": [
+        93899,
+        94008
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0079",
+      "shot": [
+        724,
+        728
+      ],
+      "frame": [
+        94008,
+        94400
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0080",
+      "shot": [
+        728,
+        729
+      ],
+      "frame": [
+        94400,
+        94577
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0081",
+      "shot": [
+        729,
+        730
+      ],
+      "frame": [
+        94577,
+        94633
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0082",
+      "shot": [
+        730,
+        752
+      ],
+      "frame": [
+        94633,
+        96084
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0083",
+      "shot": [
+        752,
+        775
+      ],
+      "frame": [
+        96084,
+        97497
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0084",
+      "shot": [
+        775,
+        786
+      ],
+      "frame": [
+        97497,
+        98418
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0085",
+      "shot": [
+        786,
+        797
+      ],
+      "frame": [
+        98418,
+        99191
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0086",
+      "shot": [
+        797,
+        801
+      ],
+      "frame": [
+        99191,
+        99659
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0087",
+      "shot": [
+        801,
+        803
+      ],
+      "frame": [
+        99659,
+        99804
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0107688_0088",
+      "shot": [
+        803,
+        836
+      ],
+      "frame": [
+        99804,
+        102933
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0107688_0002",
+      "shot": [
+        201,
+        412
+      ],
+      "frame": [
+        29483,
+        57540
+      ],
+      "duration": [
+        1229.7093835211047,
+        2399.8700805211047
+      ],
+      "consistency": 0.9875212626458604,
+      "description": "Back in Halloweentown Jack calls a town meeting, where he describes what he saw in Christmastown. His people don't seem very impressed, so to draw them in, he makes some elements of Christmas -- including \"Sandy Claws\"  -- sound scary. Then he announces that they're taking over Christmas and starts assigning jobs. The evil scientist must whip up some reindeer, Halloweentown's top trick-or-treaters are to kidnap Sandy Claws, and Sally's task is to make Jack a red Santa suit. She tries to tell him that co-opting Christmas is a terrible idea, but he's too wrapped up in his enthusiasm to listen.",
+      "subtitle": [
+        {
+          "shot": 201,
+          "duration": [
+            1225.4761768493347,
+            1235.9449849763914
+          ],
+          "sentences": [
+            "Zero!",
+            "- Jack's back! - Jack's back! Jack's back!"
+          ]
+        },
+        {
+          "shot": 202,
+          "duration": [
+            1235.9866933753042,
+            1242.6183288024038
+          ],
+          "sentences": [
+            "- Where have you been? - Call a town meeting and I'll tell everyone all about it."
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            1242.6600372013163,
+            1246.2052511088855
+          ],
+          "sentences": [
+            "- Where have you been? - Call a town meeting and I'll tell everyone all about it."
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            1246.246959507798,
+            1247.3730862784375
+          ],
+          "sentences": [
+            "- When? - Immediately!"
+          ]
+        },
+        {
+          "shot": 205,
+          "duration": [
+            1247.41479467735,
+            1249.6253398197168
+          ],
+          "sentences": [
+            "- When? - Immediately!"
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            1253.2122621261983,
+            1258.8428959793962
+          ],
+          "sentences": [
+            "Town meeting! Town meeting!"
+          ]
+        },
+        {
+          "shot": 208,
+          "duration": [
+            1258.8846043783087,
+            1262.8886106739162
+          ],
+          "sentences": [
+            "Town meeting! Town meeting!",
+            "Town meeting tonight!"
+          ]
+        },
+        {
+          "shot": 209,
+          "duration": [
+            1262.9303190728288,
+            1269.3117041064531
+          ],
+          "sentences": [
+            "Town meeting tonight!",
+            "Town meeting! Town meeting tonight!"
+          ]
+        },
+        {
+          "shot": 212,
+          "duration": [
+            1283.5759765345545,
+            1287.8719416225497
+          ],
+          "sentences": [
+            "Listen, everyone!"
+          ]
+        },
+        {
+          "shot": 213,
+          "duration": [
+            1287.9136500214624,
+            1290.6664043496924
+          ],
+          "sentences": [
+            "Listen, everyone!",
+            "I want to tell you about Christmas Town."
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            1290.7081127486051,
+            1293.7945342681357
+          ],
+          "sentences": [
+            "I want to tell you about Christmas Town."
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            1295.6714122192016,
+            1303.3874660180284
+          ],
+          "sentences": [
+            "There were objects so peculiar they were not to be believed",
+            "All around things to tantalize my brain"
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            1303.429174416941,
+            1307.3080555158106
+          ],
+          "sentences": [
+            "All around things to tantalize my brain",
+            "It's a world unlike anything I've ever seen"
+          ]
+        },
+        {
+          "shot": 218,
+          "duration": [
+            1307.349763914723,
+            1321.8642867363
+          ],
+          "sentences": [
+            "And as hard as I tried I can't seem to describe",
+            "Like a most improbable dream",
+            "But you must believe when I tell you this",
+            "It's as real as my skull and it does exist"
+          ]
+        },
+        {
+          "shot": 219,
+          "duration": [
+            1321.9059951352126,
+            1325.5346258406066
+          ],
+          "sentences": [
+            "It's as real as my skull and it does exist",
+            "Here, let me show you."
+          ]
+        },
+        {
+          "shot": 220,
+          "duration": [
+            1325.5763342395194,
+            1327.2029617971098
+          ],
+          "sentences": [
+            "Here, let me show you."
+          ]
+        },
+        {
+          "shot": 222,
+          "duration": [
+            1329.0381313492633,
+            1330.4562169122908
+          ],
+          "sentences": [
+            "Ooh!"
+          ]
+        },
+        {
+          "shot": 223,
+          "duration": [
+            1330.4979253112033,
+            1335.961725568751
+          ],
+          "sentences": [
+            "This is a thing called a present",
+            "The whole thing starts with a box",
+            "- A box - Is it steel - Are there locks"
+          ]
+        },
+        {
+          "shot": 224,
+          "duration": [
+            1336.0034339676636,
+            1341.2169838317357
+          ],
+          "sentences": [
+            "- A box - Is it steel - Are there locks",
+            "- Is it filled with a pox - A pox, how delightful, a pox"
+          ]
+        },
+        {
+          "shot": 225,
+          "duration": [
+            1341.2586922306482,
+            1342.9270281871513
+          ],
+          "sentences": [
+            "If you please.",
+            "Just a box with bright colored paper"
+          ]
+        },
+        {
+          "shot": 226,
+          "duration": [
+            1342.9687365860639,
+            1353.0621691229076
+          ],
+          "sentences": [
+            "Just a box with bright colored paper",
+            "And the whole thing's topped with a bow",
+            "- A bow - But why - How ugly - What's in it, what's in it",
+            "That's the point of the thing Not to know"
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            1353.10387752182,
+            1359.3601373587067
+          ],
+          "sentences": [
+            "That's the point of the thing Not to know",
+            "- It's a bat - Will it bend - It's a rat - Will it break",
+            "Perhaps it's the head that I found in the lake",
+            "Listen now You don't understand"
+          ]
+        },
+        {
+          "shot": 228,
+          "duration": [
+            1359.4018457576192,
+            1368.9113607096867
+          ],
+          "sentences": [
+            "Listen now You don't understand",
+            "That's not the point of Christmasland",
+            "Now pay attention We pick up an oversized sock"
+          ]
+        },
+        {
+          "shot": 229,
+          "duration": [
+            1368.9530691085993,
+            1383.467591930176
+          ],
+          "sentences": [
+            "And hang it like this on the wall",
+            "Oh, yes, does it still have a foot",
+            "- Let me see, let me look - Is it rotted and covered with gook",
+            "Um, let me explain.",
+            "There's no foot inside but there's candy",
+            "- Or sometimes it's filled with small toys - Small toys"
+          ]
+        },
+        {
+          "shot": 230,
+          "duration": [
+            1383.5093003290885,
+            1384.3017599084276
+          ],
+          "sentences": [
+            "- Or sometimes it's filled with small toys - Small toys",
+            "- Do they bite - Do they snap - Or explode in the sack"
+          ]
+        },
+        {
+          "shot": 231,
+          "duration": [
+            1384.3434683073401,
+            1386.428888252969
+          ],
+          "sentences": [
+            "- Do they bite - Do they snap - Or explode in the sack"
+          ]
+        },
+        {
+          "shot": 232,
+          "duration": [
+            1386.4705966518816,
+            1394.311775647446
+          ],
+          "sentences": [
+            "Well, perhaps they just spring out and scare girls and boys",
+            "What a splendid idea This Christmas sounds fun",
+            "I fully endorse it Let's try it at once"
+          ]
+        },
+        {
+          "shot": 233,
+          "duration": [
+            1394.3534840463585,
+            1395.0625268278725
+          ],
+          "sentences": [
+            "I fully endorse it Let's try it at once",
+            "Everyone, please Now not so fast"
+          ]
+        },
+        {
+          "shot": 234,
+          "duration": [
+            1395.104235226785,
+            1400.4012018886822
+          ],
+          "sentences": [
+            "Everyone, please Now not so fast",
+            "There's something here that you don't quite grasp"
+          ]
+        },
+        {
+          "shot": 235,
+          "duration": [
+            1400.442910287595,
+            1402.8202890256118
+          ],
+          "sentences": [
+            "I don't know. Do you get it?"
+          ]
+        },
+        {
+          "shot": 236,
+          "duration": [
+            1402.8619974245244,
+            1406.1569609386179
+          ],
+          "sentences": [
+            "Well, I may as well give them what they want."
+          ]
+        },
+        {
+          "shot": 237,
+          "duration": [
+            1406.1986693375304,
+            1410.7865932179138
+          ],
+          "sentences": [
+            "And the best I must confess I have saved for the last",
+            "For the ruler of this Christmasland"
+          ]
+        },
+        {
+          "shot": 238,
+          "duration": [
+            1410.8283016168266,
+            1415.2076835026471
+          ],
+          "sentences": [
+            "For the ruler of this Christmasland",
+            "Is a fearsome king with a deep, mighty voice"
+          ]
+        },
+        {
+          "shot": 239,
+          "duration": [
+            1415.2493919015596,
+            1420.7131921591072
+          ],
+          "sentences": [
+            "Is a fearsome king with a deep, mighty voice",
+            "Least, that's what I've come to understand",
+            "And I've also heard it told That he's something to behold"
+          ]
+        },
+        {
+          "shot": 240,
+          "duration": [
+            1420.7549005580197,
+            1421.8393189297467
+          ],
+          "sentences": [
+            "And I've also heard it told That he's something to behold"
+          ]
+        },
+        {
+          "shot": 241,
+          "duration": [
+            1421.8810273286595,
+            1432.5166690513665
+          ],
+          "sentences": [
+            "And I've also heard it told That he's something to behold",
+            "Like a lobster huge and red",
+            "When he sets out to slay with his rain gear on",
+            "Can'ting bulging sacks with his big great arms"
+          ]
+        },
+        {
+          "shot": 242,
+          "duration": [
+            1432.558377450279,
+            1437.8553441121765
+          ],
+          "sentences": [
+            "Can'ting bulging sacks with his big great arms",
+            "That is so I've heard it said"
+          ]
+        },
+        {
+          "shot": 243,
+          "duration": [
+            1437.897052511089,
+            1438.8980540849907
+          ],
+          "sentences": [
+            "And on a dark cold night under full moonlight"
+          ]
+        },
+        {
+          "shot": 244,
+          "duration": [
+            1438.9397624839035,
+            1445.571397911003
+          ],
+          "sentences": [
+            "And on a dark cold night under full moonlight",
+            "He flies into a fog like a vulture in the sky"
+          ]
+        },
+        {
+          "shot": 245,
+          "duration": [
+            1445.6131063099156,
+            1447.1980254685936
+          ],
+          "sentences": [
+            "He flies into a fog like a vulture in the sky"
+          ]
+        },
+        {
+          "shot": 246,
+          "duration": [
+            1447.2397338675062,
+            1456.916082415224
+          ],
+          "sentences": [
+            "And they call him",
+            "Sandy Claws"
+          ]
+        },
+        {
+          "shot": 248,
+          "duration": [
+            1459.376877951066,
+            1465.2577621977393
+          ],
+          "sentences": [
+            "Well, at least they're excited",
+            "But they don't understand"
+          ]
+        },
+        {
+          "shot": 249,
+          "duration": [
+            1465.2994705966519,
+            1474.4336099585064
+          ],
+          "sentences": [
+            "That special kind of feeling in Christmasland",
+            "Oh, well."
+          ]
+        },
+        {
+          "shot": 251,
+          "duration": [
+            1480.9401201888684,
+            1496.747603376735
+          ],
+          "sentences": [
+            "Hmm.",
+            "Hmm."
+          ]
+        },
+        {
+          "shot": 253,
+          "duration": [
+            1505.506367148376,
+            1518.435970811275
+          ],
+          "sentences": [
+            "There's got to be a logical way to explain this Christmas thing."
+          ]
+        },
+        {
+          "shot": 255,
+          "duration": [
+            1520.4796823579911,
+            1540.916797825154
+          ],
+          "sentences": [
+            "You've poisoned me for the last time, you wretched girl.",
+            "Oh, my head!"
+          ]
+        },
+        {
+          "shot": 256,
+          "duration": [
+            1540.9585062240665,
+            1548.7162684218058
+          ],
+          "sentences": [
+            "The door is open!",
+            "- Hello! - Jack Skellington!"
+          ]
+        },
+        {
+          "shot": 257,
+          "duration": [
+            1548.7579768207183,
+            1551.2187723565603
+          ],
+          "sentences": [
+            "- Hello! - Jack Skellington!",
+            "- Up here, my boy. - Doctor, I need to borrow some equipment."
+          ]
+        },
+        {
+          "shot": 258,
+          "duration": [
+            1551.260480755473,
+            1557.3916153956218
+          ],
+          "sentences": [
+            "- Up here, my boy. - Doctor, I need to borrow some equipment.",
+            "Is that so? Whatever for?"
+          ]
+        },
+        {
+          "shot": 259,
+          "duration": [
+            1557.4333237945343,
+            1573.5744741737017
+          ],
+          "sentences": [
+            "Is that so? Whatever for?",
+            "I'm conducting a series of experiments.",
+            "How perfectly marvelous!",
+            "- Curiosity killed the cat, you know. - I know.",
+            "Come on into the lab and we'll get you all fixed up."
+          ]
+        },
+        {
+          "shot": 260,
+          "duration": [
+            1573.6161825726142,
+            1576.285520103019
+          ],
+          "sentences": [
+            "Hmm. Experiments?"
+          ]
+        },
+        {
+          "shot": 262,
+          "duration": [
+            1577.9121476606097,
+            1581.8744455573044
+          ],
+          "sentences": [
+            "Zero, I'm home!"
+          ]
+        },
+        {
+          "shot": 276,
+          "duration": [
+            1640.0576620403492,
+            1650.9018457576192
+          ],
+          "sentences": [
+            "Interesting reaction! But what does it mean?"
+          ]
+        },
+        {
+          "shot": 295,
+          "duration": [
+            1750.001001573902,
+            1762.1381456574618
+          ],
+          "sentences": [
+            "You can come out now if you promise to behave.",
+            "Sally?",
+            "Oh, gone again!"
+          ]
+        },
+        {
+          "shot": 296,
+          "duration": [
+            1762.1798540563743,
+            1763.5562312204895
+          ],
+          "sentences": [
+            "Oh, gone again!"
+          ]
+        },
+        {
+          "shot": 298,
+          "duration": [
+            1775.0677493203607,
+            1783.993346687652
+          ],
+          "sentences": [
+            "Hmm."
+          ]
+        },
+        {
+          "shot": 308,
+          "duration": [
+            1819.9459865502934,
+            1827.9122907425956
+          ],
+          "sentences": [
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 309,
+          "duration": [
+            1827.9539991415081,
+            1839.882601230505
+          ],
+          "sentences": [
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 312,
+          "duration": [
+            1851.519244527114,
+            1872.7071111747032
+          ],
+          "sentences": [
+            "Something's up with Jack Something's up with Jack",
+            "Don't know if we're ever going to get him back",
+            "He's all alone up there locked away inside",
+            "- Never says a word - Hope he hasn't died",
+            "Something's up with Jack Something's up with Jack"
+          ]
+        },
+        {
+          "shot": 313,
+          "duration": [
+            1872.7488195736157,
+            1874.0417799399056
+          ],
+          "sentences": [
+            "Something's up with Jack Something's up with Jack"
+          ]
+        },
+        {
+          "shot": 315,
+          "duration": [
+            1878.6714122192018,
+            1899.9844040635285
+          ],
+          "sentences": [
+            "Christmastime is buzzing in my skull",
+            "Will it let me be I cannot tell",
+            "There's so many things I cannot grasp",
+            "When I think I've got it and then at last",
+            "Through my bony fingers it does slip",
+            "Like a snowflake in a fiery grip"
+          ]
+        },
+        {
+          "shot": 316,
+          "duration": [
+            1900.026112462441,
+            1902.9457003863215
+          ],
+          "sentences": [
+            "Like a snowflake in a fiery grip",
+            "Something here I'm not quite getting Though I try I keep forgetting"
+          ]
+        },
+        {
+          "shot": 317,
+          "duration": [
+            1902.987408785234,
+            1903.9467019602232
+          ],
+          "sentences": [
+            "Something here I'm not quite getting Though I try I keep forgetting"
+          ]
+        },
+        {
+          "shot": 318,
+          "duration": [
+            1903.988410359136,
+            1921.1722707111176
+          ],
+          "sentences": [
+            "Something here I'm not quite getting Though I try I keep forgetting",
+            "Like a memory long since past",
+            "Here in an instant Gone in a flash",
+            "What does it mean What does it mean",
+            "In these little bric-a-brac A secret's waiting to be cracked",
+            "These dolls and toys confuse me so Confound it all, I love it though"
+          ]
+        },
+        {
+          "shot": 319,
+          "duration": [
+            1921.21397911003,
+            1928.6797825153815
+          ],
+          "sentences": [
+            "Simple objects, nothing more But something's hidden through a door",
+            "Though I do not have the key Something's here I cannot see"
+          ]
+        },
+        {
+          "shot": 320,
+          "duration": [
+            1928.721490914294,
+            1932.0164544283875
+          ],
+          "sentences": [
+            "Though I do not have the key Something's here I cannot see",
+            "What does it mean What does it mean"
+          ]
+        },
+        {
+          "shot": 321,
+          "duration": [
+            1932.0581628273,
+            1934.2687079696666
+          ],
+          "sentences": [
+            "What does it mean What does it mean"
+          ]
+        },
+        {
+          "shot": 322,
+          "duration": [
+            1934.3104163685794,
+            1936.10387752182
+          ],
+          "sentences": [
+            "What does it mean"
+          ]
+        },
+        {
+          "shot": 323,
+          "duration": [
+            1936.1455859207326,
+            1941.3591357848047
+          ],
+          "sentences": [
+            "Hmm. Hmm."
+          ]
+        },
+        {
+          "shot": 324,
+          "duration": [
+            1941.4008441837173,
+            1949.116897982544
+          ],
+          "sentences": [
+            "I've read these Christmas books so many times",
+            "I know the stories and I know the rhymes",
+            "I know the Christmas carols all by heart"
+          ]
+        },
+        {
+          "shot": 325,
+          "duration": [
+            1949.1586063814566,
+            1959.961081699814
+          ],
+          "sentences": [
+            "I know the Christmas carols all by heart",
+            "My skull's so full it's tearing me apart",
+            "As often as I've read them Something's wrong",
+            "It's so hard to put my bony finger on"
+          ]
+        },
+        {
+          "shot": 326,
+          "duration": [
+            1960.0027900987266,
+            1962.630419230219
+          ],
+          "sentences": [
+            "Or perhaps it's really not as deep as I've been led to think"
+          ]
+        },
+        {
+          "shot": 327,
+          "duration": [
+            1962.6721276291316,
+            1966.8846759193018
+          ],
+          "sentences": [
+            "Or perhaps it's really not as deep as I've been led to think",
+            "Am I trying much too hard"
+          ]
+        },
+        {
+          "shot": 328,
+          "duration": [
+            1966.9263843182143,
+            1971.0555158105594
+          ],
+          "sentences": [
+            "Of course I've been too close to see",
+            "The answer's right in front of me Right in front of me"
+          ]
+        },
+        {
+          "shot": 329,
+          "duration": [
+            1971.0972242094722,
+            1972.2233509801117
+          ],
+          "sentences": [
+            "The answer's right in front of me Right in front of me"
+          ]
+        },
+        {
+          "shot": 330,
+          "duration": [
+            1972.2650593790243,
+            1978.5213192159108
+          ],
+          "sentences": [
+            "It's simple really, very clear Like music drifting in the air",
+            "Invisible but everywhere"
+          ]
+        },
+        {
+          "shot": 331,
+          "duration": [
+            1978.5630276148233,
+            1983.4846186865075
+          ],
+          "sentences": [
+            "Invisible but everywhere",
+            "Just because I cannot see it Doesn't mean I can't believe it"
+          ]
+        },
+        {
+          "shot": 332,
+          "duration": [
+            1983.52632708542,
+            1984.81928745171
+          ],
+          "sentences": [
+            "Just because I cannot see it Doesn't mean I can't believe it",
+            "You know I think this Christmas thing is not as tricky as it seems"
+          ]
+        },
+        {
+          "shot": 333,
+          "duration": [
+            1984.8609958506224,
+            1988.6147517527545
+          ],
+          "sentences": [
+            "You know I think this Christmas thing is not as tricky as it seems",
+            "And why should they have all the fun It should belong to anyone"
+          ]
+        },
+        {
+          "shot": 334,
+          "duration": [
+            1988.656460151667,
+            1991.2423808842468
+          ],
+          "sentences": [
+            "And why should they have all the fun It should belong to anyone"
+          ]
+        },
+        {
+          "shot": 335,
+          "duration": [
+            1991.2840892831593,
+            1997.1649735298327
+          ],
+          "sentences": [
+            "Not anyone in fact, but me Why I can make a Christmas tree",
+            "And there's no reason I can find I couldn't handle Christmastime"
+          ]
+        },
+        {
+          "shot": 336,
+          "duration": [
+            1997.2066819287452,
+            2005.9654457003865
+          ],
+          "sentences": [
+            "And there's no reason I can find I couldn't handle Christmastime",
+            "I bet I could improve it too And that's exactly what I'll do"
+          ]
+        },
+        {
+          "shot": 337,
+          "duration": [
+            2006.007154099299,
+            2013.306123909
+          ],
+          "sentences": [
+            "Eureka!",
+            "This year, Christmas will be ours!"
+          ]
+        },
+        {
+          "shot": 340,
+          "duration": [
+            2017.3518386035198,
+            2040.291458005437
+          ],
+          "sentences": [
+            "Patience, everyone. Jack has a special job for each of you.",
+            "Dr. Beetlestein.",
+            "Your Christmas assignment is ready.",
+            "Dr. Beetlestein, to the front of the line."
+          ]
+        },
+        {
+          "shot": 342,
+          "duration": [
+            2041.9180855630277,
+            2053.054228072686
+          ],
+          "sentences": [
+            "What kind of noise is that for a baby to make?",
+            "- Perhaps it can be improved? - No problem!",
+            "I knew it!",
+            "Doctor, thank you for coming."
+          ]
+        },
+        {
+          "shot": 343,
+          "duration": [
+            2053.095936471598,
+            2055.8486907998285
+          ],
+          "sentences": [
+            "Doctor, thank you for coming.",
+            "We need some of these."
+          ]
+        },
+        {
+          "shot": 344,
+          "duration": [
+            2055.890399198741,
+            2062.396909429103
+          ],
+          "sentences": [
+            "We need some of these.",
+            "Hmm.",
+            "Their construction should be exceedingly simple, I think."
+          ]
+        },
+        {
+          "shot": 345,
+          "duration": [
+            2062.4386178280156,
+            2068.611460867077
+          ],
+          "sentences": [
+            "How horrible our Christmas will be.",
+            "No! How jolly!"
+          ]
+        },
+        {
+          "shot": 346,
+          "duration": [
+            2068.6531692659896,
+            2077.161682644155
+          ],
+          "sentences": [
+            "Oh. How jolly our Christmas will be.",
+            "- What are you doing here? - Jack sent for us."
+          ]
+        },
+        {
+          "shot": 347,
+          "duration": [
+            2077.2033910430678,
+            2083.459650879954
+          ],
+          "sentences": [
+            "- What are you doing here? - Jack sent for us.",
+            "- Specifically. - By name.",
+            "- Lock. - Shock. - Barrel."
+          ]
+        },
+        {
+          "shot": 348,
+          "duration": [
+            2083.501359278867,
+            2087.547073973387
+          ],
+          "sentences": [
+            "Jack, Jack, it's Boogie's boys."
+          ]
+        },
+        {
+          "shot": 349,
+          "duration": [
+            2087.5887823722996,
+            2098.558091286307
+          ],
+          "sentences": [
+            "Ah, Halloween's finest trick-or-treaters.",
+            "The job I have for you is top secret.",
+            "It requires craft, cunning, mischief."
+          ]
+        },
+        {
+          "shot": 350,
+          "duration": [
+            2098.5997996852198,
+            2103.5630991558164
+          ],
+          "sentences": [
+            "And we thought you didn't like us, Jack."
+          ]
+        },
+        {
+          "shot": 351,
+          "duration": [
+            2103.604807554729,
+            2109.4856918014025
+          ],
+          "sentences": [
+            "Absolutely no one is to know about it. Not a soul!",
+            "Now."
+          ]
+        },
+        {
+          "shot": 352,
+          "duration": [
+            2109.527400200315,
+            2114.5741164687365
+          ],
+          "sentences": [
+            "Tree."
+          ]
+        },
+        {
+          "shot": 353,
+          "duration": [
+            2114.6158248676493,
+            2120.7469595077982
+          ],
+          "sentences": [
+            "Christmas Town.",
+            "Ow! Hmm."
+          ]
+        },
+        {
+          "shot": 354,
+          "duration": [
+            2120.7886679067105,
+            2126.8780941479467
+          ],
+          "sentences": [
+            "And one more thing.",
+            "Leave that no-account Oogie Boogie out of this!"
+          ]
+        },
+        {
+          "shot": 355,
+          "duration": [
+            2126.9198025468595,
+            2128.5881385033626
+          ],
+          "sentences": [
+            "Whatever you say, Jack."
+          ]
+        },
+        {
+          "shot": 356,
+          "duration": [
+            2128.629846902275,
+            2131.2991844326802
+          ],
+          "sentences": [
+            "- Of course, Jack. - Wouldn't dream of it, Jack."
+          ]
+        },
+        {
+          "shot": 357,
+          "duration": [
+            2131.3408928315926,
+            2132.800686793533
+          ],
+          "sentences": [
+            "- Of course, Jack. - Wouldn't dream of it, Jack."
+          ]
+        },
+        {
+          "shot": 362,
+          "duration": [
+            2150.4433395335527,
+            2162.330233223637
+          ],
+          "sentences": [
+            "Kidnap Mr. Sandy Claws",
+            "- I wanna do it - Let's draw straws - Jack said we should work together",
+            "- Three of a kind - Birds of a feather - Now and forever"
+          ]
+        },
+        {
+          "shot": 363,
+          "duration": [
+            2162.37194162255,
+            2165.12469595078
+          ],
+          "sentences": [
+            "La, la, la, la, la, la La, la, la, la, la"
+          ]
+        },
+        {
+          "shot": 364,
+          "duration": [
+            2165.1664043496926,
+            2172.799041350694
+          ],
+          "sentences": [
+            "La, la, la, la, la, la La, la, la, la, la",
+            "Kidnap the Sandy Claws Lock him up real tight"
+          ]
+        },
+        {
+          "shot": 365,
+          "duration": [
+            2172.8407497496064,
+            2184.1854342538277
+          ],
+          "sentences": [
+            "Kidnap the Sandy Claws Lock him up real tight",
+            "Throw away the key and then turn off all the lights",
+            "First we're going to set some bait inside a nasty trap and wait",
+            "When he comes a-sniffing We will snap the trap and close the gate",
+            "Wait, I've got a better plan to catch this big red lobster man"
+          ]
+        },
+        {
+          "shot": 366,
+          "duration": [
+            2184.22714265274,
+            2190.191443697239
+          ],
+          "sentences": [
+            "Wait, I've got a better plan to catch this big red lobster man",
+            "Let's pop him in a boiling pot And when he's done we'll butter him up"
+          ]
+        },
+        {
+          "shot": 367,
+          "duration": [
+            2190.233152096151,
+            2192.48540563743
+          ],
+          "sentences": [
+            "Let's pop him in a boiling pot And when he's done we'll butter him up",
+            "Kidnap the Sandy Claws Throw him in a box"
+          ]
+        },
+        {
+          "shot": 368,
+          "duration": [
+            2192.527114036343,
+            2197.6155387036774
+          ],
+          "sentences": [
+            "Kidnap the Sandy Claws Throw him in a box",
+            "Bury him for 90 years Then see if he talks"
+          ]
+        },
+        {
+          "shot": 369,
+          "duration": [
+            2197.6572471025897,
+            2203.4964229503507
+          ],
+          "sentences": [
+            "And Mr. Oogie Boogie man",
+            "Can take the whole thing over then"
+          ]
+        },
+        {
+          "shot": 370,
+          "duration": [
+            2203.538131349263,
+            2207.4587208470452
+          ],
+          "sentences": [
+            "Can take the whole thing over then",
+            "He'll be so pleased I do declare"
+          ]
+        },
+        {
+          "shot": 371,
+          "duration": [
+            2207.500429245958,
+            2209.001931606811
+          ],
+          "sentences": [
+            "He'll be so pleased I do declare"
+          ]
+        },
+        {
+          "shot": 372,
+          "duration": [
+            2209.0436400057233,
+            2210.8371011589643
+          ],
+          "sentences": [
+            "He'll be so pleased I do declare",
+            "That he will cook him rare Whee"
+          ]
+        },
+        {
+          "shot": 373,
+          "duration": [
+            2210.8788095578766,
+            2213.214479896981
+          ],
+          "sentences": [
+            "That he will cook him rare Whee"
+          ]
+        },
+        {
+          "shot": 376,
+          "duration": [
+            2218.7616969523538,
+            2225.8521247674917
+          ],
+          "sentences": [
+            "I say that we take a cannon Aim it at his door and then",
+            "Knock three times and when he answers Sandy Claws will be no more"
+          ]
+        },
+        {
+          "shot": 377,
+          "duration": [
+            2225.8938331664044,
+            2234.527471741308
+          ],
+          "sentences": [
+            "You're so stupid Think now if we blow him up to smithereens",
+            "We may lose some pieces and then Jack will beat us black and green",
+            "Kidnap the Sandy Claws Tie him in a bag"
+          ]
+        },
+        {
+          "shot": 378,
+          "duration": [
+            2234.5691801402204,
+            2236.5711832880243
+          ],
+          "sentences": [
+            "Kidnap the Sandy Claws Tie him in a bag",
+            "Throw him in the ocean Then see if he is sad"
+          ]
+        },
+        {
+          "shot": 379,
+          "duration": [
+            2236.6128916869366,
+            2241.1591071684074
+          ],
+          "sentences": [
+            "Throw him in the ocean Then see if he is sad",
+            "Because Mr. Oogie Boogie is the meanest guy around"
+          ]
+        },
+        {
+          "shot": 380,
+          "duration": [
+            2241.20081556732,
+            2246.164115037917
+          ],
+          "sentences": [
+            "Because Mr. Oogie Boogie is the meanest guy around",
+            "- If I were on his boogie list - I'd get out of town"
+          ]
+        },
+        {
+          "shot": 381,
+          "duration": [
+            2246.205823436829,
+            2249.6676205465733
+          ],
+          "sentences": [
+            "- If I were on his boogie list - I'd get out of town"
+          ]
+        },
+        {
+          "shot": 382,
+          "duration": [
+            2249.709328945486,
+            2252.962584060667
+          ],
+          "sentences": [
+            "He'll be so pleased by our success"
+          ]
+        },
+        {
+          "shot": 383,
+          "duration": [
+            2253.0042924595796,
+            2259.052010301903
+          ],
+          "sentences": [
+            "He'll be so pleased by our success",
+            "That he'll reward us too I'll bet",
+            "Perhaps he'll make his special brew"
+          ]
+        },
+        {
+          "shot": 384,
+          "duration": [
+            2259.0937187008158,
+            2262.0967234225213
+          ],
+          "sentences": [
+            "Perhaps he'll make his special brew",
+            "Of snake and spider stew"
+          ]
+        },
+        {
+          "shot": 385,
+          "duration": [
+            2262.1384318214336,
+            2265.850479324653
+          ],
+          "sentences": [
+            "Of snake and spider stew",
+            "We're his little henchmen and we take ourjob with pride"
+          ]
+        },
+        {
+          "shot": 386,
+          "duration": [
+            2265.8921877235657,
+            2271.3559879811132
+          ],
+          "sentences": [
+            "We do our best to please him and stay on his good side",
+            "- I wish my cohorts weren't so dumb - I'm not the dumb one"
+          ]
+        },
+        {
+          "shot": 387,
+          "duration": [
+            2271.397696380026,
+            2280.9072113320935
+          ],
+          "sentences": [
+            "- I wish my cohorts weren't so dumb - I'm not the dumb one",
+            "- You're no fun - Shut up - Make me",
+            "I've got something, listen now This one is real good you'll see",
+            "We'll send a present to his door Upon there'll be a note to read"
+          ]
+        },
+        {
+          "shot": 388,
+          "duration": [
+            2280.948919731006,
+            2287.5388467591933
+          ],
+          "sentences": [
+            "Now in the box we'll wait and hide until his curiosity",
+            "Entices him to look inside and then we'll have him one, two, three"
+          ]
+        },
+        {
+          "shot": 389,
+          "duration": [
+            2287.5805551581057,
+            2289.7076835026473
+          ],
+          "sentences": [
+            "Entices him to look inside and then we'll have him one, two, three",
+            "Kidnap the Sandy Claws Beat him with a stick"
+          ]
+        },
+        {
+          "shot": 390,
+          "duration": [
+            2289.7493919015596,
+            2294.545857776506
+          ],
+          "sentences": [
+            "Kidnap the Sandy Claws Beat him with a stick",
+            "Lock him up for 90 years See what makes him tick"
+          ]
+        },
+        {
+          "shot": 391,
+          "duration": [
+            2294.5875661754185,
+            2295.8805265417086
+          ],
+          "sentences": [
+            "Lock him up for 90 years See what makes him tick",
+            "Kidnap the Sandy Claws Chop him into bits"
+          ]
+        },
+        {
+          "shot": 392,
+          "duration": [
+            2295.922234940621,
+            2296.923236514523
+          ],
+          "sentences": [
+            "Kidnap the Sandy Claws Chop him into bits"
+          ]
+        },
+        {
+          "shot": 393,
+          "duration": [
+            2296.9649449134354,
+            2299.3423236514523
+          ],
+          "sentences": [
+            "Kidnap the Sandy Claws Chop him into bits",
+            "Mr. Oogie Boogie is sure to get his kicks"
+          ]
+        },
+        {
+          "shot": 394,
+          "duration": [
+            2299.384032050365,
+            2300.3016168264417
+          ],
+          "sentences": [
+            "Mr. Oogie Boogie is sure to get his kicks"
+          ]
+        },
+        {
+          "shot": 395,
+          "duration": [
+            2300.3433252253544,
+            2305.473458291601
+          ],
+          "sentences": [
+            "Mr. Oogie Boogie is sure to get his kicks",
+            "Kidnap the Sandy Claws See what we will see"
+          ]
+        },
+        {
+          "shot": 396,
+          "duration": [
+            2305.515166690514,
+            2309.1020889969955
+          ],
+          "sentences": [
+            "Lock him in a cage and then throw away the key"
+          ]
+        },
+        {
+          "shot": 398,
+          "duration": [
+            2315.441765631707,
+            2320.0296895120905
+          ],
+          "sentences": [
+            "Sandy Claws, huh?"
+          ]
+        },
+        {
+          "shot": 400,
+          "duration": [
+            2325.535198168551,
+            2335.2949635140935
+          ],
+          "sentences": [
+            "It goes something like this.",
+            "How about it? Think you can manage?"
+          ]
+        },
+        {
+          "shot": 401,
+          "duration": [
+            2335.3366719130063,
+            2344.345686078123
+          ],
+          "sentences": [
+            "How about it? Think you can manage?",
+            "A- one, and a-two, and a-three, and a..."
+          ]
+        },
+        {
+          "shot": 402,
+          "duration": [
+            2344.3873944770353,
+            2346.472814422664
+          ],
+          "sentences": [
+            "- Next! - Fantastic!"
+          ]
+        },
+        {
+          "shot": 403,
+          "duration": [
+            2346.514522821577,
+            2352.6873658606382
+          ],
+          "sentences": [
+            "- Next! - Fantastic!",
+            "Now, why don't you all practice on that, and we'll be in great shape."
+          ]
+        },
+        {
+          "shot": 404,
+          "duration": [
+            2352.729074259551,
+            2359.485834883388
+          ],
+          "sentences": [
+            "Sally, I need your help more than anyone's.",
+            "You certainly do, Jack. I had the most terrible vision."
+          ]
+        },
+        {
+          "shot": 405,
+          "duration": [
+            2359.527543282301,
+            2372.8742309343256
+          ],
+          "sentences": [
+            "- That's splendid! - No! It was about your Christmas.",
+            "- There was smoke and fire. - That's not my Christmas.",
+            "My Christmas is filled with laughter and joy.",
+            "And this: My Sandy Claws outfit. I want you to make it."
+          ]
+        },
+        {
+          "shot": 406,
+          "duration": [
+            2372.915939333238,
+            2377.2953212190587
+          ],
+          "sentences": [
+            "And this: My Sandy Claws outfit. I want you to make it.",
+            "Jack, please listen to me. It's going to be a disaster."
+          ]
+        },
+        {
+          "shot": 407,
+          "duration": [
+            2377.337029617971,
+            2381.8415367005296
+          ],
+          "sentences": [
+            "Jack, please listen to me. It's going to be a disaster.",
+            "How could it be? Just follow the pattern."
+          ]
+        },
+        {
+          "shot": 408,
+          "duration": [
+            2381.883245099442,
+            2389.0570897124053
+          ],
+          "sentences": [
+            "How could it be? Just follow the pattern.",
+            "This part's red. The trim is white.",
+            "- It's a mistake, Jack. - Now, don't be modest."
+          ]
+        },
+        {
+          "shot": 409,
+          "duration": [
+            2389.098798111318,
+            2392.3103448275865
+          ],
+          "sentences": [
+            "- It's a mistake, Jack. - Now, don't be modest.",
+            "Who else is clever enough to make my Sandy Claws outfit?"
+          ]
+        },
+        {
+          "shot": 410,
+          "duration": [
+            2392.352053226499,
+            2396.272642724281
+          ],
+          "sentences": [
+            "- Next! - I have...",
+            "- Oh. - Every confidence in you."
+          ]
+        },
+        {
+          "shot": 411,
+          "duration": [
+            2396.314351123194,
+            2400.151523823151
+          ],
+          "sentences": [
+            "But it seems wrong to me. Very wrong."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0107688_0003",
+      "shot": [
+        413,
+        499
+      ],
+      "frame": [
+        57665,
+        68504
+      ],
+      "duration": [
+        2405.1236873332377,
+        2857.188465333238
+      ],
+      "consistency": 0.9838866765240443,
+      "description": "The three trick-or-treaters return triumphantly with the Easter Bunny; Jack sends them back and eventually they bring him Sandy Claws (who surprises Jack by having hands rather than claws). Jack directs the trick-or-treaters to take Sandy Claws away and make him comfortable, but they give him to Oogie Boogie  instead.",
+      "subtitle": [
+        {
+          "shot": 413,
+          "duration": [
+            2404.9896980970098,
+            2406.574617255688
+          ],
+          "sentences": [
+            "Jack! Jack! We caught 'im! We got 'im!"
+          ]
+        },
+        {
+          "shot": 414,
+          "duration": [
+            2406.6163256546,
+            2407.7007440263274
+          ],
+          "sentences": [
+            "Perfect! Open it up. Quickly!"
+          ]
+        },
+        {
+          "shot": 415,
+          "duration": [
+            2407.7424524252397,
+            2413.039419087137
+          ],
+          "sentences": [
+            "Perfect! Open it up. Quickly!"
+          ]
+        },
+        {
+          "shot": 416,
+          "duration": [
+            2413.08112748605,
+            2415.291672628416
+          ],
+          "sentences": [
+            "That's not Sandy Claws!"
+          ]
+        },
+        {
+          "shot": 417,
+          "duration": [
+            2415.333381027329,
+            2416.8348833881814
+          ],
+          "sentences": [
+            "- It isn't? - Who is it?"
+          ]
+        },
+        {
+          "shot": 418,
+          "duration": [
+            2416.876591787094,
+            2418.8368865359853
+          ],
+          "sentences": [
+            "- It isn't? - Who is it?"
+          ]
+        },
+        {
+          "shot": 419,
+          "duration": [
+            2418.8785949348976,
+            2422.1735584489916
+          ],
+          "sentences": [
+            "- Bunny! - Eek! Ooh."
+          ]
+        },
+        {
+          "shot": 420,
+          "duration": [
+            2422.215266847904,
+            2425.6353555587352
+          ],
+          "sentences": [
+            "- Bunny! - Eek! Ooh.",
+            "Not Sandy Claws! Take him back!"
+          ]
+        },
+        {
+          "shot": 421,
+          "duration": [
+            2425.677063957648,
+            2426.7197739304625
+          ],
+          "sentences": [
+            "Not Sandy Claws! Take him back!"
+          ]
+        },
+        {
+          "shot": 422,
+          "duration": [
+            2426.7614823293748,
+            2429.6393618543425
+          ],
+          "sentences": [
+            "- We followed your instructions. - We went through the door."
+          ]
+        },
+        {
+          "shot": 423,
+          "duration": [
+            2429.6810702532553,
+            2435.9790384890543
+          ],
+          "sentences": [
+            "Which door? There's more than one.",
+            "Sandy Claws is behind the door shaped like this."
+          ]
+        },
+        {
+          "shot": 424,
+          "duration": [
+            2436.020746887967,
+            2440.4418371727
+          ],
+          "sentences": [
+            "Sandy Claws is behind the door shaped like this.",
+            "I told you!"
+          ]
+        },
+        {
+          "shot": 425,
+          "duration": [
+            2440.4835455716125,
+            2444.4458434683074
+          ],
+          "sentences": [
+            "- You knock it off! - Get... Ow! Ow!"
+          ]
+        },
+        {
+          "shot": 427,
+          "duration": [
+            2446.072471025898,
+            2453.2046072399485
+          ],
+          "sentences": [
+            "I'm very sorry for the inconvenience, sir.",
+            "Take him home first! And apologize again."
+          ]
+        },
+        {
+          "shot": 428,
+          "duration": [
+            2453.2463156388612,
+            2460.962369437688
+          ],
+          "sentences": [
+            "Take him home first! And apologize again.",
+            "Be careful with Sandy Claws when you fetch him.",
+            "- Treat him nicely. - Got it.",
+            "We'll get it right next time."
+          ]
+        },
+        {
+          "shot": 429,
+          "duration": [
+            2461.0040778366006,
+            2469.7628416082416
+          ],
+          "sentences": [
+            "We'll get it right next time.",
+            "You will be a decided improvement...",
+            "over that treacherous Sally.",
+            "Master. The plans."
+          ]
+        },
+        {
+          "shot": 430,
+          "duration": [
+            2469.8045500071544,
+            2472.5573043353843
+          ],
+          "sentences": [
+            "Master. The plans."
+          ]
+        },
+        {
+          "shot": 432,
+          "duration": [
+            2475.8105594505655,
+            2481.441193303763
+          ],
+          "sentences": [
+            "Excellent, Igor."
+          ]
+        },
+        {
+          "shot": 433,
+          "duration": [
+            2481.482901702676,
+            2498.3748032622693
+          ],
+          "sentences": [
+            "- What? - What's goin' on?",
+            "This time",
+            "This time"
+          ]
+        },
+        {
+          "shot": 434,
+          "duration": [
+            2498.416511661182,
+            2505.256689082845
+          ],
+          "sentences": [
+            "This time",
+            "Making Christmas",
+            "Making Christmas"
+          ]
+        },
+        {
+          "shot": 435,
+          "duration": [
+            2505.298397481757,
+            2518.311417942481
+          ],
+          "sentences": [
+            "Making Christmas Making Christmas is so fine",
+            "It's ours this time And won't the children be surprised",
+            "It's ours this time"
+          ]
+        },
+        {
+          "shot": 436,
+          "duration": [
+            2518.353126341394,
+            2523.2330090141654
+          ],
+          "sentences": [
+            "- Making Christmas - Making Christmas - Making Christmas"
+          ]
+        },
+        {
+          "shot": 437,
+          "duration": [
+            2523.2747174130777,
+            2535.578695092288
+          ],
+          "sentences": [
+            "- Making Christmas - Making Christmas - Making Christmas",
+            "Time to give them something fun",
+            "They'll talk about for years to come",
+            "- Let's have a cheer from everyone - It's time to party"
+          ]
+        },
+        {
+          "shot": 438,
+          "duration": [
+            2535.6204034912007,
+            2539.999785377021
+          ],
+          "sentences": [
+            "Making Christmas Making Christmas"
+          ]
+        },
+        {
+          "shot": 439,
+          "duration": [
+            2540.0414937759338,
+            2550.260051509515
+          ],
+          "sentences": [
+            "Snakes and mice get wrapped up so nice",
+            "With spider legs and pretty bows",
+            "It's ours this time"
+          ]
+        },
+        {
+          "shot": 440,
+          "duration": [
+            2550.301759908428,
+            2559.9364000572327
+          ],
+          "sentences": [
+            "It's ours this time",
+            "All together that and this",
+            "With all our tricks we're making Christmastime",
+            "Here comes Jack."
+          ]
+        },
+        {
+          "shot": 441,
+          "duration": [
+            2559.9781084561455,
+            2577.579052797253
+          ],
+          "sentences": [
+            "Here comes Jack.",
+            "I don't believe what's happening to me",
+            "My hopes, my dreams",
+            "My fantasies"
+          ]
+        },
+        {
+          "shot": 442,
+          "duration": [
+            2577.6207611961654,
+            2600.0181714122195
+          ],
+          "sentences": [
+            "Won't they be impressed I am a genius",
+            "See how I transform this old rat",
+            "Into a most delightful hat",
+            "- Hmm. - My compliments from me to you on this your most intriguing hat",
+            "- Consider though this substitute A bat in place of this old rat - Huh!"
+          ]
+        },
+        {
+          "shot": 443,
+          "duration": [
+            2600.059879811132,
+            2608.6935183860355
+          ],
+          "sentences": [
+            "No, no, no, now that's all wrong This thing will never make a present",
+            "It's been dead for much too long Try something fresher Something pleasant",
+            "Try again Don't give up"
+          ]
+        },
+        {
+          "shot": 444,
+          "duration": [
+            2608.735226784948,
+            2616.743239376163
+          ],
+          "sentences": [
+            "All together that and this",
+            "With all our tricks we're making Christmastime"
+          ]
+        },
+        {
+          "shot": 468,
+          "duration": [
+            2678.1797109743884,
+            2688.773644298183
+          ],
+          "sentences": [
+            "- This time, this time - It's ours"
+          ]
+        },
+        {
+          "shot": 469,
+          "duration": [
+            2688.8153526970955,
+            2694.07061096008
+          ],
+          "sentences": [
+            "Making Christmas Making Christmas",
+            "La, la, la It's almost here and we can't wait"
+          ]
+        },
+        {
+          "shot": 470,
+          "duration": [
+            2694.112319358993,
+            2704.330877092574
+          ],
+          "sentences": [
+            "La, la, la It's almost here and we can't wait",
+            "So ring the bells and celebrate",
+            "'Cause when the full moon starts to climb, we'll all sing out"
+          ]
+        },
+        {
+          "shot": 471,
+          "duration": [
+            2704.372585491487,
+            2713.339891257691
+          ],
+          "sentences": [
+            "'Cause when the full moon starts to climb, we'll all sing out",
+            "It's Christmastime"
+          ]
+        },
+        {
+          "shot": 473,
+          "duration": [
+            2719.929818285878,
+            2734.819716697668
+          ],
+          "sentences": [
+            "Kathleen, Bobby, Susie. Yes, Susie's been nice.",
+            "Nice, nice, naughty, nice, nice, nice...",
+            "There are hardly any naughty children this year.",
+            "Now, who could that be?"
+          ]
+        },
+        {
+          "shot": 474,
+          "duration": [
+            2734.8614250965807,
+            2739.4910573758766
+          ],
+          "sentences": [
+            "Now, who could that be?",
+            "- Trick or treat! - Huh?"
+          ]
+        },
+        {
+          "shot": 475,
+          "duration": [
+            2739.532765774789,
+            2750.7523250822724
+          ],
+          "sentences": [
+            "Ya!",
+            "You don't look like yourself, Jack, not at all.",
+            "Isn't that wonderful? It couldn't be more wonderful!"
+          ]
+        },
+        {
+          "shot": 476,
+          "duration": [
+            2750.7940334811847,
+            2754.631206181142
+          ],
+          "sentences": [
+            "But you're the Pumpkin King!",
+            "Not anymore. And I feel so much better now!"
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            2754.6729145800546,
+            2757.8427528974103
+          ],
+          "sentences": [
+            "Not anymore. And I feel so much better now!"
+          ]
+        },
+        {
+          "shot": 478,
+          "duration": [
+            2757.884461296323,
+            2761.8884675919303
+          ],
+          "sentences": [
+            "Not anymore. And I feel so much better now!",
+            "Jack, I know you think something's missing, but..."
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            2761.930175990843,
+            2766.6015166690513
+          ],
+          "sentences": [
+            "- Ow! - Sorry.",
+            "You're right. Something is missing, but what?"
+          ]
+        },
+        {
+          "shot": 480,
+          "duration": [
+            2766.643225067964,
+            2769.9798969809704
+          ],
+          "sentences": [
+            "You're right. Something is missing, but what?",
+            "I've got the beard, the coat, the boots, the belt..."
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            2770.0216053798827,
+            2773.733652883102
+          ],
+          "sentences": [
+            "I've got the beard, the coat, the boots, the belt...",
+            "- Jack, Jack, this time we bagged him. - This time we really did!"
+          ]
+        },
+        {
+          "shot": 482,
+          "duration": [
+            2773.7753612820147,
+            2776.986907998283
+          ],
+          "sentences": [
+            "- Jack, Jack, this time we bagged him. - This time we really did!"
+          ]
+        },
+        {
+          "shot": 483,
+          "duration": [
+            2777.0286163971955,
+            2781.699957075404
+          ],
+          "sentences": [
+            "- He sure is big, Jack! - And heavy!",
+            "Let me out!"
+          ]
+        },
+        {
+          "shot": 484,
+          "duration": [
+            2781.741665474317,
+            2782.617541851481
+          ],
+          "sentences": [
+            "Let me out!"
+          ]
+        },
+        {
+          "shot": 485,
+          "duration": [
+            2782.6592502503936,
+            2787.664258119903
+          ],
+          "sentences": [
+            "Let me out!",
+            "Sandy Claws in person! What a pleasure to meet you!"
+          ]
+        },
+        {
+          "shot": 486,
+          "duration": [
+            2787.7059665188153,
+            2789.124052081843
+          ],
+          "sentences": [
+            "Wh... Why, you have hands!"
+          ]
+        },
+        {
+          "shot": 487,
+          "duration": [
+            2789.1657604807556,
+            2790.125053655745
+          ],
+          "sentences": [
+            "Wh... Why, you have hands!"
+          ]
+        },
+        {
+          "shot": 488,
+          "duration": [
+            2790.1667620546573,
+            2793.962226355702
+          ],
+          "sentences": [
+            "Wh... Why, you have hands!",
+            "- You don't have claws at all! - Wha..."
+          ]
+        },
+        {
+          "shot": 489,
+          "duration": [
+            2794.0039347546144,
+            2796.714980683932
+          ],
+          "sentences": [
+            "Where am I?"
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            2796.756689082845,
+            2803.5551581055947
+          ],
+          "sentences": [
+            "Where am I?",
+            "Surprised, aren't you? I knew you would be.",
+            "You don't need to have another worry about Christmas this year."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            2803.596866504507,
+            2806.0993704392617
+          ],
+          "sentences": [
+            "- Wha... Well, wha... Wha... - Consider this a vacation, Sandy, a reward."
+          ]
+        },
+        {
+          "shot": 492,
+          "duration": [
+            2806.1410788381745,
+            2807.350622406639
+          ],
+          "sentences": [
+            "- Wha... Well, wha... Wha... - Consider this a vacation, Sandy, a reward."
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            2807.392330805552,
+            2814.3159250250396
+          ],
+          "sentences": [
+            "- Wha... Well, wha... Wha... - Consider this a vacation, Sandy, a reward.",
+            "- It's your turn to take it easy. - B-But there must be some mistake!",
+            "See that he's comfortable. Just a second, fellas. Of course!"
+          ]
+        },
+        {
+          "shot": 494,
+          "duration": [
+            2814.357633423952,
+            2817.1103877521823
+          ],
+          "sentences": [
+            "See that he's comfortable. Just a second, fellas. Of course!"
+          ]
+        },
+        {
+          "shot": 495,
+          "duration": [
+            2817.1520961510946,
+            2824.1591071684074
+          ],
+          "sentences": [
+            "- That's what I'm missing! - B-B-but...",
+            "- Thanks. - Y-You just can't...",
+            "Hold on. Where are we going now?"
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            2824.20081556732,
+            2826.8284446988127
+          ],
+          "sentences": [
+            "Ho, ho, ho! No."
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            2826.870153097725,
+            2833.084704535699
+          ],
+          "sentences": [
+            "- This is worse than I thought. - Ho, ho, ho. - Much worse.",
+            "- Ho, ho, ho! - I know."
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            2833.126412934612,
+            2857.2755759049937
+          ],
+          "sentences": [
+            "Me, on vacation? On Christmas Eve?",
+            "- Where are we taking him? - Where?",
+            "To Oogie Boogie, of course.",
+            "There isn't anywhere in the whole world more comfortable than that.",
+            "- And Jack said to make him comfortable, didn't he? - Yes, he did.",
+            "Haven't you heard of peace on earth and goodwill toward men?",
+            "No!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0107688_0004",
+      "shot": [
+        475,
+        673
+      ],
+      "frame": [
+        65776,
+        86650
+      ],
+      "duration": [
+        2743.4488740965808,
+        3614.010255504507
+      ],
+      "consistency": 0.9119604183545343,
+      "description": "Meanwhile, Sally has produced a red suit (without a hat, so Jack steals Sandy's) and the evil scientist's skeletal reindeer are hitched to a sleigh full of creepy toys. Sally tries to sabotage his Christmas Eve delivery by adding fog juice to the town well, and it almost works. But the spectral dog Zero, who happens to have a glowing nose, comes to the rescue. Sally deduces that only Sandy Claws will be able to help Jack now, and sneaks into Oogie Boogie's lair in an effort to free him.",
+      "subtitle": [
+        {
+          "shot": 475,
+          "duration": [
+            2739.532765774789,
+            2750.7523250822724
+          ],
+          "sentences": [
+            "Ya!",
+            "You don't look like yourself, Jack, not at all.",
+            "Isn't that wonderful? It couldn't be more wonderful!"
+          ]
+        },
+        {
+          "shot": 476,
+          "duration": [
+            2750.7940334811847,
+            2754.631206181142
+          ],
+          "sentences": [
+            "But you're the Pumpkin King!",
+            "Not anymore. And I feel so much better now!"
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            2754.6729145800546,
+            2757.8427528974103
+          ],
+          "sentences": [
+            "Not anymore. And I feel so much better now!"
+          ]
+        },
+        {
+          "shot": 478,
+          "duration": [
+            2757.884461296323,
+            2761.8884675919303
+          ],
+          "sentences": [
+            "Not anymore. And I feel so much better now!",
+            "Jack, I know you think something's missing, but..."
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            2761.930175990843,
+            2766.6015166690513
+          ],
+          "sentences": [
+            "- Ow! - Sorry.",
+            "You're right. Something is missing, but what?"
+          ]
+        },
+        {
+          "shot": 480,
+          "duration": [
+            2766.643225067964,
+            2769.9798969809704
+          ],
+          "sentences": [
+            "You're right. Something is missing, but what?",
+            "I've got the beard, the coat, the boots, the belt..."
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            2770.0216053798827,
+            2773.733652883102
+          ],
+          "sentences": [
+            "I've got the beard, the coat, the boots, the belt...",
+            "- Jack, Jack, this time we bagged him. - This time we really did!"
+          ]
+        },
+        {
+          "shot": 482,
+          "duration": [
+            2773.7753612820147,
+            2776.986907998283
+          ],
+          "sentences": [
+            "- Jack, Jack, this time we bagged him. - This time we really did!"
+          ]
+        },
+        {
+          "shot": 483,
+          "duration": [
+            2777.0286163971955,
+            2781.699957075404
+          ],
+          "sentences": [
+            "- He sure is big, Jack! - And heavy!",
+            "Let me out!"
+          ]
+        },
+        {
+          "shot": 484,
+          "duration": [
+            2781.741665474317,
+            2782.617541851481
+          ],
+          "sentences": [
+            "Let me out!"
+          ]
+        },
+        {
+          "shot": 485,
+          "duration": [
+            2782.6592502503936,
+            2787.664258119903
+          ],
+          "sentences": [
+            "Let me out!",
+            "Sandy Claws in person! What a pleasure to meet you!"
+          ]
+        },
+        {
+          "shot": 486,
+          "duration": [
+            2787.7059665188153,
+            2789.124052081843
+          ],
+          "sentences": [
+            "Wh... Why, you have hands!"
+          ]
+        },
+        {
+          "shot": 487,
+          "duration": [
+            2789.1657604807556,
+            2790.125053655745
+          ],
+          "sentences": [
+            "Wh... Why, you have hands!"
+          ]
+        },
+        {
+          "shot": 488,
+          "duration": [
+            2790.1667620546573,
+            2793.962226355702
+          ],
+          "sentences": [
+            "Wh... Why, you have hands!",
+            "- You don't have claws at all! - Wha..."
+          ]
+        },
+        {
+          "shot": 489,
+          "duration": [
+            2794.0039347546144,
+            2796.714980683932
+          ],
+          "sentences": [
+            "Where am I?"
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            2796.756689082845,
+            2803.5551581055947
+          ],
+          "sentences": [
+            "Where am I?",
+            "Surprised, aren't you? I knew you would be.",
+            "You don't need to have another worry about Christmas this year."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            2803.596866504507,
+            2806.0993704392617
+          ],
+          "sentences": [
+            "- Wha... Well, wha... Wha... - Consider this a vacation, Sandy, a reward."
+          ]
+        },
+        {
+          "shot": 492,
+          "duration": [
+            2806.1410788381745,
+            2807.350622406639
+          ],
+          "sentences": [
+            "- Wha... Well, wha... Wha... - Consider this a vacation, Sandy, a reward."
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            2807.392330805552,
+            2814.3159250250396
+          ],
+          "sentences": [
+            "- Wha... Well, wha... Wha... - Consider this a vacation, Sandy, a reward.",
+            "- It's your turn to take it easy. - B-But there must be some mistake!",
+            "See that he's comfortable. Just a second, fellas. Of course!"
+          ]
+        },
+        {
+          "shot": 494,
+          "duration": [
+            2814.357633423952,
+            2817.1103877521823
+          ],
+          "sentences": [
+            "See that he's comfortable. Just a second, fellas. Of course!"
+          ]
+        },
+        {
+          "shot": 495,
+          "duration": [
+            2817.1520961510946,
+            2824.1591071684074
+          ],
+          "sentences": [
+            "- That's what I'm missing! - B-B-but...",
+            "- Thanks. - Y-You just can't...",
+            "Hold on. Where are we going now?"
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            2824.20081556732,
+            2826.8284446988127
+          ],
+          "sentences": [
+            "Ho, ho, ho! No."
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            2826.870153097725,
+            2833.084704535699
+          ],
+          "sentences": [
+            "- This is worse than I thought. - Ho, ho, ho. - Much worse.",
+            "- Ho, ho, ho! - I know."
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            2833.126412934612,
+            2857.2755759049937
+          ],
+          "sentences": [
+            "Me, on vacation? On Christmas Eve?",
+            "- Where are we taking him? - Where?",
+            "To Oogie Boogie, of course.",
+            "There isn't anywhere in the whole world more comfortable than that.",
+            "- And Jack said to make him comfortable, didn't he? - Yes, he did.",
+            "Haven't you heard of peace on earth and goodwill toward men?",
+            "No!"
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            2859.402704249535,
+            2861.9469165832024
+          ],
+          "sentences": [
+            "Ah! This'll stop Jack."
+          ]
+        },
+        {
+          "shot": 501,
+          "duration": [
+            2861.9886249821147,
+            2863.19816855058
+          ],
+          "sentences": [
+            "Ah! This'll stop Jack."
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            2863.239876949492,
+            2869.371011589641
+          ],
+          "sentences": [
+            "Ah! This'll stop Jack."
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            2875.4187294319645,
+            2887.514165116612
+          ],
+          "sentences": [
+            "What a joy to think of all we'll have in common.",
+            "We'll have conversations won'th having!"
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            2890.767420231793,
+            2895.021676920876
+          ],
+          "sentences": [
+            "Don't do this!",
+            "Naughty children never get any presents!"
+          ]
+        },
+        {
+          "shot": 507,
+          "duration": [
+            2895.0633853197883,
+            2898.7754328230076
+          ],
+          "sentences": [
+            "Naughty children never get any presents!",
+            "- I think he might be too big! - Ooh!"
+          ]
+        },
+        {
+          "shot": 508,
+          "duration": [
+            2898.8171412219203,
+            2907.5759049935614
+          ],
+          "sentences": [
+            "No, he's not. If he can go down a chimney...",
+            "he can fit down here."
+          ]
+        },
+        {
+          "shot": 518,
+          "duration": [
+            2933.3934039204464,
+            2939.2325797682074
+          ],
+          "sentences": [
+            "Well, well, well! What have we here?",
+            "Sandy Claws, huh? Oooh, I'm really scared!"
+          ]
+        },
+        {
+          "shot": 519,
+          "duration": [
+            2939.2742881671197,
+            2941.234582916011
+          ],
+          "sentences": [
+            "Sandy Claws, huh? Oooh, I'm really scared!"
+          ]
+        },
+        {
+          "shot": 520,
+          "duration": [
+            2941.2762913149236,
+            2942.152167692088
+          ],
+          "sentences": [
+            "Sandy Claws, huh? Oooh, I'm really scared!"
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            2942.193876091,
+            2946.364715982258
+          ],
+          "sentences": [
+            "So you're the one everybody's talkin' about."
+          ]
+        },
+        {
+          "shot": 522,
+          "duration": [
+            2946.4064243811704,
+            2959.461153240807
+          ],
+          "sentences": [
+            "You'rejokin' You'rejokin'",
+            "I can't believe my eyes",
+            "You'rejokin'me, you gotta be This can't be the right guy",
+            "He's ancient, he's ugly I don't know which is worse"
+          ]
+        },
+        {
+          "shot": 523,
+          "duration": [
+            2959.50286163972,
+            2963.9656603233652
+          ],
+          "sentences": [
+            "I might just split a seam now if I don't die laughin' first"
+          ]
+        },
+        {
+          "shot": 524,
+          "duration": [
+            2964.007368722278,
+            2967.677707826585
+          ],
+          "sentences": [
+            "I might just split a seam now if I don't die laughin' first",
+            "Mr. Oogie Boogie says there's trouble close at hand"
+          ]
+        },
+        {
+          "shot": 525,
+          "duration": [
+            2967.7194162254973,
+            2972.474173701531
+          ],
+          "sentences": [
+            "Mr. Oogie Boogie says there's trouble close at hand",
+            "You better pay attention now 'cause I'm the boogie man"
+          ]
+        },
+        {
+          "shot": 526,
+          "duration": [
+            2972.515882100444,
+            2980.982687079697
+          ],
+          "sentences": [
+            "You better pay attention now 'cause I'm the boogie man",
+            "And if you aren't shakin' there's somethin' very wrong",
+            "'Cause this may be the last time you hear the boogie song"
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            2981.024395478609,
+            2983.234940620976
+          ],
+          "sentences": [
+            "'Cause this may be the last time you hear the boogie song",
+            "- Whoa-oh - Whoa-oh"
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            2983.2766490198887,
+            2985.362068965517
+          ],
+          "sentences": [
+            "- Whoa-oh - Whoa-oh"
+          ]
+        },
+        {
+          "shot": 529,
+          "duration": [
+            2985.40377736443,
+            2986.196236943769
+          ],
+          "sentences": [
+            "- Whoa-oh - Whoa-oh"
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            2986.2379453426815,
+            2987.697739304622
+          ],
+          "sentences": [
+            "- Whoa-oh - Whoa-oh"
+          ]
+        },
+        {
+          "shot": 531,
+          "duration": [
+            2987.739447703534,
+            2990.241951638289
+          ],
+          "sentences": [
+            "- Whoa-oh - Whoa-oh",
+            "- I'm the Oogie Boogie man - He's the Oogie Boogie man"
+          ]
+        },
+        {
+          "shot": 532,
+          "duration": [
+            2990.2836600372016,
+            2998.917298612105
+          ],
+          "sentences": [
+            "- I'm the Oogie Boogie man - He's the Oogie Boogie man",
+            "Release me now or you must face the dire consequences",
+            "The children are expecting me So please, come to your senses"
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            2998.9590070110175,
+            3005.006724853341
+          ],
+          "sentences": [
+            "The children are expecting me So please, come to your senses",
+            "Ah, you'rejokin' You'rejokin'",
+            "I can't believe my ears",
+            "Would someone shut this fella up I'm drownin' in my tears"
+          ]
+        },
+        {
+          "shot": 534,
+          "duration": [
+            3005.0484332522537,
+            3006.591644012019
+          ],
+          "sentences": [
+            "Would someone shut this fella up I'm drownin' in my tears"
+          ]
+        },
+        {
+          "shot": 535,
+          "duration": [
+            3006.633352410932,
+            3007.8846043783087
+          ],
+          "sentences": [
+            "Would someone shut this fella up I'm drownin' in my tears"
+          ]
+        },
+        {
+          "shot": 536,
+          "duration": [
+            3007.9263127772215,
+            3010.97102589784
+          ],
+          "sentences": [
+            "It's funny I'm laughin'",
+            "You really are too much"
+          ]
+        },
+        {
+          "shot": 537,
+          "duration": [
+            3011.012734296752,
+            3012.3891114608673
+          ],
+          "sentences": [
+            "You really are too much"
+          ]
+        },
+        {
+          "shot": 538,
+          "duration": [
+            3012.4308198597796,
+            3018.019745314065
+          ],
+          "sentences": [
+            "And now with your permission I'm going to do my stuff",
+            "- What are you going to do? - I'm gonna do the best I can."
+          ]
+        },
+        {
+          "shot": 539,
+          "duration": [
+            3018.0614537129777,
+            3019.813206467306
+          ],
+          "sentences": [
+            "- What are you going to do? - I'm gonna do the best I can."
+          ]
+        },
+        {
+          "shot": 540,
+          "duration": [
+            3019.8549148662187,
+            3025.735799112892
+          ],
+          "sentences": [
+            "- What are you going to do? - I'm gonna do the best I can.",
+            "Whoa",
+            "The sound of rolling dice to me is music in the air"
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            3025.7775075118043,
+            3026.7368006867937
+          ],
+          "sentences": [
+            "The sound of rolling dice to me is music in the air"
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            3026.7785090857064,
+            3030.24030619545
+          ],
+          "sentences": [
+            "'Cause I'm a gamblin' boogie man although I don't play fair"
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            3030.282014594363,
+            3031.3664329660896
+          ],
+          "sentences": [
+            "'Cause I'm a gamblin' boogie man although I don't play fair"
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            3031.4081413650024,
+            3039.9583631420805
+          ],
+          "sentences": [
+            "It's much more fun I must confess with lives on the line",
+            "Not mine, of course But yours, old boy",
+            "Now that'd bejust fine"
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            3040.0000715409933,
+            3044.4628702246387
+          ],
+          "sentences": [
+            "Release me fast or you will have to answer for this heinous act"
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            3044.5045786235514,
+            3050.552296465875
+          ],
+          "sentences": [
+            "Oh, brother, you're somethin' You put me in a spin",
+            "You aren't comprehending the position that you're in"
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            3050.5940048647876,
+            3053.3884675919303
+          ],
+          "sentences": [
+            "You aren't comprehending the position that you're in",
+            "It's hopeless, you're finished You haven't got a prayer"
+          ]
+        },
+        {
+          "shot": 548,
+          "duration": [
+            3053.430175990843,
+            3065.7758620689656
+          ],
+          "sentences": [
+            "It's hopeless, you're finished You haven't got a prayer",
+            "'Cause I'm Mr. Oogie Boogie",
+            "And you ain't goin'nowhere"
+          ]
+        },
+        {
+          "shot": 553,
+          "duration": [
+            3086.7968951209045,
+            3094.4712405208184
+          ],
+          "sentences": [
+            "Whoa! It's Jack!"
+          ]
+        },
+        {
+          "shot": 555,
+          "duration": [
+            3098.0998712262126,
+            3101.603376734869
+          ],
+          "sentences": [
+            "Think of us as you soar triumphantly through the sky..."
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            3101.645085133782,
+            3107.9847617684936
+          ],
+          "sentences": [
+            "Think of us as you soar triumphantly through the sky...",
+            "outshining every star..."
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            3108.026470167406,
+            3112.1138932608387
+          ],
+          "sentences": [
+            "your silhouette a dark blot on the moon."
+          ]
+        },
+        {
+          "shot": 558,
+          "duration": [
+            3112.155601659751,
+            3114.5746887966807
+          ],
+          "sentences": [
+            "You, who are our pride."
+          ]
+        },
+        {
+          "shot": 559,
+          "duration": [
+            3114.6163971955934,
+            3117.6611103162113
+          ],
+          "sentences": [
+            "You, who are our glory.",
+            "- You, who have frightened millions into an early grave. - Ow!"
+          ]
+        },
+        {
+          "shot": 560,
+          "duration": [
+            3117.702818715124,
+            3119.4962798683646
+          ],
+          "sentences": [
+            "- You, who have frightened millions into an early grave. - Ow!"
+          ]
+        },
+        {
+          "shot": 561,
+          "duration": [
+            3119.5379882672773,
+            3121.7485334096436
+          ],
+          "sentences": [
+            "- You, who have frightened millions into an early grave. - Ow!"
+          ]
+        },
+        {
+          "shot": 562,
+          "duration": [
+            3121.7902418085564,
+            3127.254042066104
+          ],
+          "sentences": [
+            "You, who have, uh...",
+            "devastated the, the souls of the living?"
+          ]
+        },
+        {
+          "shot": 563,
+          "duration": [
+            3127.2957504650167,
+            3132.5510087280013
+          ],
+          "sentences": [
+            "devastated the, the souls of the living?",
+            "Oh, no! We can't take off in this.",
+            "- The reindeer can't see an inch in front of their noses. - Whew!"
+          ]
+        },
+        {
+          "shot": 564,
+          "duration": [
+            3132.592717126914,
+            3135.9710974388327
+          ],
+          "sentences": [
+            "- The reindeer can't see an inch in front of their noses. - Whew!"
+          ]
+        },
+        {
+          "shot": 565,
+          "duration": [
+            3136.012805837745,
+            3141.851981685506
+          ],
+          "sentences": [
+            "This fog's as thick as, as...",
+            "- Jellied brains. - Or thicker!"
+          ]
+        },
+        {
+          "shot": 566,
+          "duration": [
+            3141.8936900844187,
+            3145.2303619974246
+          ],
+          "sentences": [
+            "- Jellied brains. - Or thicker!",
+            "There go all of my hopes..."
+          ]
+        },
+        {
+          "shot": 567,
+          "duration": [
+            3145.2720703963373,
+            3149.2343682930323
+          ],
+          "sentences": [
+            "There go all of my hopes...",
+            "my precious plans, my glorious dreams."
+          ]
+        },
+        {
+          "shot": 568,
+          "duration": [
+            3149.2760766919446,
+            3153.6554585777653
+          ],
+          "sentences": [
+            "my precious plans, my glorious dreams.",
+            "There goes Christmas."
+          ]
+        },
+        {
+          "shot": 570,
+          "duration": [
+            3154.739876949492,
+            3155.5740449277437
+          ],
+          "sentences": [
+            "No, Zero. Down, boy."
+          ]
+        },
+        {
+          "shot": 571,
+          "duration": [
+            3155.6157533266564,
+            3156.533338102733
+          ],
+          "sentences": [
+            "No, Zero. Down, boy."
+          ]
+        },
+        {
+          "shot": 572,
+          "duration": [
+            3156.5750465016454,
+            3157.61775647446
+          ],
+          "sentences": [
+            "No, Zero. Down, boy."
+          ]
+        },
+        {
+          "shot": 573,
+          "duration": [
+            3157.6594648733726,
+            3159.7031764200888
+          ],
+          "sentences": [
+            "No, Zero. Down, boy.",
+            "My, what a brilliant nose you have!"
+          ]
+        },
+        {
+          "shot": 574,
+          "duration": [
+            3159.7448848190015,
+            3161.9971383602806
+          ],
+          "sentences": [
+            "My, what a brilliant nose you have!",
+            "The better to light my way!"
+          ]
+        },
+        {
+          "shot": 575,
+          "duration": [
+            3162.0388467591933,
+            3163.248390327658
+          ],
+          "sentences": [
+            "The better to light my way!"
+          ]
+        },
+        {
+          "shot": 576,
+          "duration": [
+            3163.2900987265702,
+            3165.584060666762
+          ],
+          "sentences": [
+            "The better to light my way!",
+            "To the head of the team, Zero!"
+          ]
+        },
+        {
+          "shot": 577,
+          "duration": [
+            3165.625769065675,
+            3166.6684790384893
+          ],
+          "sentences": [
+            "To the head of the team, Zero!"
+          ]
+        },
+        {
+          "shot": 578,
+          "duration": [
+            3166.7101874374016,
+            3168.5870653884676
+          ],
+          "sentences": [
+            "To the head of the team, Zero!"
+          ]
+        },
+        {
+          "shot": 579,
+          "duration": [
+            3168.6287737873804,
+            3169.546358563457
+          ],
+          "sentences": [
+            "We're off!"
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            3169.58806696237,
+            3173.383531263414
+          ],
+          "sentences": [
+            "We're off!"
+          ]
+        },
+        {
+          "shot": 581,
+          "duration": [
+            3173.4252396623265,
+            3175.927743597081
+          ],
+          "sentences": [
+            "Wait, Jack! No!"
+          ]
+        },
+        {
+          "shot": 584,
+          "duration": [
+            3183.4352554013453,
+            3192.73622835885
+          ],
+          "sentences": [
+            "Ho-ho-ho! Ha-ha-ha-ha-ho!"
+          ]
+        },
+        {
+          "shot": 585,
+          "duration": [
+            3192.7779367577623,
+            3202.28745170983
+          ],
+          "sentences": [
+            "Good-bye, Jack.",
+            "My dearest Jack."
+          ]
+        },
+        {
+          "shot": 586,
+          "duration": [
+            3202.3291601087426,
+            3208.7105451423668
+          ],
+          "sentences": [
+            "My dearest Jack.",
+            "Oh, how I hope my premonition is wrong."
+          ]
+        },
+        {
+          "shot": 587,
+          "duration": [
+            3208.7522535412795,
+            3222.0989411933037
+          ],
+          "sentences": [
+            "I sense there's something in the wind",
+            "That feels like tragedy's at hand"
+          ]
+        },
+        {
+          "shot": 588,
+          "duration": [
+            3222.1406495922165,
+            3232.2757905279727
+          ],
+          "sentences": [
+            "And though I'd like to stand by him",
+            "Can't shake this feeling that I have"
+          ]
+        },
+        {
+          "shot": 589,
+          "duration": [
+            3232.317498926885,
+            3236.154671626842
+          ],
+          "sentences": [
+            "Can't shake this feeling that I have",
+            "The worst is just around the bend"
+          ]
+        },
+        {
+          "shot": 590,
+          "duration": [
+            3236.196380025755,
+            3246.1229789669483
+          ],
+          "sentences": [
+            "The worst is just around the bend",
+            "And does he notice",
+            "My feelings for him"
+          ]
+        },
+        {
+          "shot": 591,
+          "duration": [
+            3246.1646873658606,
+            3269.7716411503793
+          ],
+          "sentences": [
+            "My feelings for him",
+            "And will he see",
+            "How much he means to me",
+            "I think it's not to be",
+            "What will become of my dear friend",
+            "Where will his actions lead us then"
+          ]
+        },
+        {
+          "shot": 592,
+          "duration": [
+            3269.813349549292,
+            3285.8293747317216
+          ],
+          "sentences": [
+            "Where will his actions lead us then",
+            "Although I'd like to join the crowd",
+            "In their enthusiastic cloud",
+            "Try as I may it doesn't last"
+          ]
+        },
+        {
+          "shot": 593,
+          "duration": [
+            3285.871083130634,
+            3308.3102017456004
+          ],
+          "sentences": [
+            "Try as I may it doesn't last",
+            "And will we ever",
+            "End up together",
+            "No, I think not",
+            "It's never to become",
+            "For I am not the one"
+          ]
+        },
+        {
+          "shot": 598,
+          "duration": [
+            3325.1186865073687,
+            3332.41765631707
+          ],
+          "sentences": [
+            "Ho-ho-ho-ho-ho-ho-ho!",
+            "Hee-hee-hee-hee-hee!"
+          ]
+        },
+        {
+          "shot": 599,
+          "duration": [
+            3332.4593647159822,
+            3337.130705394191
+          ],
+          "sentences": [
+            "Hee-hee-hee-hee-hee!"
+          ]
+        },
+        {
+          "shot": 600,
+          "duration": [
+            3337.1724137931037,
+            3342.0522964658753
+          ],
+          "sentences": [
+            "Santa!"
+          ]
+        },
+        {
+          "shot": 601,
+          "duration": [
+            3342.0940048647876,
+            3347.599513521248
+          ],
+          "sentences": [
+            "Santa!"
+          ]
+        },
+        {
+          "shot": 606,
+          "duration": [
+            3358.819072828731,
+            3366.701960223208
+          ],
+          "sentences": [
+            "Santa?",
+            "Merry Christmas! And what is your name?"
+          ]
+        },
+        {
+          "shot": 607,
+          "duration": [
+            3366.743668622121,
+            3369.7883817427387
+          ],
+          "sentences": [
+            "Merry Christmas! And what is your name?"
+          ]
+        },
+        {
+          "shot": 608,
+          "duration": [
+            3369.8300901416515,
+            3375.377307197024
+          ],
+          "sentences": [
+            "Merry Christmas! And what is your name?",
+            "- Uh, uh, uh, uh... - That's all right.",
+            "I have a special present for you anyway. There you go, sonny."
+          ]
+        },
+        {
+          "shot": 609,
+          "duration": [
+            3375.419015595937,
+            3377.5044355415653
+          ],
+          "sentences": [
+            "I have a special present for you anyway. There you go, sonny."
+          ]
+        },
+        {
+          "shot": 610,
+          "duration": [
+            3377.546143940478,
+            3379.423021891544
+          ],
+          "sentences": [
+            "Ho-ho-ho-ho! Hee-hee-hee-hee-hee!"
+          ]
+        },
+        {
+          "shot": 611,
+          "duration": [
+            3379.4647302904564,
+            3388.0566604664473
+          ],
+          "sentences": [
+            "Ho-ho-ho-ho! Hee-hee-hee-hee-hee!",
+            "And what did Santa bring you, honey?"
+          ]
+        },
+        {
+          "shot": 612,
+          "duration": [
+            3388.09836886536,
+            3391.351623980541
+          ],
+          "sentences": [
+            "And what did Santa bring you, honey?"
+          ]
+        },
+        {
+          "shot": 613,
+          "duration": [
+            3391.3933323794536,
+            3394.688295893547
+          ],
+          "sentences": [
+            "Merry Christmas!"
+          ]
+        },
+        {
+          "shot": 614,
+          "duration": [
+            3394.73000429246,
+            3404.3646444412648
+          ],
+          "sentences": [
+            "Hello. Police.",
+            "Attacked by Christmas toys? That's strange. That's the second toy complaint we've had."
+          ]
+        },
+        {
+          "shot": 615,
+          "duration": [
+            3404.4063528401775,
+            3410.4123622835887
+          ],
+          "sentences": [
+            "Oh! Ha-ha-ha-ha, ha-ha-ha-ha-ha-ha!"
+          ]
+        },
+        {
+          "shot": 616,
+          "duration": [
+            3410.4540706825014,
+            3415.9595793389612
+          ],
+          "sentences": [
+            "Oh! Ha-ha-ha-ha, ha-ha-ha-ha-ha-ha!"
+          ]
+        },
+        {
+          "shot": 621,
+          "duration": [
+            3437.2308627843754,
+            3441.4017026756333
+          ],
+          "sentences": [
+            "Huh?"
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            3441.443411074546,
+            3448.033338102733
+          ],
+          "sentences": [
+            "Oh, wait!"
+          ]
+        },
+        {
+          "shot": 623,
+          "duration": [
+            3448.0750465016454,
+            3450.8278008298757
+          ],
+          "sentences": [
+            "Whoa! Help! Help!"
+          ]
+        },
+        {
+          "shot": 636,
+          "duration": [
+            3486.3216483044785,
+            3491.410072971813
+          ],
+          "sentences": [
+            "You're welcome, one and all!"
+          ]
+        },
+        {
+          "shot": 637,
+          "duration": [
+            3491.4517813707257,
+            3500.1271283445417
+          ],
+          "sentences": [
+            "Where'd you spot him? Fast as we can, ma'am.",
+            "Police. I know. I know. A skeleton. Keep calm.",
+            "Turn off all the lights. Make sure the doors are locked. Hello. Police."
+          ]
+        },
+        {
+          "shot": 638,
+          "duration": [
+            3500.168836743454,
+            3502.2959650879957
+          ],
+          "sentences": [
+            "Reports are pouring in from all over the globe..."
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            3502.337673486908,
+            3504.9653026184005
+          ],
+          "sentences": [
+            "Reports are pouring in from all over the globe...",
+            "that an impostor is shamelessly impersonating Santa Claus..."
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            3505.0070110173133,
+            3520.0637430247534
+          ],
+          "sentences": [
+            "that an impostor is shamelessly impersonating Santa Claus...",
+            "mocking and mangling this joyous holiday.",
+            "Authorities assure us that at this moment...",
+            "military units are mobilizing to stop the perpetrator of this heinous crime.",
+            "- Jack! Someone has to help Jack. - Wherever you are..."
+          ]
+        },
+        {
+          "shot": 641,
+          "duration": [
+            3520.1054514236657,
+            3524.1511661181858
+          ],
+          "sentences": [
+            "- Where'd they take that Sandy Claws? - Come back and save Christmas."
+          ]
+        },
+        {
+          "shot": 645,
+          "duration": [
+            3533.0767634854774,
+            3535.5375590213193
+          ],
+          "sentences": [
+            "Look, Zero, searchlights!"
+          ]
+        },
+        {
+          "shot": 646,
+          "duration": [
+            3535.579267420232,
+            3537.5812705680355
+          ],
+          "sentences": [
+            "Look, Zero, searchlights!"
+          ]
+        },
+        {
+          "shot": 651,
+          "duration": [
+            3545.0887823722996,
+            3549.4264558592076
+          ],
+          "sentences": [
+            "They're celebrating!",
+            "They're thanking us for doing such a good job."
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            3549.46816425812,
+            3550.260623837459
+          ],
+          "sentences": [
+            "They're thanking us for doing such a good job."
+          ]
+        },
+        {
+          "shot": 653,
+          "duration": [
+            3550.3023322363715,
+            3551.178208613536
+          ],
+          "sentences": [
+            "They're thanking us for doing such a good job."
+          ]
+        },
+        {
+          "shot": 654,
+          "duration": [
+            3551.219917012448,
+            3552.6797109743884
+          ],
+          "sentences": [
+            "They're thanking us for doing such a good job.",
+            "Whoa! Careful down there. You almost hit us!"
+          ]
+        },
+        {
+          "shot": 655,
+          "duration": [
+            3552.721419373301,
+            3558.2686364286737
+          ],
+          "sentences": [
+            "Whoa! Careful down there. You almost hit us!",
+            "It's okay, Zero. Head higher."
+          ]
+        },
+        {
+          "shot": 656,
+          "duration": [
+            3558.3103448275865,
+            3561.2716411503793
+          ],
+          "sentences": [
+            "It's okay, Zero. Head higher."
+          ]
+        },
+        {
+          "shot": 658,
+          "duration": [
+            3564.3997710688227,
+            3566.360065817714
+          ],
+          "sentences": [
+            "Are you a gamblin' man, Sandy?"
+          ]
+        },
+        {
+          "shot": 659,
+          "duration": [
+            3566.401774216626,
+            3571.1982400915726
+          ],
+          "sentences": [
+            "Are you a gamblin' man, Sandy?",
+            "Let's play. Hmm?"
+          ]
+        },
+        {
+          "shot": 660,
+          "duration": [
+            3571.2399484904854,
+            3574.201244813278
+          ],
+          "sentences": [
+            "My, my! What have we here?"
+          ]
+        },
+        {
+          "shot": 661,
+          "duration": [
+            3574.242953212191,
+            3579.623336671913
+          ],
+          "sentences": [
+            "My, my! What have we here?"
+          ]
+        },
+        {
+          "shot": 663,
+          "duration": [
+            3586.4635140935757,
+            3588.6740592359424
+          ],
+          "sentences": [
+            "I'll get you out of here."
+          ]
+        },
+        {
+          "shot": 664,
+          "duration": [
+            3588.7157676348547,
+            3594.4715266847907
+          ],
+          "sentences": [
+            "I'll get you out of here.",
+            "Ah. Lovely.",
+            "Tickle, tickle, tickle. Uh, tickle, tickle, tickle."
+          ]
+        },
+        {
+          "shot": 665,
+          "duration": [
+            3594.513235083703,
+            3596.473529832594
+          ],
+          "sentences": [
+            "Tickle, tickle, tickle. Uh, tickle, tickle, tickle."
+          ]
+        },
+        {
+          "shot": 666,
+          "duration": [
+            3596.515238231507,
+            3598.684074974961
+          ],
+          "sentences": [
+            "Tickle, tickle, tickle. Tickle, tickle, tickle."
+          ]
+        },
+        {
+          "shot": 667,
+          "duration": [
+            3598.7257833738736,
+            3602.479539276005
+          ],
+          "sentences": [
+            "What? You try to make a dupe out of me!"
+          ]
+        },
+        {
+          "shot": 668,
+          "duration": [
+            3602.521247674918,
+            3603.6890828444702
+          ],
+          "sentences": [
+            "What? You try to make a dupe out of me!"
+          ]
+        },
+        {
+          "shot": 669,
+          "duration": [
+            3603.7307912433826,
+            3604.856918014022
+          ],
+          "sentences": [
+            "What? You try to make a dupe out of me!"
+          ]
+        },
+        {
+          "shot": 670,
+          "duration": [
+            3604.898626412935,
+            3606.3167119759623
+          ],
+          "sentences": [
+            "What? You try to make a dupe out of me!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0107688_0005",
+      "shot": [
+        594,
+        801
+      ],
+      "frame": [
+        79380,
+        99563
+      ],
+      "duration": [
+        3310.820445144513,
+        4152.6057689268855
+      ],
+      "consistency": 0.9414428118760031,
+      "description": "Jack sets off in his sleigh, but he doesn't really get Christmas -- his idea of a keen gift for a small child is a shrunken head or a toy duck with sharp teeth that chases its owner -- so he spreads terror and mayhem at every house he visits. He ends up being blown up out of the sky by the terrified populace. Realizing both his mistake and his desire to be the best pumpkin king he can be, he goes back to Halloweentown to find Sandy Claws and set Christmas right.",
+      "subtitle": [
+        {
+          "shot": 598,
+          "duration": [
+            3325.1186865073687,
+            3332.41765631707
+          ],
+          "sentences": [
+            "Ho-ho-ho-ho-ho-ho-ho!",
+            "Hee-hee-hee-hee-hee!"
+          ]
+        },
+        {
+          "shot": 599,
+          "duration": [
+            3332.4593647159822,
+            3337.130705394191
+          ],
+          "sentences": [
+            "Hee-hee-hee-hee-hee!"
+          ]
+        },
+        {
+          "shot": 600,
+          "duration": [
+            3337.1724137931037,
+            3342.0522964658753
+          ],
+          "sentences": [
+            "Santa!"
+          ]
+        },
+        {
+          "shot": 601,
+          "duration": [
+            3342.0940048647876,
+            3347.599513521248
+          ],
+          "sentences": [
+            "Santa!"
+          ]
+        },
+        {
+          "shot": 606,
+          "duration": [
+            3358.819072828731,
+            3366.701960223208
+          ],
+          "sentences": [
+            "Santa?",
+            "Merry Christmas! And what is your name?"
+          ]
+        },
+        {
+          "shot": 607,
+          "duration": [
+            3366.743668622121,
+            3369.7883817427387
+          ],
+          "sentences": [
+            "Merry Christmas! And what is your name?"
+          ]
+        },
+        {
+          "shot": 608,
+          "duration": [
+            3369.8300901416515,
+            3375.377307197024
+          ],
+          "sentences": [
+            "Merry Christmas! And what is your name?",
+            "- Uh, uh, uh, uh... - That's all right.",
+            "I have a special present for you anyway. There you go, sonny."
+          ]
+        },
+        {
+          "shot": 609,
+          "duration": [
+            3375.419015595937,
+            3377.5044355415653
+          ],
+          "sentences": [
+            "I have a special present for you anyway. There you go, sonny."
+          ]
+        },
+        {
+          "shot": 610,
+          "duration": [
+            3377.546143940478,
+            3379.423021891544
+          ],
+          "sentences": [
+            "Ho-ho-ho-ho! Hee-hee-hee-hee-hee!"
+          ]
+        },
+        {
+          "shot": 611,
+          "duration": [
+            3379.4647302904564,
+            3388.0566604664473
+          ],
+          "sentences": [
+            "Ho-ho-ho-ho! Hee-hee-hee-hee-hee!",
+            "And what did Santa bring you, honey?"
+          ]
+        },
+        {
+          "shot": 612,
+          "duration": [
+            3388.09836886536,
+            3391.351623980541
+          ],
+          "sentences": [
+            "And what did Santa bring you, honey?"
+          ]
+        },
+        {
+          "shot": 613,
+          "duration": [
+            3391.3933323794536,
+            3394.688295893547
+          ],
+          "sentences": [
+            "Merry Christmas!"
+          ]
+        },
+        {
+          "shot": 614,
+          "duration": [
+            3394.73000429246,
+            3404.3646444412648
+          ],
+          "sentences": [
+            "Hello. Police.",
+            "Attacked by Christmas toys? That's strange. That's the second toy complaint we've had."
+          ]
+        },
+        {
+          "shot": 615,
+          "duration": [
+            3404.4063528401775,
+            3410.4123622835887
+          ],
+          "sentences": [
+            "Oh! Ha-ha-ha-ha, ha-ha-ha-ha-ha-ha!"
+          ]
+        },
+        {
+          "shot": 616,
+          "duration": [
+            3410.4540706825014,
+            3415.9595793389612
+          ],
+          "sentences": [
+            "Oh! Ha-ha-ha-ha, ha-ha-ha-ha-ha-ha!"
+          ]
+        },
+        {
+          "shot": 621,
+          "duration": [
+            3437.2308627843754,
+            3441.4017026756333
+          ],
+          "sentences": [
+            "Huh?"
+          ]
+        },
+        {
+          "shot": 622,
+          "duration": [
+            3441.443411074546,
+            3448.033338102733
+          ],
+          "sentences": [
+            "Oh, wait!"
+          ]
+        },
+        {
+          "shot": 623,
+          "duration": [
+            3448.0750465016454,
+            3450.8278008298757
+          ],
+          "sentences": [
+            "Whoa! Help! Help!"
+          ]
+        },
+        {
+          "shot": 636,
+          "duration": [
+            3486.3216483044785,
+            3491.410072971813
+          ],
+          "sentences": [
+            "You're welcome, one and all!"
+          ]
+        },
+        {
+          "shot": 637,
+          "duration": [
+            3491.4517813707257,
+            3500.1271283445417
+          ],
+          "sentences": [
+            "Where'd you spot him? Fast as we can, ma'am.",
+            "Police. I know. I know. A skeleton. Keep calm.",
+            "Turn off all the lights. Make sure the doors are locked. Hello. Police."
+          ]
+        },
+        {
+          "shot": 638,
+          "duration": [
+            3500.168836743454,
+            3502.2959650879957
+          ],
+          "sentences": [
+            "Reports are pouring in from all over the globe..."
+          ]
+        },
+        {
+          "shot": 639,
+          "duration": [
+            3502.337673486908,
+            3504.9653026184005
+          ],
+          "sentences": [
+            "Reports are pouring in from all over the globe...",
+            "that an impostor is shamelessly impersonating Santa Claus..."
+          ]
+        },
+        {
+          "shot": 640,
+          "duration": [
+            3505.0070110173133,
+            3520.0637430247534
+          ],
+          "sentences": [
+            "that an impostor is shamelessly impersonating Santa Claus...",
+            "mocking and mangling this joyous holiday.",
+            "Authorities assure us that at this moment...",
+            "military units are mobilizing to stop the perpetrator of this heinous crime.",
+            "- Jack! Someone has to help Jack. - Wherever you are..."
+          ]
+        },
+        {
+          "shot": 641,
+          "duration": [
+            3520.1054514236657,
+            3524.1511661181858
+          ],
+          "sentences": [
+            "- Where'd they take that Sandy Claws? - Come back and save Christmas."
+          ]
+        },
+        {
+          "shot": 645,
+          "duration": [
+            3533.0767634854774,
+            3535.5375590213193
+          ],
+          "sentences": [
+            "Look, Zero, searchlights!"
+          ]
+        },
+        {
+          "shot": 646,
+          "duration": [
+            3535.579267420232,
+            3537.5812705680355
+          ],
+          "sentences": [
+            "Look, Zero, searchlights!"
+          ]
+        },
+        {
+          "shot": 651,
+          "duration": [
+            3545.0887823722996,
+            3549.4264558592076
+          ],
+          "sentences": [
+            "They're celebrating!",
+            "They're thanking us for doing such a good job."
+          ]
+        },
+        {
+          "shot": 652,
+          "duration": [
+            3549.46816425812,
+            3550.260623837459
+          ],
+          "sentences": [
+            "They're thanking us for doing such a good job."
+          ]
+        },
+        {
+          "shot": 653,
+          "duration": [
+            3550.3023322363715,
+            3551.178208613536
+          ],
+          "sentences": [
+            "They're thanking us for doing such a good job."
+          ]
+        },
+        {
+          "shot": 654,
+          "duration": [
+            3551.219917012448,
+            3552.6797109743884
+          ],
+          "sentences": [
+            "They're thanking us for doing such a good job.",
+            "Whoa! Careful down there. You almost hit us!"
+          ]
+        },
+        {
+          "shot": 655,
+          "duration": [
+            3552.721419373301,
+            3558.2686364286737
+          ],
+          "sentences": [
+            "Whoa! Careful down there. You almost hit us!",
+            "It's okay, Zero. Head higher."
+          ]
+        },
+        {
+          "shot": 656,
+          "duration": [
+            3558.3103448275865,
+            3561.2716411503793
+          ],
+          "sentences": [
+            "It's okay, Zero. Head higher."
+          ]
+        },
+        {
+          "shot": 658,
+          "duration": [
+            3564.3997710688227,
+            3566.360065817714
+          ],
+          "sentences": [
+            "Are you a gamblin' man, Sandy?"
+          ]
+        },
+        {
+          "shot": 659,
+          "duration": [
+            3566.401774216626,
+            3571.1982400915726
+          ],
+          "sentences": [
+            "Are you a gamblin' man, Sandy?",
+            "Let's play. Hmm?"
+          ]
+        },
+        {
+          "shot": 660,
+          "duration": [
+            3571.2399484904854,
+            3574.201244813278
+          ],
+          "sentences": [
+            "My, my! What have we here?"
+          ]
+        },
+        {
+          "shot": 661,
+          "duration": [
+            3574.242953212191,
+            3579.623336671913
+          ],
+          "sentences": [
+            "My, my! What have we here?"
+          ]
+        },
+        {
+          "shot": 663,
+          "duration": [
+            3586.4635140935757,
+            3588.6740592359424
+          ],
+          "sentences": [
+            "I'll get you out of here."
+          ]
+        },
+        {
+          "shot": 664,
+          "duration": [
+            3588.7157676348547,
+            3594.4715266847907
+          ],
+          "sentences": [
+            "I'll get you out of here.",
+            "Ah. Lovely.",
+            "Tickle, tickle, tickle. Uh, tickle, tickle, tickle."
+          ]
+        },
+        {
+          "shot": 665,
+          "duration": [
+            3594.513235083703,
+            3596.473529832594
+          ],
+          "sentences": [
+            "Tickle, tickle, tickle. Uh, tickle, tickle, tickle."
+          ]
+        },
+        {
+          "shot": 666,
+          "duration": [
+            3596.515238231507,
+            3598.684074974961
+          ],
+          "sentences": [
+            "Tickle, tickle, tickle. Tickle, tickle, tickle."
+          ]
+        },
+        {
+          "shot": 667,
+          "duration": [
+            3598.7257833738736,
+            3602.479539276005
+          ],
+          "sentences": [
+            "What? You try to make a dupe out of me!"
+          ]
+        },
+        {
+          "shot": 668,
+          "duration": [
+            3602.521247674918,
+            3603.6890828444702
+          ],
+          "sentences": [
+            "What? You try to make a dupe out of me!"
+          ]
+        },
+        {
+          "shot": 669,
+          "duration": [
+            3603.7307912433826,
+            3604.856918014022
+          ],
+          "sentences": [
+            "What? You try to make a dupe out of me!"
+          ]
+        },
+        {
+          "shot": 670,
+          "duration": [
+            3604.898626412935,
+            3606.3167119759623
+          ],
+          "sentences": [
+            "What? You try to make a dupe out of me!"
+          ]
+        },
+        {
+          "shot": 673,
+          "duration": [
+            3614.1578909715267,
+            3616.6186865073687
+          ],
+          "sentences": [
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 674,
+          "duration": [
+            3616.6603949062815,
+            3619.162898841036
+          ],
+          "sentences": [
+            "Who's next on my list?"
+          ]
+        },
+        {
+          "shot": 675,
+          "duration": [
+            3619.2046072399485,
+            3623.6674059235943
+          ],
+          "sentences": [
+            "Ah, little Harry and Jordan. Won't they be surprised?"
+          ]
+        },
+        {
+          "shot": 681,
+          "duration": [
+            3635.5125912147664,
+            3637.7648447560455
+          ],
+          "sentences": [
+            "They're trying to hit us. Zero!"
+          ]
+        },
+        {
+          "shot": 682,
+          "duration": [
+            3637.806553154958,
+            3639.558305909286
+          ],
+          "sentences": [
+            "They're trying to hit us. Zero!"
+          ]
+        },
+        {
+          "shot": 688,
+          "duration": [
+            3648.9844040635285,
+            3675.5109457719273
+          ],
+          "sentences": [
+            "Merry Christmas to all...",
+            "and to all a good night!"
+          ]
+        },
+        {
+          "shot": 689,
+          "duration": [
+            3675.55265417084,
+            3695.155601659751
+          ],
+          "sentences": [
+            "I knew this Christmas thing was a bad idea.",
+            "I felt it in my gut.",
+            "Terrible news, folks.",
+            "The worst tragedy of our times.",
+            "Jack has been blown to smithereens!"
+          ]
+        },
+        {
+          "shot": 690,
+          "duration": [
+            3695.197310058664,
+            3702.8299470596653
+          ],
+          "sentences": [
+            "Jack has been blown to smithereens!",
+            "Terrible, terrible news!"
+          ]
+        },
+        {
+          "shot": 691,
+          "duration": [
+            3702.871655458578,
+            3705.624409786808
+          ],
+          "sentences": [
+            "Attention. Attention, citizens."
+          ]
+        },
+        {
+          "shot": 692,
+          "duration": [
+            3705.6661181857207,
+            3707.626412934612
+          ],
+          "sentences": [
+            "Attention. Attention, citizens.",
+            "Terrible news. There's still no sign of Santa Claus."
+          ]
+        },
+        {
+          "shot": 693,
+          "duration": [
+            3707.668121333524,
+            3709.503290885678
+          ],
+          "sentences": [
+            "Terrible news. There's still no sign of Santa Claus."
+          ]
+        },
+        {
+          "shot": 694,
+          "duration": [
+            3709.54499928459,
+            3711.463585634569
+          ],
+          "sentences": [
+            "Terrible news. There's still no sign of Santa Claus."
+          ]
+        },
+        {
+          "shot": 695,
+          "duration": [
+            3711.5052940334813,
+            3713.1319215910717
+          ],
+          "sentences": [
+            "Although the impostor has been shot down..."
+          ]
+        },
+        {
+          "shot": 696,
+          "duration": [
+            3713.1736299899844,
+            3722.891686936615
+          ],
+          "sentences": [
+            "Although the impostor has been shot down...",
+            "it looks like Christmas will have to be cancelled this year.",
+            "I repeat, the impostor has been shot down..."
+          ]
+        },
+        {
+          "shot": 697,
+          "duration": [
+            3722.9333953355276,
+            3747.3745170982975
+          ],
+          "sentences": [
+            "but there's still no sign yet of Santa.",
+            "What have I done"
+          ]
+        },
+        {
+          "shot": 698,
+          "duration": [
+            3747.4162254972102,
+            3763.0568750894263
+          ],
+          "sentences": [
+            "How could I",
+            "Be so blind",
+            "All is lost",
+            "Where was I",
+            "Spoiled all"
+          ]
+        },
+        {
+          "shot": 699,
+          "duration": [
+            3763.098583488339,
+            3769.5633853197883
+          ],
+          "sentences": [
+            "Spoiled all",
+            "Everything's"
+          ]
+        },
+        {
+          "shot": 700,
+          "duration": [
+            3769.605093718701,
+            3785.370868507655
+          ],
+          "sentences": [
+            "Everything's",
+            "Gone all wrong",
+            "What have I done",
+            "Find a deep cave to hide in"
+          ]
+        },
+        {
+          "shot": 701,
+          "duration": [
+            3785.4125769065677,
+            3803.597438832451
+          ],
+          "sentences": [
+            "Find a deep cave to hide in",
+            "In a million years",
+            "They'll find me only dust",
+            "And a plaque that reads",
+            "Here lies poor old Jack"
+          ]
+        },
+        {
+          "shot": 702,
+          "duration": [
+            3803.639147231364,
+            3805.3491915867794
+          ],
+          "sentences": [
+            "But I never intended all this madness"
+          ]
+        },
+        {
+          "shot": 703,
+          "duration": [
+            3805.390899985692,
+            3817.7782944627274
+          ],
+          "sentences": [
+            "But I never intended all this madness",
+            "Never",
+            "And nobody really understood",
+            "Well, how could they"
+          ]
+        },
+        {
+          "shot": 704,
+          "duration": [
+            3817.8200028616398,
+            3819.154671626842
+          ],
+          "sentences": [
+            "That all I ever wanted was to bring them something great"
+          ]
+        },
+        {
+          "shot": 705,
+          "duration": [
+            3819.196380025755,
+            3826.07826584633
+          ],
+          "sentences": [
+            "That all I ever wanted was to bring them something great",
+            "Why does nothing ever turn out like it should"
+          ]
+        },
+        {
+          "shot": 706,
+          "duration": [
+            3826.1199742452427,
+            3835.7963227929604
+          ],
+          "sentences": [
+            "Why does nothing ever turn out like it should",
+            "Well, what the heck",
+            "I went and did my best",
+            "And by God I really tasted something swell"
+          ]
+        },
+        {
+          "shot": 707,
+          "duration": [
+            3835.838031191873,
+            3836.6721991701247
+          ],
+          "sentences": [
+            "And by God I really tasted something swell"
+          ]
+        },
+        {
+          "shot": 708,
+          "duration": [
+            3836.713907569037,
+            3841.176706252683
+          ],
+          "sentences": [
+            "And by God I really tasted something swell",
+            "And for a moment why, I even touched the sky"
+          ]
+        },
+        {
+          "shot": 709,
+          "duration": [
+            3841.2184146515956,
+            3860.2374445557307
+          ],
+          "sentences": [
+            "And for a moment why, I even touched the sky",
+            "And at least I left some stories they can tell, I did",
+            "And for the first time since I don't remember when",
+            "I felt just like my old bony self again",
+            "And I, Jack",
+            "The Pumpkin King",
+            "That's right, I am the Pumpkin King Ha-ha-ha-ha"
+          ]
+        },
+        {
+          "shot": 710,
+          "duration": [
+            3860.279152954643,
+            3863.9077836600372
+          ],
+          "sentences": [
+            "That's right, I am the Pumpkin King Ha-ha-ha-ha"
+          ]
+        },
+        {
+          "shot": 711,
+          "duration": [
+            3863.94949205895,
+            3865.1590356274146
+          ],
+          "sentences": [
+            "That's right, I am the Pumpkin King Ha-ha-ha-ha",
+            "And I just can't wait until next Halloween"
+          ]
+        },
+        {
+          "shot": 712,
+          "duration": [
+            3865.2007440263274,
+            3873.6675490055804
+          ],
+          "sentences": [
+            "And I just can't wait until next Halloween",
+            "'Cause I've got some new ideas that will really make them scream",
+            "And by god I'm really going to give it all my might"
+          ]
+        },
+        {
+          "shot": 713,
+          "duration": [
+            3873.7092574044927,
+            3879.256474459866
+          ],
+          "sentences": [
+            "And by god I'm really going to give it all my might",
+            "Uh-oh. I hope there's still time..."
+          ]
+        },
+        {
+          "shot": 714,
+          "duration": [
+            3879.298182858778,
+            3888.182071827157
+          ],
+          "sentences": [
+            "Uh-oh. I hope there's still time...",
+            "to set things right.",
+            "Sandy Claws! Hmm."
+          ]
+        },
+        {
+          "shot": 715,
+          "duration": [
+            3888.2237802260697,
+            3895.689583631421
+          ],
+          "sentences": [
+            "You wait till Jack hears about this!",
+            "By the time he's through with you, you'll be lucky if you...",
+            "The King of Halloween..."
+          ]
+        },
+        {
+          "shot": 716,
+          "duration": [
+            3895.7312920303334,
+            3901.8624266704824
+          ],
+          "sentences": [
+            "The King of Halloween...",
+            "has been blown to smithereens.",
+            "Skeleton Jack is now a pile of dust."
+          ]
+        },
+        {
+          "shot": 717,
+          "duration": [
+            3901.904135069395,
+            3905.4076405780515
+          ],
+          "sentences": [
+            "Skeleton Jack is now a pile of dust."
+          ]
+        },
+        {
+          "shot": 718,
+          "duration": [
+            3905.449348976964,
+            3910.07898125626
+          ],
+          "sentences": [
+            "Come on, Zero. Christmas isn't over yet."
+          ]
+        },
+        {
+          "shot": 723,
+          "duration": [
+            3916.3769494920593,
+            3920.8814565746175
+          ],
+          "sentences": [
+            "What's that you said about luck, rag doll?"
+          ]
+        },
+        {
+          "shot": 725,
+          "duration": [
+            3924.343253684361,
+            3926.929174416941
+          ],
+          "sentences": [
+            "Help! Help! Help!"
+          ]
+        },
+        {
+          "shot": 726,
+          "duration": [
+            3926.9708828158537,
+            3928.806052368007
+          ],
+          "sentences": [
+            "Help! Help! Help!"
+          ]
+        },
+        {
+          "shot": 727,
+          "duration": [
+            3928.8477607669197,
+            3937.2311489483477
+          ],
+          "sentences": [
+            "Help! Help! Help!",
+            "Shh.",
+            "Looks like it's Oogie's turn to boogie now."
+          ]
+        },
+        {
+          "shot": 728,
+          "duration": [
+            3937.27285734726,
+            3944.6135355558736
+          ],
+          "sentences": [
+            "- Help! - One, two, three...",
+            "four, five, six, seven.",
+            "Help!"
+          ]
+        },
+        {
+          "shot": 729,
+          "duration": [
+            3944.6552439547863,
+            3946.949205894978
+          ],
+          "sentences": [
+            "Help!"
+          ]
+        },
+        {
+          "shot": 730,
+          "duration": [
+            3946.9909142938905,
+            3950.9115037916727
+          ],
+          "sentences": [
+            "Ashes to ashes, and dust to dust."
+          ]
+        },
+        {
+          "shot": 731,
+          "duration": [
+            3950.9532121905854,
+            3953.0803405351267
+          ],
+          "sentences": [
+            "Oh, I'm feeling weak with hunger!"
+          ]
+        },
+        {
+          "shot": 732,
+          "duration": [
+            3953.1220489340394,
+            3954.415009300329
+          ],
+          "sentences": [
+            "Oh, I'm feeling weak with hunger!"
+          ]
+        },
+        {
+          "shot": 733,
+          "duration": [
+            3954.456717699242,
+            3955.999928459007
+          ],
+          "sentences": [
+            "Oh, I'm feeling weak with hunger!",
+            "One more roll of the dice oughta do it."
+          ]
+        },
+        {
+          "shot": 734,
+          "duration": [
+            3956.04163685792,
+            3959.086349978538
+          ],
+          "sentences": [
+            "One more roll of the dice oughta do it."
+          ]
+        },
+        {
+          "shot": 736,
+          "duration": [
+            3959.7953927600515,
+            3967.845113750179
+          ],
+          "sentences": [
+            "What? Snake eyes?",
+            "Eleven!"
+          ]
+        },
+        {
+          "shot": 737,
+          "duration": [
+            3967.8868221490916,
+            3976.6872943196454
+          ],
+          "sentences": [
+            "Eleven!",
+            "Looks like I won the jackpot!",
+            "Bye-bye, doll face and sandman."
+          ]
+        },
+        {
+          "shot": 738,
+          "duration": [
+            3976.7290027185577,
+            3978.188796680498
+          ],
+          "sentences": [
+            "Bye-bye, doll face and sandman."
+          ]
+        },
+        {
+          "shot": 739,
+          "duration": [
+            3978.2305050794107,
+            3982.7767205608816
+          ],
+          "sentences": [
+            "What the..."
+          ]
+        },
+        {
+          "shot": 741,
+          "duration": [
+            3983.6525969380455,
+            3988.4907712119048
+          ],
+          "sentences": [
+            "- Hello, Oogie. - J-J-J-Jack!",
+            "But they said you were dead. You must be double dead!"
+          ]
+        },
+        {
+          "shot": 742,
+          "duration": [
+            3988.532479610817,
+            3990.909858348834
+          ],
+          "sentences": [
+            "But they said you were dead. You must be double dead!"
+          ]
+        },
+        {
+          "shot": 743,
+          "duration": [
+            3990.9515667477467,
+            3993.2038202890258
+          ],
+          "sentences": [
+            "But they said you were dead. You must be double dead!"
+          ]
+        },
+        {
+          "shot": 744,
+          "duration": [
+            3993.2455286879385,
+            3995.6229074259554
+          ],
+          "sentences": [
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 748,
+          "duration": [
+            4000.2108313063386,
+            4002.6716268421806
+          ],
+          "sentences": [
+            "Well, come on, bone man!"
+          ]
+        },
+        {
+          "shot": 749,
+          "duration": [
+            4002.7133352410933,
+            4004.7570467878095
+          ],
+          "sentences": [
+            "Well, come on, bone man!"
+          ]
+        },
+        {
+          "shot": 754,
+          "duration": [
+            4012.4731005866365,
+            4015.267563313779
+          ],
+          "sentences": [
+            "Ooh-hoo-hoo-hoo! Ha!"
+          ]
+        },
+        {
+          "shot": 756,
+          "duration": [
+            4019.8554871941624,
+            4020.564529975676
+          ],
+          "sentences": [
+            "Fire!"
+          ]
+        },
+        {
+          "shot": 757,
+          "duration": [
+            4020.606238374589,
+            4021.3569895550154
+          ],
+          "sentences": [
+            "Fire!"
+          ]
+        },
+        {
+          "shot": 758,
+          "duration": [
+            4021.3986979539277,
+            4024.2765774788954
+          ],
+          "sentences": [
+            "Fire!"
+          ]
+        },
+        {
+          "shot": 759,
+          "duration": [
+            4024.318285877808,
+            4027.279582200601
+          ],
+          "sentences": [
+            "Hmm. Ooh-ooh-ooh!"
+          ]
+        },
+        {
+          "shot": 760,
+          "duration": [
+            4027.3212905995138,
+            4030.9916297038203
+          ],
+          "sentences": [
+            "Hmm. Ooh-ooh-ooh!"
+          ]
+        },
+        {
+          "shot": 763,
+          "duration": [
+            4033.911217627701,
+            4034.9122192016025
+          ],
+          "sentences": [
+            "Jack, look out!"
+          ]
+        },
+        {
+          "shot": 764,
+          "duration": [
+            4034.9539276005153,
+            4037.0810559450565
+          ],
+          "sentences": [
+            "Jack, look out!"
+          ]
+        },
+        {
+          "shot": 766,
+          "duration": [
+            4040.4594362569756,
+            4044.42173415367
+          ],
+          "sentences": [
+            "So long, Jack."
+          ]
+        },
+        {
+          "shot": 767,
+          "duration": [
+            4044.463442552583,
+            4047.4664472742884
+          ],
+          "sentences": [
+            "How dare you treat my friends so shamefully!"
+          ]
+        },
+        {
+          "shot": 768,
+          "duration": [
+            4047.508155673201,
+            4048.175490055802
+          ],
+          "sentences": [
+            "How dare you treat my friends so shamefully!"
+          ]
+        },
+        {
+          "shot": 769,
+          "duration": [
+            4048.217198454715,
+            4050.0106596079554
+          ],
+          "sentences": [
+            "How dare you treat my friends so shamefully!"
+          ]
+        },
+        {
+          "shot": 771,
+          "duration": [
+            4053.3473315209617,
+            4055.5161682644157
+          ],
+          "sentences": [
+            "Now look what you've done!"
+          ]
+        },
+        {
+          "shot": 772,
+          "duration": [
+            4055.5578766633284,
+            4058.435756188296
+          ],
+          "sentences": [
+            "Now look what you've done!"
+          ]
+        },
+        {
+          "shot": 773,
+          "duration": [
+            4058.4774645872085,
+            4063.19051366433
+          ],
+          "sentences": [
+            "Now look what you've done!",
+            "My bugs! My bugs!",
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 774,
+          "duration": [
+            4063.2322220632423,
+            4066.4020603805984
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 775,
+          "duration": [
+            4066.4437687795107,
+            4067.736729145801
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 776,
+          "duration": [
+            4067.778437544713,
+            4069.0713979110033
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 777,
+          "duration": [
+            4069.1131063099156,
+            4070.4060666762057
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 778,
+          "duration": [
+            4070.4477750751184,
+            4074.0346973816
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!",
+            "My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 779,
+          "duration": [
+            4074.0764057805122,
+            4075.9532837315783
+          ],
+          "sentences": [
+            "Forgive me, Mr. Claws."
+          ]
+        },
+        {
+          "shot": 780,
+          "duration": [
+            4075.994992130491,
+            4082.29296036629
+          ],
+          "sentences": [
+            "Forgive me, Mr. Claws.",
+            "I'm afraid I've made a terrible mess of your holiday.",
+            "Bumpy sleigh ride, Jack?"
+          ]
+        },
+        {
+          "shot": 781,
+          "duration": [
+            4082.3346687652024,
+            4087.9235942194878
+          ],
+          "sentences": [
+            "Bumpy sleigh ride, Jack?",
+            "The next time you get the urge to take over someone else's holiday, I'd listen to her."
+          ]
+        },
+        {
+          "shot": 782,
+          "duration": [
+            4087.9653026184005,
+            4089.508513378166
+          ],
+          "sentences": [
+            "The next time you get the urge to take over someone else's holiday, I'd listen to her.",
+            "She's the only one who makes any sense around this insane asylum."
+          ]
+        },
+        {
+          "shot": 783,
+          "duration": [
+            4089.5502217770786,
+            4092.0944341107456
+          ],
+          "sentences": [
+            "She's the only one who makes any sense around this insane asylum."
+          ]
+        },
+        {
+          "shot": 784,
+          "duration": [
+            4092.1361425096584,
+            4095.472814422664
+          ],
+          "sentences": [
+            "She's the only one who makes any sense around this insane asylum.",
+            "- Skeletons! Boogie men! Ooh. - I hope there's still time."
+          ]
+        },
+        {
+          "shot": 785,
+          "duration": [
+            4095.514522821577,
+            4104.815495779081
+          ],
+          "sentences": [
+            "- Skeletons! Boogie men! Ooh. - I hope there's still time.",
+            "To fix Christmas? Of course there is!",
+            "I'm Santa Claus."
+          ]
+        },
+        {
+          "shot": 786,
+          "duration": [
+            4104.857204177994,
+            4110.4044212333665
+          ],
+          "sentences": [
+            "He'll fix things, Jack. He knows what to do."
+          ]
+        },
+        {
+          "shot": 787,
+          "duration": [
+            4110.44612963228,
+            4112.6566747746465
+          ],
+          "sentences": [
+            "How did you get down here, Sally?"
+          ]
+        },
+        {
+          "shot": 788,
+          "duration": [
+            4112.698383173559,
+            4114.533552725712
+          ],
+          "sentences": [
+            "Oh, I-I was trying to... Well, I wanted to, to..."
+          ]
+        },
+        {
+          "shot": 789,
+          "duration": [
+            4114.575261124624,
+            4116.2435970811275
+          ],
+          "sentences": [
+            "Oh, I-I was trying to... Well, I wanted to, to..."
+          ]
+        },
+        {
+          "shot": 790,
+          "duration": [
+            4116.28530548004,
+            4121.999356131063
+          ],
+          "sentences": [
+            "Oh, I-I was trying to... Well, I wanted to, to...",
+            "- To help me. - I couldn't let you just...",
+            "Sally, I can't believe I never realized that you..."
+          ]
+        },
+        {
+          "shot": 791,
+          "duration": [
+            4122.041064529976,
+            4123.292316497354
+          ],
+          "sentences": [
+            "Sally, I can't believe I never realized that you..."
+          ]
+        },
+        {
+          "shot": 792,
+          "duration": [
+            4123.334024896266,
+            4125.336028044069
+          ],
+          "sentences": [
+            "Sally, I can't believe I never realized that you...",
+            "- Jack! Jack! - Here he is! - Alive!"
+          ]
+        },
+        {
+          "shot": 793,
+          "duration": [
+            4125.377736442982,
+            4126.295321219059
+          ],
+          "sentences": [
+            "- Jack! Jack! - Here he is! - Alive!"
+          ]
+        },
+        {
+          "shot": 794,
+          "duration": [
+            4126.337029617971,
+            4127.254614394048
+          ],
+          "sentences": [
+            "- Jack! Jack! - Here he is! - Alive!"
+          ]
+        },
+        {
+          "shot": 795,
+          "duration": [
+            4127.29632279296,
+            4130.84153670053
+          ],
+          "sentences": [
+            "- Jack! Jack! - Here he is! - Alive!",
+            "- Just like we said! - Grab ahold, my boy!"
+          ]
+        },
+        {
+          "shot": 796,
+          "duration": [
+            4130.883245099442,
+            4137.056088138504
+          ],
+          "sentences": [
+            "Whoa!",
+            "Good news, folks. Santa Claus, the one and only, has finally been spotted."
+          ]
+        },
+        {
+          "shot": 797,
+          "duration": [
+            4137.097796537416,
+            4140.684718843898
+          ],
+          "sentences": [
+            "Good news, folks. Santa Claus, the one and only, has finally been spotted.",
+            "Old Saint Nick appears to be traveling at supersonic speed."
+          ]
+        },
+        {
+          "shot": 798,
+          "duration": [
+            4140.72642724281,
+            4145.064100729718
+          ],
+          "sentences": [
+            "Old Saint Nick appears to be traveling at supersonic speed.",
+            "He's setting things right, bringing joy and cheer wherever he goes."
+          ]
+        },
+        {
+          "shot": 799,
+          "duration": [
+            4145.105809128631,
+            4149.652024610102
+          ],
+          "sentences": [
+            "He's setting things right, bringing joy and cheer wherever he goes.",
+            "Yes, folks, Kriss Kringle has pulled it out of the bag..."
+          ]
+        },
+        {
+          "shot": 800,
+          "duration": [
+            4149.693733009014,
+            4156.57561882959
+          ],
+          "sentences": [
+            "Yes, folks, Kriss Kringle has pulled it out of the bag...",
+            "and delivered Christmas to excited children all over the world."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0107688_0006",
+      "shot": [
+        740,
+        837
+      ],
+      "frame": [
+        95489,
+        103221
+      ],
+      "duration": [
+        3982.7280479340393,
+        4305.176934934039
+      ],
+      "consistency": 0.9628324752133498,
+      "description": "He surprises Oogie Boogie, frees Sally and Sandy Claws, and unravels Oogie Boogie in a decisive final showdown. Santa Claus scolds Jack about trying to take over a holiday that isn't his, and then sets about magically saving Christmas. Jack and Sally return to town just as Santa Claus flies over and offers the Halloweentownsfolk a bit of Christmas magic: their first snowfall. Jack and Sally share a tender moment in the cemetery, realizing they were always meant to be together.",
+      "subtitle": [
+        {
+          "shot": 741,
+          "duration": [
+            3983.6525969380455,
+            3988.4907712119048
+          ],
+          "sentences": [
+            "- Hello, Oogie. - J-J-J-Jack!",
+            "But they said you were dead. You must be double dead!"
+          ]
+        },
+        {
+          "shot": 742,
+          "duration": [
+            3988.532479610817,
+            3990.909858348834
+          ],
+          "sentences": [
+            "But they said you were dead. You must be double dead!"
+          ]
+        },
+        {
+          "shot": 743,
+          "duration": [
+            3990.9515667477467,
+            3993.2038202890258
+          ],
+          "sentences": [
+            "But they said you were dead. You must be double dead!"
+          ]
+        },
+        {
+          "shot": 744,
+          "duration": [
+            3993.2455286879385,
+            3995.6229074259554
+          ],
+          "sentences": [
+            "Oh!"
+          ]
+        },
+        {
+          "shot": 748,
+          "duration": [
+            4000.2108313063386,
+            4002.6716268421806
+          ],
+          "sentences": [
+            "Well, come on, bone man!"
+          ]
+        },
+        {
+          "shot": 749,
+          "duration": [
+            4002.7133352410933,
+            4004.7570467878095
+          ],
+          "sentences": [
+            "Well, come on, bone man!"
+          ]
+        },
+        {
+          "shot": 754,
+          "duration": [
+            4012.4731005866365,
+            4015.267563313779
+          ],
+          "sentences": [
+            "Ooh-hoo-hoo-hoo! Ha!"
+          ]
+        },
+        {
+          "shot": 756,
+          "duration": [
+            4019.8554871941624,
+            4020.564529975676
+          ],
+          "sentences": [
+            "Fire!"
+          ]
+        },
+        {
+          "shot": 757,
+          "duration": [
+            4020.606238374589,
+            4021.3569895550154
+          ],
+          "sentences": [
+            "Fire!"
+          ]
+        },
+        {
+          "shot": 758,
+          "duration": [
+            4021.3986979539277,
+            4024.2765774788954
+          ],
+          "sentences": [
+            "Fire!"
+          ]
+        },
+        {
+          "shot": 759,
+          "duration": [
+            4024.318285877808,
+            4027.279582200601
+          ],
+          "sentences": [
+            "Hmm. Ooh-ooh-ooh!"
+          ]
+        },
+        {
+          "shot": 760,
+          "duration": [
+            4027.3212905995138,
+            4030.9916297038203
+          ],
+          "sentences": [
+            "Hmm. Ooh-ooh-ooh!"
+          ]
+        },
+        {
+          "shot": 763,
+          "duration": [
+            4033.911217627701,
+            4034.9122192016025
+          ],
+          "sentences": [
+            "Jack, look out!"
+          ]
+        },
+        {
+          "shot": 764,
+          "duration": [
+            4034.9539276005153,
+            4037.0810559450565
+          ],
+          "sentences": [
+            "Jack, look out!"
+          ]
+        },
+        {
+          "shot": 766,
+          "duration": [
+            4040.4594362569756,
+            4044.42173415367
+          ],
+          "sentences": [
+            "So long, Jack."
+          ]
+        },
+        {
+          "shot": 767,
+          "duration": [
+            4044.463442552583,
+            4047.4664472742884
+          ],
+          "sentences": [
+            "How dare you treat my friends so shamefully!"
+          ]
+        },
+        {
+          "shot": 768,
+          "duration": [
+            4047.508155673201,
+            4048.175490055802
+          ],
+          "sentences": [
+            "How dare you treat my friends so shamefully!"
+          ]
+        },
+        {
+          "shot": 769,
+          "duration": [
+            4048.217198454715,
+            4050.0106596079554
+          ],
+          "sentences": [
+            "How dare you treat my friends so shamefully!"
+          ]
+        },
+        {
+          "shot": 771,
+          "duration": [
+            4053.3473315209617,
+            4055.5161682644157
+          ],
+          "sentences": [
+            "Now look what you've done!"
+          ]
+        },
+        {
+          "shot": 772,
+          "duration": [
+            4055.5578766633284,
+            4058.435756188296
+          ],
+          "sentences": [
+            "Now look what you've done!"
+          ]
+        },
+        {
+          "shot": 773,
+          "duration": [
+            4058.4774645872085,
+            4063.19051366433
+          ],
+          "sentences": [
+            "Now look what you've done!",
+            "My bugs! My bugs!",
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 774,
+          "duration": [
+            4063.2322220632423,
+            4066.4020603805984
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 775,
+          "duration": [
+            4066.4437687795107,
+            4067.736729145801
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 776,
+          "duration": [
+            4067.778437544713,
+            4069.0713979110033
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 777,
+          "duration": [
+            4069.1131063099156,
+            4070.4060666762057
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 778,
+          "duration": [
+            4070.4477750751184,
+            4074.0346973816
+          ],
+          "sentences": [
+            "My bugs! My bugs! My bugs!",
+            "My bugs! My bugs!"
+          ]
+        },
+        {
+          "shot": 779,
+          "duration": [
+            4074.0764057805122,
+            4075.9532837315783
+          ],
+          "sentences": [
+            "Forgive me, Mr. Claws."
+          ]
+        },
+        {
+          "shot": 780,
+          "duration": [
+            4075.994992130491,
+            4082.29296036629
+          ],
+          "sentences": [
+            "Forgive me, Mr. Claws.",
+            "I'm afraid I've made a terrible mess of your holiday.",
+            "Bumpy sleigh ride, Jack?"
+          ]
+        },
+        {
+          "shot": 781,
+          "duration": [
+            4082.3346687652024,
+            4087.9235942194878
+          ],
+          "sentences": [
+            "Bumpy sleigh ride, Jack?",
+            "The next time you get the urge to take over someone else's holiday, I'd listen to her."
+          ]
+        },
+        {
+          "shot": 782,
+          "duration": [
+            4087.9653026184005,
+            4089.508513378166
+          ],
+          "sentences": [
+            "The next time you get the urge to take over someone else's holiday, I'd listen to her.",
+            "She's the only one who makes any sense around this insane asylum."
+          ]
+        },
+        {
+          "shot": 783,
+          "duration": [
+            4089.5502217770786,
+            4092.0944341107456
+          ],
+          "sentences": [
+            "She's the only one who makes any sense around this insane asylum."
+          ]
+        },
+        {
+          "shot": 784,
+          "duration": [
+            4092.1361425096584,
+            4095.472814422664
+          ],
+          "sentences": [
+            "She's the only one who makes any sense around this insane asylum.",
+            "- Skeletons! Boogie men! Ooh. - I hope there's still time."
+          ]
+        },
+        {
+          "shot": 785,
+          "duration": [
+            4095.514522821577,
+            4104.815495779081
+          ],
+          "sentences": [
+            "- Skeletons! Boogie men! Ooh. - I hope there's still time.",
+            "To fix Christmas? Of course there is!",
+            "I'm Santa Claus."
+          ]
+        },
+        {
+          "shot": 786,
+          "duration": [
+            4104.857204177994,
+            4110.4044212333665
+          ],
+          "sentences": [
+            "He'll fix things, Jack. He knows what to do."
+          ]
+        },
+        {
+          "shot": 787,
+          "duration": [
+            4110.44612963228,
+            4112.6566747746465
+          ],
+          "sentences": [
+            "How did you get down here, Sally?"
+          ]
+        },
+        {
+          "shot": 788,
+          "duration": [
+            4112.698383173559,
+            4114.533552725712
+          ],
+          "sentences": [
+            "Oh, I-I was trying to... Well, I wanted to, to..."
+          ]
+        },
+        {
+          "shot": 789,
+          "duration": [
+            4114.575261124624,
+            4116.2435970811275
+          ],
+          "sentences": [
+            "Oh, I-I was trying to... Well, I wanted to, to..."
+          ]
+        },
+        {
+          "shot": 790,
+          "duration": [
+            4116.28530548004,
+            4121.999356131063
+          ],
+          "sentences": [
+            "Oh, I-I was trying to... Well, I wanted to, to...",
+            "- To help me. - I couldn't let you just...",
+            "Sally, I can't believe I never realized that you..."
+          ]
+        },
+        {
+          "shot": 791,
+          "duration": [
+            4122.041064529976,
+            4123.292316497354
+          ],
+          "sentences": [
+            "Sally, I can't believe I never realized that you..."
+          ]
+        },
+        {
+          "shot": 792,
+          "duration": [
+            4123.334024896266,
+            4125.336028044069
+          ],
+          "sentences": [
+            "Sally, I can't believe I never realized that you...",
+            "- Jack! Jack! - Here he is! - Alive!"
+          ]
+        },
+        {
+          "shot": 793,
+          "duration": [
+            4125.377736442982,
+            4126.295321219059
+          ],
+          "sentences": [
+            "- Jack! Jack! - Here he is! - Alive!"
+          ]
+        },
+        {
+          "shot": 794,
+          "duration": [
+            4126.337029617971,
+            4127.254614394048
+          ],
+          "sentences": [
+            "- Jack! Jack! - Here he is! - Alive!"
+          ]
+        },
+        {
+          "shot": 795,
+          "duration": [
+            4127.29632279296,
+            4130.84153670053
+          ],
+          "sentences": [
+            "- Jack! Jack! - Here he is! - Alive!",
+            "- Just like we said! - Grab ahold, my boy!"
+          ]
+        },
+        {
+          "shot": 796,
+          "duration": [
+            4130.883245099442,
+            4137.056088138504
+          ],
+          "sentences": [
+            "Whoa!",
+            "Good news, folks. Santa Claus, the one and only, has finally been spotted."
+          ]
+        },
+        {
+          "shot": 797,
+          "duration": [
+            4137.097796537416,
+            4140.684718843898
+          ],
+          "sentences": [
+            "Good news, folks. Santa Claus, the one and only, has finally been spotted.",
+            "Old Saint Nick appears to be traveling at supersonic speed."
+          ]
+        },
+        {
+          "shot": 798,
+          "duration": [
+            4140.72642724281,
+            4145.064100729718
+          ],
+          "sentences": [
+            "Old Saint Nick appears to be traveling at supersonic speed.",
+            "He's setting things right, bringing joy and cheer wherever he goes."
+          ]
+        },
+        {
+          "shot": 799,
+          "duration": [
+            4145.105809128631,
+            4149.652024610102
+          ],
+          "sentences": [
+            "He's setting things right, bringing joy and cheer wherever he goes.",
+            "Yes, folks, Kriss Kringle has pulled it out of the bag..."
+          ]
+        },
+        {
+          "shot": 800,
+          "duration": [
+            4149.693733009014,
+            4156.57561882959
+          ],
+          "sentences": [
+            "Yes, folks, Kriss Kringle has pulled it out of the bag...",
+            "and delivered Christmas to excited children all over the world."
+          ]
+        },
+        {
+          "shot": 801,
+          "duration": [
+            4156.617327228502,
+            4161.038417513235
+          ],
+          "sentences": [
+            "La, la, la, la La-la-la-la"
+          ]
+        },
+        {
+          "shot": 802,
+          "duration": [
+            4161.080125912148,
+            4162.623336671913
+          ],
+          "sentences": [
+            "La, la, la, la La-la-la-la",
+            "- Jack! - Jack's back!"
+          ]
+        },
+        {
+          "shot": 803,
+          "duration": [
+            4162.665045070826,
+            4163.624338245815
+          ],
+          "sentences": [
+            "- Jack! - Jack's back!",
+            "- Jack? - Jack's okay! - He's all right! - It's Jack!"
+          ]
+        },
+        {
+          "shot": 804,
+          "duration": [
+            4163.666046644727,
+            4164.5836314208045
+          ],
+          "sentences": [
+            "- Jack? - Jack's okay! - He's all right! - It's Jack!"
+          ]
+        },
+        {
+          "shot": 805,
+          "duration": [
+            4164.625339819717,
+            4166.418800972958
+          ],
+          "sentences": [
+            "- Jack? - Jack's okay! - He's all right! - It's Jack!"
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            4166.46050937187,
+            4169.380097295751
+          ],
+          "sentences": [
+            "Jack's okay And he's back"
+          ]
+        },
+        {
+          "shot": 807,
+          "duration": [
+            4169.421805694663,
+            4171.924309629418
+          ],
+          "sentences": [
+            "Oh, yea He's all right"
+          ]
+        },
+        {
+          "shot": 808,
+          "duration": [
+            4171.966018028331,
+            4173.926312777222
+          ],
+          "sentences": [
+            "Let's shout, make a fuss Scream it out, whee"
+          ]
+        },
+        {
+          "shot": 809,
+          "duration": [
+            4173.968021176134,
+            4175.260981542424
+          ],
+          "sentences": [
+            "Let's shout, make a fuss Scream it out, whee"
+          ]
+        },
+        {
+          "shot": 810,
+          "duration": [
+            4175.302689941336,
+            4186.605666046645
+          ],
+          "sentences": [
+            "Let's shout, make a fuss Scream it out, whee",
+            "Jack is back now Everyone sing",
+            "In the town of Halloween",
+            "- It's great to be home! - Ho-ho-ho-ho!"
+          ]
+        },
+        {
+          "shot": 811,
+          "duration": [
+            4186.647374445558,
+            4190.985047932466
+          ],
+          "sentences": [
+            "Happy Halloween!"
+          ]
+        },
+        {
+          "shot": 812,
+          "duration": [
+            4191.026756331378,
+            4191.777507511804
+          ],
+          "sentences": [
+            "Merry Christmas!"
+          ]
+        },
+        {
+          "shot": 813,
+          "duration": [
+            4191.819215910717,
+            4193.737802260695
+          ],
+          "sentences": [
+            "Merry Christmas!"
+          ]
+        },
+        {
+          "shot": 814,
+          "duration": [
+            4193.779510659608,
+            4197.950350550866
+          ],
+          "sentences": [
+            "Merry Christmas!",
+            "- What's this - What's this - I haven't got a clue"
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            4197.992058949779,
+            4200.995063671484
+          ],
+          "sentences": [
+            "- What's this - Why, it's completely new",
+            "What's this Must be a Christmas thing"
+          ]
+        },
+        {
+          "shot": 816,
+          "duration": [
+            4201.036772070396,
+            4203.372442409501
+          ],
+          "sentences": [
+            "What's this Must be a Christmas thing",
+            "- What's this - It's really very strange"
+          ]
+        },
+        {
+          "shot": 817,
+          "duration": [
+            4203.414150808413,
+            4206.125196737731
+          ],
+          "sentences": [
+            "- What's this - It's really very strange"
+          ]
+        },
+        {
+          "shot": 820,
+          "duration": [
+            4212.006080984404,
+            4213.340749749606
+          ],
+          "sentences": [
+            "This is Halloween Halloween, Halloween, Halloween"
+          ]
+        },
+        {
+          "shot": 821,
+          "duration": [
+            4213.38245814852,
+            4215.17591930176
+          ],
+          "sentences": [
+            "This is Halloween Halloween, Halloween, Halloween"
+          ]
+        },
+        {
+          "shot": 822,
+          "duration": [
+            4215.217627700673,
+            4217.92867362999
+          ],
+          "sentences": [
+            "This is Halloween Halloween, Halloween, Halloween",
+            "What's this What's this"
+          ]
+        },
+        {
+          "shot": 824,
+          "duration": [
+            4220.472885963657,
+            4223.934683073401
+          ],
+          "sentences": [
+            "Careful, my precious jewel."
+          ]
+        },
+        {
+          "shot": 825,
+          "duration": [
+            4223.9763914723135,
+            4226.854270997282
+          ],
+          "sentences": [
+            "Careful, my precious jewel."
+          ]
+        },
+        {
+          "shot": 828,
+          "duration": [
+            4231.233652883102,
+            4254.632064673058
+          ],
+          "sentences": [
+            "My dearest friend if you don't mind"
+          ]
+        },
+        {
+          "shot": 829,
+          "duration": [
+            4254.673773071971,
+            4260.846616111032
+          ],
+          "sentences": [
+            "My dearest friend if you don't mind",
+            "I'd like to join you by your side"
+          ]
+        },
+        {
+          "shot": 830,
+          "duration": [
+            4260.888324509944,
+            4263.974746029475
+          ],
+          "sentences": [
+            "I'd like to join you by your side"
+          ]
+        },
+        {
+          "shot": 831,
+          "duration": [
+            4264.016454428388,
+            4270.231005866362
+          ],
+          "sentences": [
+            "I'd like to join you by your side",
+            "Where we can gaze into the stars"
+          ]
+        },
+        {
+          "shot": 832,
+          "duration": [
+            4270.272714265274,
+            4274.90234654457
+          ],
+          "sentences": [
+            "Where we can gaze into the stars",
+            "And sit together"
+          ]
+        },
+        {
+          "shot": 833,
+          "duration": [
+            4274.944054943483,
+            4279.031478036915
+          ],
+          "sentences": [
+            "And sit together",
+            "Now and forever"
+          ]
+        },
+        {
+          "shot": 834,
+          "duration": [
+            4279.073186435828,
+            4286.997782229218
+          ],
+          "sentences": [
+            "Now and forever",
+            "For it is plain",
+            "As anyone can see"
+          ]
+        },
+        {
+          "shot": 835,
+          "duration": [
+            4287.03949062813,
+            4293.128916869367
+          ],
+          "sentences": [
+            "We're simply meant to be"
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

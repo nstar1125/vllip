@@ -1,0 +1,36 @@
+{
+  "imdb_id": "tt2012665",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 10,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 39,
+        "scale": "long",
+        "movement": "static"
+      },
+      {
+        "shot": 44,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 71,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 83,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

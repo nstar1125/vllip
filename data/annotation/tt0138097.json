@@ -1,0 +1,6204 @@
+{
+  "imdb_id": "tt0138097",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0138097_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        2932
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0001",
+      "shot": [
+        1,
+        38
+      ],
+      "frame": [
+        2932,
+        5714
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0002",
+      "shot": [
+        38,
+        39
+      ],
+      "frame": [
+        5714,
+        5844
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0003",
+      "shot": [
+        39,
+        41
+      ],
+      "frame": [
+        5844,
+        5945
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0004",
+      "shot": [
+        41,
+        44
+      ],
+      "frame": [
+        5945,
+        6239
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0005",
+      "shot": [
+        44,
+        72
+      ],
+      "frame": [
+        6239,
+        8073
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0006",
+      "shot": [
+        72,
+        83
+      ],
+      "frame": [
+        8073,
+        9603
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0007",
+      "shot": [
+        83,
+        114
+      ],
+      "frame": [
+        9603,
+        13522
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0008",
+      "shot": [
+        114,
+        118
+      ],
+      "frame": [
+        13522,
+        13915
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0009",
+      "shot": [
+        118,
+        140
+      ],
+      "frame": [
+        13915,
+        15452
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0010",
+      "shot": [
+        140,
+        142
+      ],
+      "frame": [
+        15452,
+        15632
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0011",
+      "shot": [
+        142,
+        145
+      ],
+      "frame": [
+        15632,
+        15743
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0012",
+      "shot": [
+        145,
+        149
+      ],
+      "frame": [
+        15743,
+        16127
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0013",
+      "shot": [
+        149,
+        160
+      ],
+      "frame": [
+        16127,
+        17081
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0014",
+      "shot": [
+        160,
+        187
+      ],
+      "frame": [
+        17081,
+        19593
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0015",
+      "shot": [
+        187,
+        189
+      ],
+      "frame": [
+        19593,
+        20028
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0016",
+      "shot": [
+        189,
+        190
+      ],
+      "frame": [
+        20028,
+        20162
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0017",
+      "shot": [
+        190,
+        199
+      ],
+      "frame": [
+        20162,
+        23116
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0018",
+      "shot": [
+        199,
+        216
+      ],
+      "frame": [
+        23116,
+        24795
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0019",
+      "shot": [
+        216,
+        217
+      ],
+      "frame": [
+        24795,
+        24885
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0020",
+      "shot": [
+        217,
+        218
+      ],
+      "frame": [
+        24885,
+        24928
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0021",
+      "shot": [
+        218,
+        240
+      ],
+      "frame": [
+        24928,
+        26510
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0022",
+      "shot": [
+        240,
+        297
+      ],
+      "frame": [
+        26510,
+        31669
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0023",
+      "shot": [
+        297,
+        309
+      ],
+      "frame": [
+        31669,
+        33523
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0024",
+      "shot": [
+        309,
+        310
+      ],
+      "frame": [
+        33523,
+        33572
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0025",
+      "shot": [
+        310,
+        334
+      ],
+      "frame": [
+        33572,
+        35070
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0026",
+      "shot": [
+        334,
+        340
+      ],
+      "frame": [
+        35070,
+        35460
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0027",
+      "shot": [
+        340,
+        355
+      ],
+      "frame": [
+        35460,
+        36452
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0028",
+      "shot": [
+        355,
+        371
+      ],
+      "frame": [
+        36452,
+        37659
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0029",
+      "shot": [
+        371,
+        375
+      ],
+      "frame": [
+        37659,
+        38734
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0030",
+      "shot": [
+        375,
+        376
+      ],
+      "frame": [
+        38734,
+        38808
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0031",
+      "shot": [
+        376,
+        382
+      ],
+      "frame": [
+        38808,
+        39345
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0032",
+      "shot": [
+        382,
+        383
+      ],
+      "frame": [
+        39345,
+        39413
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0033",
+      "shot": [
+        383,
+        435
+      ],
+      "frame": [
+        39413,
+        43916
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0034",
+      "shot": [
+        435,
+        453
+      ],
+      "frame": [
+        43916,
+        45793
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0035",
+      "shot": [
+        453,
+        461
+      ],
+      "frame": [
+        45793,
+        46259
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0036",
+      "shot": [
+        461,
+        477
+      ],
+      "frame": [
+        46259,
+        47069
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0037",
+      "shot": [
+        477,
+        486
+      ],
+      "frame": [
+        47069,
+        48786
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0038",
+      "shot": [
+        486,
+        551
+      ],
+      "frame": [
+        48786,
+        54333
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0039",
+      "shot": [
+        551,
+        552
+      ],
+      "frame": [
+        54333,
+        54431
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0040",
+      "shot": [
+        552,
+        594
+      ],
+      "frame": [
+        54431,
+        58108
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0041",
+      "shot": [
+        594,
+        596
+      ],
+      "frame": [
+        58108,
+        58635
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0042",
+      "shot": [
+        596,
+        608
+      ],
+      "frame": [
+        58635,
+        59654
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0043",
+      "shot": [
+        608,
+        616
+      ],
+      "frame": [
+        59654,
+        60522
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0044",
+      "shot": [
+        616,
+        621
+      ],
+      "frame": [
+        60522,
+        60844
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0045",
+      "shot": [
+        621,
+        622
+      ],
+      "frame": [
+        60844,
+        60970
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0046",
+      "shot": [
+        622,
+        687
+      ],
+      "frame": [
+        60970,
+        67135
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0047",
+      "shot": [
+        687,
+        688
+      ],
+      "frame": [
+        67135,
+        67345
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0048",
+      "shot": [
+        688,
+        689
+      ],
+      "frame": [
+        67345,
+        67442
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0049",
+      "shot": [
+        689,
+        690
+      ],
+      "frame": [
+        67442,
+        67574
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0050",
+      "shot": [
+        690,
+        691
+      ],
+      "frame": [
+        67574,
+        67662
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0051",
+      "shot": [
+        691,
+        698
+      ],
+      "frame": [
+        67662,
+        68300
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0052",
+      "shot": [
+        698,
+        699
+      ],
+      "frame": [
+        68300,
+        68403
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0053",
+      "shot": [
+        699,
+        701
+      ],
+      "frame": [
+        68403,
+        68705
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0054",
+      "shot": [
+        701,
+        706
+      ],
+      "frame": [
+        68705,
+        69225
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0055",
+      "shot": [
+        706,
+        707
+      ],
+      "frame": [
+        69225,
+        69843
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0056",
+      "shot": [
+        707,
+        708
+      ],
+      "frame": [
+        69843,
+        69963
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0057",
+      "shot": [
+        708,
+        709
+      ],
+      "frame": [
+        69963,
+        70074
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0058",
+      "shot": [
+        709,
+        713
+      ],
+      "frame": [
+        70074,
+        71367
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0059",
+      "shot": [
+        713,
+        715
+      ],
+      "frame": [
+        71367,
+        71548
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0060",
+      "shot": [
+        715,
+        751
+      ],
+      "frame": [
+        71548,
+        74651
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0061",
+      "shot": [
+        751,
+        753
+      ],
+      "frame": [
+        74651,
+        74813
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0062",
+      "shot": [
+        753,
+        754
+      ],
+      "frame": [
+        74813,
+        74950
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0063",
+      "shot": [
+        754,
+        755
+      ],
+      "frame": [
+        74950,
+        75240
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0064",
+      "shot": [
+        755,
+        756
+      ],
+      "frame": [
+        75240,
+        75512
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0065",
+      "shot": [
+        756,
+        757
+      ],
+      "frame": [
+        75512,
+        76437
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0066",
+      "shot": [
+        757,
+        760
+      ],
+      "frame": [
+        76437,
+        76675
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0067",
+      "shot": [
+        760,
+        761
+      ],
+      "frame": [
+        76675,
+        76824
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0068",
+      "shot": [
+        761,
+        762
+      ],
+      "frame": [
+        76824,
+        77097
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0069",
+      "shot": [
+        762,
+        763
+      ],
+      "frame": [
+        77097,
+        77224
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0070",
+      "shot": [
+        763,
+        764
+      ],
+      "frame": [
+        77224,
+        77478
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0071",
+      "shot": [
+        764,
+        767
+      ],
+      "frame": [
+        77478,
+        78433
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0072",
+      "shot": [
+        767,
+        768
+      ],
+      "frame": [
+        78433,
+        78764
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0073",
+      "shot": [
+        768,
+        769
+      ],
+      "frame": [
+        78764,
+        79006
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0074",
+      "shot": [
+        769,
+        770
+      ],
+      "frame": [
+        79006,
+        79332
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0075",
+      "shot": [
+        770,
+        771
+      ],
+      "frame": [
+        79332,
+        79351
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0076",
+      "shot": [
+        771,
+        772
+      ],
+      "frame": [
+        79351,
+        79452
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0077",
+      "shot": [
+        772,
+        773
+      ],
+      "frame": [
+        79452,
+        79491
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0078",
+      "shot": [
+        773,
+        774
+      ],
+      "frame": [
+        79491,
+        79573
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0079",
+      "shot": [
+        774,
+        776
+      ],
+      "frame": [
+        79573,
+        80226
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0080",
+      "shot": [
+        776,
+        778
+      ],
+      "frame": [
+        80226,
+        80424
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0081",
+      "shot": [
+        778,
+        790
+      ],
+      "frame": [
+        80424,
+        81367
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0082",
+      "shot": [
+        790,
+        800
+      ],
+      "frame": [
+        81367,
+        83001
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0083",
+      "shot": [
+        800,
+        805
+      ],
+      "frame": [
+        83001,
+        84485
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0084",
+      "shot": [
+        805,
+        810
+      ],
+      "frame": [
+        84485,
+        85085
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0085",
+      "shot": [
+        810,
+        817
+      ],
+      "frame": [
+        85085,
+        86114
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0086",
+      "shot": [
+        817,
+        831
+      ],
+      "frame": [
+        86114,
+        87106
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0087",
+      "shot": [
+        831,
+        886
+      ],
+      "frame": [
+        87106,
+        92669
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0088",
+      "shot": [
+        886,
+        922
+      ],
+      "frame": [
+        92669,
+        94899
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0089",
+      "shot": [
+        922,
+        1004
+      ],
+      "frame": [
+        94899,
+        98863
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0090",
+      "shot": [
+        1004,
+        1018
+      ],
+      "frame": [
+        98863,
+        100061
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0091",
+      "shot": [
+        1018,
+        1027
+      ],
+      "frame": [
+        100061,
+        101279
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0092",
+      "shot": [
+        1027,
+        1103
+      ],
+      "frame": [
+        101279,
+        108168
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0093",
+      "shot": [
+        1103,
+        1123
+      ],
+      "frame": [
+        108168,
+        110766
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0094",
+      "shot": [
+        1123,
+        1148
+      ],
+      "frame": [
+        110766,
+        113276
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0095",
+      "shot": [
+        1148,
+        1159
+      ],
+      "frame": [
+        113276,
+        114987
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0096",
+      "shot": [
+        1159,
+        1163
+      ],
+      "frame": [
+        114987,
+        116601
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0097",
+      "shot": [
+        1163,
+        1168
+      ],
+      "frame": [
+        116601,
+        116869
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0098",
+      "shot": [
+        1168,
+        1336
+      ],
+      "frame": [
+        116869,
+        125171
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0099",
+      "shot": [
+        1336,
+        1354
+      ],
+      "frame": [
+        125171,
+        127858
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0100",
+      "shot": [
+        1354,
+        1361
+      ],
+      "frame": [
+        127858,
+        129286
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0101",
+      "shot": [
+        1361,
+        1364
+      ],
+      "frame": [
+        129286,
+        129528
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0102",
+      "shot": [
+        1364,
+        1374
+      ],
+      "frame": [
+        129528,
+        130329
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0103",
+      "shot": [
+        1374,
+        1382
+      ],
+      "frame": [
+        130329,
+        131001
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0104",
+      "shot": [
+        1382,
+        1417
+      ],
+      "frame": [
+        131001,
+        135197
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0105",
+      "shot": [
+        1417,
+        1418
+      ],
+      "frame": [
+        135197,
+        135281
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0106",
+      "shot": [
+        1418,
+        1422
+      ],
+      "frame": [
+        135281,
+        135506
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0107",
+      "shot": [
+        1422,
+        1423
+      ],
+      "frame": [
+        135506,
+        135569
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0108",
+      "shot": [
+        1423,
+        1437
+      ],
+      "frame": [
+        135569,
+        137065
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0109",
+      "shot": [
+        1437,
+        1438
+      ],
+      "frame": [
+        137065,
+        137251
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0110",
+      "shot": [
+        1438,
+        1476
+      ],
+      "frame": [
+        137251,
+        139634
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0111",
+      "shot": [
+        1476,
+        1479
+      ],
+      "frame": [
+        139634,
+        139899
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0112",
+      "shot": [
+        1479,
+        1515
+      ],
+      "frame": [
+        139899,
+        142514
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0113",
+      "shot": [
+        1515,
+        1527
+      ],
+      "frame": [
+        142514,
+        143148
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0114",
+      "shot": [
+        1527,
+        1540
+      ],
+      "frame": [
+        143148,
+        143570
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0115",
+      "shot": [
+        1540,
+        1543
+      ],
+      "frame": [
+        143570,
+        143811
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0116",
+      "shot": [
+        1543,
+        1575
+      ],
+      "frame": [
+        143811,
+        147430
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0117",
+      "shot": [
+        1575,
+        1583
+      ],
+      "frame": [
+        147430,
+        148127
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0118",
+      "shot": [
+        1583,
+        1584
+      ],
+      "frame": [
+        148127,
+        148221
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0119",
+      "shot": [
+        1584,
+        1604
+      ],
+      "frame": [
+        148221,
+        151756
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0120",
+      "shot": [
+        1604,
+        1619
+      ],
+      "frame": [
+        151756,
+        153620
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0121",
+      "shot": [
+        1619,
+        1631
+      ],
+      "frame": [
+        153620,
+        154449
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0122",
+      "shot": [
+        1631,
+        1632
+      ],
+      "frame": [
+        154449,
+        154546
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0123",
+      "shot": [
+        1632,
+        1650
+      ],
+      "frame": [
+        154546,
+        155821
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0124",
+      "shot": [
+        1650,
+        1692
+      ],
+      "frame": [
+        155821,
+        158908
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0125",
+      "shot": [
+        1692,
+        1726
+      ],
+      "frame": [
+        158908,
+        161539
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0126",
+      "shot": [
+        1726,
+        1769
+      ],
+      "frame": [
+        161539,
+        166069
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0127",
+      "shot": [
+        1769,
+        1772
+      ],
+      "frame": [
+        166069,
+        166752
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0128",
+      "shot": [
+        1772,
+        1778
+      ],
+      "frame": [
+        166752,
+        167223
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0129",
+      "shot": [
+        1778,
+        1779
+      ],
+      "frame": [
+        167223,
+        167539
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0138097_0130",
+      "shot": [
+        1779,
+        1784
+      ],
+      "frame": [
+        167539,
+        167922
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0138097_0004",
+      "shot": [
+        461,
+        594
+      ],
+      "frame": [
+        46259,
+        58105
+      ],
+      "duration": [
+        1929.3979283333333,
+        2423.4586363333333
+      ],
+      "consistency": 0.9965754390652737,
+      "description": "Inspired by Viola, Shakespeare begins writing feverishly. His work in progress also benefits from the off-hand advice of playwright and friendly rival Christopher Marlowe (Rupert Everett). Yet Shakespeare and de Lesseps know that their romance is doomed. Shakespeare is married, albeit long separated from his wife, and Viola is a noblewoman whose parents would never permit her to marry a commoner such as Shakespeare. In fact, Viola's father has privately arranged a betrothal for her to Lord Wessex (Colin Firth).",
+      "subtitle": [
+        {
+          "shot": 476,
+          "duration": [
+            1961.8765833333332,
+            1963.1278333333332
+          ],
+          "sentences": [
+            "Draw, if you be men!"
+          ]
+        },
+        {
+          "shot": 477,
+          "duration": [
+            1963.1695416666664,
+            1993.1161249999998
+          ],
+          "sentences": [
+            "Draw, if you be men!",
+            "Gregory, remember thy swashing blow!",
+            "Part, fools! Put up your swords. You know not what you do.",
+            "It starts well, then it\u0092s all long-faced about some Rosaline.",
+            "Where\u0092s the comedy, Will? Where\u0092s the dog?",
+            "Do you think it\u0092s funny?",
+            "I was a pirate king, now I\u0092m a nurse. That\u0092s funny.",
+            "We are 6 men short, and those we have will be over parted ranters...",
+            "and stutterers who should be sent back to the stews.",
+            "My Romeo\u0092s let me down. I see disaster.",
+            "We are 4 acts short, if you\u0092re looking for disaster.",
+            "-Sir! -Who are you, master?"
+          ]
+        },
+        {
+          "shot": 478,
+          "duration": [
+            1993.1578333333332,
+            1996.8698749999999
+          ],
+          "sentences": [
+            "-Sir! -Who are you, master?",
+            "I\u0092m Ethel, sir, the pirate\u0092s daughter.",
+            "I'll be damned if you are!"
+          ]
+        },
+        {
+          "shot": 479,
+          "duration": [
+            1996.9115833333333,
+            2000.7070416666666
+          ],
+          "sentences": [
+            "I'll be damned if you are!"
+          ]
+        },
+        {
+          "shot": 480,
+          "duration": [
+            2000.7487499999997,
+            2003.3346666666666
+          ],
+          "sentences": [
+            "Your attention, please!",
+            "-Gentlemen, thank you! -You are welcome."
+          ]
+        },
+        {
+          "shot": 481,
+          "duration": [
+            2003.3763749999998,
+            2005.1698333333331
+          ],
+          "sentences": [
+            "-Gentlemen, thank you! -You are welcome."
+          ]
+        },
+        {
+          "shot": 482,
+          "duration": [
+            2005.2115416666666,
+            2009.4657916666665
+          ],
+          "sentences": [
+            "-Gentlemen, thank you! -You are welcome.",
+            "-Who\u0092s that? -Nobody. He\u0092s the author.",
+            "We are about to embark on a great voyage."
+          ]
+        },
+        {
+          "shot": 483,
+          "duration": [
+            2009.5075,
+            2011.634625
+          ],
+          "sentences": [
+            "We are about to embark on a great voyage."
+          ]
+        },
+        {
+          "shot": 484,
+          "duration": [
+            2011.676333333333,
+            2016.180833333333
+          ],
+          "sentences": [
+            "We are about to embark on a great voyage.",
+            "It is customary to make a little speech on the first day.",
+            "It does no harm. Authors like it."
+          ]
+        },
+        {
+          "shot": 485,
+          "duration": [
+            2016.2225416666665,
+            2034.7410416666664
+          ],
+          "sentences": [
+            "It does no harm. Authors like it.",
+            "You want to know what parts you are to receive. All will be settled as we...",
+            "I\u0092ll do it.",
+            "Now listen to me, you dregs.",
+            "Actors are 10 a penny...",
+            "and I, Hugh Fennyman, hold your nuts in my hand.",
+            "Huzzah!",
+            "The Admiral\u0092s Men are returned to the house!"
+          ]
+        },
+        {
+          "shot": 486,
+          "duration": [
+            2034.7827499999999,
+            2038.411375
+          ],
+          "sentences": [
+            "The Admiral\u0092s Men are returned to the house!",
+            "Huzzah!"
+          ]
+        },
+        {
+          "shot": 487,
+          "duration": [
+            2038.453083333333,
+            2040.5384999999999
+          ],
+          "sentences": [
+            "Huzzah!"
+          ]
+        },
+        {
+          "shot": 488,
+          "duration": [
+            2040.580208333333,
+            2041.9565833333331
+          ],
+          "sentences": [
+            "Ned!"
+          ]
+        },
+        {
+          "shot": 489,
+          "duration": [
+            2041.9982916666665,
+            2043.8334583333333
+          ],
+          "sentences": [
+            "Henslowe!"
+          ]
+        },
+        {
+          "shot": 490,
+          "duration": [
+            2043.8751666666665,
+            2046.8364583333332
+          ],
+          "sentences": [
+            "Henslowe!",
+            "Earl! Good to see you."
+          ]
+        },
+        {
+          "shot": 491,
+          "duration": [
+            2046.8781666666666,
+            2048.838458333333
+          ],
+          "sentences": [
+            "Earl! Good to see you."
+          ]
+        },
+        {
+          "shot": 493,
+          "duration": [
+            2052.0499999999997,
+            2053.8851666666665
+          ],
+          "sentences": [
+            "Who is this?",
+            "Silence, you dog!"
+          ]
+        },
+        {
+          "shot": 494,
+          "duration": [
+            2053.9268749999997,
+            2055.344958333333
+          ],
+          "sentences": [
+            "Silence, you dog!"
+          ]
+        },
+        {
+          "shot": 495,
+          "duration": [
+            2055.3866666666663,
+            2059.80775
+          ],
+          "sentences": [
+            "Silence, you dog!",
+            "I am \"Hieronimo\"."
+          ]
+        },
+        {
+          "shot": 496,
+          "duration": [
+            2059.849458333333,
+            2062.5187916666664
+          ],
+          "sentences": [
+            "I am \"Tamburlaine\". I am \"Faustus\"."
+          ]
+        },
+        {
+          "shot": 497,
+          "duration": [
+            2062.5605,
+            2064.8961666666664
+          ],
+          "sentences": [
+            "I am \"Tamburlaine\". I am \"Faustus\".",
+            "I am \"Barabbas\", the Jew of Malta."
+          ]
+        },
+        {
+          "shot": 498,
+          "duration": [
+            2064.937875,
+            2067.5654999999997
+          ],
+          "sentences": [
+            "I am \"Barabbas\", the Jew of Malta."
+          ]
+        },
+        {
+          "shot": 499,
+          "duration": [
+            2067.6072083333333,
+            2073.071
+          ],
+          "sentences": [
+            "I am \"Barabbas\", the Jew of Malta.",
+            "Oh, yes, Master Will. I am \"Henry the 6th\"."
+          ]
+        },
+        {
+          "shot": 500,
+          "duration": [
+            2073.112708333333,
+            2078.5764999999997
+          ],
+          "sentences": [
+            "What is the play, and what is my part?",
+            "-Uh, one moment, sir... -Who are you?"
+          ]
+        },
+        {
+          "shot": 501,
+          "duration": [
+            2078.6182083333333,
+            2085.875458333333
+          ],
+          "sentences": [
+            "-Uh, one moment, sir... -Who are you?",
+            "I\u0092m, um... I\u0092m the money.",
+            "Then you may remain, so long as you remain silent."
+          ]
+        },
+        {
+          "shot": 502,
+          "duration": [
+            2085.9171666666666,
+            2091.089
+          ],
+          "sentences": [
+            "Then you may remain, so long as you remain silent.",
+            "Pay attention. You will see how genius creates a legend."
+          ]
+        },
+        {
+          "shot": 503,
+          "duration": [
+            2091.130708333333,
+            2094.9261666666666
+          ],
+          "sentences": [
+            "-Thank you, sir. -We are in desperate want...",
+            "of a \"Mercutio\", Ned. A young nobleman of Verona."
+          ]
+        },
+        {
+          "shot": 504,
+          "duration": [
+            2094.967875,
+            2100.8070416666665
+          ],
+          "sentences": [
+            "of a \"Mercutio\", Ned. A young nobleman of Verona.",
+            "-And the title of this piece? -\"Mercutio\".",
+            "Is it?"
+          ]
+        },
+        {
+          "shot": 505,
+          "duration": [
+            2100.8487499999997,
+            2102.225125
+          ],
+          "sentences": [
+            "I will play him."
+          ]
+        },
+        {
+          "shot": 506,
+          "duration": [
+            2102.266833333333,
+            2103.893458333333
+          ],
+          "sentences": [
+            "I will play him."
+          ]
+        },
+        {
+          "shot": 508,
+          "duration": [
+            2104.85275,
+            2105.8537499999998
+          ],
+          "sentences": [
+            "Mr. Pope. Mr. Philips. Welcome."
+          ]
+        },
+        {
+          "shot": 509,
+          "duration": [
+            2105.8954583333334,
+            2107.5220833333333
+          ],
+          "sentences": [
+            "Mr. Pope. Mr. Philips. Welcome."
+          ]
+        },
+        {
+          "shot": 510,
+          "duration": [
+            2107.5637916666665,
+            2108.85675
+          ],
+          "sentences": [
+            "Mr. Pope. Mr. Philips. Welcome.",
+            "George Bryan. James Armitage."
+          ]
+        },
+        {
+          "shot": 511,
+          "duration": [
+            2108.898458333333,
+            2111.8180416666664
+          ],
+          "sentences": [
+            "George Bryan. James Armitage.",
+            "Sam, my pretty one!"
+          ]
+        },
+        {
+          "shot": 512,
+          "duration": [
+            2111.85975,
+            2116.9064583333334
+          ],
+          "sentences": [
+            "Sam, my pretty one!",
+            "-Are you ready to fall in love again? -I am, Master Shakespeare.",
+            "Your voice. Have they dropped?"
+          ]
+        },
+        {
+          "shot": 513,
+          "duration": [
+            2116.9481666666666,
+            2119.2004166666666
+          ],
+          "sentences": [
+            "Your voice. Have they dropped?",
+            "No! No. A touch of cold only."
+          ]
+        },
+        {
+          "shot": 514,
+          "duration": [
+            2119.2421249999998,
+            2122.7039166666664
+          ],
+          "sentences": [
+            "No! No. A touch of cold only.",
+            "Master Henslowe, you have your actors, except Thomas Kent."
+          ]
+        },
+        {
+          "shot": 515,
+          "duration": [
+            2122.745625,
+            2125.4566666666665
+          ],
+          "sentences": [
+            "Master Henslowe, you have your actors, except Thomas Kent."
+          ]
+        },
+        {
+          "shot": 516,
+          "duration": [
+            2125.4983749999997,
+            2137.802333333333
+          ],
+          "sentences": [
+            "Master Henslowe, you have your actors, except Thomas Kent.",
+            "I saw his \"Tamburlaine\", you know.",
+            "-It was wonderful. -Yes, I saw it.",
+            "Of course, such mighty writing.",
+            "There\u0092s no one like Marlowe."
+          ]
+        },
+        {
+          "shot": 517,
+          "duration": [
+            2137.8440416666667,
+            2149.272125
+          ],
+          "sentences": [
+            "Better fortune, boy."
+          ]
+        },
+        {
+          "shot": 518,
+          "duration": [
+            2149.313833333333,
+            2150.9821666666667
+          ],
+          "sentences": [
+            "Better fortune, boy.",
+            "I was in a play."
+          ]
+        },
+        {
+          "shot": 519,
+          "duration": [
+            2151.023875,
+            2155.570083333333
+          ],
+          "sentences": [
+            "I was in a play.",
+            "They cut my head off in \"Titus Andronicus\"."
+          ]
+        },
+        {
+          "shot": 520,
+          "duration": [
+            2155.6117916666667,
+            2157.947458333333
+          ],
+          "sentences": [
+            "When I write plays, they\u0092ll be like \"Titus\"."
+          ]
+        },
+        {
+          "shot": 521,
+          "duration": [
+            2157.9891666666667,
+            2159.4072499999997
+          ],
+          "sentences": [
+            "When I write plays, they\u0092ll be like \"Titus\".",
+            "You admire it."
+          ]
+        },
+        {
+          "shot": 522,
+          "duration": [
+            2159.4489583333334,
+            2161.951458333333
+          ],
+          "sentences": [
+            "You admire it.",
+            "I liked it when they cut heads off,"
+          ]
+        },
+        {
+          "shot": 523,
+          "duration": [
+            2161.9931666666666,
+            2164.1202916666666
+          ],
+          "sentences": [
+            "I liked it when they cut heads off,",
+            "and the daughter mutilated with knives."
+          ]
+        },
+        {
+          "shot": 524,
+          "duration": [
+            2164.162,
+            2167.2484166666663
+          ],
+          "sentences": [
+            "and the daughter mutilated with knives.",
+            "-What\u0092s your name? -John Webster."
+          ]
+        },
+        {
+          "shot": 525,
+          "duration": [
+            2167.290125,
+            2173.3795416666667
+          ],
+          "sentences": [
+            "-What\u0092s your name? -John Webster.",
+            "Here, kitty, kitty."
+          ]
+        },
+        {
+          "shot": 526,
+          "duration": [
+            2173.42125,
+            2177.0498749999997
+          ],
+          "sentences": [
+            "Plenty of blood.",
+            "That\u0092s the only writing."
+          ]
+        },
+        {
+          "shot": 527,
+          "duration": [
+            2177.0915833333333,
+            2179.0518749999997
+          ],
+          "sentences": [
+            "That\u0092s the only writing."
+          ]
+        },
+        {
+          "shot": 528,
+          "duration": [
+            2179.0935833333333,
+            2185.8503333333333
+          ],
+          "sentences": [
+            "I have to get back.",
+            "See, where he comes. So please you step aside.",
+            "I\u0092ll know his grievance, or be much denied."
+          ]
+        },
+        {
+          "shot": 529,
+          "duration": [
+            2185.8920416666665,
+            2189.228708333333
+          ],
+          "sentences": [
+            "I\u0092ll know his grievance, or be much denied.",
+            "I would thou wert so happy by thy stay to hear true shrift. Come, madam."
+          ]
+        },
+        {
+          "shot": 530,
+          "duration": [
+            2189.2704166666667,
+            2197.862333333333
+          ],
+          "sentences": [
+            "I would thou wert so happy by thy stay to hear true shrift. Come, madam.",
+            "Cut around him for now.",
+            "-What? Who? -Romeo.",
+            "-The one who came with your letter. -What?",
+            "Good morrow, cousin.",
+            "-Is the day so young? -But new struck nine."
+          ]
+        },
+        {
+          "shot": 531,
+          "duration": [
+            2197.9040416666667,
+            2204.243708333333
+          ],
+          "sentences": [
+            "-Is the day so young? -But new struck nine.",
+            "Ay me. Sad hours seem long.",
+            "What sadness lengthens Romeo\u0092s hours?"
+          ]
+        },
+        {
+          "shot": 532,
+          "duration": [
+            2204.2854166666666,
+            2212.5019583333333
+          ],
+          "sentences": [
+            "What sadness lengthens Romeo\u0092s hours?",
+            "Not having that which having makes them short.",
+            "Good!",
+            "-In love? -Out.",
+            "-Of love? -Out of her favour where I am in love."
+          ]
+        },
+        {
+          "shot": 533,
+          "duration": [
+            2212.5436666666665,
+            2215.0044583333333
+          ],
+          "sentences": [
+            "-Of love? -Out of her favour where I am in love.",
+            "No, no, don\u0092t spend it all at once."
+          ]
+        },
+        {
+          "shot": 534,
+          "duration": [
+            2215.0461666666665,
+            2216.5476666666664
+          ],
+          "sentences": [
+            "No, no, don\u0092t spend it all at once."
+          ]
+        },
+        {
+          "shot": 535,
+          "duration": [
+            2216.589375,
+            2220.760208333333
+          ],
+          "sentences": [
+            "No, no, don\u0092t spend it all at once.",
+            "Yes, sir.",
+            "-Do you understand me? -No, sir."
+          ]
+        },
+        {
+          "shot": 536,
+          "duration": [
+            2220.8019166666663,
+            2222.22
+          ],
+          "sentences": [
+            "-Do you understand me? -No, sir."
+          ]
+        },
+        {
+          "shot": 537,
+          "duration": [
+            2222.261708333333,
+            2223.7214999999997
+          ],
+          "sentences": [
+            "-Do you understand me? -No, sir."
+          ]
+        },
+        {
+          "shot": 538,
+          "duration": [
+            2223.7632083333333,
+            2227.016458333333
+          ],
+          "sentences": [
+            "You\u0092re speaking about a baggage we never even meet.",
+            "What will be left in his purse when he meets his Juliet?"
+          ]
+        },
+        {
+          "shot": 539,
+          "duration": [
+            2227.0581666666667,
+            2230.3948333333333
+          ],
+          "sentences": [
+            "What will be left in his purse when he meets his Juliet?",
+            "-Juliet? You mean Ethel. -God\u0092s teeth!"
+          ]
+        },
+        {
+          "shot": 540,
+          "duration": [
+            2230.4365416666665,
+            2231.604375
+          ],
+          "sentences": [
+            "-Juliet? You mean Ethel. -God\u0092s teeth!"
+          ]
+        },
+        {
+          "shot": 541,
+          "duration": [
+            2231.646083333333,
+            2232.4385416666664
+          ],
+          "sentences": [
+            "-Juliet? You mean Ethel. -God\u0092s teeth!",
+            "Am I to suffer this constant stream of interruption?"
+          ]
+        },
+        {
+          "shot": 542,
+          "duration": [
+            2232.4802499999996,
+            2233.7315
+          ],
+          "sentences": [
+            "Am I to suffer this constant stream of interruption?"
+          ]
+        },
+        {
+          "shot": 543,
+          "duration": [
+            2233.773208333333,
+            2235.9420416666667
+          ],
+          "sentences": [
+            "Am I to suffer this constant stream of interruption?"
+          ]
+        },
+        {
+          "shot": 544,
+          "duration": [
+            2235.98375,
+            2240.780208333333
+          ],
+          "sentences": [
+            "What will he do in Act Two, when he meets the love of his life?"
+          ]
+        },
+        {
+          "shot": 545,
+          "duration": [
+            2240.8219166666663,
+            2246.9530416666666
+          ],
+          "sentences": [
+            "What will he do in Act Two, when he meets the love of his life?",
+            "I\u0092m very sorry, sir. I have not seen Act Two."
+          ]
+        },
+        {
+          "shot": 546,
+          "duration": [
+            2246.99475,
+            2252.124875
+          ],
+          "sentences": [
+            "Of course you have not. I have not written it. Go once more."
+          ]
+        },
+        {
+          "shot": 547,
+          "duration": [
+            2252.166583333333,
+            2254.00175
+          ],
+          "sentences": [
+            "Will. Where is Mercutio?"
+          ]
+        },
+        {
+          "shot": 548,
+          "duration": [
+            2254.043458333333,
+            2260.4665416666667
+          ],
+          "sentences": [
+            "Will. Where is Mercutio?",
+            "Locked safe in here. I\u0092ll leave the scene in your safekeeping, Ned.",
+            "I have a sonnet to write."
+          ]
+        },
+        {
+          "shot": 549,
+          "duration": [
+            2260.50825,
+            2263.636375
+          ],
+          "sentences": [
+            "I have a sonnet to write.",
+            "Sonnet? You mean a play!"
+          ]
+        },
+        {
+          "shot": 551,
+          "duration": [
+            2266.1388749999996,
+            2270.184583333333
+          ],
+          "sentences": [
+            "\" For Lady Viola De Lesseps, by the hand of Thomas Kent."
+          ]
+        },
+        {
+          "shot": 552,
+          "duration": [
+            2270.2262916666664,
+            2277.02475
+          ],
+          "sentences": [
+            "\" For Lady Viola De Lesseps, by the hand of Thomas Kent.",
+            "\" Shall I compare thee to a summer\u0092s day?"
+          ]
+        },
+        {
+          "shot": 553,
+          "duration": [
+            2277.0664583333332,
+            2280.569958333333
+          ],
+          "sentences": [
+            "\" Shall I compare thee to a summer\u0092s day?",
+            "\" Thou art more lovely and more temperate."
+          ]
+        },
+        {
+          "shot": 554,
+          "duration": [
+            2280.6116666666667,
+            2288.3277083333332
+          ],
+          "sentences": [
+            "\" Rough winds do shake the darling buds of May... \"",
+            "Two hours at prayer!",
+            "-Lady Viola is pious, my lord. -Piety is for Sunday!"
+          ]
+        },
+        {
+          "shot": 555,
+          "duration": [
+            2288.3694166666664,
+            2293.7915
+          ],
+          "sentences": [
+            "-Lady Viola is pious, my lord. -Piety is for Sunday!",
+            "And 2 hours of prayer is not piety, it is self-importance."
+          ]
+        },
+        {
+          "shot": 556,
+          "duration": [
+            2293.833208333333,
+            2298.7547916666663
+          ],
+          "sentences": [
+            "And 2 hours of prayer is not piety, it is self-importance.",
+            "It would be better that you return tomorrow, my lord.",
+            "It would be better if you\u0092d tell her to get off her knees and show..."
+          ]
+        },
+        {
+          "shot": 557,
+          "duration": [
+            2298.7965,
+            2300.298
+          ],
+          "sentences": [
+            "It would be better if you\u0092d tell her to get off her knees and show...",
+            "some civility to her 6day lord and master!"
+          ]
+        },
+        {
+          "shot": 558,
+          "duration": [
+            2300.339708333333,
+            2302.591958333333
+          ],
+          "sentences": [
+            "some civility to her 6day lord and master!"
+          ]
+        },
+        {
+          "shot": 559,
+          "duration": [
+            2302.6336666666666,
+            2303.676375
+          ],
+          "sentences": [
+            "some civility to her 6day lord and master!"
+          ]
+        },
+        {
+          "shot": 561,
+          "duration": [
+            2305.55325,
+            2307.2632916666666
+          ],
+          "sentences": [
+            "Mmmph!"
+          ]
+        },
+        {
+          "shot": 566,
+          "duration": [
+            2313.2692916666665,
+            2315.6049583333333
+          ],
+          "sentences": [
+            "My lady Viola.",
+            "Lord Wessex. You\u0092ve been waiting."
+          ]
+        },
+        {
+          "shot": 567,
+          "duration": [
+            2315.6466666666665,
+            2320.1511666666665
+          ],
+          "sentences": [
+            "Lord Wessex. You\u0092ve been waiting.",
+            "I am aware of it."
+          ]
+        },
+        {
+          "shot": 568,
+          "duration": [
+            2320.1928749999997,
+            2323.2792916666667
+          ],
+          "sentences": [
+            "But it is beauty\u0092s privilege."
+          ]
+        },
+        {
+          "shot": 569,
+          "duration": [
+            2323.321,
+            2325.489833333333
+          ],
+          "sentences": [
+            "You flatter, my lord.",
+            "No. I have spoken to the queen."
+          ]
+        },
+        {
+          "shot": 570,
+          "duration": [
+            2325.5315416666667,
+            2329.3269999999998
+          ],
+          "sentences": [
+            "No. I have spoken to the queen.",
+            "Her Majesty\u0092s consent is requisite when a Wessex takes a wife..."
+          ]
+        },
+        {
+          "shot": 571,
+          "duration": [
+            2329.368708333333,
+            2332.621958333333
+          ],
+          "sentences": [
+            "Her Majesty\u0092s consent is requisite when a Wessex takes a wife..."
+          ]
+        },
+        {
+          "shot": 572,
+          "duration": [
+            2332.6636666666664,
+            2340.4631249999998
+          ],
+          "sentences": [
+            "and once given, her consent is her command.",
+            "Do you intend to marry, my lord?",
+            "Your father should keep you better informed. He has bought me for you."
+          ]
+        },
+        {
+          "shot": 573,
+          "duration": [
+            2340.504833333333,
+            2345.509833333333
+          ],
+          "sentences": [
+            "Your father should keep you better informed. He has bought me for you.",
+            "He returns from his estates to see us married two weeks from Saturday."
+          ]
+        },
+        {
+          "shot": 574,
+          "duration": [
+            2345.5515416666667,
+            2349.9309166666667
+          ],
+          "sentences": [
+            "He returns from his estates to see us married two weeks from Saturday.",
+            "You are allowed to show your pleasure."
+          ]
+        },
+        {
+          "shot": 575,
+          "duration": [
+            2349.972625,
+            2354.393708333333
+          ],
+          "sentences": [
+            "But I do not love you, my lord.",
+            "How your mind hops about."
+          ]
+        },
+        {
+          "shot": 576,
+          "duration": [
+            2354.4354166666667,
+            2359.6906666666664
+          ],
+          "sentences": [
+            "How your mind hops about.",
+            "Your father was a shopkeeper.",
+            "Your children will bear arms, and I will recover my fortune."
+          ]
+        },
+        {
+          "shot": 577,
+          "duration": [
+            2359.732375,
+            2362.1097499999996
+          ],
+          "sentences": [
+            "Your children will bear arms, and I will recover my fortune.",
+            "That is the only matter under discussion today."
+          ]
+        },
+        {
+          "shot": 578,
+          "duration": [
+            2362.1514583333333,
+            2366.6976666666665
+          ],
+          "sentences": [
+            "That is the only matter under discussion today.",
+            "You will like Virginia.",
+            "-Virginia? -Oh, yes."
+          ]
+        },
+        {
+          "shot": 579,
+          "duration": [
+            2366.7393749999997,
+            2369.3252916666665
+          ],
+          "sentences": [
+            "-Virginia? -Oh, yes.",
+            "My fortune lies in my plantations. The tobacco weed."
+          ]
+        },
+        {
+          "shot": 580,
+          "duration": [
+            2369.3669999999997,
+            2372.495125
+          ],
+          "sentences": [
+            "My fortune lies in my plantations. The tobacco weed.",
+            "I need 4,000 pounds to fit out a ship and put my investments to work."
+          ]
+        },
+        {
+          "shot": 581,
+          "duration": [
+            2372.536833333333,
+            2376.1237499999997
+          ],
+          "sentences": [
+            "I need 4,000 pounds to fit out a ship and put my investments to work.",
+            "I fancy tobacco has a future."
+          ]
+        },
+        {
+          "shot": 582,
+          "duration": [
+            2376.1654583333334,
+            2382.2131666666664
+          ],
+          "sentences": [
+            "I fancy tobacco has a future.",
+            "We will not stay there long, 3-4 years."
+          ]
+        },
+        {
+          "shot": 583,
+          "duration": [
+            2382.2548749999996,
+            2386.6759583333333
+          ],
+          "sentences": [
+            "-But why me? -It was your eyes."
+          ]
+        },
+        {
+          "shot": 584,
+          "duration": [
+            2386.7176666666664,
+            2390.13775
+          ],
+          "sentences": [
+            "No, your lips."
+          ]
+        },
+        {
+          "shot": 590,
+          "duration": [
+            2398.1874583333333,
+            2401.816083333333
+          ],
+          "sentences": [
+            "Will you defy your father and your queen?"
+          ]
+        },
+        {
+          "shot": 591,
+          "duration": [
+            2401.8577916666663,
+            2407.2798749999997
+          ],
+          "sentences": [
+            "Will you defy your father and your queen?",
+            "The queen has consented?",
+            "She wants to inspect you.",
+            "At Greenwich, come Sunday."
+          ]
+        },
+        {
+          "shot": 592,
+          "duration": [
+            2407.3215833333334,
+            2414.412
+          ],
+          "sentences": [
+            "At Greenwich, come Sunday.",
+            "Be submissive, modest, grateful and brief."
+          ]
+        },
+        {
+          "shot": 593,
+          "duration": [
+            2414.453708333333,
+            2423.546125
+          ],
+          "sentences": [
+            "Be submissive, modest, grateful and brief.",
+            "I will do my duty, my lord."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0138097_0005",
+      "shot": [
+        805,
+        886
+      ],
+      "frame": [
+        84485,
+        92652
+      ],
+      "duration": [
+        3523.7466466666665,
+        3864.3276846666663
+      ],
+      "consistency": 0.9308887448983589,
+      "description": "Viola is called to the court of Queen Elizabeth I (Judi Dench), and Shakespeare dons a woman's disguise to accompany her. At court, Shakespeare manages to goad Wessex into betting the grand sum of fifty pounds that a play cannot capture the nature of true love. If Romeo and Juliet is a success, Shakespeare as playwright will win the money. The Queen, who enjoys Shakespeare's plays, agrees to be a witness to the wager. The true purpose of the meeting is revealed when Wessex announces his intent to marry Viola.",
+      "subtitle": [
+        {
+          "shot": 805,
+          "duration": [
+            3523.7285416666664,
+            3529.1089166666666
+          ],
+          "sentences": [
+            "Now, pay attention, nursie.",
+            "The queen... Gloriana Regina..."
+          ]
+        },
+        {
+          "shot": 806,
+          "duration": [
+            3529.1506249999998,
+            3531.694833333333
+          ],
+          "sentences": [
+            "The queen... Gloriana Regina...",
+            "God\u0092s chosen vessel, the radiant one who shines her light on us..."
+          ]
+        },
+        {
+          "shot": 807,
+          "duration": [
+            3531.736541666666,
+            3542.956083333333
+          ],
+          "sentences": [
+            "God\u0092s chosen vessel, the radiant one who shines her light on us...",
+            "is at Greenwich today and prepared during the evening\u0092s festivities...",
+            "to bestow her gracious favour on my choice of wife.",
+            "And if we\u0092re late for lunch, the old boot will not forgive!"
+          ]
+        },
+        {
+          "shot": 808,
+          "duration": [
+            3542.997791666666,
+            3545.542
+          ],
+          "sentences": [
+            "And if we\u0092re late for lunch, the old boot will not forgive!",
+            "So get you to my lady\u0092s chamber and produce her with or without her undergarments!"
+          ]
+        },
+        {
+          "shot": 809,
+          "duration": [
+            3545.583708333333,
+            3548.7118333333333
+          ],
+          "sentences": [
+            "So get you to my lady\u0092s chamber and produce her with or without her undergarments!",
+            "You cannot! Not for the queen herself!"
+          ]
+        },
+        {
+          "shot": 810,
+          "duration": [
+            3548.7535416666665,
+            3571.234333333333
+          ],
+          "sentences": [
+            "You cannot! Not for the queen herself!",
+            "What will you have me do? Marry you instead?",
+            "To be the wife of a poor player?",
+            "Can I wish that for Lady Viola except in my dreams?",
+            "And yet I would if I were free to follow my desire in the harsh light of day.",
+            "You follow your desire freely enough in the night.",
+            "-So, if that is all, to Greenwich I go. -Then I\u0092ll go with you.",
+            "-You cannot. Wessex will kill you. -I know how to fight."
+          ]
+        },
+        {
+          "shot": 811,
+          "duration": [
+            3571.2760416666665,
+            3573.1112083333333
+          ],
+          "sentences": [
+            "-You cannot. Wessex will kill you. -I know how to fight."
+          ]
+        },
+        {
+          "shot": 812,
+          "duration": [
+            3573.1529166666664,
+            3574.0705
+          ],
+          "sentences": [
+            "-You cannot. Wessex will kill you. -I know how to fight.",
+            "Stage fighting."
+          ]
+        },
+        {
+          "shot": 813,
+          "duration": [
+            3574.112208333333,
+            3575.3634583333333
+          ],
+          "sentences": [
+            "Stage fighting."
+          ]
+        },
+        {
+          "shot": 814,
+          "duration": [
+            3575.4051666666664,
+            3585.83225
+          ],
+          "sentences": [
+            "Stage fighting.",
+            "Oh, Will.",
+            "As Thomas Kent, my heart belongs to you...",
+            "but as Viola, the river divides us...",
+            "and I must marry Wessex a week from Saturday."
+          ]
+        },
+        {
+          "shot": 815,
+          "duration": [
+            3585.873958333333,
+            3590.003083333333
+          ],
+          "sentences": [
+            "and I must marry Wessex a week from Saturday.",
+            "I\u0092ll drag her down by the queen\u0092s command!"
+          ]
+        },
+        {
+          "shot": 816,
+          "duration": [
+            3590.0447916666662,
+            3591.629708333333
+          ],
+          "sentences": [
+            "I\u0092ll drag her down by the queen\u0092s command!"
+          ]
+        },
+        {
+          "shot": 817,
+          "duration": [
+            3591.6714166666666,
+            3592.9643749999996
+          ],
+          "sentences": [
+            "I\u0092ll drag her down by the queen\u0092s command!"
+          ]
+        },
+        {
+          "shot": 819,
+          "duration": [
+            3594.424166666666,
+            3597.9276666666665
+          ],
+          "sentences": [
+            "Good morning, my Lord.",
+            "My lady. The tide waits for no man, but I swear it would wait for you."
+          ]
+        },
+        {
+          "shot": 820,
+          "duration": [
+            3597.9693749999997,
+            3604.3507499999996
+          ],
+          "sentences": [
+            "My lady. The tide waits for no man, but I swear it would wait for you.",
+            "Oh, here we come at last, my lord!"
+          ]
+        },
+        {
+          "shot": 821,
+          "duration": [
+            3604.3924583333333,
+            3606.6864166666664
+          ],
+          "sentences": [
+            "Oh, here we come at last, my lord!",
+            "Are you bringing your laundrywoman?"
+          ]
+        },
+        {
+          "shot": 822,
+          "duration": [
+            3606.7281249999996,
+            3609.2306249999997
+          ],
+          "sentences": [
+            "Are you bringing your laundrywoman?"
+          ]
+        },
+        {
+          "shot": 823,
+          "duration": [
+            3609.272333333333,
+            3612.609
+          ],
+          "sentences": [
+            "Her chaperone, my lady\u0092s country cousin."
+          ]
+        },
+        {
+          "shot": 824,
+          "duration": [
+            3612.650708333333,
+            3615.4868749999996
+          ],
+          "sentences": [
+            "Her chaperone, my lady\u0092s country cousin.",
+            "My, but you be a handsome gallant, just as she said."
+          ]
+        },
+        {
+          "shot": 825,
+          "duration": [
+            3615.5285833333332,
+            3617.9476666666665
+          ],
+          "sentences": [
+            "My, but you be a handsome gallant, just as she said."
+          ]
+        },
+        {
+          "shot": 826,
+          "duration": [
+            3617.9893749999997,
+            3620.3667499999997
+          ],
+          "sentences": [
+            "My, but you be a handsome gallant, just as she said.",
+            "You may call me Miss Wilhelmina."
+          ]
+        },
+        {
+          "shot": 827,
+          "duration": [
+            3620.408458333333,
+            3621.8682499999995
+          ],
+          "sentences": [
+            "You may call me Miss Wilhelmina.",
+            "On a more fortuitous occasion, perhaps."
+          ]
+        },
+        {
+          "shot": 828,
+          "duration": [
+            3621.909958333333,
+            3624.037083333333
+          ],
+          "sentences": [
+            "On a more fortuitous occasion, perhaps."
+          ]
+        },
+        {
+          "shot": 829,
+          "duration": [
+            3624.0787916666663,
+            3628.3330416666663
+          ],
+          "sentences": [
+            "On a more fortuitous occasion, perhaps.",
+            "Oh, my Lord, you will not shake me off.",
+            "Aye, she never needed me more. I swear by your britches."
+          ]
+        },
+        {
+          "shot": 830,
+          "duration": [
+            3628.37475,
+            3633.0043749999995
+          ],
+          "sentences": [
+            "Aye, she never needed me more. I swear by your britches."
+          ]
+        },
+        {
+          "shot": 838,
+          "duration": [
+            3664.6192916666664,
+            3673.9202499999997
+          ],
+          "sentences": [
+            "-Now? -Now.",
+            "The queen asks for you. Answer well.",
+            "-Is there a man? -A man, my lord?"
+          ]
+        },
+        {
+          "shot": 839,
+          "duration": [
+            3673.961958333333,
+            3697.6522916666663
+          ],
+          "sentences": [
+            "-Is there a man? -A man, my lord?",
+            "There was a man, a poet. A theater poet, I think.",
+            "-Does he come to the house? -A theater poet?",
+            "An insolent penny-a-page rogue! Marlowe, he said. Christopher Marlowe.",
+            "-Has he been to the house? -Marlowe?",
+            "Oh, yes. He is the one.",
+            "Lovely waistcoat. Shame about the poetry.",
+            "That dog!"
+          ]
+        },
+        {
+          "shot": 841,
+          "duration": [
+            3708.2045,
+            3715.4200416666663
+          ],
+          "sentences": [
+            "Your Majesty."
+          ]
+        },
+        {
+          "shot": 842,
+          "duration": [
+            3715.46175,
+            3718.9235416666666
+          ],
+          "sentences": [
+            "Stand up straight, girl."
+          ]
+        },
+        {
+          "shot": 844,
+          "duration": [
+            3720.6335833333333,
+            3724.512458333333
+          ],
+          "sentences": [
+            "I\u0092ve seen you.",
+            "You are the one who comes to all the plays at Whitehall, at Richmond."
+          ]
+        },
+        {
+          "shot": 845,
+          "duration": [
+            3724.5541666666663,
+            3730.97725
+          ],
+          "sentences": [
+            "You are the one who comes to all the plays at Whitehall, at Richmond.",
+            "Your Majesty.",
+            "What do you love so much?"
+          ]
+        },
+        {
+          "shot": 846,
+          "duration": [
+            3731.018958333333,
+            3733.4380416666663
+          ],
+          "sentences": [
+            "What do you love so much?"
+          ]
+        },
+        {
+          "shot": 847,
+          "duration": [
+            3733.4797499999995,
+            3736.023958333333
+          ],
+          "sentences": [
+            "-Your Majesty... -Speak up, girl, I know who I am!"
+          ]
+        },
+        {
+          "shot": 848,
+          "duration": [
+            3736.0656666666664,
+            3738.1927916666664
+          ],
+          "sentences": [
+            "-Your Majesty... -Speak up, girl, I know who I am!",
+            "Do you love stories of kings and queens..."
+          ]
+        },
+        {
+          "shot": 849,
+          "duration": [
+            3738.2344999999996,
+            3743.6148749999998
+          ],
+          "sentences": [
+            "Do you love stories of kings and queens...",
+            "of feats of arms, or is it courtly love?"
+          ]
+        },
+        {
+          "shot": 850,
+          "duration": [
+            3743.656583333333,
+            3749.6208749999996
+          ],
+          "sentences": [
+            "of feats of arms, or is it courtly love?",
+            "I love theater.",
+            "To have stories acted for me by a company of fellows is indeed..."
+          ]
+        },
+        {
+          "shot": 851,
+          "duration": [
+            3749.6625833333333,
+            3752.6238749999998
+          ],
+          "sentences": [
+            "To have stories acted for me by a company of fellows is indeed...",
+            "They\u0092re not acted for you; they are acted for me. And?"
+          ]
+        },
+        {
+          "shot": 852,
+          "duration": [
+            3752.665583333333,
+            3755.2515
+          ],
+          "sentences": [
+            "They\u0092re not acted for you; they are acted for me. And?"
+          ]
+        },
+        {
+          "shot": 853,
+          "duration": [
+            3755.293208333333,
+            3759.422333333333
+          ],
+          "sentences": [
+            "-And I love poetry above all. -Above Lord Wessex?"
+          ]
+        },
+        {
+          "shot": 854,
+          "duration": [
+            3759.4640416666666,
+            3761.424333333333
+          ],
+          "sentences": [
+            "-And I love poetry above all. -Above Lord Wessex?"
+          ]
+        },
+        {
+          "shot": 855,
+          "duration": [
+            3761.4660416666666,
+            3764.051958333333
+          ],
+          "sentences": [
+            "My lord, when you cannot find your wife, you better look for her at the playhouse."
+          ]
+        },
+        {
+          "shot": 856,
+          "duration": [
+            3764.093666666666,
+            3766.554458333333
+          ],
+          "sentences": [
+            "My lord, when you cannot find your wife, you better look for her at the playhouse."
+          ]
+        },
+        {
+          "shot": 857,
+          "duration": [
+            3766.5961666666662,
+            3769.9745416666665
+          ],
+          "sentences": [
+            "Playwrights teach us nothing about love."
+          ]
+        },
+        {
+          "shot": 858,
+          "duration": [
+            3770.0162499999997,
+            3772.8524166666666
+          ],
+          "sentences": [
+            "Playwrights teach us nothing about love.",
+            "They make it pretty; they make it comical; or they make it lust."
+          ]
+        },
+        {
+          "shot": 859,
+          "duration": [
+            3772.894125,
+            3777.2735
+          ],
+          "sentences": [
+            "They make it pretty; they make it comical; or they make it lust.",
+            "-They cannot make it true. -Oh, but they can."
+          ]
+        },
+        {
+          "shot": 860,
+          "duration": [
+            3777.315208333333,
+            3778.6081666666664
+          ],
+          "sentences": [
+            "-They cannot make it true. -Oh, but they can."
+          ]
+        },
+        {
+          "shot": 863,
+          "duration": [
+            3781.569458333333,
+            3784.03025
+          ],
+          "sentences": [
+            "I mean, Your Majesty, they... they do not, they have... not..."
+          ]
+        },
+        {
+          "shot": 864,
+          "duration": [
+            3784.071958333333,
+            3787.6588749999996
+          ],
+          "sentences": [
+            "I mean, Your Majesty, they... they do not, they have... not...",
+            "but I believe there is one who can."
+          ]
+        },
+        {
+          "shot": 865,
+          "duration": [
+            3787.7005833333333,
+            3790.077958333333
+          ],
+          "sentences": [
+            "but I believe there is one who can."
+          ]
+        },
+        {
+          "shot": 866,
+          "duration": [
+            3790.1196666666665,
+            3792.455333333333
+          ],
+          "sentences": [
+            "My Lady Viola is young in the world. Your Majesty is wise in it."
+          ]
+        },
+        {
+          "shot": 867,
+          "duration": [
+            3792.4970416666665,
+            3794.1653749999996
+          ],
+          "sentences": [
+            "My Lady Viola is young in the world. Your Majesty is wise in it."
+          ]
+        },
+        {
+          "shot": 868,
+          "duration": [
+            3794.2070833333332,
+            3796.2507916666664
+          ],
+          "sentences": [
+            "My Lady Viola is young in the world. Your Majesty is wise in it.",
+            "Nature and truth are the very enemies of playacting."
+          ]
+        },
+        {
+          "shot": 869,
+          "duration": [
+            3796.2924999999996,
+            3800.338208333333
+          ],
+          "sentences": [
+            "Nature and truth are the very enemies of playacting.",
+            "-I\u0092ll wager my fortune. -I thought you were here because you had none."
+          ]
+        },
+        {
+          "shot": 870,
+          "duration": [
+            3800.3799166666663,
+            3802.2985
+          ],
+          "sentences": [
+            "-I\u0092ll wager my fortune. -I thought you were here because you had none."
+          ]
+        },
+        {
+          "shot": 872,
+          "duration": [
+            3806.0522499999997,
+            3810.0562499999996
+          ],
+          "sentences": [
+            "-Well, no one will take your wager, it seems. -50 pounds."
+          ]
+        },
+        {
+          "shot": 873,
+          "duration": [
+            3810.0979583333333,
+            3812.3502083333333
+          ],
+          "sentences": [
+            "-Well, no one will take your wager, it seems. -50 pounds."
+          ]
+        },
+        {
+          "shot": 875,
+          "duration": [
+            3813.7682916666663,
+            3814.977833333333
+          ],
+          "sentences": [
+            "50 pounds?"
+          ]
+        },
+        {
+          "shot": 876,
+          "duration": [
+            3815.0195416666666,
+            3816.9381249999997
+          ],
+          "sentences": [
+            "50 pounds?"
+          ]
+        },
+        {
+          "shot": 877,
+          "duration": [
+            3816.979833333333,
+            3818.3979166666663
+          ],
+          "sentences": [
+            "A very worthy sum on a very worthy question."
+          ]
+        },
+        {
+          "shot": 878,
+          "duration": [
+            3818.4396249999995,
+            3826.864708333333
+          ],
+          "sentences": [
+            "A very worthy sum on a very worthy question.",
+            "Can a play show us the very truth and nature of love?"
+          ]
+        },
+        {
+          "shot": 879,
+          "duration": [
+            3826.9064166666662,
+            3828.616458333333
+          ],
+          "sentences": [
+            "Can a play show us the very truth and nature of love?",
+            "I bear witness to the wager..."
+          ]
+        },
+        {
+          "shot": 880,
+          "duration": [
+            3828.6581666666666,
+            3830.5350416666665
+          ],
+          "sentences": [
+            "I bear witness to the wager..."
+          ]
+        },
+        {
+          "shot": 881,
+          "duration": [
+            3830.5767499999997,
+            3835.1646666666666
+          ],
+          "sentences": [
+            "I bear witness to the wager...",
+            "and will be the judge of it as occasion arises."
+          ]
+        },
+        {
+          "shot": 882,
+          "duration": [
+            3835.2063749999998,
+            3838.4179166666663
+          ],
+          "sentences": [
+            "I have seen nothing to settle it yet."
+          ]
+        },
+        {
+          "shot": 883,
+          "duration": [
+            3838.4596249999995,
+            3841.3792083333333
+          ],
+          "sentences": [
+            "I have seen nothing to settle it yet.",
+            "Are there no more fireworks?"
+          ]
+        },
+        {
+          "shot": 884,
+          "duration": [
+            3841.4209166666665,
+            3844.0485416666666
+          ],
+          "sentences": [
+            "Are there no more fireworks?",
+            "They would be soothing after the excitements of Lady Viola\u0092s audience."
+          ]
+        },
+        {
+          "shot": 885,
+          "duration": [
+            3844.0902499999997,
+            3865.027833333333
+          ],
+          "sentences": [
+            "They would be soothing after the excitements of Lady Viola\u0092s audience.",
+            "Have her, then, but you are a lordly fool.",
+            "She\u0092s been plucked since I saw her last, and not by you.",
+            "It takes a woman to know it.",
+            "Marlowe."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0138097_0007",
+      "shot": [
+        1385,
+        1631
+      ],
+      "frame": [
+        131335,
+        154410
+      ],
+      "duration": [
+        5477.769227666666,
+        6440.167228666666
+      ],
+      "consistency": 0.9841002101167081,
+      "description": "Viola learns that the play will be performed on the very day of her wedding. After the ceremony, Viola's loyal nurse (Imelda Staunton) helps her slip away to the theater. In one final twist, mere moments before the play begins, the boy playing Juliet starts experiencing the voice change of puberty. Viola takes the stage to replace him and plays Juliet to Shakespeare's Romeo. Their passionate portrayal of two lovers inspires the entire audience.",
+      "subtitle": [
+        {
+          "shot": 1388,
+          "duration": [
+            5495.865374999999,
+            5505.833666666666
+          ],
+          "sentences": [
+            "Oh, my lord!",
+            "-Be good to her, my lord. -I will.",
+            "Oh, God bless you!"
+          ]
+        },
+        {
+          "shot": 1389,
+          "duration": [
+            5505.875375,
+            5509.8793749999995
+          ],
+          "sentences": [
+            "Oh, God bless you!",
+            "Thank you. Uh, let go. There\u0092s a good nurse.",
+            "The tide will not wait!"
+          ]
+        },
+        {
+          "shot": 1390,
+          "duration": [
+            5509.921083333333,
+            5518.76325
+          ],
+          "sentences": [
+            "The tide will not wait!",
+            "Farewell! You\u0092ll all be welcome in Virginia!"
+          ]
+        },
+        {
+          "shot": 1392,
+          "duration": [
+            5527.605416666666,
+            5542.370166666667
+          ],
+          "sentences": [
+            "Candy apples!"
+          ]
+        },
+        {
+          "shot": 1393,
+          "duration": [
+            5542.411875,
+            5557.426874999999
+          ],
+          "sentences": [
+            "Candy apples!",
+            "Buy my apples!",
+            "Thank you, sir. Apples!"
+          ]
+        },
+        {
+          "shot": 1395,
+          "duration": [
+            5558.30275,
+            5568.354458333333
+          ],
+          "sentences": [
+            "Is this, uh... Is this all right?",
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 1396,
+          "duration": [
+            5568.396166666666,
+            5569.981083333333
+          ],
+          "sentences": [
+            "Yeah."
+          ]
+        },
+        {
+          "shot": 1401,
+          "duration": [
+            5582.994083333333,
+            5585.58
+          ],
+          "sentences": [
+            "Licentiousness is made a show! Vice is made a show!"
+          ]
+        },
+        {
+          "shot": 1402,
+          "duration": [
+            5585.621708333333,
+            5587.206625
+          ],
+          "sentences": [
+            "Licentiousness is made a show! Vice is made a show!"
+          ]
+        },
+        {
+          "shot": 1403,
+          "duration": [
+            5587.248333333333,
+            5592.169916666667
+          ],
+          "sentences": [
+            "Licentiousness is made a show! Vice is made a show!",
+            "Vanity and pride likewise made a show!"
+          ]
+        },
+        {
+          "shot": 1404,
+          "duration": [
+            5592.211625,
+            5599.677416666666
+          ],
+          "sentences": [
+            "Vanity and pride likewise made a show!",
+            "This is the very business of show!"
+          ]
+        },
+        {
+          "shot": 1406,
+          "duration": [
+            5603.0975,
+            5610.438166666666
+          ],
+          "sentences": [
+            "T- T- T- Two..."
+          ]
+        },
+        {
+          "shot": 1407,
+          "duration": [
+            5610.479875,
+            5611.7728333333325
+          ],
+          "sentences": [
+            "T- T- T- Two..."
+          ]
+        },
+        {
+          "shot": 1408,
+          "duration": [
+            5611.814541666667,
+            5613.316041666666
+          ],
+          "sentences": [
+            "T- T- T- Two...",
+            "T- T- T- T... T... T..."
+          ]
+        },
+        {
+          "shot": 1409,
+          "duration": [
+            5613.357749999999,
+            5616.068791666667
+          ],
+          "sentences": [
+            "T- T- T- T... T... T...",
+            "T... T- T- Two households..."
+          ]
+        },
+        {
+          "shot": 1410,
+          "duration": [
+            5616.1105,
+            5617.570291666666
+          ],
+          "sentences": [
+            "T... T- T- Two households..."
+          ]
+        },
+        {
+          "shot": 1411,
+          "duration": [
+            5617.611999999999,
+            5627.705416666667
+          ],
+          "sentences": [
+            "T... T- T- Two households...",
+            "-We\u0092re lost. -No, it will turn out well.",
+            "-How will it? -I don\u0092t know. It\u0092s a mystery."
+          ]
+        },
+        {
+          "shot": 1412,
+          "duration": [
+            5627.747125,
+            5631.000375
+          ],
+          "sentences": [
+            "T- T... T... T- T..."
+          ]
+        },
+        {
+          "shot": 1413,
+          "duration": [
+            5631.042083333333,
+            5632.460166666666
+          ],
+          "sentences": [
+            "T- T... T... T- T...",
+            "T... T..."
+          ]
+        },
+        {
+          "shot": 1414,
+          "duration": [
+            5632.501875,
+            5634.837541666666
+          ],
+          "sentences": [
+            "T... T..."
+          ]
+        },
+        {
+          "shot": 1432,
+          "duration": [
+            5682.6352916666665,
+            5691.894541666667
+          ],
+          "sentences": [
+            "Two households...",
+            "both alike in dignity...",
+            "in fair Verona..."
+          ]
+        },
+        {
+          "shot": 1433,
+          "duration": [
+            5691.93625,
+            5694.730708333333
+          ],
+          "sentences": [
+            "in fair Verona...",
+            "where we lay our scene."
+          ]
+        },
+        {
+          "shot": 1434,
+          "duration": [
+            5694.772416666667,
+            5697.44175
+          ],
+          "sentences": [
+            "where we lay our scene.",
+            "From ancient grudge break to new mutiny..."
+          ]
+        },
+        {
+          "shot": 1435,
+          "duration": [
+            5697.483458333333,
+            5704.031666666666
+          ],
+          "sentences": [
+            "From ancient grudge break to new mutiny...",
+            "where civil blood makes civil hands unclean.",
+            "From forth the fatal loins of these two foes..."
+          ]
+        },
+        {
+          "shot": 1436,
+          "duration": [
+            5704.073375,
+            5716.710999999999
+          ],
+          "sentences": [
+            "From forth the fatal loins of these two foes...",
+            "a pair of star-crossed lovers take their life...",
+            "whose misadventured, piteous overthrows...",
+            "doth with their death bury their parents\" strife."
+          ]
+        },
+        {
+          "shot": 1437,
+          "duration": [
+            5716.7527083333325,
+            5724.46875
+          ],
+          "sentences": [
+            "...the which of you with patient ears attend...",
+            "what here shall miss, our toil shall strive to mend."
+          ]
+        },
+        {
+          "shot": 1438,
+          "duration": [
+            5724.510458333333,
+            5732.97725
+          ],
+          "sentences": [
+            "what here shall miss, our toil shall strive to mend."
+          ]
+        },
+        {
+          "shot": 1439,
+          "duration": [
+            5733.018958333333,
+            5734.0616666666665
+          ],
+          "sentences": [
+            "-Wonderful. -Was it..."
+          ]
+        },
+        {
+          "shot": 1440,
+          "duration": [
+            5734.103375,
+            5736.105374999999
+          ],
+          "sentences": [
+            "-Wonderful. -Was it..."
+          ]
+        },
+        {
+          "shot": 1441,
+          "duration": [
+            5736.147083333333,
+            5740.735
+          ],
+          "sentences": [
+            "good?"
+          ]
+        },
+        {
+          "shot": 1442,
+          "duration": [
+            5740.776708333333,
+            5748.367625
+          ],
+          "sentences": [
+            "Gregory, on my word we\u0092ll not carry coals.",
+            "No, for then we should be colliers.",
+            "I mean, and we be in choler we\u0092ll draw."
+          ]
+        },
+        {
+          "shot": 1443,
+          "duration": [
+            5748.409333333333,
+            5749.326916666666
+          ],
+          "sentences": [
+            "I mean, and we be in choler we\u0092ll draw."
+          ]
+        },
+        {
+          "shot": 1444,
+          "duration": [
+            5749.368624999999,
+            5751.078666666666
+          ],
+          "sentences": [
+            "I mean, and we be in choler we\u0092ll draw.",
+            "-Master Shakespeare. -Luck be with you, Sam. Sam!"
+          ]
+        },
+        {
+          "shot": 1445,
+          "duration": [
+            5751.1203749999995,
+            5752.913833333333
+          ],
+          "sentences": [
+            "-Master Shakespeare. -Luck be with you, Sam. Sam!"
+          ]
+        },
+        {
+          "shot": 1446,
+          "duration": [
+            5752.955541666666,
+            5755.166083333333
+          ],
+          "sentences": [
+            "-Master Shakespeare. -Luck be with you, Sam. Sam!",
+            "It\u0092s not my fault. I could do it yesterday."
+          ]
+        },
+        {
+          "shot": 1447,
+          "duration": [
+            5755.207791666667,
+            5756.667583333333
+          ],
+          "sentences": [
+            "It\u0092s not my fault. I could do it yesterday."
+          ]
+        },
+        {
+          "shot": 1448,
+          "duration": [
+            5756.709291666666,
+            5759.920833333333
+          ],
+          "sentences": [
+            "It\u0092s not my fault. I could do it yesterday.",
+            "Do me a speech. Do me a line.",
+            "Parting is such sweet sorrow."
+          ]
+        },
+        {
+          "shot": 1449,
+          "duration": [
+            5759.962541666666,
+            5762.173083333333
+          ],
+          "sentences": [
+            "Parting is such sweet sorrow."
+          ]
+        },
+        {
+          "shot": 1450,
+          "duration": [
+            5762.214791666666,
+            5763.841416666666
+          ],
+          "sentences": [
+            "Parting is such sweet sorrow.",
+            "-Another little problem. -What do we do now?"
+          ]
+        },
+        {
+          "shot": 1451,
+          "duration": [
+            5763.883124999999,
+            5767.136375
+          ],
+          "sentences": [
+            "-Another little problem. -What do we do now?",
+            "-The show must... You know. -Go on!"
+          ]
+        },
+        {
+          "shot": 1452,
+          "duration": [
+            5767.178083333333,
+            5769.763999999999
+          ],
+          "sentences": [
+            "-The show must... You know. -Go on!"
+          ]
+        },
+        {
+          "shot": 1453,
+          "duration": [
+            5769.805708333333,
+            5771.140375
+          ],
+          "sentences": [
+            "-The show must... You know. -Go on!",
+            "Juliet does not come on for 20 pages. It will be all right."
+          ]
+        },
+        {
+          "shot": 1454,
+          "duration": [
+            5771.182083333333,
+            5773.434333333333
+          ],
+          "sentences": [
+            "Juliet does not come on for 20 pages. It will be all right."
+          ]
+        },
+        {
+          "shot": 1455,
+          "duration": [
+            5773.476041666666,
+            5774.685583333333
+          ],
+          "sentences": [
+            "Juliet does not come on for 20 pages. It will be all right.",
+            "-How will it? -I don\u0092t know. It\u0092s a mystery."
+          ]
+        },
+        {
+          "shot": 1456,
+          "duration": [
+            5774.727291666666,
+            5777.1880833333325
+          ],
+          "sentences": [
+            "-How will it? -I don\u0092t know. It\u0092s a mystery.",
+            "-Fear me not. -No, marry, I fear thee!"
+          ]
+        },
+        {
+          "shot": 1457,
+          "duration": [
+            5777.229791666667,
+            5779.565458333333
+          ],
+          "sentences": [
+            "-Fear me not. -No, marry, I fear thee!"
+          ]
+        },
+        {
+          "shot": 1458,
+          "duration": [
+            5779.607166666667,
+            5781.4423333333325
+          ],
+          "sentences": [
+            "-Let them begin. -I will frown as I pass by."
+          ]
+        },
+        {
+          "shot": 1459,
+          "duration": [
+            5781.484041666667,
+            5784.862416666666
+          ],
+          "sentences": [
+            "-Let them begin. -I will frown as I pass by.",
+            "-Let them take it as they list! -Nay, as they dare."
+          ]
+        },
+        {
+          "shot": 1460,
+          "duration": [
+            5784.904125,
+            5786.071958333333
+          ],
+          "sentences": [
+            "-Let them take it as they list! -Nay, as they dare."
+          ]
+        },
+        {
+          "shot": 1461,
+          "duration": [
+            5786.113666666666,
+            5790.201083333333
+          ],
+          "sentences": [
+            "-Let them take it as they list! -Nay, as they dare.",
+            "I will bite my thumb at them, which is disgrace to them if they bear it."
+          ]
+        },
+        {
+          "shot": 1462,
+          "duration": [
+            5790.242791666667,
+            5792.8287083333325
+          ],
+          "sentences": [
+            "I will bite my thumb at them, which is disgrace to them if they bear it.",
+            "Do you bite your thumb at us, sir?"
+          ]
+        },
+        {
+          "shot": 1463,
+          "duration": [
+            5792.870416666667,
+            5795.831708333333
+          ],
+          "sentences": [
+            "Do you bite your thumb at us, sir?",
+            "-I do bite my thumb, sir. -Excuse me. Thank you."
+          ]
+        },
+        {
+          "shot": 1464,
+          "duration": [
+            5795.873416666666,
+            5799.251791666667
+          ],
+          "sentences": [
+            "-I do bite my thumb, sir. -Excuse me. Thank you.",
+            "-Thank you. Excuse me. -Do you bite your thumb at us, sir?"
+          ]
+        },
+        {
+          "shot": 1465,
+          "duration": [
+            5799.2935,
+            5806.175375
+          ],
+          "sentences": [
+            "-Thank you. Excuse me. -Do you bite your thumb at us, sir?",
+            "-Can we talk? -Shh!",
+            "-We have no Juliet. -No Juliet?"
+          ]
+        },
+        {
+          "shot": 1466,
+          "duration": [
+            5806.217083333333,
+            5807.885416666666
+          ],
+          "sentences": [
+            "-We have no Juliet. -No Juliet?",
+            "-No Juliet? -It\u0092ll be all right, madam."
+          ]
+        },
+        {
+          "shot": 1467,
+          "duration": [
+            5807.927124999999,
+            5808.719583333333
+          ],
+          "sentences": [
+            "-No Juliet? -It\u0092ll be all right, madam."
+          ]
+        },
+        {
+          "shot": 1468,
+          "duration": [
+            5808.761291666667,
+            5810.095958333333
+          ],
+          "sentences": [
+            "-No Juliet? -It\u0092ll be all right, madam.",
+            "-What happened to Sam? -Who are you?"
+          ]
+        },
+        {
+          "shot": 1469,
+          "duration": [
+            5810.1376666666665,
+            5811.096958333333
+          ],
+          "sentences": [
+            "-What happened to Sam? -Who are you?"
+          ]
+        },
+        {
+          "shot": 1470,
+          "duration": [
+            5811.138666666666,
+            5811.889416666666
+          ],
+          "sentences": [
+            "-What happened to Sam? -Who are you?"
+          ]
+        },
+        {
+          "shot": 1471,
+          "duration": [
+            5811.931124999999,
+            5813.015541666667
+          ],
+          "sentences": [
+            "-What happened to Sam? -Who are you?",
+            "Thomas Kent."
+          ]
+        },
+        {
+          "shot": 1472,
+          "duration": [
+            5813.05725,
+            5814.266791666666
+          ],
+          "sentences": [
+            "Thomas Kent."
+          ]
+        },
+        {
+          "shot": 1473,
+          "duration": [
+            5814.308499999999,
+            5816.936124999999
+          ],
+          "sentences": [
+            "Thomas Kent.",
+            "Do you know it?"
+          ]
+        },
+        {
+          "shot": 1474,
+          "duration": [
+            5816.977833333333,
+            5820.147666666666
+          ],
+          "sentences": [
+            "Every word."
+          ]
+        },
+        {
+          "shot": 1475,
+          "duration": [
+            5820.189375,
+            5823.8597083333325
+          ],
+          "sentences": [
+            "Every word."
+          ]
+        },
+        {
+          "shot": 1477,
+          "duration": [
+            5826.654166666666,
+            5830.3245
+          ],
+          "sentences": [
+            "I\u0092ll go along, no such sight to be shown..."
+          ]
+        },
+        {
+          "shot": 1478,
+          "duration": [
+            5830.366208333333,
+            5834.912416666666
+          ],
+          "sentences": [
+            "I\u0092ll go along, no such sight to be shown...",
+            "but to rejoice in splendor of mine own."
+          ]
+        },
+        {
+          "shot": 1479,
+          "duration": [
+            5834.954124999999,
+            5841.293791666666
+          ],
+          "sentences": [
+            "but to rejoice in splendor of mine own.",
+            "Nurse!",
+            "Where\u0092s my daughter? Call her forth to me."
+          ]
+        },
+        {
+          "shot": 1480,
+          "duration": [
+            5841.335499999999,
+            5842.795291666666
+          ],
+          "sentences": [
+            "Where\u0092s my daughter? Call her forth to me."
+          ]
+        },
+        {
+          "shot": 1481,
+          "duration": [
+            5842.8369999999995,
+            5844.630458333333
+          ],
+          "sentences": [
+            "Where\u0092s my daughter? Call her forth to me.",
+            "Now, by my maidenhead at 12 years old..."
+          ]
+        },
+        {
+          "shot": 1482,
+          "duration": [
+            5844.672166666666,
+            5847.925416666666
+          ],
+          "sentences": [
+            "Now, by my maidenhead at 12 years old...",
+            "I bade her come."
+          ]
+        },
+        {
+          "shot": 1483,
+          "duration": [
+            5847.967124999999,
+            5849.885708333333
+          ],
+          "sentences": [
+            "I bade her come.",
+            "How now, who calls?"
+          ]
+        },
+        {
+          "shot": 1484,
+          "duration": [
+            5849.927416666666,
+            5852.09625
+          ],
+          "sentences": [
+            "How now, who calls?",
+            "What, ladybird!"
+          ]
+        },
+        {
+          "shot": 1485,
+          "duration": [
+            5852.137958333333,
+            5854.9324166666665
+          ],
+          "sentences": [
+            "What, ladybird!",
+            "God forbid! Where\u0092s this girl?"
+          ]
+        },
+        {
+          "shot": 1486,
+          "duration": [
+            5854.974125,
+            5856.725874999999
+          ],
+          "sentences": [
+            "God forbid! Where\u0092s this girl?",
+            "What, lamb!"
+          ]
+        },
+        {
+          "shot": 1487,
+          "duration": [
+            5856.767583333333,
+            5858.060541666666
+          ],
+          "sentences": [
+            "What, lamb!"
+          ]
+        },
+        {
+          "shot": 1488,
+          "duration": [
+            5858.10225,
+            5859.478625
+          ],
+          "sentences": [
+            "What, lamb!",
+            "What, ladybird!"
+          ]
+        },
+        {
+          "shot": 1489,
+          "duration": [
+            5859.520333333333,
+            5861.730874999999
+          ],
+          "sentences": [
+            "What, ladybird!"
+          ]
+        },
+        {
+          "shot": 1490,
+          "duration": [
+            5861.7725833333325,
+            5862.773583333333
+          ],
+          "sentences": [
+            "What, Juliet!"
+          ]
+        },
+        {
+          "shot": 1491,
+          "duration": [
+            5862.815291666666,
+            5864.1499583333325
+          ],
+          "sentences": [
+            "What, Juliet!"
+          ]
+        },
+        {
+          "shot": 1492,
+          "duration": [
+            5864.191666666667,
+            5865.276083333333
+          ],
+          "sentences": [
+            "What, Juliet!"
+          ]
+        },
+        {
+          "shot": 1493,
+          "duration": [
+            5865.317791666666,
+            5866.318791666667
+          ],
+          "sentences": [
+            "How now, who calls?"
+          ]
+        },
+        {
+          "shot": 1494,
+          "duration": [
+            5866.3605,
+            5867.903708333333
+          ],
+          "sentences": [
+            "How now, who calls?"
+          ]
+        },
+        {
+          "shot": 1495,
+          "duration": [
+            5867.9454166666665,
+            5869.738875
+          ],
+          "sentences": [
+            "How now, who calls?"
+          ]
+        },
+        {
+          "shot": 1497,
+          "duration": [
+            5870.990124999999,
+            5872.658458333333
+          ],
+          "sentences": [
+            "-We\u0092ll all be put in the Clink. -See you in jail."
+          ]
+        },
+        {
+          "shot": 1498,
+          "duration": [
+            5872.7001666666665,
+            5874.577041666666
+          ],
+          "sentences": [
+            "-We\u0092ll all be put in the Clink. -See you in jail."
+          ]
+        },
+        {
+          "shot": 1499,
+          "duration": [
+            5874.61875,
+            5877.329791666666
+          ],
+          "sentences": [
+            "-We\u0092ll all be put in the Clink. -See you in jail."
+          ]
+        },
+        {
+          "shot": 1501,
+          "duration": [
+            5879.206666666666,
+            5883.5860416666665
+          ],
+          "sentences": [
+            "Your mother... Your mother.",
+            "Madam, I am here. What is your will?"
+          ]
+        },
+        {
+          "shot": 1502,
+          "duration": [
+            5883.62775,
+            5885.838291666666
+          ],
+          "sentences": [
+            "Madam, I am here. What is your will?"
+          ]
+        },
+        {
+          "shot": 1503,
+          "duration": [
+            5885.879999999999,
+            5886.797583333333
+          ],
+          "sentences": [
+            "Madam, I am here. What is your will?",
+            "This is the matter."
+          ]
+        },
+        {
+          "shot": 1504,
+          "duration": [
+            5886.839291666666,
+            5889.13325
+          ],
+          "sentences": [
+            "This is the matter.",
+            "Nurse, give leave a while. We must talk in secret."
+          ]
+        },
+        {
+          "shot": 1505,
+          "duration": [
+            5889.174958333333,
+            5891.6357499999995
+          ],
+          "sentences": [
+            "Nurse, give leave a while. We must talk in secret.",
+            "Nurse, come back again. I have remembered me; thou's hear our counsel."
+          ]
+        },
+        {
+          "shot": 1506,
+          "duration": [
+            5891.677458333333,
+            5893.470916666666
+          ],
+          "sentences": [
+            "Nurse, come back again. I have remembered me; thou's hear our counsel."
+          ]
+        },
+        {
+          "shot": 1507,
+          "duration": [
+            5893.512624999999,
+            5896.432208333333
+          ],
+          "sentences": [
+            "Nurse, come back again. I have remembered me; thou's hear our counsel.",
+            "Thou knowest my daughter\u0092s of a pretty age."
+          ]
+        },
+        {
+          "shot": 1508,
+          "duration": [
+            5896.473916666666,
+            5903.480916666666
+          ],
+          "sentences": [
+            "Thou knowest my daughter\u0092s of a pretty age.",
+            "-Faith, I know her age unto an hour. -She\u0092s not 14.",
+            "Oh, I\u0092ll lay 14 of my teeth. And yet my teen be it spoken..."
+          ]
+        },
+        {
+          "shot": 1509,
+          "duration": [
+            5903.522625,
+            5909.069833333333
+          ],
+          "sentences": [
+            "Oh, I\u0092ll lay 14 of my teeth. And yet my teen be it spoken...",
+            "I have but 4."
+          ]
+        },
+        {
+          "shot": 1510,
+          "duration": [
+            5909.111541666666,
+            5918.162249999999
+          ],
+          "sentences": [
+            "I have but 4."
+          ]
+        },
+        {
+          "shot": 1513,
+          "duration": [
+            5931.884291666666,
+            5934.970708333333
+          ],
+          "sentences": [
+            "Tell me, daughter Juliet..."
+          ]
+        },
+        {
+          "shot": 1514,
+          "duration": [
+            5935.0124166666665,
+            5943.979708333333
+          ],
+          "sentences": [
+            "Tell me, daughter Juliet...",
+            "how stands your dispositions to be married?",
+            "It is an honor that I dream not of."
+          ]
+        },
+        {
+          "shot": 1517,
+          "duration": [
+            5946.6073333333325,
+            5948.233958333333
+          ],
+          "sentences": [
+            "Hold, Tybalt! Good Mercutio!"
+          ]
+        },
+        {
+          "shot": 1518,
+          "duration": [
+            5948.275666666666,
+            5951.153541666667
+          ],
+          "sentences": [
+            "Hold, Tybalt! Good Mercutio!"
+          ]
+        },
+        {
+          "shot": 1523,
+          "duration": [
+            5958.869583333333,
+            5960.20425
+          ],
+          "sentences": [
+            "I\u0092m sped."
+          ]
+        },
+        {
+          "shot": 1524,
+          "duration": [
+            5960.245958333333,
+            5963.374083333333
+          ],
+          "sentences": [
+            "I\u0092m sped.",
+            "Courage, man; the hurt cannot be much."
+          ]
+        },
+        {
+          "shot": 1525,
+          "duration": [
+            5963.415791666666,
+            5965.042416666666
+          ],
+          "sentences": [
+            "Courage, man; the hurt cannot be much.",
+            "Ask for me tomorrow, you shall find me a grave man."
+          ]
+        },
+        {
+          "shot": 1526,
+          "duration": [
+            5965.084124999999,
+            5970.422791666666
+          ],
+          "sentences": [
+            "Ask for me tomorrow, you shall find me a grave man."
+          ]
+        },
+        {
+          "shot": 1530,
+          "duration": [
+            5976.637333333333,
+            5977.513208333333
+          ],
+          "sentences": [
+            "Yes!"
+          ]
+        },
+        {
+          "shot": 1531,
+          "duration": [
+            5977.554916666666,
+            5979.264958333333
+          ],
+          "sentences": [
+            "Yes!"
+          ]
+        },
+        {
+          "shot": 1537,
+          "duration": [
+            5984.603625,
+            5985.4794999999995
+          ],
+          "sentences": [
+            "Yah!"
+          ]
+        },
+        {
+          "shot": 1538,
+          "duration": [
+            5985.521208333333,
+            5986.981
+          ],
+          "sentences": [
+            "Yah!"
+          ]
+        },
+        {
+          "shot": 1539,
+          "duration": [
+            5987.022708333333,
+            5988.023708333333
+          ],
+          "sentences": [
+            "Such mortal drugs I have..."
+          ]
+        },
+        {
+          "shot": 1540,
+          "duration": [
+            5988.065416666666,
+            5990.2342499999995
+          ],
+          "sentences": [
+            "Such mortal drugs I have...",
+            "but Mantua\u0092s law is death to any he that utters them."
+          ]
+        },
+        {
+          "shot": 1541,
+          "duration": [
+            5990.275958333333,
+            5992.653333333333
+          ],
+          "sentences": [
+            "but Mantua\u0092s law is death to any he that utters them."
+          ]
+        },
+        {
+          "shot": 1542,
+          "duration": [
+            5992.695041666666,
+            5998.075416666667
+          ],
+          "sentences": [
+            "but Mantua\u0092s law is death to any he that utters them.",
+            "Then him. Then me."
+          ]
+        },
+        {
+          "shot": 1549,
+          "duration": [
+            6004.790458333333,
+            6006.458791666666
+          ],
+          "sentences": [
+            "Romeo, away, be gone!"
+          ]
+        },
+        {
+          "shot": 1550,
+          "duration": [
+            6006.500499999999,
+            6008.627624999999
+          ],
+          "sentences": [
+            "Romeo, away, be gone!",
+            "The citizens are up, and Tybalt slain. Stand not amazed!"
+          ]
+        },
+        {
+          "shot": 1551,
+          "duration": [
+            6008.669333333333,
+            6010.838166666666
+          ],
+          "sentences": [
+            "The citizens are up, and Tybalt slain. Stand not amazed!"
+          ]
+        },
+        {
+          "shot": 1552,
+          "duration": [
+            6010.879875,
+            6014.550208333333
+          ],
+          "sentences": [
+            "The citizens are up, and Tybalt slain. Stand not amazed!",
+            "The prince will doom thee death if thou art taken. Hence, be gone, away!"
+          ]
+        },
+        {
+          "shot": 1553,
+          "duration": [
+            6014.591916666666,
+            6017.469791666666
+          ],
+          "sentences": [
+            "The prince will doom thee death if thou art taken. Hence, be gone, away!"
+          ]
+        },
+        {
+          "shot": 1554,
+          "duration": [
+            6017.5115,
+            6022.307958333333
+          ],
+          "sentences": [
+            "Oh, I am Fortune\u0092s fool!",
+            "Why dost thou stay?"
+          ]
+        },
+        {
+          "shot": 1555,
+          "duration": [
+            6022.349666666666,
+            6023.017
+          ],
+          "sentences": [
+            "Which way ran he that killed Mercutio?"
+          ]
+        },
+        {
+          "shot": 1556,
+          "duration": [
+            6023.058708333333,
+            6024.101416666666
+          ],
+          "sentences": [
+            "Which way ran he that killed Mercutio?"
+          ]
+        },
+        {
+          "shot": 1557,
+          "duration": [
+            6024.143125,
+            6030.232541666666
+          ],
+          "sentences": [
+            "Which way ran he that killed Mercutio?",
+            "That murderer, which way ran he?",
+            "-There lies that Tybalt. -Up, sir. Go with me.",
+            "I charge thee in the Prince\u0092s name obey."
+          ]
+        },
+        {
+          "shot": 1558,
+          "duration": [
+            6030.2742499999995,
+            6035.195833333333
+          ],
+          "sentences": [
+            "I charge thee in the Prince\u0092s name obey.",
+            "Where are the vile beginners of this fray?",
+            "Oh, I am Fortune\u0092s fool."
+          ]
+        },
+        {
+          "shot": 1559,
+          "duration": [
+            6035.237541666666,
+            6042.244541666666
+          ],
+          "sentences": [
+            "Oh, I am Fortune\u0092s fool.",
+            "You are married?"
+          ]
+        },
+        {
+          "shot": 1560,
+          "duration": [
+            6042.286249999999,
+            6045.831458333333
+          ],
+          "sentences": [
+            "If you be married, my grave is like to be my wedding bed."
+          ]
+        },
+        {
+          "shot": 1561,
+          "duration": [
+            6045.873166666666,
+            6050.919875
+          ],
+          "sentences": [
+            "If you be married, my grave is like to be my wedding bed."
+          ]
+        },
+        {
+          "shot": 1563,
+          "duration": [
+            6053.922874999999,
+            6073.692625
+          ],
+          "sentences": [
+            "Art thou gone so...",
+            "love, lord...",
+            "aye, husband, friend?"
+          ]
+        },
+        {
+          "shot": 1564,
+          "duration": [
+            6073.734333333333,
+            6075.986583333333
+          ],
+          "sentences": [
+            "aye, husband, friend?",
+            "I must hear from thee every day in the hour..."
+          ]
+        },
+        {
+          "shot": 1565,
+          "duration": [
+            6076.0282916666665,
+            6083.786041666666
+          ],
+          "sentences": [
+            "I must hear from thee every day in the hour...",
+            "for in a minute there are many days.",
+            "Oh, by this count I shall be much in years ere again..."
+          ]
+        },
+        {
+          "shot": 1566,
+          "duration": [
+            6083.8277499999995,
+            6087.498083333333
+          ],
+          "sentences": [
+            "Oh, by this count I shall be much in years ere again...",
+            "I behold my Romeo."
+          ]
+        },
+        {
+          "shot": 1567,
+          "duration": [
+            6087.539791666666,
+            6092.002583333333
+          ],
+          "sentences": [
+            "I behold my Romeo.",
+            "Farewell."
+          ]
+        },
+        {
+          "shot": 1568,
+          "duration": [
+            6092.044291666666,
+            6096.423666666667
+          ],
+          "sentences": [
+            "Oh, thinks thou we shall ever meet again?"
+          ]
+        },
+        {
+          "shot": 1569,
+          "duration": [
+            6096.465375,
+            6101.470375
+          ],
+          "sentences": [
+            "Methinks I see thee, now thou art so low...",
+            "as one dead in the bottom of a tomb."
+          ]
+        },
+        {
+          "shot": 1570,
+          "duration": [
+            6101.512083333333,
+            6108.519083333333
+          ],
+          "sentences": [
+            "as one dead in the bottom of a tomb.",
+            "Either my eyesight fails, or thou look\u0092s pale."
+          ]
+        },
+        {
+          "shot": 1571,
+          "duration": [
+            6108.560791666666,
+            6115.400958333333
+          ],
+          "sentences": [
+            "Either my eyesight fails, or thou look\u0092s pale.",
+            "Then trust me, love...",
+            "in my eyes, so do you.",
+            "Dry sorrow drinks our blood."
+          ]
+        },
+        {
+          "shot": 1572,
+          "duration": [
+            6115.442666666666,
+            6121.240124999999
+          ],
+          "sentences": [
+            "Dry sorrow drinks our blood.",
+            "Adieu."
+          ]
+        },
+        {
+          "shot": 1573,
+          "duration": [
+            6121.2818333333325,
+            6146.515375
+          ],
+          "sentences": [
+            "Adieu.",
+            "Take thou this vial, being then in bed...",
+            "and this distilling liquor drink thou off.",
+            "No warmth, no breath, shall testify thou livest.",
+            "And in this borrowed likeness of shrunk death...",
+            "thou shalt continue 2 and 40 hours...",
+            "and then awake as from a pleasant sleep.",
+            "What ho! Apothecary!"
+          ]
+        },
+        {
+          "shot": 1574,
+          "duration": [
+            6146.557083333333,
+            6149.017875
+          ],
+          "sentences": [
+            "What ho! Apothecary!"
+          ]
+        },
+        {
+          "shot": 1575,
+          "duration": [
+            6149.059583333333,
+            6154.773625
+          ],
+          "sentences": [
+            "Come hither, man. I see that thou art poor.",
+            "Hold, there is 40 ducats."
+          ]
+        },
+        {
+          "shot": 1576,
+          "duration": [
+            6154.815333333333,
+            6157.7766249999995
+          ],
+          "sentences": [
+            "Hold, there is 40 ducats.",
+            "-Let me have a dram of poison... -Such mortal drugs I have..."
+          ]
+        },
+        {
+          "shot": 1577,
+          "duration": [
+            6157.818333333333,
+            6159.444958333333
+          ],
+          "sentences": [
+            "-Let me have a dram of poison... -Such mortal drugs I have..."
+          ]
+        },
+        {
+          "shot": 1578,
+          "duration": [
+            6159.486666666667,
+            6161.613791666667
+          ],
+          "sentences": [
+            "-Let me have a dram of poison... -Such mortal drugs I have...",
+            "but Mantua\u0092s law is death to any he that utters them."
+          ]
+        },
+        {
+          "shot": 1579,
+          "duration": [
+            6161.6555,
+            6165.701208333333
+          ],
+          "sentences": [
+            "but Mantua\u0092s law is death to any he that utters them.",
+            "-Art thou so... -My poverty, but not my will, consents."
+          ]
+        },
+        {
+          "shot": 1580,
+          "duration": [
+            6165.742916666666,
+            6169.329833333333
+          ],
+          "sentences": [
+            "-Art thou so... -My poverty, but not my will, consents."
+          ]
+        },
+        {
+          "shot": 1582,
+          "duration": [
+            6173.6675,
+            6178.088583333333
+          ],
+          "sentences": [
+            "I pay thy poverty and not thy will."
+          ]
+        },
+        {
+          "shot": 1583,
+          "duration": [
+            6178.130291666666,
+            6182.009166666666
+          ],
+          "sentences": [
+            "Eyes, look your last."
+          ]
+        },
+        {
+          "shot": 1584,
+          "duration": [
+            6182.050875,
+            6209.578374999999
+          ],
+          "sentences": [
+            "Eyes, look your last.",
+            "Arms, take your last embrace.",
+            "And, lips, oh, you, the doors of breath...",
+            "seal with a righteous kiss...",
+            "the dateless bargain to engrossing death.",
+            "Come, bitter conduct. Come, unsavoury guide.",
+            "Thou, desperate pilot, now at once..."
+          ]
+        },
+        {
+          "shot": 1585,
+          "duration": [
+            6209.620083333333,
+            6218.295416666666
+          ],
+          "sentences": [
+            "Thou, desperate pilot, now at once...",
+            "run on the dashing rocks thy seasick weary bark.",
+            "Here\u0092s to my love!"
+          ]
+        },
+        {
+          "shot": 1586,
+          "duration": [
+            6218.337124999999,
+            6222.841624999999
+          ],
+          "sentences": [
+            "Here\u0092s to my love!"
+          ]
+        },
+        {
+          "shot": 1587,
+          "duration": [
+            6222.883333333333,
+            6256.375125
+          ],
+          "sentences": [
+            "Oh... true apothecary!",
+            "Thy drugs are quick.",
+            "Thus with a kiss...",
+            "I die."
+          ]
+        },
+        {
+          "shot": 1592,
+          "duration": [
+            6266.3017083333325,
+            6276.0197499999995
+          ],
+          "sentences": [
+            "Where is my lord?",
+            "I do remember well where I should be, and there I am. Where is my Romeo?",
+            "Dead!"
+          ]
+        },
+        {
+          "shot": 1593,
+          "duration": [
+            6276.061458333333,
+            6277.396124999999
+          ],
+          "sentences": [
+            "Dead!"
+          ]
+        },
+        {
+          "shot": 1594,
+          "duration": [
+            6277.4378333333325,
+            6304.339708333333
+          ],
+          "sentences": [
+            "What\u0092s this?",
+            "A cup, closed in my true love\u0092s hand?",
+            "Poison, I see,hath been his timeless end."
+          ]
+        },
+        {
+          "shot": 1597,
+          "duration": [
+            6306.5919583333325,
+            6307.592958333333
+          ],
+          "sentences": [
+            "Oh, happy dagger, this is thy sheath."
+          ]
+        },
+        {
+          "shot": 1598,
+          "duration": [
+            6307.634666666666,
+            6312.264291666666
+          ],
+          "sentences": [
+            "Oh, happy dagger, this is thy sheath."
+          ]
+        },
+        {
+          "shot": 1600,
+          "duration": [
+            6314.141166666666,
+            6315.1421666666665
+          ],
+          "sentences": [
+            "There rust..."
+          ]
+        },
+        {
+          "shot": 1601,
+          "duration": [
+            6315.183875,
+            6321.648666666666
+          ],
+          "sentences": [
+            "There rust...",
+            "and let me die."
+          ]
+        },
+        {
+          "shot": 1603,
+          "duration": [
+            6326.403416666666,
+            6329.448125
+          ],
+          "sentences": [
+            "A glooming peace this morning with it brings."
+          ]
+        },
+        {
+          "shot": 1604,
+          "duration": [
+            6329.489833333333,
+            6361.980624999999
+          ],
+          "sentences": [
+            "A glooming peace this morning with it brings.",
+            "The sun for sorrow will not show his head.",
+            "Go hence, to have more talk of these sad things.",
+            "Some shall be pardoned...",
+            "and some punished.",
+            "For never was a story of more woe...",
+            "than this of Juliet...",
+            "and her Romeo."
+          ]
+        },
+        {
+          "shot": 1610,
+          "duration": [
+            6381.375,
+            6384.044333333333
+          ],
+          "sentences": [
+            "Bravo!"
+          ]
+        },
+        {
+          "shot": 1611,
+          "duration": [
+            6384.0860416666665,
+            6386.963916666667
+          ],
+          "sentences": [
+            "Bravo!"
+          ]
+        },
+        {
+          "shot": 1613,
+          "duration": [
+            6388.8825,
+            6392.677958333333
+          ],
+          "sentences": [
+            "-Yea! Yea! -Yea!"
+          ]
+        },
+        {
+          "shot": 1630,
+          "duration": [
+            6437.013916666666,
+            6441.768666666666
+          ],
+          "sentences": [
+            "-Bravo! -Yea! Bravo!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0138097_0009",
+      "shot": [
+        1694,
+        1786
+      ],
+      "frame": [
+        159072,
+        168835
+      ],
+      "duration": [
+        6634.6354483333325,
+        7041.811404333333
+      ],
+      "consistency": 0.8860320720902298,
+      "description": "However, even a Queen is powerless to break an official marriage of the Church. Queen Elizabeth orders \"Thomas Kent\" to fetch Viola so that she may sail to America. She also states that Romeo and Juliet has accurately portrayed true love and Wessex is forced to pay Shakespeare the fifty pounds. This is enough to allow Shakespeare become a shareholder in a new theater. The Queen then commissions Shakespeare to write something \"a little more cheerful next time.\" Viola and Shakespeare part, never to meet again. She must accompany Wessex to a colonial settlement in Virginia. Shakespeare immortalizes her by making the main character of his new play, Twelfth Night, a strong young woman named Viola who also disguises herself as a boy.",
+      "subtitle": [
+        {
+          "shot": 1694,
+          "duration": [
+            6634.669708333333,
+            6639.38275
+          ],
+          "sentences": [
+            "Your Majesty."
+          ]
+        },
+        {
+          "shot": 1695,
+          "duration": [
+            6639.424458333333,
+            6642.761124999999
+          ],
+          "sentences": [
+            "Why, Lord Wessex. Lost your wife so soon?"
+          ]
+        },
+        {
+          "shot": 1696,
+          "duration": [
+            6642.802833333333,
+            6646.514875
+          ],
+          "sentences": [
+            "Why, Lord Wessex. Lost your wife so soon?",
+            "Indeed I am a bride short..."
+          ]
+        },
+        {
+          "shot": 1697,
+          "duration": [
+            6646.556583333333,
+            6649.2676249999995
+          ],
+          "sentences": [
+            "Indeed I am a bride short...",
+            "and my ship sails for the new world on the evening tide."
+          ]
+        },
+        {
+          "shot": 1698,
+          "duration": [
+            6649.309333333333,
+            6652.6042916666665
+          ],
+          "sentences": [
+            "and my ship sails for the new world on the evening tide."
+          ]
+        },
+        {
+          "shot": 1699,
+          "duration": [
+            6652.646,
+            6655.273625
+          ],
+          "sentences": [
+            "How is this to end?",
+            "As stories must when love\u0092s denied, with tears and a journey."
+          ]
+        },
+        {
+          "shot": 1700,
+          "duration": [
+            6655.315333333333,
+            6658.109791666666
+          ],
+          "sentences": [
+            "As stories must when love\u0092s denied, with tears and a journey."
+          ]
+        },
+        {
+          "shot": 1701,
+          "duration": [
+            6658.1515,
+            6660.90425
+          ],
+          "sentences": [
+            "As stories must when love\u0092s denied, with tears and a journey."
+          ]
+        },
+        {
+          "shot": 1702,
+          "duration": [
+            6660.945958333333,
+            6663.448458333333
+          ],
+          "sentences": [
+            "Those whom God has joined in marriage not even I can put asunder."
+          ]
+        },
+        {
+          "shot": 1703,
+          "duration": [
+            6663.4901666666665,
+            6666.993666666666
+          ],
+          "sentences": [
+            "Those whom God has joined in marriage not even I can put asunder."
+          ]
+        },
+        {
+          "shot": 1704,
+          "duration": [
+            6667.0353749999995,
+            6669.788124999999
+          ],
+          "sentences": [
+            "Those whom God has joined in marriage not even I can put asunder.",
+            "Master Kent."
+          ]
+        },
+        {
+          "shot": 1705,
+          "duration": [
+            6669.829833333333,
+            6676.503166666666
+          ],
+          "sentences": [
+            "Lord Wessex, as I foretold, has lost his wife in the playhouse."
+          ]
+        },
+        {
+          "shot": 1706,
+          "duration": [
+            6676.544875,
+            6679.506166666666
+          ],
+          "sentences": [
+            "Lord Wessex, as I foretold, has lost his wife in the playhouse."
+          ]
+        },
+        {
+          "shot": 1707,
+          "duration": [
+            6679.547874999999,
+            6689.1825
+          ],
+          "sentences": [
+            "Go make your farewell and send her out.",
+            "It\u0092s time to settle accounts."
+          ]
+        },
+        {
+          "shot": 1708,
+          "duration": [
+            6689.224208333333,
+            6690.892541666666
+          ],
+          "sentences": [
+            "-How much was that wager? -50 shillings."
+          ]
+        },
+        {
+          "shot": 1709,
+          "duration": [
+            6690.934249999999,
+            6693.978958333333
+          ],
+          "sentences": [
+            "-How much was that wager? -50 shillings."
+          ]
+        },
+        {
+          "shot": 1710,
+          "duration": [
+            6694.020666666666,
+            6696.43975
+          ],
+          "sentences": [
+            "Pounds."
+          ]
+        },
+        {
+          "shot": 1711,
+          "duration": [
+            6696.481458333333,
+            6699.442749999999
+          ],
+          "sentences": [
+            "Give it to Master Kent. He will see it rightfully home."
+          ]
+        },
+        {
+          "shot": 1712,
+          "duration": [
+            6699.484458333332,
+            6702.404041666666
+          ],
+          "sentences": [
+            "Give it to Master Kent. He will see it rightfully home."
+          ]
+        },
+        {
+          "shot": 1715,
+          "duration": [
+            6709.119083333333,
+            6709.911541666666
+          ],
+          "sentences": [
+            "Tell Master Shakespeare something more cheerful next time..."
+          ]
+        },
+        {
+          "shot": 1716,
+          "duration": [
+            6709.95325,
+            6716.876833333333
+          ],
+          "sentences": [
+            "Tell Master Shakespeare something more cheerful next time...",
+            "for \"Twelfth Night\"."
+          ]
+        },
+        {
+          "shot": 1723,
+          "duration": [
+            6731.724999999999,
+            6733.184791666667
+          ],
+          "sentences": [
+            "Too late. Too late."
+          ]
+        },
+        {
+          "shot": 1724,
+          "duration": [
+            6733.2265,
+            6734.686291666666
+          ],
+          "sentences": [
+            "Too late. Too late."
+          ]
+        },
+        {
+          "shot": 1725,
+          "duration": [
+            6734.727999999999,
+            6737.48075
+          ],
+          "sentences": [
+            "Too late. Too late."
+          ]
+        },
+        {
+          "shot": 1728,
+          "duration": [
+            6744.863125,
+            6748.283208333333
+          ],
+          "sentences": [
+            "My Lady Wessex."
+          ]
+        },
+        {
+          "shot": 1731,
+          "duration": [
+            6753.997249999999,
+            6764.632874999999
+          ],
+          "sentences": [
+            "A hired player no longer."
+          ]
+        },
+        {
+          "shot": 1732,
+          "duration": [
+            6764.6745833333325,
+            6767.552458333333
+          ],
+          "sentences": [
+            "A hired player no longer.",
+            "50 pounds, Will, for the poet of true love."
+          ]
+        },
+        {
+          "shot": 1733,
+          "duration": [
+            6767.594166666666,
+            6771.806708333333
+          ],
+          "sentences": [
+            "50 pounds, Will, for the poet of true love."
+          ]
+        },
+        {
+          "shot": 1734,
+          "duration": [
+            6771.848416666666,
+            6774.851416666666
+          ],
+          "sentences": [
+            "I\u0092m done with theater."
+          ]
+        },
+        {
+          "shot": 1735,
+          "duration": [
+            6774.893125,
+            6779.189083333333
+          ],
+          "sentences": [
+            "The playhouse is for dreamers. Look what the dream brought us."
+          ]
+        },
+        {
+          "shot": 1736,
+          "duration": [
+            6779.230791666666,
+            6781.775
+          ],
+          "sentences": [
+            "The playhouse is for dreamers. Look what the dream brought us."
+          ]
+        },
+        {
+          "shot": 1737,
+          "duration": [
+            6781.816708333333,
+            6791.159374999999
+          ],
+          "sentences": [
+            "It was we ourselves did that.",
+            "And for my life to come, I would not have it otherwise.",
+            "I have hurt you, and I\u0092m sorry for it."
+          ]
+        },
+        {
+          "shot": 1738,
+          "duration": [
+            6791.2010833333325,
+            6795.413624999999
+          ],
+          "sentences": [
+            "I have hurt you, and I\u0092m sorry for it.",
+            "If my hurt is to be that you write no more..."
+          ]
+        },
+        {
+          "shot": 1739,
+          "duration": [
+            6795.455333333332,
+            6800.585458333333
+          ],
+          "sentences": [
+            "If my hurt is to be that you write no more...",
+            "then I shall be the sorrier."
+          ]
+        },
+        {
+          "shot": 1740,
+          "duration": [
+            6800.627166666666,
+            6804.380916666666
+          ],
+          "sentences": [
+            "then I shall be the sorrier."
+          ]
+        },
+        {
+          "shot": 1741,
+          "duration": [
+            6804.422624999999,
+            6813.223083333332
+          ],
+          "sentences": [
+            "The queen commands a comedy, Will...",
+            "-for \"Twelfth Night\". -A comedy."
+          ]
+        },
+        {
+          "shot": 1742,
+          "duration": [
+            6813.2647916666665,
+            6821.022541666666
+          ],
+          "sentences": [
+            "-for \"Twelfth Night\". -A comedy.",
+            "What would my hero be?",
+            "The saddest wretch in all the kingdom, sick with love?"
+          ]
+        },
+        {
+          "shot": 1743,
+          "duration": [
+            6821.064249999999,
+            6828.1963749999995
+          ],
+          "sentences": [
+            "It\u0092s a beginning.",
+            "Let him be a duke, and your heroine..."
+          ]
+        },
+        {
+          "shot": 1744,
+          "duration": [
+            6828.238083333333,
+            6834.327499999999
+          ],
+          "sentences": [
+            "Let him be a duke, and your heroine...",
+            "Sold in marriage and halfway to America."
+          ]
+        },
+        {
+          "shot": 1745,
+          "duration": [
+            6834.369208333333,
+            6840.375208333333
+          ],
+          "sentences": [
+            "At sea, then. A voyage to a new world.",
+            "A storm. All are lost."
+          ]
+        },
+        {
+          "shot": 1746,
+          "duration": [
+            6840.416916666666,
+            6843.336499999999
+          ],
+          "sentences": [
+            "A storm. All are lost.",
+            "She lands... on a..."
+          ]
+        },
+        {
+          "shot": 1747,
+          "duration": [
+            6843.378208333333,
+            6848.842
+          ],
+          "sentences": [
+            "She lands... on a...",
+            "vast and empty shore."
+          ]
+        },
+        {
+          "shot": 1748,
+          "duration": [
+            6848.883708333333,
+            6853.471624999999
+          ],
+          "sentences": [
+            "vast and empty shore.",
+            "She\u0092s brought to the duke..."
+          ]
+        },
+        {
+          "shot": 1749,
+          "duration": [
+            6853.513333333332,
+            6856.1409583333325
+          ],
+          "sentences": [
+            "-Orsino. -Orsino?"
+          ]
+        },
+        {
+          "shot": 1750,
+          "duration": [
+            6856.182666666667,
+            6860.979125
+          ],
+          "sentences": [
+            "-Orsino. -Orsino?",
+            "Good name.",
+            "But fearful of her virtue, she comes to him dressed as a boy."
+          ]
+        },
+        {
+          "shot": 1751,
+          "duration": [
+            6861.020833333333,
+            6865.400208333333
+          ],
+          "sentences": [
+            "But fearful of her virtue, she comes to him dressed as a boy."
+          ]
+        },
+        {
+          "shot": 1752,
+          "duration": [
+            6865.441916666666,
+            6869.362499999999
+          ],
+          "sentences": [
+            "But fearful of her virtue, she comes to him dressed as a boy.",
+            "And thus is unable to declare her love."
+          ]
+        },
+        {
+          "shot": 1753,
+          "duration": [
+            6869.4042083333325,
+            6873.783583333333
+          ],
+          "sentences": [
+            "And thus is unable to declare her love.",
+            "But all ends well.",
+            "How does it?"
+          ]
+        },
+        {
+          "shot": 1754,
+          "duration": [
+            6873.825291666666,
+            6876.077541666667
+          ],
+          "sentences": [
+            "How does it?"
+          ]
+        },
+        {
+          "shot": 1755,
+          "duration": [
+            6876.11925,
+            6882.667458333332
+          ],
+          "sentences": [
+            "I don\u0092t know.",
+            "It\u0092s a mystery."
+          ]
+        },
+        {
+          "shot": 1758,
+          "duration": [
+            6887.4222083333325,
+            6891.551333333333
+          ],
+          "sentences": [
+            "You will never age for me..."
+          ]
+        },
+        {
+          "shot": 1759,
+          "duration": [
+            6891.593041666666,
+            6893.553333333333
+          ],
+          "sentences": [
+            "nor fade, nor die."
+          ]
+        },
+        {
+          "shot": 1760,
+          "duration": [
+            6893.5950416666665,
+            6895.888999999999
+          ],
+          "sentences": [
+            "nor fade, nor die."
+          ]
+        },
+        {
+          "shot": 1761,
+          "duration": [
+            6895.930708333332,
+            6899.726166666666
+          ],
+          "sentences": [
+            "Nor you for me."
+          ]
+        },
+        {
+          "shot": 1762,
+          "duration": [
+            6899.767875,
+            6902.103541666666
+          ],
+          "sentences": [
+            "Good-bye, my love."
+          ]
+        },
+        {
+          "shot": 1763,
+          "duration": [
+            6902.14525,
+            6903.771874999999
+          ],
+          "sentences": [
+            "Good-bye, my love.",
+            "A thousand times good-bye."
+          ]
+        },
+        {
+          "shot": 1764,
+          "duration": [
+            6903.813583333333,
+            6908.2763749999995
+          ],
+          "sentences": [
+            "A thousand times good-bye."
+          ]
+        },
+        {
+          "shot": 1765,
+          "duration": [
+            6908.318083333333,
+            6912.65575
+          ],
+          "sentences": [
+            "Write me well."
+          ]
+        },
+        {
+          "shot": 1766,
+          "duration": [
+            6912.697458333333,
+            6914.824583333333
+          ],
+          "sentences": [
+            "Write me well."
+          ]
+        },
+        {
+          "shot": 1771,
+          "duration": [
+            6935.678749999999,
+            6954.906291666666
+          ],
+          "sentences": [
+            "My story starts at sea...",
+            "a perilous voyage to an unknown land.",
+            "A shipwreck."
+          ]
+        },
+        {
+          "shot": 1772,
+          "duration": [
+            6954.947999999999,
+            6956.824874999999
+          ],
+          "sentences": [
+            "A shipwreck."
+          ]
+        },
+        {
+          "shot": 1773,
+          "duration": [
+            6956.8665833333325,
+            6962.497208333333
+          ],
+          "sentences": [
+            "The wild waters roar and heave."
+          ]
+        },
+        {
+          "shot": 1774,
+          "duration": [
+            6962.538916666666,
+            6966.167541666666
+          ],
+          "sentences": [
+            "The brave vessel is dashed all to pieces..."
+          ]
+        },
+        {
+          "shot": 1775,
+          "duration": [
+            6966.20925,
+            6969.379083333333
+          ],
+          "sentences": [
+            "and all the helpless souls within her..."
+          ]
+        },
+        {
+          "shot": 1776,
+          "duration": [
+            6969.420791666666,
+            6971.297666666666
+          ],
+          "sentences": [
+            "and all the helpless souls within her..."
+          ]
+        },
+        {
+          "shot": 1777,
+          "duration": [
+            6971.339375,
+            6974.550916666666
+          ],
+          "sentences": [
+            "and all the helpless souls within her...",
+            "drowned."
+          ]
+        },
+        {
+          "shot": 1778,
+          "duration": [
+            6974.592624999999,
+            6987.73075
+          ],
+          "sentences": [
+            "drowned.",
+            "All save one:",
+            "a lady...",
+            "whose soul is greater than the ocean..."
+          ]
+        },
+        {
+          "shot": 1779,
+          "duration": [
+            6987.772458333333,
+            6994.153833333333
+          ],
+          "sentences": [
+            "whose soul is greater than the ocean...",
+            "and her spirit stronger than the sea\u0092s embrace."
+          ]
+        },
+        {
+          "shot": 1780,
+          "duration": [
+            6994.195541666666,
+            6996.406083333332
+          ],
+          "sentences": [
+            "Not for her a watery end..."
+          ]
+        },
+        {
+          "shot": 1781,
+          "duration": [
+            6996.4477916666665,
+            7001.911583333333
+          ],
+          "sentences": [
+            "Not for her a watery end...",
+            "but a new life beginning on a stranger shore."
+          ]
+        },
+        {
+          "shot": 1782,
+          "duration": [
+            7001.953291666666,
+            7002.870875
+          ],
+          "sentences": [
+            "but a new life beginning on a stranger shore."
+          ]
+        },
+        {
+          "shot": 1783,
+          "duration": [
+            7002.912583333333,
+            7003.705041666666
+          ],
+          "sentences": [
+            "but a new life beginning on a stranger shore."
+          ]
+        },
+        {
+          "shot": 1784,
+          "duration": [
+            7003.746749999999,
+            7024.976291666666
+          ],
+          "sentences": [
+            "but a new life beginning on a stranger shore.",
+            "It will be a love story,",
+            "for she will be my heroine for all time.",
+            "And her name will be Viola."
+          ]
+        },
+        {
+          "shot": 1785,
+          "duration": [
+            7025.017999999999,
+            7176.711208333333
+          ],
+          "sentences": [
+            "And her name will be Viola.",
+            "Thanks for using the subs       regards, shock"
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

@@ -1,0 +1,36 @@
+{
+  "imdb_id": "tt2014225",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 5,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 12,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 21,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 43,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 52,
+        "scale": "long",
+        "movement": "moving"
+      }
+    ]
+  }
+}

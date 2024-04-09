@@ -1,0 +1,111 @@
+{
+  "imdb_id": "tt5046534",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 6,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 25,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 32,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 37,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 45,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 55,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 59,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 68,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 73,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 89,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 91,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 94,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 103,
+        "scale": "long",
+        "movement": "static"
+      },
+      {
+        "shot": 104,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 106,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 169,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 173,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 203,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 219,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 220,
+        "scale": "full",
+        "movement": "static"
+      }
+    ]
+  }
+}

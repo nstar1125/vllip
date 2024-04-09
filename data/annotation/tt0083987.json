@@ -1,0 +1,3122 @@
+{
+  "imdb_id": "tt0083987",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0083987_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        2752
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0001",
+      "shot": [
+        1,
+        29
+      ],
+      "frame": [
+        2752,
+        5743
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0002",
+      "shot": [
+        29,
+        31
+      ],
+      "frame": [
+        5743,
+        6135
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0003",
+      "shot": [
+        31,
+        32
+      ],
+      "frame": [
+        6135,
+        6343
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0004",
+      "shot": [
+        32,
+        35
+      ],
+      "frame": [
+        6343,
+        6814
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0005",
+      "shot": [
+        35,
+        42
+      ],
+      "frame": [
+        6814,
+        8830
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0006",
+      "shot": [
+        42,
+        43
+      ],
+      "frame": [
+        8830,
+        9149
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0007",
+      "shot": [
+        43,
+        73
+      ],
+      "frame": [
+        9149,
+        11736
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0008",
+      "shot": [
+        73,
+        84
+      ],
+      "frame": [
+        11736,
+        13397
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0009",
+      "shot": [
+        84,
+        109
+      ],
+      "frame": [
+        13397,
+        16142
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0010",
+      "shot": [
+        109,
+        110
+      ],
+      "frame": [
+        16142,
+        16216
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0011",
+      "shot": [
+        110,
+        194
+      ],
+      "frame": [
+        16216,
+        22673
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0012",
+      "shot": [
+        194,
+        195
+      ],
+      "frame": [
+        22673,
+        23138
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0013",
+      "shot": [
+        195,
+        207
+      ],
+      "frame": [
+        23138,
+        24699
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0014",
+      "shot": [
+        207,
+        220
+      ],
+      "frame": [
+        24699,
+        26102
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0015",
+      "shot": [
+        220,
+        240
+      ],
+      "frame": [
+        26102,
+        28433
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0016",
+      "shot": [
+        240,
+        241
+      ],
+      "frame": [
+        28433,
+        29097
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0017",
+      "shot": [
+        241,
+        243
+      ],
+      "frame": [
+        29097,
+        29241
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0018",
+      "shot": [
+        243,
+        255
+      ],
+      "frame": [
+        29241,
+        30860
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0019",
+      "shot": [
+        255,
+        259
+      ],
+      "frame": [
+        30860,
+        32445
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0020",
+      "shot": [
+        259,
+        260
+      ],
+      "frame": [
+        32445,
+        32620
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0021",
+      "shot": [
+        260,
+        266
+      ],
+      "frame": [
+        32620,
+        33937
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0022",
+      "shot": [
+        266,
+        286
+      ],
+      "frame": [
+        33937,
+        37260
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0023",
+      "shot": [
+        286,
+        289
+      ],
+      "frame": [
+        37260,
+        37716
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0024",
+      "shot": [
+        289,
+        298
+      ],
+      "frame": [
+        37716,
+        38744
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0025",
+      "shot": [
+        298,
+        302
+      ],
+      "frame": [
+        38744,
+        39465
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0026",
+      "shot": [
+        302,
+        349
+      ],
+      "frame": [
+        39465,
+        44948
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0027",
+      "shot": [
+        349,
+        414
+      ],
+      "frame": [
+        44948,
+        50854
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0028",
+      "shot": [
+        414,
+        424
+      ],
+      "frame": [
+        50854,
+        52034
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0029",
+      "shot": [
+        424,
+        443
+      ],
+      "frame": [
+        52034,
+        53897
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0030",
+      "shot": [
+        443,
+        486
+      ],
+      "frame": [
+        53897,
+        59501
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0031",
+      "shot": [
+        486,
+        515
+      ],
+      "frame": [
+        59501,
+        65336
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0032",
+      "shot": [
+        515,
+        516
+      ],
+      "frame": [
+        65336,
+        65414
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0033",
+      "shot": [
+        516,
+        533
+      ],
+      "frame": [
+        65414,
+        69866
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0034",
+      "shot": [
+        533,
+        573
+      ],
+      "frame": [
+        69866,
+        76821
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0035",
+      "shot": [
+        573,
+        583
+      ],
+      "frame": [
+        76821,
+        78032
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0036",
+      "shot": [
+        583,
+        593
+      ],
+      "frame": [
+        78032,
+        79051
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0037",
+      "shot": [
+        593,
+        632
+      ],
+      "frame": [
+        79051,
+        85092
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0038",
+      "shot": [
+        632,
+        650
+      ],
+      "frame": [
+        85092,
+        87457
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0039",
+      "shot": [
+        650,
+        658
+      ],
+      "frame": [
+        87457,
+        89275
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0040",
+      "shot": [
+        658,
+        659
+      ],
+      "frame": [
+        89275,
+        89839
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0041",
+      "shot": [
+        659,
+        667
+      ],
+      "frame": [
+        89839,
+        90917
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0042",
+      "shot": [
+        667,
+        703
+      ],
+      "frame": [
+        90917,
+        96467
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0043",
+      "shot": [
+        703,
+        763
+      ],
+      "frame": [
+        96467,
+        105715
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0044",
+      "shot": [
+        763,
+        773
+      ],
+      "frame": [
+        105715,
+        107351
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0045",
+      "shot": [
+        773,
+        774
+      ],
+      "frame": [
+        107351,
+        107643
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0046",
+      "shot": [
+        774,
+        795
+      ],
+      "frame": [
+        107643,
+        110084
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0047",
+      "shot": [
+        795,
+        838
+      ],
+      "frame": [
+        110084,
+        116638
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0048",
+      "shot": [
+        838,
+        847
+      ],
+      "frame": [
+        116638,
+        118228
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0049",
+      "shot": [
+        847,
+        859
+      ],
+      "frame": [
+        118228,
+        120587
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0050",
+      "shot": [
+        859,
+        860
+      ],
+      "frame": [
+        120587,
+        121316
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0051",
+      "shot": [
+        860,
+        861
+      ],
+      "frame": [
+        121316,
+        121452
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0052",
+      "shot": [
+        861,
+        866
+      ],
+      "frame": [
+        121452,
+        122036
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0053",
+      "shot": [
+        866,
+        870
+      ],
+      "frame": [
+        122036,
+        122725
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0054",
+      "shot": [
+        870,
+        872
+      ],
+      "frame": [
+        122725,
+        122933
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0055",
+      "shot": [
+        872,
+        951
+      ],
+      "frame": [
+        122933,
+        128556
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0056",
+      "shot": [
+        951,
+        976
+      ],
+      "frame": [
+        128556,
+        131094
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0057",
+      "shot": [
+        976,
+        980
+      ],
+      "frame": [
+        131094,
+        131691
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0058",
+      "shot": [
+        980,
+        981
+      ],
+      "frame": [
+        131691,
+        136420
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0059",
+      "shot": [
+        981,
+        1007
+      ],
+      "frame": [
+        136420,
+        140906
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0060",
+      "shot": [
+        1007,
+        1036
+      ],
+      "frame": [
+        140906,
+        144945
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0061",
+      "shot": [
+        1036,
+        1046
+      ],
+      "frame": [
+        144945,
+        145656
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0062",
+      "shot": [
+        1046,
+        1066
+      ],
+      "frame": [
+        145656,
+        147266
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0063",
+      "shot": [
+        1066,
+        1070
+      ],
+      "frame": [
+        147266,
+        148433
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0064",
+      "shot": [
+        1070,
+        1087
+      ],
+      "frame": [
+        148433,
+        150772
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0065",
+      "shot": [
+        1087,
+        1096
+      ],
+      "frame": [
+        150772,
+        151691
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0066",
+      "shot": [
+        1096,
+        1107
+      ],
+      "frame": [
+        151691,
+        152322
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0067",
+      "shot": [
+        1107,
+        1150
+      ],
+      "frame": [
+        152322,
+        154415
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0068",
+      "shot": [
+        1150,
+        1173
+      ],
+      "frame": [
+        154415,
+        157113
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0069",
+      "shot": [
+        1173,
+        1186
+      ],
+      "frame": [
+        157113,
+        163910
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0070",
+      "shot": [
+        1186,
+        1210
+      ],
+      "frame": [
+        163910,
+        166682
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0071",
+      "shot": [
+        1210,
+        1247
+      ],
+      "frame": [
+        166682,
+        170692
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0072",
+      "shot": [
+        1247,
+        1248
+      ],
+      "frame": [
+        170692,
+        171047
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0073",
+      "shot": [
+        1248,
+        1262
+      ],
+      "frame": [
+        171047,
+        174981
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0074",
+      "shot": [
+        1262,
+        1279
+      ],
+      "frame": [
+        174981,
+        178829
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0075",
+      "shot": [
+        1279,
+        1308
+      ],
+      "frame": [
+        178829,
+        181917
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0076",
+      "shot": [
+        1308,
+        1322
+      ],
+      "frame": [
+        181917,
+        185560
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0077",
+      "shot": [
+        1322,
+        1326
+      ],
+      "frame": [
+        185560,
+        186095
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0078",
+      "shot": [
+        1326,
+        1330
+      ],
+      "frame": [
+        186095,
+        188678
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0079",
+      "shot": [
+        1330,
+        1337
+      ],
+      "frame": [
+        188678,
+        189794
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0080",
+      "shot": [
+        1337,
+        1342
+      ],
+      "frame": [
+        189794,
+        190276
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0081",
+      "shot": [
+        1342,
+        1357
+      ],
+      "frame": [
+        190276,
+        191429
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0082",
+      "shot": [
+        1357,
+        1380
+      ],
+      "frame": [
+        191429,
+        193558
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0083",
+      "shot": [
+        1380,
+        1449
+      ],
+      "frame": [
+        193558,
+        199840
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0084",
+      "shot": [
+        1449,
+        1451
+      ],
+      "frame": [
+        199840,
+        200601
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0085",
+      "shot": [
+        1451,
+        1452
+      ],
+      "frame": [
+        200601,
+        200752
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0086",
+      "shot": [
+        1452,
+        1463
+      ],
+      "frame": [
+        200752,
+        202628
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0087",
+      "shot": [
+        1463,
+        1468
+      ],
+      "frame": [
+        202628,
+        204066
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0088",
+      "shot": [
+        1468,
+        1472
+      ],
+      "frame": [
+        204066,
+        204662
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0089",
+      "shot": [
+        1472,
+        1473
+      ],
+      "frame": [
+        204662,
+        205050
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0090",
+      "shot": [
+        1473,
+        1474
+      ],
+      "frame": [
+        205050,
+        205167
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0091",
+      "shot": [
+        1474,
+        1479
+      ],
+      "frame": [
+        205167,
+        206210
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0092",
+      "shot": [
+        1479,
+        1488
+      ],
+      "frame": [
+        206210,
+        206945
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0093",
+      "shot": [
+        1488,
+        1493
+      ],
+      "frame": [
+        206945,
+        207259
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0094",
+      "shot": [
+        1493,
+        1497
+      ],
+      "frame": [
+        207259,
+        208060
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0095",
+      "shot": [
+        1497,
+        1507
+      ],
+      "frame": [
+        208060,
+        209636
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0096",
+      "shot": [
+        1507,
+        1512
+      ],
+      "frame": [
+        209636,
+        210488
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0097",
+      "shot": [
+        1512,
+        1518
+      ],
+      "frame": [
+        210488,
+        211381
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0098",
+      "shot": [
+        1518,
+        1538
+      ],
+      "frame": [
+        211381,
+        215579
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0099",
+      "shot": [
+        1538,
+        1552
+      ],
+      "frame": [
+        215579,
+        217422
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0100",
+      "shot": [
+        1552,
+        1553
+      ],
+      "frame": [
+        217422,
+        218086
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0101",
+      "shot": [
+        1553,
+        1568
+      ],
+      "frame": [
+        218086,
+        221951
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0102",
+      "shot": [
+        1568,
+        1575
+      ],
+      "frame": [
+        221951,
+        223718
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0103",
+      "shot": [
+        1575,
+        1595
+      ],
+      "frame": [
+        223718,
+        225904
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0104",
+      "shot": [
+        1595,
+        1596
+      ],
+      "frame": [
+        225904,
+        226066
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0105",
+      "shot": [
+        1596,
+        1600
+      ],
+      "frame": [
+        226066,
+        226448
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0106",
+      "shot": [
+        1600,
+        1615
+      ],
+      "frame": [
+        226448,
+        229283
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0107",
+      "shot": [
+        1615,
+        1630
+      ],
+      "frame": [
+        229283,
+        232264
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0108",
+      "shot": [
+        1630,
+        1636
+      ],
+      "frame": [
+        232264,
+        233287
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0109",
+      "shot": [
+        1636,
+        1637
+      ],
+      "frame": [
+        233287,
+        233969
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0110",
+      "shot": [
+        1637,
+        1638
+      ],
+      "frame": [
+        233969,
+        234542
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0111",
+      "shot": [
+        1638,
+        1648
+      ],
+      "frame": [
+        234542,
+        235742
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0112",
+      "shot": [
+        1648,
+        1650
+      ],
+      "frame": [
+        235742,
+        236591
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0113",
+      "shot": [
+        1650,
+        1667
+      ],
+      "frame": [
+        236591,
+        239070
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0114",
+      "shot": [
+        1667,
+        1668
+      ],
+      "frame": [
+        239070,
+        239180
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0115",
+      "shot": [
+        1668,
+        1679
+      ],
+      "frame": [
+        239180,
+        240934
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0116",
+      "shot": [
+        1679,
+        1692
+      ],
+      "frame": [
+        240934,
+        241596
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0117",
+      "shot": [
+        1692,
+        1702
+      ],
+      "frame": [
+        241596,
+        242376
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0118",
+      "shot": [
+        1702,
+        1723
+      ],
+      "frame": [
+        242376,
+        245310
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0119",
+      "shot": [
+        1723,
+        1735
+      ],
+      "frame": [
+        245310,
+        246215
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0120",
+      "shot": [
+        1735,
+        1757
+      ],
+      "frame": [
+        246215,
+        249522
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0121",
+      "shot": [
+        1757,
+        1789
+      ],
+      "frame": [
+        249522,
+        253952
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0122",
+      "shot": [
+        1789,
+        1790
+      ],
+      "frame": [
+        253952,
+        255147
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0123",
+      "shot": [
+        1790,
+        1808
+      ],
+      "frame": [
+        255147,
+        258262
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0124",
+      "shot": [
+        1808,
+        1812
+      ],
+      "frame": [
+        258262,
+        258567
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0125",
+      "shot": [
+        1812,
+        1838
+      ],
+      "frame": [
+        258567,
+        261589
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0126",
+      "shot": [
+        1838,
+        1839
+      ],
+      "frame": [
+        261589,
+        261655
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0127",
+      "shot": [
+        1839,
+        1842
+      ],
+      "frame": [
+        261655,
+        261867
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0128",
+      "shot": [
+        1842,
+        1846
+      ],
+      "frame": [
+        261867,
+        262577
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0083987_0129",
+      "shot": [
+        1846,
+        1848
+      ],
+      "frame": [
+        262577,
+        263045
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": [
+    {
+      "id": "tt0083987_0001",
+      "shot": [
+        41,
+        194
+      ],
+      "frame": [
+        8643,
+        22688
+      ],
+      "duration": [
+        360.519276,
+        946.276615
+      ],
+      "consistency": 0.980280574854223,
+      "description": "The story flashes back to Gandhi's early days as an attorney in the late 1800s in South Africa. He is thrown off a train for sitting in the first-class compartment despite possessing a ticket to be there. He later stages a non-violent protest in the center of town where, with several police officers and officials present, he burns work permits that all non-Afrikaners are required to carry and present to police when demanded. Gandhi's reasoning is that the permits are an unfair and oppressive symbol of Afrikaner rule over minorities. As he burns them, he is struck by a police officer on the hand. Though quite plainly in pain, Gandhi continues to burn the permits, his will overcoming the blows from the officer. He is finally knocked down, unable to continue his protest and is arrested.",
+      "subtitle": [
+        {
+          "shot": 41,
+          "duration": [
+            345.470125,
+            368.24287499999997
+          ],
+          "sentences": [
+            "And Albert Einstein added:",
+            "\"Generations to come will scarce believe that such a one as this...",
+            "...ever in flesh and blood...",
+            "...walked upon this earth.\""
+          ]
+        },
+        {
+          "shot": 45,
+          "duration": [
+            396.64624999999995,
+            402.3185833333333
+          ],
+          "sentences": [
+            "Tell me..."
+          ]
+        },
+        {
+          "shot": 46,
+          "duration": [
+            402.3602916666666,
+            406.40599999999995
+          ],
+          "sentences": [
+            "Tell me...",
+            "...do you think about hell?",
+            "No, neither do I."
+          ]
+        },
+        {
+          "shot": 47,
+          "duration": [
+            406.4477083333333,
+            410.45170833333333
+          ],
+          "sentences": [
+            "No, neither do I.",
+            "But this man here..."
+          ]
+        },
+        {
+          "shot": 48,
+          "duration": [
+            410.49341666666663,
+            412.2034583333333
+          ],
+          "sentences": [
+            "...is a Christian, and he's written that in order to believe--"
+          ]
+        },
+        {
+          "shot": 49,
+          "duration": [
+            412.24516666666665,
+            413.2044583333333
+          ],
+          "sentences": [
+            "...is a Christian, and he's written that in order to believe--"
+          ]
+        },
+        {
+          "shot": 50,
+          "duration": [
+            413.2461666666666,
+            416.49941666666666
+          ],
+          "sentences": [
+            "...is a Christian, and he's written that in order to believe--"
+          ]
+        },
+        {
+          "shot": 52,
+          "duration": [
+            417.792375,
+            420.5034166666666
+          ],
+          "sentences": [
+            "Excuse me, sir.",
+            "How long have you been in South Africa?"
+          ]
+        },
+        {
+          "shot": 53,
+          "duration": [
+            420.545125,
+            424.88279166666666
+          ],
+          "sentences": [
+            "How long have you been in South Africa?",
+            "-A week. -l don't know how you got a ticket."
+          ]
+        },
+        {
+          "shot": 54,
+          "duration": [
+            424.92449999999997,
+            429.0953333333333
+          ],
+          "sentences": [
+            "-A week. -l don't know how you got a ticket.",
+            "Just what are you doing in this car, coolie?"
+          ]
+        },
+        {
+          "shot": 55,
+          "duration": [
+            429.1370416666666,
+            435.5184166666666
+          ],
+          "sentences": [
+            "Why, l have a ticket.",
+            "A first-class ticket."
+          ]
+        },
+        {
+          "shot": 56,
+          "duration": [
+            435.56012499999997,
+            438.4797083333333
+          ],
+          "sentences": [
+            "-How did you get it? -l sent for it in the post."
+          ]
+        },
+        {
+          "shot": 57,
+          "duration": [
+            438.52141666666665,
+            442.40029166666665
+          ],
+          "sentences": [
+            "I'm an attorney. I didn't--",
+            "There are no colored attorneys in South Africa."
+          ]
+        },
+        {
+          "shot": 58,
+          "duration": [
+            442.44199999999995,
+            446.19575
+          ],
+          "sentences": [
+            "Sit where you belong!",
+            "-l'll take your luggage back, sir. -No."
+          ]
+        },
+        {
+          "shot": 59,
+          "duration": [
+            446.2374583333333,
+            448.32287499999995
+          ],
+          "sentences": [
+            "Just a moment, please."
+          ]
+        },
+        {
+          "shot": 60,
+          "duration": [
+            448.3645833333333,
+            450.32487499999996
+          ],
+          "sentences": [
+            "You see?"
+          ]
+        },
+        {
+          "shot": 61,
+          "duration": [
+            450.3665833333333,
+            452.2851666666666
+          ],
+          "sentences": [
+            "Mohandas K. Gandhi, attorney at law."
+          ]
+        },
+        {
+          "shot": 62,
+          "duration": [
+            452.326875,
+            455.03791666666666
+          ],
+          "sentences": [
+            "Mohandas K. Gandhi, attorney at law.",
+            "I'm going to conduct a case for an lndian trading firm."
+          ]
+        },
+        {
+          "shot": 63,
+          "duration": [
+            455.07962499999996,
+            458.4162916666666
+          ],
+          "sentences": [
+            "I'm going to conduct a case for an lndian trading firm.",
+            "Didn't you hear me? There are no colored attorneys in South Africa."
+          ]
+        },
+        {
+          "shot": 64,
+          "duration": [
+            458.45799999999997,
+            462.21175
+          ],
+          "sentences": [
+            "Didn't you hear me? There are no colored attorneys in South Africa."
+          ]
+        },
+        {
+          "shot": 65,
+          "duration": [
+            462.2534583333333,
+            470.4282916666666
+          ],
+          "sentences": [
+            "I was called to the bar in London...",
+            "...and enrolled at the High Court of Chancery.",
+            "I am, therefore, an attorney."
+          ]
+        },
+        {
+          "shot": 66,
+          "duration": [
+            470.46999999999997,
+            473.8900833333333
+          ],
+          "sentences": [
+            "And since l am, in your eyes, colored...",
+            "...l think we can deduce there is at least..."
+          ]
+        },
+        {
+          "shot": 67,
+          "duration": [
+            473.93179166666664,
+            477.7689583333333
+          ],
+          "sentences": [
+            "...l think we can deduce there is at least...",
+            "...one colored attorney in South Africa."
+          ]
+        },
+        {
+          "shot": 68,
+          "duration": [
+            477.81066666666663,
+            479.22875
+          ],
+          "sentences": [
+            "Smart bloody Kaffir!"
+          ]
+        },
+        {
+          "shot": 69,
+          "duration": [
+            479.2704583333333,
+            482.23175
+          ],
+          "sentences": [
+            "Smart bloody Kaffir!",
+            "Throw him out."
+          ]
+        },
+        {
+          "shot": 70,
+          "duration": [
+            482.2734583333333,
+            483.9835
+          ],
+          "sentences": [
+            "Just move your black ass back to third class..."
+          ]
+        },
+        {
+          "shot": 71,
+          "duration": [
+            484.0252083333333,
+            487.4452916666666
+          ],
+          "sentences": [
+            "Just move your black ass back to third class...",
+            "...or l'll have you thrown off at the next station."
+          ]
+        },
+        {
+          "shot": 72,
+          "duration": [
+            487.48699999999997,
+            489.4472916666666
+          ],
+          "sentences": [
+            "But l always go first class!"
+          ]
+        },
+        {
+          "shot": 84,
+          "duration": [
+            558.7665416666666,
+            561.0187916666666
+          ],
+          "sentences": [
+            "But you're a rich man. Why put up with it?"
+          ]
+        },
+        {
+          "shot": 85,
+          "duration": [
+            561.0604999999999,
+            565.8986666666666
+          ],
+          "sentences": [
+            "Yes, l am rich. But l am lndian.",
+            "I do not expect to travel first class."
+          ]
+        },
+        {
+          "shot": 86,
+          "duration": [
+            565.9403749999999,
+            575.6584166666667
+          ],
+          "sentences": [
+            "I do not expect to travel first class.",
+            "-ln England, I was a poor student. -That was England.",
+            "This is part of England's Empire.",
+            "Mr. Gandhi, you look at Mr. Khan and you see a successful Muslim trader."
+          ]
+        },
+        {
+          "shot": 87,
+          "duration": [
+            575.700125,
+            578.703125
+          ],
+          "sentences": [
+            "Most South Africans see him simply as an Indian."
+          ]
+        },
+        {
+          "shot": 88,
+          "duration": [
+            578.7448333333333,
+            582.3317499999999
+          ],
+          "sentences": [
+            "And the vast majority of Indians, mostly Hindus, like yourself..."
+          ]
+        },
+        {
+          "shot": 89,
+          "duration": [
+            582.3734583333332,
+            585.83525
+          ],
+          "sentences": [
+            "And the vast majority of Indians, mostly Hindus, like yourself...",
+            "...were brought here to work mines and harvest crops."
+          ]
+        },
+        {
+          "shot": 90,
+          "duration": [
+            585.8769583333333,
+            588.5462916666667
+          ],
+          "sentences": [
+            "Most Europeans don't want them doing anything else."
+          ]
+        },
+        {
+          "shot": 91,
+          "duration": [
+            588.588,
+            592.6337083333333
+          ],
+          "sentences": [
+            "-But that is very unchristian-- -Mr. Gandhi, in this country..."
+          ]
+        },
+        {
+          "shot": 92,
+          "duration": [
+            592.6754166666666,
+            594.8859583333333
+          ],
+          "sentences": [
+            "...lndians are not allowed to walk along the pavement with a Christian."
+          ]
+        },
+        {
+          "shot": 93,
+          "duration": [
+            594.9276666666666,
+            600.7251249999999
+          ],
+          "sentences": [
+            "...lndians are not allowed to walk along the pavement with a Christian.",
+            "You mean, you employ Mr. Baker as your attorney..."
+          ]
+        },
+        {
+          "shot": 94,
+          "duration": [
+            600.7668333333332,
+            604.6874166666666
+          ],
+          "sentences": [
+            "You mean, you employ Mr. Baker as your attorney...",
+            "...but you can't walk down the street with him?"
+          ]
+        },
+        {
+          "shot": 95,
+          "duration": [
+            604.729125,
+            606.4391666666667
+          ],
+          "sentences": [
+            "...but you can't walk down the street with him?",
+            "Well, l can."
+          ]
+        },
+        {
+          "shot": 96,
+          "duration": [
+            606.480875,
+            610.8185416666666
+          ],
+          "sentences": [
+            "But l risk being kicked into the gutter by someone...",
+            "...less holy than Mr. Baker."
+          ]
+        },
+        {
+          "shot": 97,
+          "duration": [
+            610.86025,
+            614.4054583333333
+          ],
+          "sentences": [
+            "...less holy than Mr. Baker."
+          ]
+        },
+        {
+          "shot": 101,
+          "duration": [
+            618.86825,
+            634.0917916666666
+          ],
+          "sentences": [
+            "Well, then it must be fought.",
+            "We are children of God like everyone else.",
+            "Allah be praised!",
+            "And what battalions will you call upon?"
+          ]
+        },
+        {
+          "shot": 102,
+          "duration": [
+            634.1334999999999,
+            639.88925
+          ],
+          "sentences": [
+            "I will write to the press...",
+            "...here and in England."
+          ]
+        },
+        {
+          "shot": 103,
+          "duration": [
+            639.9309583333333,
+            642.2249166666667
+          ],
+          "sentences": [
+            "I will use the courts.",
+            "You'll cause a lot of trouble. Our position is--"
+          ]
+        },
+        {
+          "shot": 104,
+          "duration": [
+            642.266625,
+            654.9876666666667
+          ],
+          "sentences": [
+            "You'll cause a lot of trouble. Our position is--",
+            "We are members of the Empire.",
+            "And we come from an ancient civilization.",
+            "Why should we not walk on the pavements like other men?"
+          ]
+        },
+        {
+          "shot": 105,
+          "duration": [
+            655.029375,
+            657.3650416666666
+          ],
+          "sentences": [
+            "I rather like the idea of an Indian barrister in South Africa."
+          ]
+        },
+        {
+          "shot": 106,
+          "duration": [
+            657.40675,
+            663.5795833333333
+          ],
+          "sentences": [
+            "I rather like the idea of an Indian barrister in South Africa.",
+            "I'm sure our community could keep you in work for some time..."
+          ]
+        },
+        {
+          "shot": 107,
+          "duration": [
+            663.6212916666666,
+            670.0860833333332
+          ],
+          "sentences": [
+            "...even if you caused a good deal of trouble.",
+            "Especially if you caused a good deal of trouble."
+          ]
+        },
+        {
+          "shot": 108,
+          "duration": [
+            670.1277916666667,
+            673.2142083333333
+          ],
+          "sentences": [
+            "Especially if you caused a good deal of trouble."
+          ]
+        },
+        {
+          "shot": 112,
+          "duration": [
+            682.93225,
+            691.8995416666667
+          ],
+          "sentences": [
+            "There's the English reporter. I told you he'd come."
+          ]
+        },
+        {
+          "shot": 113,
+          "duration": [
+            691.94125,
+            694.7774166666666
+          ],
+          "sentences": [
+            "There's the English reporter. I told you he'd come."
+          ]
+        },
+        {
+          "shot": 114,
+          "duration": [
+            694.819125,
+            699.5738749999999
+          ],
+          "sentences": [
+            "You also said your article would draw a thousand people."
+          ]
+        },
+        {
+          "shot": 116,
+          "duration": [
+            701.8261249999999,
+            703.577875
+          ],
+          "sentences": [
+            "At least some of the Hindus brought their wives."
+          ]
+        },
+        {
+          "shot": 117,
+          "duration": [
+            703.6195833333333,
+            706.2472083333333
+          ],
+          "sentences": [
+            "At least some of the Hindus brought their wives.",
+            "No, I asked my wife to organize that."
+          ]
+        },
+        {
+          "shot": 118,
+          "duration": [
+            706.2889166666666,
+            709.4170416666666
+          ],
+          "sentences": [
+            "No, I asked my wife to organize that."
+          ]
+        },
+        {
+          "shot": 119,
+          "duration": [
+            709.4587499999999,
+            712.2532083333333
+          ],
+          "sentences": [
+            "Some of them are leaving."
+          ]
+        },
+        {
+          "shot": 121,
+          "duration": [
+            715.6315833333333,
+            722.9722499999999
+          ],
+          "sentences": [
+            "\"Ladies and gentlemen..."
+          ]
+        },
+        {
+          "shot": 122,
+          "duration": [
+            723.0139583333333,
+            730.7717083333333
+          ],
+          "sentences": [
+            "...we have asked you to gather here to help us proclaim our right...",
+            "...to be treated as equal citizens of the Empire."
+          ]
+        },
+        {
+          "shot": 123,
+          "duration": [
+            730.8134166666666,
+            746.8711249999999
+          ],
+          "sentences": [
+            "We do not seek conflict.",
+            "We know the strength of the forces arrayed against us...",
+            "...know that because of them, we can only use peaceful means.",
+            "But we are determined that justice will be done."
+          ]
+        },
+        {
+          "shot": 124,
+          "duration": [
+            746.9128333333333,
+            748.873125
+          ],
+          "sentences": [
+            "The symbol of our status is embodied in this pass..."
+          ]
+        },
+        {
+          "shot": 125,
+          "duration": [
+            748.9148333333333,
+            753.8364166666667
+          ],
+          "sentences": [
+            "The symbol of our status is embodied in this pass...",
+            "...which we must carry at all times..."
+          ]
+        },
+        {
+          "shot": 126,
+          "duration": [
+            753.878125,
+            756.9228333333333
+          ],
+          "sentences": [
+            "...but which no European even has to have."
+          ]
+        },
+        {
+          "shot": 127,
+          "duration": [
+            756.9645416666666,
+            764.8891249999999
+          ],
+          "sentences": [
+            "The first step towards changing our status...",
+            "...is to eliminate this difference between us.\""
+          ]
+        },
+        {
+          "shot": 129,
+          "duration": [
+            767.2665,
+            772.6468749999999
+          ],
+          "sentences": [
+            "Now?"
+          ]
+        },
+        {
+          "shot": 130,
+          "duration": [
+            772.6885833333333,
+            775.5247499999999
+          ],
+          "sentences": [
+            "Now?"
+          ]
+        },
+        {
+          "shot": 132,
+          "duration": [
+            777.52675,
+            782.2814999999999
+          ],
+          "sentences": [
+            "You write brilliantly, but you have much to learn about handling men."
+          ]
+        },
+        {
+          "shot": 133,
+          "duration": [
+            782.3232083333332,
+            789.4970416666666
+          ],
+          "sentences": [
+            "\"We do not want to ignite...",
+            "...the fear or hatred of anyone."
+          ]
+        },
+        {
+          "shot": 134,
+          "duration": [
+            789.5387499999999,
+            792.3749166666666
+          ],
+          "sentences": [
+            "...the fear or hatred of anyone.",
+            "But we ask you..."
+          ]
+        },
+        {
+          "shot": 135,
+          "duration": [
+            792.416625,
+            795.8367083333333
+          ],
+          "sentences": [
+            "...Hindu, Muslim and Sikh..."
+          ]
+        },
+        {
+          "shot": 136,
+          "duration": [
+            795.8784166666666,
+            805.805
+          ],
+          "sentences": [
+            "...to help us light up the sky...",
+            "...and the minds of the British authorities...",
+            "...with our defiance of this injustice.\""
+          ]
+        },
+        {
+          "shot": 138,
+          "duration": [
+            807.7652916666666,
+            812.0195416666666
+          ],
+          "sentences": [
+            "We will now burn the passes of our committee and its supporters."
+          ]
+        },
+        {
+          "shot": 139,
+          "duration": [
+            812.06125,
+            816.06525
+          ],
+          "sentences": [
+            "We ask you to put your passes on the fire--"
+          ]
+        },
+        {
+          "shot": 140,
+          "duration": [
+            816.1069583333333,
+            817.9421249999999
+          ],
+          "sentences": [
+            "We ask you to put your passes on the fire--",
+            "You bloody dog!"
+          ]
+        },
+        {
+          "shot": 144,
+          "duration": [
+            822.5300416666666,
+            825.0325416666666
+          ],
+          "sentences": [
+            "Those passes..."
+          ]
+        },
+        {
+          "shot": 145,
+          "duration": [
+            825.0742499999999,
+            827.6184583333333
+          ],
+          "sentences": [
+            "Those passes...",
+            "...are government property!"
+          ]
+        },
+        {
+          "shot": 146,
+          "duration": [
+            827.6601666666666,
+            830.6214583333333
+          ],
+          "sentences": [
+            "And l will arrest the first man who tries to burn one!"
+          ]
+        },
+        {
+          "shot": 147,
+          "duration": [
+            830.6631666666666,
+            834.1666666666666
+          ],
+          "sentences": [
+            "And l will arrest the first man who tries to burn one!"
+          ]
+        },
+        {
+          "shot": 153,
+          "duration": [
+            842.716875,
+            845.0108333333333
+          ],
+          "sentences": [
+            "Take him away."
+          ]
+        },
+        {
+          "shot": 158,
+          "duration": [
+            861.8192916666666,
+            871.245375
+          ],
+          "sentences": [
+            "You little...",
+            "...Sammy...",
+            "...bastard!"
+          ]
+        },
+        {
+          "shot": 160,
+          "duration": [
+            872.9137083333333,
+            874.4569166666666
+          ],
+          "sentences": [
+            "Now! Are there any more?"
+          ]
+        },
+        {
+          "shot": 161,
+          "duration": [
+            874.498625,
+            875.749875
+          ],
+          "sentences": [
+            "Now! Are there any more?"
+          ]
+        },
+        {
+          "shot": 162,
+          "duration": [
+            875.7915833333333,
+            878.4192083333332
+          ],
+          "sentences": [
+            "If you want this kind of trouble, you can have it."
+          ]
+        },
+        {
+          "shot": 163,
+          "duration": [
+            878.4609166666665,
+            880.0458333333332
+          ],
+          "sentences": [
+            "If you want this kind of trouble, you can have it."
+          ]
+        },
+        {
+          "shot": 176,
+          "duration": [
+            902.3180833333332,
+            904.278375
+          ],
+          "sentences": [
+            "Let me go!"
+          ]
+        },
+        {
+          "shot": 177,
+          "duration": [
+            904.3200833333333,
+            905.4462083333333
+          ],
+          "sentences": [
+            "Let me go!"
+          ]
+        },
+        {
+          "shot": 178,
+          "duration": [
+            905.4879166666666,
+            906.7391666666666
+          ],
+          "sentences": [
+            "Let me go!"
+          ]
+        },
+        {
+          "shot": 179,
+          "duration": [
+            906.7808749999999,
+            909.283375
+          ],
+          "sentences": [
+            "Let me go!"
+          ]
+        },
+        {
+          "shot": 183,
+          "duration": [
+            924.924,
+            927.551625
+          ],
+          "sentences": [
+            "Stop."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0083987_0002",
+      "shot": [
+        195,
+        243
+      ],
+      "frame": [
+        23175,
+        29213
+      ],
+      "duration": [
+        966.5996406666666,
+        1218.4246686666665
+      ],
+      "consistency": 0.9625148696498903,
+      "description": "When he's freed from jail, he meets a young American reporter, Walker, with whom he converses about the oppression of the masses by a handful of bureaucrats. While they walk, Gandhi is confronted by an angry youth (Daniel Day-Lewis in a bit part) and his friends. They demand that he pay them to walk down their street. Gandhi refuses in the face of obvious bigotry. When the young man's mother calls him inside, Gandhi and Walker continue down the street.",
+      "subtitle": [
+        {
+          "shot": 195,
+          "duration": [
+            965.0474166666665,
+            969.5519166666666
+          ],
+          "sentences": [
+            "\"A High Court judge confirmed that Mr. Gandhi..."
+          ]
+        },
+        {
+          "shot": 196,
+          "duration": [
+            969.593625,
+            982.1895416666666
+          ],
+          "sentences": [
+            "...would've been within his rights to prosecute for assault...",
+            "...since neither he nor Mr. Khan resisted arrest.\"",
+            "I told you about English law.",
+            "As l told you about English policemen."
+          ]
+        },
+        {
+          "shot": 197,
+          "duration": [
+            982.2312499999999,
+            984.9422916666666
+          ],
+          "sentences": [
+            "Yes?"
+          ]
+        },
+        {
+          "shot": 198,
+          "duration": [
+            984.9839999999999,
+            991.4070833333333
+          ],
+          "sentences": [
+            "We're very pleased to have you back, Papa.",
+            "And l am glad to be back.",
+            "Come."
+          ]
+        },
+        {
+          "shot": 199,
+          "duration": [
+            991.4487916666666,
+            993.0754166666666
+          ],
+          "sentences": [
+            "Come."
+          ]
+        },
+        {
+          "shot": 200,
+          "duration": [
+            993.1171249999999,
+            995.74475
+          ],
+          "sentences": [
+            "Mind your face."
+          ]
+        },
+        {
+          "shot": 202,
+          "duration": [
+            999.9989999999999,
+            1003.0854166666666
+          ],
+          "sentences": [
+            "Tomorrow l'll tell you about my days in a police hospital."
+          ]
+        },
+        {
+          "shot": 203,
+          "duration": [
+            1003.127125,
+            1004.75375
+          ],
+          "sentences": [
+            "Tomorrow l'll tell you about my days in a police hospital."
+          ]
+        },
+        {
+          "shot": 204,
+          "duration": [
+            1004.7954583333333,
+            1007.3813749999999
+          ],
+          "sentences": [
+            "Come, come."
+          ]
+        },
+        {
+          "shot": 206,
+          "duration": [
+            1008.2989583333333,
+            1030.1124166666666
+          ],
+          "sentences": [
+            "Just like proper English gentlemen. I'm proud of them.",
+            "They're boys and they're lndian.",
+            "Will you take this off? It pinches every time l speak."
+          ]
+        },
+        {
+          "shot": 207,
+          "duration": [
+            1030.154125,
+            1037.7450416666666
+          ],
+          "sentences": [
+            "I've got it."
+          ]
+        },
+        {
+          "shot": 210,
+          "duration": [
+            1040.4560833333333,
+            1042.8751666666667
+          ],
+          "sentences": [
+            "You'd be Gandhi."
+          ]
+        },
+        {
+          "shot": 211,
+          "duration": [
+            1042.916875,
+            1043.8344583333333
+          ],
+          "sentences": [
+            "You'd be Gandhi."
+          ]
+        },
+        {
+          "shot": 212,
+          "duration": [
+            1043.8761666666667,
+            1046.6289166666666
+          ],
+          "sentences": [
+            "I thought you'd be bigger."
+          ]
+        },
+        {
+          "shot": 213,
+          "duration": [
+            1046.670625,
+            1050.924875
+          ],
+          "sentences": [
+            "-l'm sorry. -No, that's all right."
+          ]
+        },
+        {
+          "shot": 214,
+          "duration": [
+            1050.9665833333333,
+            1052.5932083333332
+          ],
+          "sentences": [
+            "My name is Charlie Andrews, sir."
+          ]
+        },
+        {
+          "shot": 215,
+          "duration": [
+            1052.6349166666666,
+            1055.0122916666667
+          ],
+          "sentences": [
+            "My name is Charlie Andrews, sir.",
+            "I've come from lndia."
+          ]
+        },
+        {
+          "shot": 216,
+          "duration": [
+            1055.0539999999999,
+            1058.2238333333332
+          ],
+          "sentences": [
+            "I've read a great deal about you."
+          ]
+        },
+        {
+          "shot": 217,
+          "duration": [
+            1058.2655416666666,
+            1060.9765833333333
+          ],
+          "sentences": [
+            "I've read a great deal about you.",
+            "Some of it good, l hope."
+          ]
+        },
+        {
+          "shot": 219,
+          "duration": [
+            1062.8534583333333,
+            1088.6292083333333
+          ],
+          "sentences": [
+            "Would you care to walk?",
+            "-You're a clergyman? -Yes.",
+            "I met some remarkable people in India.",
+            "And when I read what you were doing, I wanted to help.",
+            "-Does that surprise you? -Not anymore.",
+            "At first, I was amazed...",
+            "...but when you're fighting in a just cause...",
+            "...people seem to pop up, like you, right out of the pavement.",
+            "Even when it's dangerous or...."
+          ]
+        },
+        {
+          "shot": 220,
+          "duration": [
+            1088.6709166666667,
+            1092.1327083333333
+          ],
+          "sentences": [
+            "Hey, look what's coming!"
+          ]
+        },
+        {
+          "shot": 221,
+          "duration": [
+            1092.1744166666665,
+            1094.5517916666665
+          ],
+          "sentences": [
+            "Hey, look what's coming!",
+            "A white shepherd leading a brown Sammy!"
+          ]
+        },
+        {
+          "shot": 222,
+          "duration": [
+            1094.5935,
+            1097.6799166666665
+          ],
+          "sentences": [
+            "A white shepherd leading a brown Sammy!"
+          ]
+        },
+        {
+          "shot": 223,
+          "duration": [
+            1097.721625,
+            1114.1964166666667
+          ],
+          "sentences": [
+            "-Perhaps we should.... -Doesn't the New Testament say:",
+            "\"If your enemy strikes you on the right cheek, offer him the left\"?",
+            "The phrase was used metaphorically. I don't think our Lord--",
+            "I'm not so sure. I have thought about it a great deal.",
+            "I suspect he meant you must show courage..."
+          ]
+        },
+        {
+          "shot": 224,
+          "duration": [
+            1114.2381249999999,
+            1118.5757916666666
+          ],
+          "sentences": [
+            "...be willing to take a blow, several blows, to show...",
+            "...you won't strike back, nor will you be turned aside."
+          ]
+        },
+        {
+          "shot": 225,
+          "duration": [
+            1118.6174999999998,
+            1123.2888333333333
+          ],
+          "sentences": [
+            "...you won't strike back, nor will you be turned aside.",
+            "And when you do that, it calls on something in human nature..."
+          ]
+        },
+        {
+          "shot": 226,
+          "duration": [
+            1123.3305416666665,
+            1128.37725
+          ],
+          "sentences": [
+            "And when you do that, it calls on something in human nature...",
+            "...that makes his hatred for you decrease and his respect increase."
+          ]
+        },
+        {
+          "shot": 227,
+          "duration": [
+            1128.4189583333332,
+            1133.3822499999999
+          ],
+          "sentences": [
+            "I think Christ grasped that, and l have seen it work.",
+            "Good morning."
+          ]
+        },
+        {
+          "shot": 228,
+          "duration": [
+            1133.4239583333333,
+            1135.9681666666665
+          ],
+          "sentences": [
+            "Get off the pavement, you bloody coon."
+          ]
+        },
+        {
+          "shot": 229,
+          "duration": [
+            1136.009875,
+            1137.5113749999998
+          ],
+          "sentences": [
+            "-Yeah, get off. -Kaffir!"
+          ]
+        },
+        {
+          "shot": 230,
+          "duration": [
+            1137.5530833333332,
+            1143.3088333333333
+          ],
+          "sentences": [
+            "-Colin, what you doing? -Nothing.",
+            "Come out where l can see you!"
+          ]
+        },
+        {
+          "shot": 231,
+          "duration": [
+            1143.3505416666667,
+            1144.768625
+          ],
+          "sentences": [
+            "Come out where l can see you!"
+          ]
+        },
+        {
+          "shot": 233,
+          "duration": [
+            1146.6037916666667,
+            1151.9841666666666
+          ],
+          "sentences": [
+            "I said, what you doing?",
+            "We were just trying to clean up the neighborhood."
+          ]
+        },
+        {
+          "shot": 234,
+          "duration": [
+            1152.0258749999998,
+            1157.1142916666665
+          ],
+          "sentences": [
+            "We were just trying to clean up the neighborhood.",
+            "You're late for work. I thought you'd gone 1 0 minutes ago."
+          ]
+        },
+        {
+          "shot": 235,
+          "duration": [
+            1157.156,
+            1159.4499583333331
+          ],
+          "sentences": [
+            "Get on!"
+          ]
+        },
+        {
+          "shot": 237,
+          "duration": [
+            1161.1182916666667,
+            1166.7489166666667
+          ],
+          "sentences": [
+            "You'll find there's room for us all."
+          ]
+        },
+        {
+          "shot": 238,
+          "duration": [
+            1166.7906249999999,
+            1168.41725
+          ],
+          "sentences": [
+            "You'll find there's room for us all."
+          ]
+        },
+        {
+          "shot": 239,
+          "duration": [
+            1168.4589583333332,
+            1185.8513333333333
+          ],
+          "sentences": [
+            "-That was lucky. -l thought you were a man of God.",
+            "I am, but l'm not so egotistical as to think...",
+            "...he plans his day around my dilemmas."
+          ]
+        },
+        {
+          "shot": 240,
+          "duration": [
+            1185.8930416666665,
+            1213.5456666666666
+          ],
+          "sentences": [
+            "You could call it a communal farm, l suppose.",
+            "But you've all come to the same conclusions.",
+            "Our Gita, the Muslim's Koran, your Bible.",
+            "It's always the simple things that catch your breath.",
+            "\"Love thy neighbor as thyself.\"",
+            "Not always practiced...",
+            "...but it's something we Hindus could learn a lot from.",
+            "That's the kind of thing you'll be seeking on this farm?",
+            "Well, we shall try.",
+            "Bad news, I'm afraid.",
+            "They're going to change the pass laws."
+          ]
+        },
+        {
+          "shot": 241,
+          "duration": [
+            1213.5873749999998,
+            1215.2557083333334
+          ],
+          "sentences": [
+            "They're going to change the pass laws."
+          ]
+        }
+      ]
+    }
+  ],
+  "cinematic_style": null
+}

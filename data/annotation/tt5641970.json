@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt5641970",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 0,
+        "scale": "medium",
+        "movement": "push"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "imdb_id": "tt4005894",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 7,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 17,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 39,
+        "scale": "medium",
+        "movement": "moving"
+      },
+      {
+        "shot": 41,
+        "scale": "medium",
+        "movement": "moving"
+      }
+    ]
+  }
+}

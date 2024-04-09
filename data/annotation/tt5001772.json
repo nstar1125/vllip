@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt5001772",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 17,
+        "scale": "full",
+        "movement": "moving"
+      }
+    ]
+  }
+}

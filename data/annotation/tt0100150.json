@@ -1,0 +1,3554 @@
+{
+  "imdb_id": "tt0100150",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0100150_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        819
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0001",
+      "shot": [
+        1,
+        43
+      ],
+      "frame": [
+        819,
+        7438
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            3084,
+            3171
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            5180,
+            5245
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            6520,
+            6877
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            7182,
+            7295
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0002",
+      "shot": [
+        43,
+        59
+      ],
+      "frame": [
+        7438,
+        9752
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            7438,
+            7461
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            7897,
+            7935
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            7940,
+            8003
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            8971,
+            9170
+          ]
+        },
+        {
+          "tag": "press button",
+          "frame": [
+            9156,
+            9228
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            9446,
+            9491
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0003",
+      "shot": [
+        59,
+        60
+      ],
+      "frame": [
+        9752,
+        13187
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            9778,
+            9814
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            9834,
+            9882
+          ]
+        },
+        {
+          "tag": "sleep",
+          "frame": [
+            12433,
+            12623
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0004",
+      "shot": [
+        60,
+        61
+      ],
+      "frame": [
+        13187,
+        14194
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0005",
+      "shot": [
+        61,
+        66
+      ],
+      "frame": [
+        14194,
+        15241
+      ],
+      "place_tag": [
+        "doorway"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            14349,
+            14455
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            14819,
+            14834
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            14953,
+            15169
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            15205,
+            15236
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0006",
+      "shot": [
+        66,
+        67
+      ],
+      "frame": [
+        15241,
+        15519
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0007",
+      "shot": [
+        67,
+        68
+      ],
+      "frame": [
+        15519,
+        16056
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            15519,
+            15662
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0008",
+      "shot": [
+        68,
+        116
+      ],
+      "frame": [
+        16056,
+        22351
+      ],
+      "place_tag": [
+        "doorway",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "close door",
+          "frame": [
+            16179,
+            16232
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            16438,
+            16549
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            16827,
+            16875
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            16877,
+            16954
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            17798,
+            17867
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            20011,
+            20066
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            21893,
+            21927
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0009",
+      "shot": [
+        116,
+        117
+      ],
+      "frame": [
+        22351,
+        22563
+      ],
+      "place_tag": [
+        "doorway",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            22382,
+            22404
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            22468,
+            22507
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            22523,
+            22561
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0010",
+      "shot": [
+        117,
+        123
+      ],
+      "frame": [
+        22563,
+        24419
+      ],
+      "place_tag": [
+        "bedroom",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            22830,
+            22878
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            23146,
+            24417
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0011",
+      "shot": [
+        123,
+        132
+      ],
+      "frame": [
+        24419,
+        25284
+      ],
+      "place_tag": [
+        "alley"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0012",
+      "shot": [
+        132,
+        134
+      ],
+      "frame": [
+        25284,
+        25922
+      ],
+      "place_tag": [
+        "alley",
+        "restaurant (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            25332,
+            25431
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            25708,
+            25720
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0013",
+      "shot": [
+        134,
+        147
+      ],
+      "frame": [
+        25922,
+        27462
+      ],
+      "place_tag": [
+        "hotel lobby (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            27086,
+            27152
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            27295,
+            27460
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0014",
+      "shot": [
+        147,
+        181
+      ],
+      "frame": [
+        27462,
+        31079
+      ],
+      "place_tag": [
+        "doorway",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            28044,
+            28111
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            28353,
+            28406
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            28746,
+            28802
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            28804,
+            28828
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            29406,
+            29511
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            29672,
+            29708
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            30854,
+            30878
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0015",
+      "shot": [
+        181,
+        191
+      ],
+      "frame": [
+        31079,
+        31853
+      ],
+      "place_tag": [
+        "bar (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            31345,
+            31376
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            31525,
+            31566
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0016",
+      "shot": [
+        191,
+        193
+      ],
+      "frame": [
+        31853,
+        32108
+      ],
+      "place_tag": [
+        "doorway"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            31853,
+            31888
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0017",
+      "shot": [
+        193,
+        225
+      ],
+      "frame": [
+        32108,
+        35519
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "makeup",
+          "frame": [
+            32123,
+            32596
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            32123,
+            32596
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            32958,
+            32996
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            33308,
+            33397
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            34804,
+            34850
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            34871,
+            34886
+          ]
+        },
+        {
+          "tag": "hit",
+          "frame": [
+            34900,
+            34931
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0018",
+      "shot": [
+        225,
+        250
+      ],
+      "frame": [
+        35519,
+        39845
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            35921,
+            35943
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            36283,
+            36890
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            38874,
+            38927
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0019",
+      "shot": [
+        250,
+        253
+      ],
+      "frame": [
+        39845,
+        40822
+      ],
+      "place_tag": [
+        "ruins (inside)",
+        "sell store (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            39845,
+            39913
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            40074,
+            40122
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            40120,
+            40160
+          ]
+        },
+        {
+          "tag": "shake hand",
+          "frame": [
+            40227,
+            40259
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            40340,
+            40400
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            40692,
+            40711
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            40716,
+            40747
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0020",
+      "shot": [
+        253,
+        318
+      ],
+      "frame": [
+        40822,
+        48485
+      ],
+      "place_tag": [
+        "ruins (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "do intimacy",
+          "frame": [
+            41318,
+            41744
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            42682,
+            42811
+          ]
+        },
+        {
+          "tag": "write",
+          "frame": [
+            42876,
+            42926
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            44348,
+            44391
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            44672,
+            44734
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            45010,
+            45137
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            45448,
+            45482
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            45841,
+            45899
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            45975,
+            46148
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            46369,
+            46556
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            46570,
+            46580
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            47047,
+            47059
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            47064,
+            47098
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            47356,
+            47368
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            47395,
+            47414
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            47462,
+            47687
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            47683,
+            47699
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            47805,
+            47817
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            47858,
+            47882
+          ]
+        },
+        {
+          "tag": "arrest",
+          "frame": [
+            47937,
+            48371
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            48419,
+            48483
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0021",
+      "shot": [
+        318,
+        332
+      ],
+      "frame": [
+        48485,
+        50568
+      ],
+      "place_tag": [
+        "bar (inside)",
+        "hotel (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            48485,
+            48702
+          ]
+        },
+        {
+          "tag": "arrest",
+          "frame": [
+            48485,
+            48702
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            48704,
+            49208
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            48704,
+            49208
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            49409,
+            49515
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            49588,
+            49874
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            50150,
+            50214
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            50478,
+            50502
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            50524,
+            50550
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            50536,
+            50566
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0022",
+      "shot": [
+        332,
+        333
+      ],
+      "frame": [
+        50568,
+        50756
+      ],
+      "place_tag": [
+        "doorway"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0023",
+      "shot": [
+        333,
+        374
+      ],
+      "frame": [
+        50756,
+        54839
+      ],
+      "place_tag": [
+        "bedroom",
+        "doorway"
+      ],
+      "action_tag": [
+        {
+          "tag": "close door",
+          "frame": [
+            50756,
+            50817
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            50819,
+            50843
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            50843,
+            50855
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            50980,
+            51006
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            51083,
+            51124
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            51143,
+            51244
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            51340,
+            51421
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            51443,
+            51452
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            51503,
+            51673
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            51822,
+            52399
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            52951,
+            52963
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            53409,
+            53435
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            54747,
+            54837
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0024",
+      "shot": [
+        374,
+        375
+      ],
+      "frame": [
+        54839,
+        56120
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0025",
+      "shot": [
+        375,
+        376
+      ],
+      "frame": [
+        56120,
+        56304
+      ],
+      "place_tag": [
+        "doorway"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            56147,
+            56188
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            56174,
+            56269
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0026",
+      "shot": [
+        376,
+        378
+      ],
+      "frame": [
+        56304,
+        56628
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "sleep",
+          "frame": [
+            56501,
+            56626
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0027",
+      "shot": [
+        378,
+        379
+      ],
+      "frame": [
+        56628,
+        56737
+      ],
+      "place_tag": [
+        "stairs (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "climb stairs",
+          "frame": [
+            56628,
+            56735
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0028",
+      "shot": [
+        379,
+        381
+      ],
+      "frame": [
+        56737,
+        57127
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            56737,
+            56767
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0029",
+      "shot": [
+        381,
+        382
+      ],
+      "frame": [
+        57127,
+        57208
+      ],
+      "place_tag": [
+        "stairs (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "climb stairs",
+          "frame": [
+            57127,
+            57206
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0030",
+      "shot": [
+        382,
+        385
+      ],
+      "frame": [
+        57208,
+        57371
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0031",
+      "shot": [
+        385,
+        386
+      ],
+      "frame": [
+        57371,
+        57417
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0032",
+      "shot": [
+        386,
+        387
+      ],
+      "frame": [
+        57417,
+        57481
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0033",
+      "shot": [
+        387,
+        392
+      ],
+      "frame": [
+        57481,
+        57737
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            57481,
+            57546
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            57596,
+            57630
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0034",
+      "shot": [
+        392,
+        393
+      ],
+      "frame": [
+        57737,
+        57767
+      ],
+      "place_tag": [
+        "doorway"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            57737,
+            57765
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            57737,
+            57765
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0035",
+      "shot": [
+        393,
+        394
+      ],
+      "frame": [
+        57767,
+        57788
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            57767,
+            57782
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0036",
+      "shot": [
+        394,
+        395
+      ],
+      "frame": [
+        57788,
+        57810
+      ],
+      "place_tag": [
+        "doorway"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            57788,
+            57808
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0037",
+      "shot": [
+        395,
+        412
+      ],
+      "frame": [
+        57810,
+        58563
+      ],
+      "place_tag": [
+        "bedroom",
+        "corridor (inside)",
+        "living room",
+        "villa (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            57810,
+            57842
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            57878,
+            57893
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            57915,
+            57942
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            57915,
+            57942
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            57944,
+            57956
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            58014,
+            58036
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            58036,
+            58151
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            58302,
+            58341
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            58394,
+            58454
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58514,
+            58561
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0038",
+      "shot": [
+        412,
+        430
+      ],
+      "frame": [
+        58563,
+        59084
+      ],
+      "place_tag": [
+        "living room",
+        "villa (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "shot gun",
+          "frame": [
+            58563,
+            58574
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58586,
+            58659
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58661,
+            58683
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58685,
+            58719
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58742,
+            58754
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58756,
+            58898
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58900,
+            58915
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58917,
+            58960
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            58967,
+            59008
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            59018,
+            59082
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0039",
+      "shot": [
+        430,
+        445
+      ],
+      "frame": [
+        59084,
+        59753
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "villa (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            59097,
+            59143
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59097,
+            59143
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59145,
+            59193
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            59196,
+            59220
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59222,
+            59285
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59287,
+            59328
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59330,
+            59366
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59369,
+            59400
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            59369,
+            59400
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59402,
+            59439
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59453,
+            59589
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59643,
+            59686
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            59725,
+            59751
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0040",
+      "shot": [
+        445,
+        453
+      ],
+      "frame": [
+        59753,
+        60572
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            59928,
+            59966
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            60067,
+            60247
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            60348,
+            60570
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            60348,
+            60570
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0041",
+      "shot": [
+        453,
+        454
+      ],
+      "frame": [
+        60572,
+        60996
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            60572,
+            60994
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            60572,
+            60994
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            60572,
+            60994
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0042",
+      "shot": [
+        454,
+        505
+      ],
+      "frame": [
+        60996,
+        67860
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            61363,
+            61377
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            61766,
+            61807
+          ]
+        },
+        {
+          "tag": "do massage",
+          "frame": [
+            62665,
+            62737
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            62758,
+            62787
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            63801,
+            63821
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            67772,
+            67789
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            67801,
+            67828
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            67828,
+            67858
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0043",
+      "shot": [
+        505,
+        511
+      ],
+      "frame": [
+        67860,
+        68465
+      ],
+      "place_tag": [
+        "corridor (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fight",
+          "frame": [
+            68200,
+            68463
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0044",
+      "shot": [
+        511,
+        532
+      ],
+      "frame": [
+        68465,
+        70165
+      ],
+      "place_tag": [
+        "hotel lobby (inside)",
+        "stairs (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "fall down",
+          "frame": [
+            68471,
+            68560
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            68603,
+            68622
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            68726,
+            68762
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            68850,
+            68992
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            69018,
+            69104
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            69160,
+            69231
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            69160,
+            69231
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            69296,
+            69356
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            69412,
+            69671
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0045",
+      "shot": [
+        532,
+        533
+      ],
+      "frame": [
+        70165,
+        70802
+      ],
+      "place_tag": [
+        "hotel lobby (inside)",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            70281,
+            70775
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            70281,
+            70775
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0046",
+      "shot": [
+        533,
+        564
+      ],
+      "frame": [
+        70802,
+        77068
+      ],
+      "place_tag": [
+        "bedroom",
+        "doorway",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            70884,
+            71010
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            71144,
+            71218
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            72878,
+            72978
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            73259,
+            73542
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            73520,
+            74832
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            74954,
+            75153
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            75155,
+            75218
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            75333,
+            75498
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            75676,
+            75697
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0047",
+      "shot": [
+        564,
+        586
+      ],
+      "frame": [
+        77068,
+        81840
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            77213,
+            77232
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            77699,
+            77776
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            78354,
+            78388
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            79006,
+            79023
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            79532,
+            79606
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0048",
+      "shot": [
+        586,
+        587
+      ],
+      "frame": [
+        81840,
+        82505
+      ],
+      "place_tag": [
+        "car (inside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "get out of car",
+          "frame": [
+            82480,
+            82503
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0049",
+      "shot": [
+        587,
+        595
+      ],
+      "frame": [
+        82505,
+        84013
+      ],
+      "place_tag": [
+        "car (inside)",
+        "forest jungle and canyon",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "get out of car",
+          "frame": [
+            82505,
+            82559
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            82559,
+            82647
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            82626,
+            82836
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            82626,
+            82836
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83597,
+            83733
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            83837,
+            83880
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            83837,
+            83880
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83863,
+            83899
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0050",
+      "shot": [
+        595,
+        635
+      ],
+      "frame": [
+        84013,
+        89862
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            84248,
+            84308
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            84620,
+            84716
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85315,
+            85471
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85800,
+            85869
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            86059,
+            86894
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            88314,
+            88518
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            88895,
+            88969
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            89043,
+            89106
+          ]
+        },
+        {
+          "tag": "get in the car",
+          "frame": [
+            89240,
+            89314
+          ]
+        },
+        {
+          "tag": "get in the car",
+          "frame": [
+            89343,
+            89350
+          ]
+        },
+        {
+          "tag": "get in the car",
+          "frame": [
+            89350,
+            89439
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0051",
+      "shot": [
+        635,
+        644
+      ],
+      "frame": [
+        89862,
+        91750
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            89865,
+            90487
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            90696,
+            90741
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            90842,
+            90873
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            91355,
+            91372
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            91374,
+            91409
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            91374,
+            91409
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            91577,
+            91748
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            91577,
+            91748
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0052",
+      "shot": [
+        644,
+        677
+      ],
+      "frame": [
+        91750,
+        96940
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            92277,
+            92282
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            92925,
+            92963
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            93402,
+            93507
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            93884,
+            93987
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            94030,
+            94061
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            94925,
+            94941
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            95740,
+            95771
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            95941,
+            95953
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            96075,
+            96246
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            96075,
+            96246
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            96363,
+            96660
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            96363,
+            96660
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            96728,
+            96817
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0053",
+      "shot": [
+        677,
+        678
+      ],
+      "frame": [
+        96940,
+        97015
+      ],
+      "place_tag": [
+        "playground (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "play boxing",
+          "frame": [
+            96940,
+            97013
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0054",
+      "shot": [
+        678,
+        684
+      ],
+      "frame": [
+        97015,
+        98035
+      ],
+      "place_tag": [
+        "playground (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            97138,
+            97165
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            97772,
+            97818
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0055",
+      "shot": [
+        684,
+        685
+      ],
+      "frame": [
+        98035,
+        98475
+      ],
+      "place_tag": [
+        "car (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "close door",
+          "frame": [
+            98038,
+            98185
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            98038,
+            98185
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            98144,
+            98309
+          ]
+        },
+        {
+          "tag": "ride bicycle",
+          "frame": [
+            98144,
+            98309
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0056",
+      "shot": [
+        685,
+        722
+      ],
+      "frame": [
+        98475,
+        101355
+      ],
+      "place_tag": [
+        "bedroom",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            98488,
+            98502
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            98953,
+            99049
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            99049,
+            99068
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            99579,
+            99601
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            99617,
+            99637
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            99639,
+            99656
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            99675,
+            99683
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            99822,
+            99846
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            99933,
+            99949
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100763,
+            100775
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            100807,
+            100900
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0057",
+      "shot": [
+        722,
+        763
+      ],
+      "frame": [
+        101355,
+        108331
+      ],
+      "place_tag": [
+        "bedroom",
+        "corridor (inside)",
+        "doorway",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            101723,
+            102449
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            102643,
+            103125
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            104650,
+            104679
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            106765,
+            106841
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            107359,
+            107395
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            107414,
+            107465
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            107490,
+            107536
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            107536,
+            107550
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            107634,
+            107672
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            107711,
+            107740
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            107711,
+            107740
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            107770,
+            107782
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            107782,
+            107825
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            107916,
+            107945
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            108197,
+            108276
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            108273,
+            108329
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0058",
+      "shot": [
+        763,
+        764
+      ],
+      "frame": [
+        108331,
+        108403
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0059",
+      "shot": [
+        764,
+        777
+      ],
+      "frame": [
+        108403,
+        109694
+      ],
+      "place_tag": [
+        "hotel lobby (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            108730,
+            108757
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            109458,
+            109499
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            109597,
+            109692
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0060",
+      "shot": [
+        777,
+        780
+      ],
+      "frame": [
+        109694,
+        110634
+      ],
+      "place_tag": [
+        "hotel (outside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "arrest",
+          "frame": [
+            109694,
+            110145
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            110390,
+            110440
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0061",
+      "shot": [
+        780,
+        784
+      ],
+      "frame": [
+        110634,
+        111130
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            110890,
+            111128
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0062",
+      "shot": [
+        784,
+        785
+      ],
+      "frame": [
+        111130,
+        111297
+      ],
+      "place_tag": [
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "get out of car",
+          "frame": [
+            111190,
+            111231
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0063",
+      "shot": [
+        785,
+        791
+      ],
+      "frame": [
+        111297,
+        113353
+      ],
+      "place_tag": [
+        "car (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            112756,
+            112845
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            113132,
+            113183
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0064",
+      "shot": [
+        791,
+        835
+      ],
+      "frame": [
+        113353,
+        117402
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            116295,
+            116455
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            116952,
+            116988
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0065",
+      "shot": [
+        835,
+        836
+      ],
+      "frame": [
+        117402,
+        117705
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0066",
+      "shot": [
+        836,
+        850
+      ],
+      "frame": [
+        117705,
+        119893
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "kitchen and dinning area (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            118086,
+            118194
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            119850,
+            119879
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0067",
+      "shot": [
+        850,
+        852
+      ],
+      "frame": [
+        119893,
+        120216
+      ],
+      "place_tag": [
+        "doorway",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            120021,
+            120106
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0068",
+      "shot": [
+        852,
+        860
+      ],
+      "frame": [
+        120216,
+        120667
+      ],
+      "place_tag": [
+        "road",
+        "sell store (outside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0069",
+      "shot": [
+        860,
+        890
+      ],
+      "frame": [
+        120667,
+        122236
+      ],
+      "place_tag": [
+        "road",
+        "sell store (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "shot gun",
+          "frame": [
+            121159,
+            121171
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            121178,
+            121221
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            121241,
+            121279
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            121519,
+            121634
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            121634,
+            121661
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            121670,
+            122234
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0070",
+      "shot": [
+        890,
+        954
+      ],
+      "frame": [
+        122236,
+        129878
+      ],
+      "place_tag": [
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "makeup",
+          "frame": [
+            122256,
+            122492
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            122603,
+            122652
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            122652,
+            122729
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            126380,
+            126446
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0071",
+      "shot": [
+        954,
+        959
+      ],
+      "frame": [
+        129878,
+        131843
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            130090,
+            130794
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            131021,
+            131362
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            131615,
+            131737
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0072",
+      "shot": [
+        959,
+        980
+      ],
+      "frame": [
+        131843,
+        133988
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "doorway"
+      ],
+      "action_tag": [
+        {
+          "tag": "fall down",
+          "frame": [
+            131915,
+            131948
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            132107,
+            132151
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            132206,
+            132352
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            132354,
+            132369
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            132673,
+            132769
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            132923,
+            133019
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0073",
+      "shot": [
+        980,
+        1031
+      ],
+      "frame": [
+        133988,
+        139270
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "close door",
+          "frame": [
+            133988,
+            134042
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            134013,
+            134166
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            135677,
+            135699
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            136250,
+            136483
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            136839,
+            137235
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            137316,
+            137505
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            137533,
+            137559
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            137744,
+            137776
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            138085,
+            138242
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            139047,
+            139074
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            139111,
+            139129
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            139111,
+            139129
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0074",
+      "shot": [
+        1031,
+        1034
+      ],
+      "frame": [
+        139270,
+        139579
+      ],
+      "place_tag": [
+        "restaurant (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            139514,
+            139552
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0075",
+      "shot": [
+        1034,
+        1046
+      ],
+      "frame": [
+        139579,
+        142980
+      ],
+      "place_tag": [
+        "doorway",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "close door",
+          "frame": [
+            139579,
+            139608
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            140356,
+            140397
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            140939,
+            140957
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            141570,
+            142677
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0076",
+      "shot": [
+        1046,
+        1047
+      ],
+      "frame": [
+        142980,
+        143138
+      ],
+      "place_tag": [
+        "alley"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0100150_0077",
+      "shot": [
+        1047,
+        1129
+      ],
+      "frame": [
+        143138,
+        154047
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "doorway",
+        "living room",
+        "road",
+        "villa (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            143367,
+            143488
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            146353,
+            147159
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            151950,
+            152048
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            152807,
+            153288
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0100150_0078",
+      "shot": [
+        1129,
+        1151
+      ],
+      "frame": [
+        154047,
+        159818
+      ],
+      "place_tag": [
+        "cemetery (outside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "get in the car",
+          "frame": [
+            154908,
+            154970
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            158717,
+            158777
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            158828,
+            158883
+          ]
+        }
+      ]
+    }
+  ],
+  "story": null,
+  "cinematic_style": null
+}

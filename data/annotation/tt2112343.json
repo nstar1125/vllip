@@ -1,0 +1,126 @@
+{
+  "imdb_id": "tt2112343",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 36,
+        "scale": "full",
+        "movement": "pull"
+      },
+      {
+        "shot": 37,
+        "scale": "full",
+        "movement": "pull"
+      },
+      {
+        "shot": 42,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 62,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 72,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 79,
+        "scale": "closeup",
+        "movement": "push"
+      },
+      {
+        "shot": 94,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 100,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 104,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 107,
+        "scale": "full",
+        "movement": "pull"
+      },
+      {
+        "shot": 113,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 126,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 147,
+        "scale": "full",
+        "movement": "push"
+      },
+      {
+        "shot": 148,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 165,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 170,
+        "scale": "closeup",
+        "movement": "moving"
+      },
+      {
+        "shot": 177,
+        "scale": "medium",
+        "movement": "moving"
+      },
+      {
+        "shot": 178,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 196,
+        "scale": "full",
+        "movement": "moving"
+      },
+      {
+        "shot": 222,
+        "scale": "full",
+        "movement": "push"
+      },
+      {
+        "shot": 239,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 241,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 270,
+        "scale": "medium",
+        "movement": "moving"
+      }
+    ]
+  }
+}

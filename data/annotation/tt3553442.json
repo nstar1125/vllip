@@ -1,0 +1,56 @@
+{
+  "imdb_id": "tt3553442",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 10,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 33,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 41,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 51,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 53,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 69,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 74,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 83,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 86,
+        "scale": "full",
+        "movement": "static"
+      }
+    ]
+  }
+}

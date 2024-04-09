@@ -1,0 +1,1893 @@
+{
+  "imdb_id": "tt0195685",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0195685_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        61
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0001",
+      "shot": [
+        1,
+        2
+      ],
+      "frame": [
+        61,
+        625
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0002",
+      "shot": [
+        2,
+        13
+      ],
+      "frame": [
+        625,
+        3497
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0003",
+      "shot": [
+        13,
+        18
+      ],
+      "frame": [
+        3497,
+        5392
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0004",
+      "shot": [
+        18,
+        29
+      ],
+      "frame": [
+        5392,
+        6574
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0005",
+      "shot": [
+        29,
+        67
+      ],
+      "frame": [
+        6574,
+        10167
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0006",
+      "shot": [
+        67,
+        69
+      ],
+      "frame": [
+        10167,
+        10863
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0007",
+      "shot": [
+        69,
+        72
+      ],
+      "frame": [
+        10863,
+        11604
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0008",
+      "shot": [
+        72,
+        81
+      ],
+      "frame": [
+        11604,
+        12851
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0009",
+      "shot": [
+        81,
+        82
+      ],
+      "frame": [
+        12851,
+        13068
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0010",
+      "shot": [
+        82,
+        83
+      ],
+      "frame": [
+        13068,
+        13290
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0011",
+      "shot": [
+        83,
+        86
+      ],
+      "frame": [
+        13290,
+        13889
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0012",
+      "shot": [
+        86,
+        91
+      ],
+      "frame": [
+        13889,
+        14472
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0013",
+      "shot": [
+        91,
+        92
+      ],
+      "frame": [
+        14472,
+        14572
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0014",
+      "shot": [
+        92,
+        101
+      ],
+      "frame": [
+        14572,
+        15307
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0015",
+      "shot": [
+        101,
+        103
+      ],
+      "frame": [
+        15307,
+        15955
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0016",
+      "shot": [
+        103,
+        123
+      ],
+      "frame": [
+        15955,
+        17091
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0017",
+      "shot": [
+        123,
+        125
+      ],
+      "frame": [
+        17091,
+        17188
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0018",
+      "shot": [
+        125,
+        130
+      ],
+      "frame": [
+        17188,
+        17529
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0019",
+      "shot": [
+        130,
+        131
+      ],
+      "frame": [
+        17529,
+        17652
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0020",
+      "shot": [
+        131,
+        132
+      ],
+      "frame": [
+        17652,
+        17736
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0021",
+      "shot": [
+        132,
+        168
+      ],
+      "frame": [
+        17736,
+        20919
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0022",
+      "shot": [
+        168,
+        169
+      ],
+      "frame": [
+        20919,
+        21599
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0023",
+      "shot": [
+        169,
+        180
+      ],
+      "frame": [
+        21599,
+        22921
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0024",
+      "shot": [
+        180,
+        182
+      ],
+      "frame": [
+        22921,
+        23156
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0025",
+      "shot": [
+        182,
+        187
+      ],
+      "frame": [
+        23156,
+        23561
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0026",
+      "shot": [
+        187,
+        193
+      ],
+      "frame": [
+        23561,
+        24501
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0027",
+      "shot": [
+        193,
+        223
+      ],
+      "frame": [
+        24501,
+        27326
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0028",
+      "shot": [
+        223,
+        226
+      ],
+      "frame": [
+        27326,
+        27496
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0029",
+      "shot": [
+        226,
+        228
+      ],
+      "frame": [
+        27496,
+        27604
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0030",
+      "shot": [
+        228,
+        245
+      ],
+      "frame": [
+        27604,
+        29934
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0031",
+      "shot": [
+        245,
+        247
+      ],
+      "frame": [
+        29934,
+        30450
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0032",
+      "shot": [
+        247,
+        252
+      ],
+      "frame": [
+        30450,
+        31196
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0033",
+      "shot": [
+        252,
+        253
+      ],
+      "frame": [
+        31196,
+        31404
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0034",
+      "shot": [
+        253,
+        262
+      ],
+      "frame": [
+        31404,
+        32165
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0035",
+      "shot": [
+        262,
+        272
+      ],
+      "frame": [
+        32165,
+        33173
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0036",
+      "shot": [
+        272,
+        322
+      ],
+      "frame": [
+        33173,
+        38132
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0037",
+      "shot": [
+        322,
+        331
+      ],
+      "frame": [
+        38132,
+        39449
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0038",
+      "shot": [
+        331,
+        339
+      ],
+      "frame": [
+        39449,
+        40060
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0039",
+      "shot": [
+        339,
+        340
+      ],
+      "frame": [
+        40060,
+        40283
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0040",
+      "shot": [
+        340,
+        347
+      ],
+      "frame": [
+        40283,
+        41508
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0041",
+      "shot": [
+        347,
+        348
+      ],
+      "frame": [
+        41508,
+        41768
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0042",
+      "shot": [
+        348,
+        368
+      ],
+      "frame": [
+        41768,
+        44576
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0043",
+      "shot": [
+        368,
+        372
+      ],
+      "frame": [
+        44576,
+        45074
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0044",
+      "shot": [
+        372,
+        374
+      ],
+      "frame": [
+        45074,
+        45886
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0045",
+      "shot": [
+        374,
+        386
+      ],
+      "frame": [
+        45886,
+        47585
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0046",
+      "shot": [
+        386,
+        388
+      ],
+      "frame": [
+        47585,
+        47745
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0047",
+      "shot": [
+        388,
+        415
+      ],
+      "frame": [
+        47745,
+        50655
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0048",
+      "shot": [
+        415,
+        416
+      ],
+      "frame": [
+        50655,
+        50750
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0049",
+      "shot": [
+        416,
+        427
+      ],
+      "frame": [
+        50750,
+        52192
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0050",
+      "shot": [
+        427,
+        428
+      ],
+      "frame": [
+        52192,
+        52477
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0051",
+      "shot": [
+        428,
+        438
+      ],
+      "frame": [
+        52477,
+        53438
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0052",
+      "shot": [
+        438,
+        452
+      ],
+      "frame": [
+        53438,
+        54509
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0053",
+      "shot": [
+        452,
+        494
+      ],
+      "frame": [
+        54509,
+        61444
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0054",
+      "shot": [
+        494,
+        533
+      ],
+      "frame": [
+        61444,
+        66707
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0055",
+      "shot": [
+        533,
+        535
+      ],
+      "frame": [
+        66707,
+        66941
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0056",
+      "shot": [
+        535,
+        549
+      ],
+      "frame": [
+        66941,
+        68336
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0057",
+      "shot": [
+        549,
+        554
+      ],
+      "frame": [
+        68336,
+        68854
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0058",
+      "shot": [
+        554,
+        556
+      ],
+      "frame": [
+        68854,
+        69042
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0059",
+      "shot": [
+        556,
+        570
+      ],
+      "frame": [
+        69042,
+        71537
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0060",
+      "shot": [
+        570,
+        571
+      ],
+      "frame": [
+        71537,
+        72193
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0061",
+      "shot": [
+        571,
+        609
+      ],
+      "frame": [
+        72193,
+        76549
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0062",
+      "shot": [
+        609,
+        625
+      ],
+      "frame": [
+        76549,
+        79894
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0063",
+      "shot": [
+        625,
+        628
+      ],
+      "frame": [
+        79894,
+        80510
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0064",
+      "shot": [
+        628,
+        647
+      ],
+      "frame": [
+        80510,
+        82351
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0065",
+      "shot": [
+        647,
+        648
+      ],
+      "frame": [
+        82351,
+        82630
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0066",
+      "shot": [
+        648,
+        650
+      ],
+      "frame": [
+        82630,
+        82872
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0067",
+      "shot": [
+        650,
+        691
+      ],
+      "frame": [
+        82872,
+        86665
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0068",
+      "shot": [
+        691,
+        692
+      ],
+      "frame": [
+        86665,
+        86829
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0069",
+      "shot": [
+        692,
+        694
+      ],
+      "frame": [
+        86829,
+        87226
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0070",
+      "shot": [
+        694,
+        695
+      ],
+      "frame": [
+        87226,
+        87313
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0071",
+      "shot": [
+        695,
+        697
+      ],
+      "frame": [
+        87313,
+        87708
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0072",
+      "shot": [
+        697,
+        698
+      ],
+      "frame": [
+        87708,
+        87895
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0073",
+      "shot": [
+        698,
+        706
+      ],
+      "frame": [
+        87895,
+        88668
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0074",
+      "shot": [
+        706,
+        708
+      ],
+      "frame": [
+        88668,
+        88915
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0075",
+      "shot": [
+        708,
+        718
+      ],
+      "frame": [
+        88915,
+        90152
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0076",
+      "shot": [
+        718,
+        719
+      ],
+      "frame": [
+        90152,
+        90539
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0077",
+      "shot": [
+        719,
+        750
+      ],
+      "frame": [
+        90539,
+        95283
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0078",
+      "shot": [
+        750,
+        756
+      ],
+      "frame": [
+        95283,
+        95746
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0079",
+      "shot": [
+        756,
+        763
+      ],
+      "frame": [
+        95746,
+        96087
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0080",
+      "shot": [
+        763,
+        777
+      ],
+      "frame": [
+        96087,
+        96938
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0081",
+      "shot": [
+        777,
+        791
+      ],
+      "frame": [
+        96938,
+        99584
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0082",
+      "shot": [
+        791,
+        795
+      ],
+      "frame": [
+        99584,
+        100662
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0083",
+      "shot": [
+        795,
+        803
+      ],
+      "frame": [
+        100662,
+        103513
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0084",
+      "shot": [
+        803,
+        863
+      ],
+      "frame": [
+        103513,
+        112817
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0085",
+      "shot": [
+        863,
+        864
+      ],
+      "frame": [
+        112817,
+        112928
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0086",
+      "shot": [
+        864,
+        867
+      ],
+      "frame": [
+        112928,
+        113560
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0087",
+      "shot": [
+        867,
+        874
+      ],
+      "frame": [
+        113560,
+        115181
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0088",
+      "shot": [
+        874,
+        875
+      ],
+      "frame": [
+        115181,
+        115320
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0089",
+      "shot": [
+        875,
+        877
+      ],
+      "frame": [
+        115320,
+        115390
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0090",
+      "shot": [
+        877,
+        878
+      ],
+      "frame": [
+        115390,
+        115476
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0091",
+      "shot": [
+        878,
+        898
+      ],
+      "frame": [
+        115476,
+        117606
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0092",
+      "shot": [
+        898,
+        902
+      ],
+      "frame": [
+        117606,
+        118187
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0093",
+      "shot": [
+        902,
+        940
+      ],
+      "frame": [
+        118187,
+        120855
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0094",
+      "shot": [
+        940,
+        941
+      ],
+      "frame": [
+        120855,
+        120952
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0095",
+      "shot": [
+        941,
+        942
+      ],
+      "frame": [
+        120952,
+        121062
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0096",
+      "shot": [
+        942,
+        978
+      ],
+      "frame": [
+        121062,
+        125928
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0097",
+      "shot": [
+        978,
+        983
+      ],
+      "frame": [
+        125928,
+        126633
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0098",
+      "shot": [
+        983,
+        987
+      ],
+      "frame": [
+        126633,
+        127088
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0099",
+      "shot": [
+        987,
+        989
+      ],
+      "frame": [
+        127088,
+        127199
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0100",
+      "shot": [
+        989,
+        995
+      ],
+      "frame": [
+        127199,
+        128550
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0101",
+      "shot": [
+        995,
+        996
+      ],
+      "frame": [
+        128550,
+        128881
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0102",
+      "shot": [
+        996,
+        1024
+      ],
+      "frame": [
+        128881,
+        133040
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0103",
+      "shot": [
+        1024,
+        1045
+      ],
+      "frame": [
+        133040,
+        135538
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0104",
+      "shot": [
+        1045,
+        1046
+      ],
+      "frame": [
+        135538,
+        135960
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0105",
+      "shot": [
+        1046,
+        1100
+      ],
+      "frame": [
+        135960,
+        141149
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0106",
+      "shot": [
+        1100,
+        1102
+      ],
+      "frame": [
+        141149,
+        141802
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0107",
+      "shot": [
+        1102,
+        1105
+      ],
+      "frame": [
+        141802,
+        142208
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0108",
+      "shot": [
+        1105,
+        1107
+      ],
+      "frame": [
+        142208,
+        142582
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0109",
+      "shot": [
+        1107,
+        1108
+      ],
+      "frame": [
+        142582,
+        142687
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0110",
+      "shot": [
+        1108,
+        1112
+      ],
+      "frame": [
+        142687,
+        143379
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0111",
+      "shot": [
+        1112,
+        1119
+      ],
+      "frame": [
+        143379,
+        144739
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0112",
+      "shot": [
+        1119,
+        1134
+      ],
+      "frame": [
+        144739,
+        146154
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0113",
+      "shot": [
+        1134,
+        1149
+      ],
+      "frame": [
+        146154,
+        149007
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0114",
+      "shot": [
+        1149,
+        1150
+      ],
+      "frame": [
+        149007,
+        149093
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0115",
+      "shot": [
+        1150,
+        1151
+      ],
+      "frame": [
+        149093,
+        149222
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0116",
+      "shot": [
+        1151,
+        1200
+      ],
+      "frame": [
+        149222,
+        153517
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0117",
+      "shot": [
+        1200,
+        1210
+      ],
+      "frame": [
+        153517,
+        155865
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0118",
+      "shot": [
+        1210,
+        1214
+      ],
+      "frame": [
+        155865,
+        156154
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0119",
+      "shot": [
+        1214,
+        1215
+      ],
+      "frame": [
+        156154,
+        156220
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0120",
+      "shot": [
+        1215,
+        1216
+      ],
+      "frame": [
+        156220,
+        156329
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0121",
+      "shot": [
+        1216,
+        1218
+      ],
+      "frame": [
+        156329,
+        156594
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0122",
+      "shot": [
+        1218,
+        1221
+      ],
+      "frame": [
+        156594,
+        156700
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0123",
+      "shot": [
+        1221,
+        1223
+      ],
+      "frame": [
+        156700,
+        156977
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0124",
+      "shot": [
+        1223,
+        1243
+      ],
+      "frame": [
+        156977,
+        159994
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0125",
+      "shot": [
+        1243,
+        1245
+      ],
+      "frame": [
+        159994,
+        160156
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0126",
+      "shot": [
+        1245,
+        1246
+      ],
+      "frame": [
+        160156,
+        160285
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0127",
+      "shot": [
+        1246,
+        1248
+      ],
+      "frame": [
+        160285,
+        160391
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0128",
+      "shot": [
+        1248,
+        1251
+      ],
+      "frame": [
+        160391,
+        160677
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0129",
+      "shot": [
+        1251,
+        1252
+      ],
+      "frame": [
+        160677,
+        160917
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0130",
+      "shot": [
+        1252,
+        1253
+      ],
+      "frame": [
+        160917,
+        161005
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0131",
+      "shot": [
+        1253,
+        1272
+      ],
+      "frame": [
+        161005,
+        164310
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0132",
+      "shot": [
+        1272,
+        1279
+      ],
+      "frame": [
+        164310,
+        165158
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0133",
+      "shot": [
+        1279,
+        1289
+      ],
+      "frame": [
+        165158,
+        166490
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0134",
+      "shot": [
+        1289,
+        1295
+      ],
+      "frame": [
+        166490,
+        168025
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0135",
+      "shot": [
+        1295,
+        1304
+      ],
+      "frame": [
+        168025,
+        169684
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0136",
+      "shot": [
+        1304,
+        1328
+      ],
+      "frame": [
+        169684,
+        171974
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0137",
+      "shot": [
+        1328,
+        1331
+      ],
+      "frame": [
+        171974,
+        172557
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0138",
+      "shot": [
+        1331,
+        1332
+      ],
+      "frame": [
+        172557,
+        172665
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0139",
+      "shot": [
+        1332,
+        1354
+      ],
+      "frame": [
+        172665,
+        175605
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0140",
+      "shot": [
+        1354,
+        1355
+      ],
+      "frame": [
+        175605,
+        176001
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0141",
+      "shot": [
+        1355,
+        1358
+      ],
+      "frame": [
+        176001,
+        176609
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0142",
+      "shot": [
+        1358,
+        1362
+      ],
+      "frame": [
+        176609,
+        177443
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0143",
+      "shot": [
+        1362,
+        1393
+      ],
+      "frame": [
+        177443,
+        181528
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0195685_0144",
+      "shot": [
+        1393,
+        1394
+      ],
+      "frame": [
+        181528,
+        181897
+      ],
+      "place_tag": null,
+      "action_tag": null
+    }
+  ],
+  "story": null,
+  "cinematic_style": null
+}

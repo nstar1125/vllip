@@ -1,0 +1,116 @@
+{
+  "imdb_id": "tt3893538",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 7,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 11,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 13,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 15,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 16,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 22,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 24,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 30,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 35,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 71,
+        "scale": "long",
+        "movement": "static"
+      },
+      {
+        "shot": 73,
+        "scale": "long",
+        "movement": "moving"
+      },
+      {
+        "shot": 78,
+        "scale": "long",
+        "movement": "static"
+      },
+      {
+        "shot": 87,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 110,
+        "scale": "full",
+        "movement": "static"
+      },
+      {
+        "shot": 112,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 117,
+        "scale": "closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 128,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 148,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 155,
+        "scale": "medium",
+        "movement": "static"
+      },
+      {
+        "shot": 182,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      },
+      {
+        "shot": 184,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

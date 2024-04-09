@@ -1,0 +1,16 @@
+{
+  "imdb_id": "tt4010302",
+  "cast": null,
+  "scene": null,
+  "story": null,
+  "cinematic_style": {
+    "movie": null,
+    "trailer": [
+      {
+        "shot": 45,
+        "scale": "extreme_closeup",
+        "movement": "static"
+      }
+    ]
+  }
+}

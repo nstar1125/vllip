@@ -1,0 +1,2281 @@
+{
+  "imdb_id": "tt0110148",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0110148_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        604
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0110148_0001",
+      "shot": [
+        1,
+        24
+      ],
+      "frame": [
+        604,
+        9132
+      ],
+      "place_tag": [
+        "pier",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "dress up",
+          "frame": [
+            4760,
+            4789
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            4939,
+            5176
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            5943,
+            6027
+          ]
+        },
+        {
+          "tag": "press button",
+          "frame": [
+            6819,
+            6833
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            8331,
+            8398
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            8419,
+            9130
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            8419,
+            9130
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0002",
+      "shot": [
+        24,
+        27
+      ],
+      "frame": [
+        9132,
+        9626
+      ],
+      "place_tag": [
+        "balcony (inside)",
+        "hotel (outside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "drink",
+          "frame": [
+            9192,
+            9312
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            9324,
+            9624
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0003",
+      "shot": [
+        27,
+        57
+      ],
+      "frame": [
+        9626,
+        13244
+      ],
+      "place_tag": [
+        "balcony (inside)",
+        "bridge",
+        "casino (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            10213,
+            10237
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            11266,
+            11443
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            12356,
+            12412
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0004",
+      "shot": [
+        57,
+        107
+      ],
+      "frame": [
+        13244,
+        21265
+      ],
+      "place_tag": [
+        "beach",
+        "bedroom",
+        "deck",
+        "forest jungle and canyon",
+        "ruins (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "jump over",
+          "frame": [
+            13244,
+            13307
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            13995,
+            14072
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            17348,
+            17716
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0005",
+      "shot": [
+        107,
+        110
+      ],
+      "frame": [
+        21265,
+        21966
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "living room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0110148_0006",
+      "shot": [
+        110,
+        167
+      ],
+      "frame": [
+        21966,
+        29569
+      ],
+      "place_tag": [
+        "bar (inside)",
+        "kitchen and dinning area (inside)",
+        "living room",
+        "restaurant (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "smoke",
+          "frame": [
+            22214,
+            22231
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            22300,
+            22428
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            24886,
+            25048
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            25240,
+            25395
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            25240,
+            25395
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            25611,
+            25839
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            25881,
+            25926
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            26078,
+            26136
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            26731,
+            26833
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            27802,
+            27843
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            28398,
+            28541
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            28585,
+            28618
+          ]
+        },
+        {
+          "tag": "drink",
+          "frame": [
+            28876,
+            29005
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0007",
+      "shot": [
+        167,
+        214
+      ],
+      "frame": [
+        29569,
+        35366
+      ],
+      "place_tag": [
+        "farm (outside)",
+        "hotel (outside)",
+        "hotel lobby (inside)",
+        "villa (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            29569,
+            29669
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            29675,
+            29975
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            30030,
+            30135
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            30173,
+            30223
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            32764,
+            32873
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            32940,
+            33122
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            33642,
+            33657
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            33690,
+            33743
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            33780,
+            33865
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            33934,
+            34368
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            33934,
+            34368
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0008",
+      "shot": [
+        214,
+        215
+      ],
+      "frame": [
+        35366,
+        35588
+      ],
+      "place_tag": [
+        "villa (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "cry",
+          "frame": [
+            35366,
+            35451
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0009",
+      "shot": [
+        215,
+        221
+      ],
+      "frame": [
+        35588,
+        36108
+      ],
+      "place_tag": [
+        "farm (outside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "pray",
+          "frame": [
+            35761,
+            36106
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            35761,
+            36106
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0010",
+      "shot": [
+        221,
+        237
+      ],
+      "frame": [
+        36108,
+        38189
+      ],
+      "place_tag": [
+        "restaurant (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "quarrel",
+          "frame": [
+            37215,
+            37492
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0011",
+      "shot": [
+        237,
+        263
+      ],
+      "frame": [
+        38189,
+        40823
+      ],
+      "place_tag": [
+        "kitchen and dinning area (inside)",
+        "road",
+        "square (outside)",
+        "villa (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "ride horse",
+          "frame": [
+            38189,
+            38503
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            38524,
+            38658
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            38706,
+            38769
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            40004,
+            40253
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            40745,
+            40778
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0012",
+      "shot": [
+        263,
+        302
+      ],
+      "frame": [
+        40823,
+        43478
+      ],
+      "place_tag": [
+        "living room",
+        "villa (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            41079,
+            41090
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            41844,
+            42016
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            42150,
+            42210
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            42247,
+            42374
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            42410,
+            42466
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            42483,
+            42545
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            42700,
+            42763
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            42829,
+            42855
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            42921,
+            43060
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            43102,
+            43150
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            43204,
+            43239
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            43302,
+            43476
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0013",
+      "shot": [
+        302,
+        309
+      ],
+      "frame": [
+        43478,
+        44690
+      ],
+      "place_tag": [
+        "road",
+        "rooftop"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0110148_0014",
+      "shot": [
+        309,
+        359
+      ],
+      "frame": [
+        44690,
+        52157
+      ],
+      "place_tag": [
+        "bedroom",
+        "living room"
+      ],
+      "action_tag": [
+        {
+          "tag": "kill",
+          "frame": [
+            44690,
+            45145
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            45196,
+            45329
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            48482,
+            48790
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            49699,
+            49837
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            49893,
+            49915
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            50186,
+            50235
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            50501,
+            50635
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            50761,
+            50883
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            50935,
+            50976
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            51041,
+            51304
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0015",
+      "shot": [
+        359,
+        383
+      ],
+      "frame": [
+        52157,
+        55424
+      ],
+      "place_tag": [
+        "bedroom",
+        "corridor (inside)",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "hug",
+          "frame": [
+            53706,
+            53916
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            54157,
+            54439
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            54963,
+            55093
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            55146,
+            55313
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0016",
+      "shot": [
+        383,
+        391
+      ],
+      "frame": [
+        55424,
+        56454
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "road",
+        "under ground tunnel"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            55424,
+            55471
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            55634,
+            56139
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            56218,
+            56327
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0017",
+      "shot": [
+        391,
+        404
+      ],
+      "frame": [
+        56454,
+        58774
+      ],
+      "place_tag": [
+        "road",
+        "under ground tunnel"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0110148_0018",
+      "shot": [
+        404,
+        448
+      ],
+      "frame": [
+        58774,
+        65701
+      ],
+      "place_tag": [
+        "bedroom"
+      ],
+      "action_tag": [
+        {
+          "tag": "sleep",
+          "frame": [
+            59175,
+            59343
+          ]
+        },
+        {
+          "tag": "sleep",
+          "frame": [
+            59631,
+            59714
+          ]
+        },
+        {
+          "tag": "sleep",
+          "frame": [
+            59802,
+            60017
+          ]
+        },
+        {
+          "tag": "press button",
+          "frame": [
+            62712,
+            62774
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            63037,
+            63256
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            65452,
+            65487
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            65530,
+            65587
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0019",
+      "shot": [
+        448,
+        451
+      ],
+      "frame": [
+        65701,
+        66064
+      ],
+      "place_tag": [
+        "living room"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0110148_0020",
+      "shot": [
+        451,
+        458
+      ],
+      "frame": [
+        66064,
+        67764
+      ],
+      "place_tag": [
+        "living room",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "kill",
+          "frame": [
+            67300,
+            67331
+          ]
+        },
+        {
+          "tag": "sleep",
+          "frame": [
+            67551,
+            67762
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0021",
+      "shot": [
+        458,
+        465
+      ],
+      "frame": [
+        67764,
+        69479
+      ],
+      "place_tag": [
+        "bedroom",
+        "road",
+        "study room"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            67782,
+            67848
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            68149,
+            68222
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            68217,
+            68293
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            68501,
+            68588
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            68932,
+            69115
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            69213,
+            69267
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            69408,
+            69477
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0022",
+      "shot": [
+        465,
+        476
+      ],
+      "frame": [
+        69479,
+        71134
+      ],
+      "place_tag": [
+        "living room",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "play piano",
+          "frame": [
+            70057,
+            70189
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            70057,
+            70189
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            70550,
+            70678
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            70682,
+            70813
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            70813,
+            70926
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            71076,
+            71132
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0023",
+      "shot": [
+        476,
+        631
+      ],
+      "frame": [
+        71134,
+        92251
+      ],
+      "place_tag": [
+        "balcony (inside)",
+        "bedroom",
+        "corridor (inside)",
+        "forest jungle and canyon",
+        "living room",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "take shower",
+          "frame": [
+            72528,
+            72624
+          ]
+        },
+        {
+          "tag": "take shower",
+          "frame": [
+            73175,
+            73205
+          ]
+        },
+        {
+          "tag": "paint",
+          "frame": [
+            73904,
+            74494
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            76086,
+            76156
+          ]
+        },
+        {
+          "tag": "cut hair",
+          "frame": [
+            76156,
+            76254
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            76156,
+            76254
+          ]
+        },
+        {
+          "tag": "cut hair",
+          "frame": [
+            76291,
+            76352
+          ]
+        },
+        {
+          "tag": "cut hair",
+          "frame": [
+            76402,
+            76520
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            76683,
+            76712
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            76812,
+            76839
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            78907,
+            78997
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            81099,
+            81256
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            81374,
+            81534
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            81543,
+            81888
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            83895,
+            83937
+          ]
+        },
+        {
+          "tag": "play guitar",
+          "frame": [
+            84066,
+            84175
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            84245,
+            84320
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            84382,
+            84649
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            86440,
+            86618
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            86648,
+            86759
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            89363,
+            89401
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            90814,
+            91029
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0024",
+      "shot": [
+        631,
+        680
+      ],
+      "frame": [
+        92251,
+        97604
+      ],
+      "place_tag": [
+        "deck",
+        "doorway",
+        "living room",
+        "road",
+        "study room"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            92251,
+            92285
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            92597,
+            92939
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            93046,
+            93261
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            93643,
+            93780
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            93858,
+            93940
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            94031,
+            94063
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            94317,
+            94346
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            94352,
+            94386
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            94427,
+            94436
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            94436,
+            94516
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            94516,
+            94541
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            94529,
+            94618
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            94727,
+            95211
+          ]
+        },
+        {
+          "tag": "play piano",
+          "frame": [
+            95317,
+            95967
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            96286,
+            96322
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            96509,
+            96607
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            96918,
+            96990
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            96996,
+            97040
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            97020,
+            97161
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            97020,
+            97161
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            97175,
+            97269
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            97273,
+            97292
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            97284,
+            97383
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            97324,
+            97443
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0025",
+      "shot": [
+        680,
+        695
+      ],
+      "frame": [
+        97604,
+        99151
+      ],
+      "place_tag": [
+        "deck",
+        "living room",
+        "pier",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "run",
+          "frame": [
+            97682,
+            97765
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            97767,
+            97837
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            97845,
+            97956
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            98708,
+            98733
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            98726,
+            98752
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            98749,
+            98781
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            98872,
+            98924
+          ]
+        },
+        {
+          "tag": "ride horse",
+          "frame": [
+            98872,
+            98924
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0026",
+      "shot": [
+        695,
+        715
+      ],
+      "frame": [
+        99151,
+        102899
+      ],
+      "place_tag": [
+        "deck",
+        "hotel (outside)",
+        "hotel lobby (inside)",
+        "living room",
+        "road",
+        "sea surface"
+      ],
+      "action_tag": [
+        {
+          "tag": "paint",
+          "frame": [
+            99976,
+            100280
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            101400,
+            101508
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            101516,
+            101613
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            101636,
+            101696
+          ]
+        },
+        {
+          "tag": "smoke",
+          "frame": [
+            101953,
+            102046
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            102135,
+            102447
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            102450,
+            102588
+          ]
+        },
+        {
+          "tag": "dance",
+          "frame": [
+            102591,
+            102811
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0027",
+      "shot": [
+        715,
+        834
+      ],
+      "frame": [
+        102899,
+        123209
+      ],
+      "place_tag": null,
+      "action_tag": [
+        {
+          "tag": "dance",
+          "frame": [
+            104718,
+            105266
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            104718,
+            105266
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            105308,
+            105331
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            105371,
+            105401
+          ]
+        },
+        {
+          "tag": "do playful game",
+          "frame": [
+            105399,
+            105471
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            106937,
+            107013
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            109478,
+            109550
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            109550,
+            109622
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            109813,
+            109862
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            109813,
+            109862
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            109874,
+            109931
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            109874,
+            109931
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            109994,
+            110060
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            110363,
+            110607
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            111870,
+            111958
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            112392,
+            112598
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            113450,
+            113508
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            113647,
+            113724
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            114883,
+            115670
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            120827,
+            121139
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            121625,
+            121712
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            122035,
+            122109
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            123086,
+            123207
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0028",
+      "shot": [
+        834,
+        1035
+      ],
+      "frame": [
+        123209,
+        148091
+      ],
+      "place_tag": [
+        "bedroom",
+        "living room",
+        "road",
+        "theater"
+      ],
+      "action_tag": [
+        {
+          "tag": "do cleaning",
+          "frame": [
+            124311,
+            124540
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            124661,
+            124729
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            127517,
+            127578
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            127585,
+            127635
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            129191,
+            129249
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            129249,
+            129293
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            129694,
+            129790
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            130367,
+            130442
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            131887,
+            131909
+          ]
+        },
+        {
+          "tag": "quarrel",
+          "frame": [
+            130804,
+            131837
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            132069,
+            132201
+          ]
+        },
+        {
+          "tag": "kiss",
+          "frame": [
+            135526,
+            135552
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            135573,
+            135646
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            135648,
+            135689
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            135696,
+            135832
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            135851,
+            135938
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            136534,
+            136904
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            136910,
+            136974
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            137114,
+            137179
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            137241,
+            137376
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            137403,
+            137443
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            137452,
+            137534
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            137553,
+            137637
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            137782,
+            137823
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            137782,
+            137823
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            137825,
+            137915
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            137918,
+            137981
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            137918,
+            137981
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            138087,
+            138129
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            138129,
+            138163
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            138384,
+            138490
+          ]
+        },
+        {
+          "tag": "sleep",
+          "frame": [
+            139215,
+            139237
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            139850,
+            139952
+          ]
+        },
+        {
+          "tag": "hug",
+          "frame": [
+            140098,
+            140190
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            140786,
+            140915
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            141350,
+            141431
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            141846,
+            141931
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            143530,
+            143604
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            144697,
+            144790
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            144904,
+            144964
+          ]
+        },
+        {
+          "tag": "fire",
+          "frame": [
+            145730,
+            145779
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            146099,
+            146116
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            146204,
+            146281
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            146485,
+            146521
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            146593,
+            146637
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            146897,
+            146951
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            147389,
+            147579
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0029",
+      "shot": [
+        1035,
+        1043
+      ],
+      "frame": [
+        148091,
+        149012
+      ],
+      "place_tag": [
+        "doorway",
+        "road"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            148091,
+            148115
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            148717,
+            148733
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            148768,
+            148819
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            148829,
+            149010
+          ]
+        },
+        {
+          "tag": "drive other vehicle",
+          "frame": [
+            148829,
+            149010
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0110148_0030",
+      "shot": [
+        1043,
+        1046
+      ],
+      "frame": [
+        149012,
+        152498
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0110148_0031",
+      "shot": [
+        1046,
+        1109
+      ],
+      "frame": [
+        152498,
+        165126
+      ],
+      "place_tag": [
+        "cinema (inside)",
+        "living room",
+        "outer space",
+        "road",
+        "ruins (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            155501,
+            155539
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            155974,
+            156018
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            156163,
+            156226
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            156620,
+            156778
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            161046,
+            161282
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            163382,
+            163404
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            164448,
+            164769
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            164776,
+            164886
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            165060,
+            165124
+          ]
+        }
+      ]
+    }
+  ],
+  "story": null,
+  "cinematic_style": null
+}

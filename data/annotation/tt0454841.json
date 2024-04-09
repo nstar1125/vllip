@@ -1,0 +1,4482 @@
+{
+  "imdb_id": "tt0454841",
+  "cast": null,
+  "scene": [
+    {
+      "id": "tt0454841_0000",
+      "shot": [
+        0,
+        1
+      ],
+      "frame": [
+        0,
+        1122
+      ],
+      "place_tag": null,
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0001",
+      "shot": [
+        1,
+        18
+      ],
+      "frame": [
+        1122,
+        3011
+      ],
+      "place_tag": [
+        "prison (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0002",
+      "shot": [
+        18,
+        19
+      ],
+      "frame": [
+        3011,
+        4598
+      ],
+      "place_tag": [
+        "prison (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "kill",
+          "frame": [
+            3034,
+            3071
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0003",
+      "shot": [
+        19,
+        36
+      ],
+      "frame": [
+        4598,
+        5967
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "meeting room"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            4665,
+            4703
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            4721,
+            4776
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            4721,
+            4776
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            4998,
+            5028
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            5033,
+            5045
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            5110,
+            5157
+          ]
+        },
+        {
+          "tag": "operate on computer",
+          "frame": [
+            5204,
+            5221
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            5309,
+            5363
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            5349,
+            5406
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            5415,
+            5442
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            5527,
+            5566
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            5548,
+            5599
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            5598,
+            5646
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0004",
+      "shot": [
+        36,
+        55
+      ],
+      "frame": [
+        5967,
+        7572
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "ruins (inside)",
+        "tent (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "press button",
+          "frame": [
+            6601,
+            6635
+          ]
+        },
+        {
+          "tag": "press button",
+          "frame": [
+            6649,
+            6661
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            6898,
+            7022
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            7019,
+            7155
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            7271,
+            7276
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            7529,
+            7570
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0005",
+      "shot": [
+        55,
+        62
+      ],
+      "frame": [
+        7572,
+        8253
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "read",
+          "frame": [
+            7703,
+            7736
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            7753,
+            7792
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            7863,
+            7907
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            8242,
+            8251
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0006",
+      "shot": [
+        62,
+        65
+      ],
+      "frame": [
+        8253,
+        8514
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "ruins (inside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0007",
+      "shot": [
+        65,
+        96
+      ],
+      "frame": [
+        8514,
+        10367
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "eat",
+          "frame": [
+            8591,
+            8596
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            9263,
+            9290
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            9324,
+            9470
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            9685,
+            9856
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            10206,
+            10287
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0008",
+      "shot": [
+        96,
+        97
+      ],
+      "frame": [
+        10367,
+        10981
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "ruins (outside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0009",
+      "shot": [
+        97,
+        170
+      ],
+      "frame": [
+        10981,
+        13485
+      ],
+      "place_tag": [
+        "ruins (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            10981,
+            10998
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11011,
+            11024
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11048,
+            11111
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11115,
+            11126
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11136,
+            11148
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11203,
+            11221
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11256,
+            11274
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11274,
+            11292
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11292,
+            11303
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11306,
+            11333
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11333,
+            11406
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            11333,
+            11406
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11458,
+            11490
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            11458,
+            11490
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            11458,
+            11490
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11485,
+            11532
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11551,
+            11593
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            11609,
+            11633
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11634,
+            11656
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            11634,
+            11656
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11658,
+            11671
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11705,
+            11719
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            11705,
+            11719
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11808,
+            11860
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11885,
+            11945
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            11885,
+            11945
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11948,
+            11972
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            11972,
+            11983
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12010,
+            12033
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            12010,
+            12033
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12036,
+            12058
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12056,
+            12075
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12078,
+            12116
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12116,
+            12160
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12163,
+            12188
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12224,
+            12232
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12335,
+            12347
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12351,
+            12393
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12407,
+            12431
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12516,
+            12548
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12584,
+            12604
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12663,
+            12688
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            12663,
+            12688
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12700,
+            12709
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12723,
+            12736
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12738,
+            12756
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            12760,
+            12788
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            12789,
+            12874
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            13358,
+            13391
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            13437,
+            13483
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0010",
+      "shot": [
+        170,
+        201
+      ],
+      "frame": [
+        13485,
+        16211
+      ],
+      "place_tag": [
+        "military base (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            13485,
+            13618
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            13780,
+            13830
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            13878,
+            13930
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            15232,
+            15351
+          ]
+        },
+        {
+          "tag": "applaud and cheer",
+          "frame": [
+            15390,
+            15437
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            15687,
+            15976
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            16118,
+            16209
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0011",
+      "shot": [
+        201,
+        203
+      ],
+      "frame": [
+        16211,
+        16742
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            16359,
+            16600
+          ]
+        },
+        {
+          "tag": "drive car",
+          "frame": [
+            16635,
+            16740
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0012",
+      "shot": [
+        203,
+        207
+      ],
+      "frame": [
+        16742,
+        17159
+      ],
+      "place_tag": [
+        "car (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "drive car",
+          "frame": [
+            16878,
+            17074
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0013",
+      "shot": [
+        207,
+        256
+      ],
+      "frame": [
+        17159,
+        19992
+      ],
+      "place_tag": [
+        "car (inside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "fight",
+          "frame": [
+            18851,
+            18998
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            19025,
+            19362
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            19695,
+            19732
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0014",
+      "shot": [
+        256,
+        262
+      ],
+      "frame": [
+        19992,
+        21002
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0015",
+      "shot": [
+        262,
+        265
+      ],
+      "frame": [
+        21002,
+        21159
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            21002,
+            21075
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0016",
+      "shot": [
+        265,
+        302
+      ],
+      "frame": [
+        21159,
+        23593
+      ],
+      "place_tag": [
+        "car (inside)",
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "get out of car",
+          "frame": [
+            21159,
+            21215
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            21513,
+            21536
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            21567,
+            21581
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            21567,
+            21581
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            21832,
+            21915
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            21912,
+            22027
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            22032,
+            22068
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            22148,
+            22237
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0017",
+      "shot": [
+        302,
+        304
+      ],
+      "frame": [
+        23593,
+        23833
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0018",
+      "shot": [
+        304,
+        369
+      ],
+      "frame": [
+        23833,
+        29218
+      ],
+      "place_tag": [
+        "corridor (inside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            23833,
+            23898
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            24209,
+            24387
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            24825,
+            24876
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            25464,
+            25530
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            25611,
+            25790
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            25905,
+            25947
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            26037,
+            26137
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            27872,
+            27959
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            28001,
+            28045
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            28213,
+            28230
+          ]
+        },
+        {
+          "tag": "get out of car",
+          "frame": [
+            28231,
+            28243
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            28246,
+            28265
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            28263,
+            28377
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            28561,
+            28634
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            28518,
+            28535
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            28720,
+            29216
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0019",
+      "shot": [
+        369,
+        370
+      ],
+      "frame": [
+        29218,
+        29278
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0020",
+      "shot": [
+        370,
+        374
+      ],
+      "frame": [
+        29278,
+        29636
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0021",
+      "shot": [
+        374,
+        375
+      ],
+      "frame": [
+        29636,
+        29716
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            29636,
+            29714
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0022",
+      "shot": [
+        375,
+        380
+      ],
+      "frame": [
+        29716,
+        30157
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            29716,
+            30077
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            30082,
+            30155
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0023",
+      "shot": [
+        380,
+        382
+      ],
+      "frame": [
+        30157,
+        30348
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            30157,
+            30346
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0024",
+      "shot": [
+        382,
+        385
+      ],
+      "frame": [
+        30348,
+        30847
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            30348,
+            30736
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0025",
+      "shot": [
+        385,
+        386
+      ],
+      "frame": [
+        30847,
+        30906
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0026",
+      "shot": [
+        386,
+        415
+      ],
+      "frame": [
+        30906,
+        32757
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "fall down",
+          "frame": [
+            31077,
+            31104
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            32557,
+            32589
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0027",
+      "shot": [
+        415,
+        420
+      ],
+      "frame": [
+        32757,
+        33057
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "undress",
+          "frame": [
+            32994,
+            33006
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            32889,
+            32930
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0028",
+      "shot": [
+        420,
+        423
+      ],
+      "frame": [
+        33057,
+        33280
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            33057,
+            33085
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            33208,
+            33278
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0029",
+      "shot": [
+        423,
+        428
+      ],
+      "frame": [
+        33280,
+        33586
+      ],
+      "place_tag": [
+        "bathroom",
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            33371,
+            33512
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            33531,
+            33562
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0030",
+      "shot": [
+        428,
+        432
+      ],
+      "frame": [
+        33586,
+        34217
+      ],
+      "place_tag": [
+        "bathroom"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0031",
+      "shot": [
+        432,
+        446
+      ],
+      "frame": [
+        34217,
+        35197
+      ],
+      "place_tag": [
+        "bathroom",
+        "doorway",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "open door",
+          "frame": [
+            34219,
+            34233
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            34336,
+            34384
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            34433,
+            34470
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            34631,
+            34652
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0032",
+      "shot": [
+        446,
+        452
+      ],
+      "frame": [
+        35197,
+        35571
+      ],
+      "place_tag": [
+        "bathroom",
+        "doorway",
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "close door",
+          "frame": [
+            35238,
+            35250
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            35420,
+            35469
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0033",
+      "shot": [
+        452,
+        462
+      ],
+      "frame": [
+        35571,
+        36071
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            35710,
+            35768
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            35807,
+            35875
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0034",
+      "shot": [
+        462,
+        489
+      ],
+      "frame": [
+        36071,
+        37687
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0035",
+      "shot": [
+        489,
+        521
+      ],
+      "frame": [
+        37687,
+        40167
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "climb rock",
+          "frame": [
+            37687,
+            38074
+          ]
+        },
+        {
+          "tag": "climb rock",
+          "frame": [
+            38136,
+            38321
+          ]
+        },
+        {
+          "tag": "climb rock",
+          "frame": [
+            38361,
+            38484
+          ]
+        },
+        {
+          "tag": "climb rock",
+          "frame": [
+            38530,
+            38751
+          ]
+        },
+        {
+          "tag": "play cellphone",
+          "frame": [
+            39159,
+            39482
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0036",
+      "shot": [
+        521,
+        559
+      ],
+      "frame": [
+        40167,
+        42908
+      ],
+      "place_tag": [
+        "forest jungle and canyon",
+        "tent (outside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            40334,
+            40428
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            40537,
+            40586
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            40844,
+            40908
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            40909,
+            40945
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            40945,
+            40991
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            41049,
+            41219
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            41293,
+            41307
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            41344,
+            41359
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            41364,
+            41395
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            41570,
+            41657
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            41755,
+            41769
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            41802,
+            41915
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            41928,
+            41967
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            41968,
+            42034
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            42501,
+            42551
+          ]
+        },
+        {
+          "tag": "dress up",
+          "frame": [
+            42597,
+            42616
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            42661,
+            42777
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            42779,
+            42906
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0037",
+      "shot": [
+        559,
+        643
+      ],
+      "frame": [
+        42908,
+        46959
+      ],
+      "place_tag": [
+        "cave",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "call",
+          "frame": [
+            43890,
+            43910
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            43951,
+            43987
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            43990,
+            44005
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            44008,
+            44039
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            44034,
+            44106
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            44106,
+            44148
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            44150,
+            44308
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            44150,
+            44308
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            44319,
+            44366
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            44367,
+            44689
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            44367,
+            44689
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            44785,
+            44815
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            44959,
+            45016
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            45212,
+            45220
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            45229,
+            45268
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            45656,
+            45710
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            45733,
+            45753
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            45759,
+            45805
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            45831,
+            45900
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            45831,
+            45900
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            46092,
+            46118
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            46128,
+            46205
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0038",
+      "shot": [
+        643,
+        644
+      ],
+      "frame": [
+        46959,
+        47019
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0039",
+      "shot": [
+        644,
+        652
+      ],
+      "frame": [
+        47019,
+        47701
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            47019,
+            47082
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            47606,
+            47699
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0040",
+      "shot": [
+        652,
+        653
+      ],
+      "frame": [
+        47701,
+        47802
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0041",
+      "shot": [
+        653,
+        662
+      ],
+      "frame": [
+        47802,
+        48452
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            47802,
+            47879
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            48117,
+            48274
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            48421,
+            48442
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0042",
+      "shot": [
+        662,
+        723
+      ],
+      "frame": [
+        48452,
+        52311
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            48452,
+            48493
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            48494,
+            48581
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            48584,
+            48636
+          ]
+        },
+        {
+          "tag": "read",
+          "frame": [
+            49022,
+            49120
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            49371,
+            49432
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            49579,
+            49697
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            49751,
+            49775
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            50110,
+            50192
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            50194,
+            50251
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            50344,
+            50389
+          ]
+        },
+        {
+          "tag": "call",
+          "frame": [
+            50461,
+            50503
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            50932,
+            50987
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            51154,
+            51214
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            51290,
+            51698
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            51699,
+            51822
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            51828,
+            52309
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0043",
+      "shot": [
+        723,
+        724
+      ],
+      "frame": [
+        52311,
+        52358
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0044",
+      "shot": [
+        724,
+        797
+      ],
+      "frame": [
+        52358,
+        56255
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            52358,
+            52601
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            52598,
+            52612
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            52673,
+            52695
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            52673,
+            52695
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            52673,
+            52695
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            52652,
+            52665
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            52698,
+            52722
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            52725,
+            52759
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            52759,
+            52790
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            52797,
+            52808
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            52797,
+            52808
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            52812,
+            52830
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            52932,
+            52978
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            52932,
+            52978
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            53011,
+            53025
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            53011,
+            53025
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            53053,
+            53067
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            53066,
+            53126
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            53142,
+            53224
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            53236,
+            53299
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            53303,
+            53349
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            53354,
+            53397
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            53354,
+            53397
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            53402,
+            53452
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            53467,
+            53494
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            53528,
+            53543
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            53628,
+            53642
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            54037,
+            54092
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            54089,
+            54145
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            54251,
+            54306
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            54981,
+            55016
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            55489,
+            55523
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            56212,
+            56231
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0045",
+      "shot": [
+        797,
+        955
+      ],
+      "frame": [
+        56255,
+        66519
+      ],
+      "place_tag": [
+        "cliff",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            56301,
+            56326
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            56395,
+            56528
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            56647,
+            56733
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            57227,
+            57260
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            57262,
+            57299
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            57981,
+            58029
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            58591,
+            58763
+          ]
+        },
+        {
+          "tag": "climb rock",
+          "frame": [
+            58841,
+            58899
+          ]
+        },
+        {
+          "tag": "climb rock",
+          "frame": [
+            58956,
+            59108
+          ]
+        },
+        {
+          "tag": "climb rock",
+          "frame": [
+            59446,
+            59517
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            59601,
+            59631
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            59633,
+            59663
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            60178,
+            60190
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            60195,
+            60214
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            61291,
+            61379
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            61634,
+            61733
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            61780,
+            61920
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            61921,
+            62106
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            62115,
+            62341
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            62344,
+            62435
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            62437,
+            62592
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            62596,
+            62725
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            62914,
+            63076
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            63077,
+            63339
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            63372,
+            63524
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            63372,
+            63524
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            63572,
+            63603
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            63583,
+            63641
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            63643,
+            63652
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            63823,
+            63854
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64006,
+            64039
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64121,
+            64171
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64176,
+            64221
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64222,
+            64367
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64369,
+            64382
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64384,
+            64403
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64406,
+            64434
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64437,
+            64454
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64455,
+            64487
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64485,
+            64512
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64670,
+            64712
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64811,
+            64862
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64863,
+            64920
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            64921,
+            64969
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65117,
+            65216
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65365,
+            65434
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65522,
+            65592
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65598,
+            65678
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65680,
+            65780
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65826,
+            65868
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65868,
+            65881
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65882,
+            65891
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65893,
+            65902
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65967,
+            65980
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            65984,
+            66014
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            66112,
+            66125
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            66127,
+            66150
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            66151,
+            66169
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            66170,
+            66212
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            66214,
+            66249
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            66254,
+            66361
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            66375,
+            66481
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0046",
+      "shot": [
+        955,
+        968
+      ],
+      "frame": [
+        66519,
+        68082
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "do intimacy",
+          "frame": [
+            67026,
+            67163
+          ]
+        },
+        {
+          "tag": "play cellphone",
+          "frame": [
+            67750,
+            67822
+          ]
+        },
+        {
+          "tag": "watch screen",
+          "frame": [
+            67893,
+            67943
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0047",
+      "shot": [
+        968,
+        1078
+      ],
+      "frame": [
+        68082,
+        76811
+      ],
+      "place_tag": [
+        "cave",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "shot gun",
+          "frame": [
+            68099,
+            68119
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            68121,
+            68135
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            68154,
+            68166
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            68186,
+            68199
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            68266,
+            68280
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            68385,
+            68398
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            68440,
+            68473
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            68475,
+            68511
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            68703,
+            68763
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            68810,
+            68843
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            68943,
+            68966
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            69520,
+            69631
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            70264,
+            70285
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            70285,
+            70352
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            70406,
+            70453
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            70473,
+            70522
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            70473,
+            70522
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            70610,
+            70639
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            70610,
+            70639
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            70637,
+            70776
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            70637,
+            70776
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            70776,
+            70889
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            72922,
+            73119
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            73383,
+            73669
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            73690,
+            73870
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            74349,
+            74385
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            74587,
+            74766
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            74821,
+            74880
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            74880,
+            74925
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            75098,
+            75119
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            75331,
+            75408
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            75409,
+            75441
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            75441,
+            75500
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            76076,
+            76085
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            76624,
+            76809
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0048",
+      "shot": [
+        1078,
+        1097
+      ],
+      "frame": [
+        76811,
+        77859
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            76811,
+            76928
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            77000,
+            77097
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            77127,
+            77190
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            77219,
+            77310
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            77326,
+            77654
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            77685,
+            77857
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0049",
+      "shot": [
+        1097,
+        1101
+      ],
+      "frame": [
+        77859,
+        78482
+      ],
+      "place_tag": [
+        "cave"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            77859,
+            78188
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            78190,
+            78327
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            78405,
+            78480
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0050",
+      "shot": [
+        1101,
+        1113
+      ],
+      "frame": [
+        78482,
+        79561
+      ],
+      "place_tag": [
+        "forest jungle and canyon"
+      ],
+      "action_tag": null
+    },
+    {
+      "id": "tt0454841_0051",
+      "shot": [
+        1113,
+        1141
+      ],
+      "frame": [
+        79561,
+        81827
+      ],
+      "place_tag": [
+        "cave",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            79598,
+            79722
+          ]
+        },
+        {
+          "tag": "climb rock",
+          "frame": [
+            79907,
+            80742
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0052",
+      "shot": [
+        1141,
+        1300
+      ],
+      "frame": [
+        81827,
+        93362
+      ],
+      "place_tag": [
+        "cave",
+        "sea surface"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            82409,
+            82580
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            82622,
+            82806
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            82922,
+            83065
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83067,
+            83084
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83215,
+            83290
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83292,
+            83344
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83345,
+            83394
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83395,
+            83431
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83439,
+            83460
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            83974,
+            84009
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            84053,
+            84133
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            84512,
+            84554
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            84716,
+            84745
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            84796,
+            84862
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            84911,
+            85026
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85058,
+            85124
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85173,
+            85263
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85316,
+            85399
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85476,
+            85528
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85573,
+            85625
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85649,
+            85840
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            85958,
+            86059
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            86095,
+            86167
+          ]
+        },
+        {
+          "tag": "undress",
+          "frame": [
+            86278,
+            86334
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            86478,
+            86517
+          ]
+        },
+        {
+          "tag": "jump over",
+          "frame": [
+            86704,
+            86748
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            87960,
+            88317
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            88457,
+            88469
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            89163,
+            89614
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            89163,
+            89614
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            89781,
+            90003
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            90143,
+            90169
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            90296,
+            90317
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            90423,
+            90770
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            90845,
+            90933
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            90934,
+            91037
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            91218,
+            91228
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            91350,
+            91940
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            92006,
+            92091
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            92301,
+            92355
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            92417,
+            92453
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            92489,
+            92608
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            92637,
+            92689
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            92737,
+            92755
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            92819,
+            92850
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            92908,
+            93218
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            93240,
+            93312
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            93313,
+            93360
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0053",
+      "shot": [
+        1300,
+        1400
+      ],
+      "frame": [
+        93362,
+        99949
+      ],
+      "place_tag": [
+        "cave"
+      ],
+      "action_tag": [
+        {
+          "tag": "fight",
+          "frame": [
+            93386,
+            93657
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            93707,
+            93724
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            93787,
+            93889
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            93922,
+            93969
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            94001,
+            94036
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            94316,
+            94442
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            95512,
+            95543
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            95408,
+            95438
+          ]
+        },
+        {
+          "tag": "close door",
+          "frame": [
+            95613,
+            95618
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            96055,
+            96466
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            96503,
+            96528
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            96544,
+            96564
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            96566,
+            96588
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            96589,
+            96614
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            96614,
+            96638
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            96639,
+            96656
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            96683,
+            96708
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            96768,
+            96818
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            96851,
+            96868
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            96872,
+            96889
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            98021,
+            98183
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            98269,
+            98350
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            98445,
+            98504
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            98813,
+            98822
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            98849,
+            98881
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            99475,
+            99806
+          ]
+        },
+        {
+          "tag": "laugh",
+          "frame": [
+            99808,
+            99843
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            99866,
+            99943
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0054",
+      "shot": [
+        1400,
+        1524
+      ],
+      "frame": [
+        99949,
+        110232
+      ],
+      "place_tag": [
+        "cabin (inside)",
+        "cave",
+        "lab (inside)"
+      ],
+      "action_tag": [
+        {
+          "tag": "hold gun",
+          "frame": [
+            99958,
+            100053
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100076,
+            100240
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100326,
+            100428
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100450,
+            100493
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            100526,
+            100670
+          ]
+        },
+        {
+          "tag": "open door",
+          "frame": [
+            100969,
+            101022
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            101563,
+            101680
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            102171,
+            102232
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            102315,
+            102352
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            102433,
+            102478
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            102591,
+            102632
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            103165,
+            103179
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            103215,
+            103228
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            103229,
+            103253
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            103361,
+            103390
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            103422,
+            103454
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            103422,
+            103454
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            103760,
+            103789
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            103760,
+            103789
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            104553,
+            104730
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            104783,
+            104872
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            104973,
+            105076
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            105099,
+            105276
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            105818,
+            105847
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            105975,
+            106076
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            106371,
+            106445
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            106371,
+            106445
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            106513,
+            106532
+          ]
+        },
+        {
+          "tag": "climb stairs",
+          "frame": [
+            106549,
+            106649
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            106579,
+            106717
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            106784,
+            106813
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            108434,
+            108471
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            108615,
+            108715
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            108743,
+            108872
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tt0454841_0055",
+      "shot": [
+        1524,
+        1685
+      ],
+      "frame": [
+        110232,
+        122867
+      ],
+      "place_tag": [
+        "cave",
+        "corridor (inside)",
+        "forest jungle and canyon"
+      ],
+      "action_tag": [
+        {
+          "tag": "fall down",
+          "frame": [
+            110265,
+            110291
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            110456,
+            110520
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            110928,
+            110969
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            111630,
+            111855
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            112217,
+            112640
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            112640,
+            112739
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            112836,
+            113001
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            113004,
+            113042
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            113075,
+            113102
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            113106,
+            113202
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            113209,
+            113231
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            113281,
+            113568
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            113941,
+            114168
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            114169,
+            114598
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            114897,
+            115235
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            115889,
+            115899
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            115948,
+            115968
+          ]
+        },
+        {
+          "tag": "run",
+          "frame": [
+            115971,
+            115998
+          ]
+        },
+        {
+          "tag": "hold gun",
+          "frame": [
+            115999,
+            116095
+          ]
+        },
+        {
+          "tag": "play cellphone",
+          "frame": [
+            116669,
+            116809
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            116835,
+            116873
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            116973,
+            117103
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            117160,
+            117262
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            117684,
+            117697
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            117956,
+            118029
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            118035,
+            118064
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            118063,
+            118115
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            118116,
+            118157
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            118159,
+            118257
+          ]
+        },
+        {
+          "tag": "shot gun",
+          "frame": [
+            118262,
+            118297
+          ]
+        },
+        {
+          "tag": "faint",
+          "frame": [
+            118349,
+            118374
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            118821,
+            118859
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            118862,
+            118896
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            118901,
+            119035
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            119074,
+            119104
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            119140,
+            119165
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            119163,
+            119235
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            119209,
+            119312
+          ]
+        },
+        {
+          "tag": "fight",
+          "frame": [
+            119312,
+            119497
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            119711,
+            119732
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            119859,
+            119891
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            119920,
+            119974
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            119971,
+            119988
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            120009,
+            120050
+          ]
+        },
+        {
+          "tag": "cry",
+          "frame": [
+            120069,
+            120106
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            120108,
+            120134
+          ]
+        },
+        {
+          "tag": "fall down",
+          "frame": [
+            120168,
+            120180
+          ]
+        },
+        {
+          "tag": "kill",
+          "frame": [
+            120965,
+            120997
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            121560,
+            121761
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            122016,
+            122542
+          ]
+        },
+        {
+          "tag": "do intimacy",
+          "frame": [
+            122635,
+            122749
+          ]
+        }
+      ]
+    }
+  ],
+  "story": null,
+  "cinematic_style": null
+}
