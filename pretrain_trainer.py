@@ -1,4 +1,5 @@
 import time
+import clip.model
 import torch
 import torch.nn.parallel
 import torch.optim
@@ -6,7 +7,8 @@ from utils import AverageMeter, ProgressMeter, to_log, accuracy
 
 from tqdm import tqdm #추가
 import wandb
-
+import clip
+          
 def train_model(gpu, train_loader, model, criterion, optimizer, epoch, cfg):
     batch_time = AverageMeter('Time', ':6.3f')
     data_time = AverageMeter('Data', ':6.3f')
@@ -47,7 +49,7 @@ def train_model(gpu, train_loader, model, criterion, optimizer, epoch, cfg):
         if gradient_clip_val > 0: #-1 
             torch.nn.utils.clip_grad_norm_(model.parameters(), gradient_clip_val)
 
-        optimizer.step() #step descent
+        optimizer.step() 
 
         batch_time.update(time.time() - pivot)
         pivot = time.time()

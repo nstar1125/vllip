@@ -1,21 +1,21 @@
 import models.backbones.visual.resnet as resnet
-from models.core.VLLIP import VLLIP
+from models.core.VLLIP_MoCo import VLLIP
 from models.core.SCRL_MoCo import SCRL
 from data.movienet_data import get_train_loader
 import torch, os
 from utils import to_log
 
 # Grounding DINO
-import GroundingDINO.groundingdino.datasets.transforms as T
-from GroundingDINO.groundingdino.models import build_model
-from GroundingDINO.groundingdino.util.slconfig import SLConfig
-from GroundingDINO.groundingdino.util.utils import clean_state_dict, get_phrases_from_posmap
+#import GroundingDINO.groundingdino.datasets.transforms as T
+#from GroundingDINO.groundingdino.models import build_model
+#from GroundingDINO.groundingdino.util.slconfig import SLConfig
+#from GroundingDINO.groundingdino.util.utils import clean_state_dict, get_phrases_from_posmap
 
 # Segment anything
-from mobile_sam import sam_model_registry
+#from mobile_sam import sam_model_registry
 
 #CLIP
-from models.backbones.backbone import CLIPViTFM
+#from models.backbones.backbone import CLIPViTFM
 import clip
 
 def get_model(cfg):
@@ -24,7 +24,8 @@ def get_model(cfg):
     if cfg['model']['SSL'] == 'SCRL':
         encoder = resnet.encoder_resnet50
         assert encoder is not None
-        
+        #resnet.encoder_resnet50(weight_path = './pretrain/resnet50-19c8e357.pth')
+
         model = SCRL(
             base_encoder                = encoder,
             dim                         = cfg['MoCo']['dim'], #512, 1024, 2048
@@ -39,13 +40,7 @@ def get_model(cfg):
             soft_gamma                  = cfg['model']['soft_gamma'],
         ) #SCRL 모델 불러오기
     elif cfg['model']['SSL'] == 'VLLIP':
-        dino = load_dino(cfg["model"]["dino_config_path"], cfg["model"]["dino_pretrain"], device=f'cuda:{torch.cuda.current_device()}')
-        sam = sam_model_registry["vit_t"](checkpoint=cfg["model"]["sam_pretrain"]).cuda()
-
         model = VLLIP(
-                dino_path                   = dino,
-                sam_path                    = sam,
-                type                        = cfg['model']['type'], 
                 dim                         = cfg['MoCo']['dim'], 
                 K                           = cfg['MoCo']['k'], 
                 m                           = cfg['MoCo']['m'], 
@@ -55,6 +50,9 @@ def get_model(cfg):
                 cluster_num                 = cfg['model']['cluster_num'],
                 soft_gamma                  = cfg['model']['soft_gamma'],
         ) # VLLIP 모델 불러오기
+        for name, param in model.named_parameters():
+            if 'encoder_q' in name:
+                param.requires_grad = True
     else:
         raise NotImplementedError
     to_log(cfg, 'model init: ' + cfg['model']['SSL'], True)
@@ -117,7 +115,6 @@ def get_training_stuff(cfg, gpu, ngpus_per_node):
         device_ids=[gpu], 
         output_device=gpu, 
         find_unused_parameters=True)
-    
     criterion = get_criterion(cfg).cuda(gpu)
     optimizer = get_optimizer(cfg, model) #SGD
     cfg['optim']['start_epoch'] = 0
@@ -147,14 +144,4 @@ def get_training_stuff(cfg, gpu, ngpus_per_node):
         and optimizer is not None
     
     return (model, train_loader, train_sampler, criterion, optimizer)
-
-def load_dino(model_config_path, model_checkpoint_path, device):
-    args = SLConfig.fromfile(model_config_path)
-    args.device = device
-    model = build_model(args)
-    checkpoint = torch.load(model_checkpoint_path, map_location="cpu")
-    load_res = model.load_state_dict(clean_state_dict(checkpoint["model"]), strict=False)
-    print(load_res)
-    _ = model.eval()
-    return model
 

@@ -1,20 +1,19 @@
 model:
-  SSL: VLLIP
+  SSL: VLLIP 
   Positive_Selection: cluster
   cluster: True
   cluster_num: 24
   soft_gamma: 0.5
-  dino_pretrain: ./pretrain/groundingdino_swint_ogc.pth
-  dino_config_path: ./GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py
-  sam_pretrain: ./pretrain/mobile_sam.pt
+  backbone: resnet50
+  backbone_pretrain: ./pretrain/resnet50-19c8e357.pth
   fix_pred_lr: null
   SyncBatchNorm: False
   resume: 
-  type: train
+  
 
 MoCo:
-  dim: 1024
-  k: 32768
+  dim: 512
+  k: 65536
   m: 0.999
   t: 0.07
   mlp: True
@@ -41,7 +40,7 @@ optim:
   bs: 256
   momentum: 0.9
   optimizer: sgd
-  lr: 0.01
+  lr: 0.00005
   lr_cos: True
   schedule: # works when lr_cos is False
     - 50
