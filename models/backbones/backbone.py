@@ -491,9 +491,6 @@ class CLIPViTFM(nn.Module):
 
         self.model, _ = clip.load(model_name)
 
-        #self.img_init_conv = nn.Conv2d(9, 3, kernel_size=1, stride=1, padding=0).to(self.device)
-        #self.init_bn = nn.BatchNorm2d(3)
-        #self.init_relu = nn.ReLU(True)
         self.final_conv = nn.Conv1d(self.batch_size*3, self.batch_size, kernel_size=1, stride=1, padding=0).to(self.device) #추가
         #self.model.visual.conv1 = nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
 
@@ -641,12 +638,6 @@ class CLIPViTFM(nn.Module):
         if masking_type == 'crop': # [1, 512]
             x = vit(x) 
             return x[:, 0, :]
-
-        """
-        x = self.img_init_conv(x) #추가 
-        x = self.init_bn(x) #추가 
-        x = self.init_relu(x) #추가 
-        """
         
         x = vit.conv1(x)  # shape = [*, width, grid, grid] = [*, 3, 224, 224] -> [*, 768, 7, 7]
         # size = x.shape[2], x.shape[3]

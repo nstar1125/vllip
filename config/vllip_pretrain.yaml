@@ -40,7 +40,7 @@ optim:
   bs: 256
   momentum: 0.9
   optimizer: sgd
-  lr: 0.00005
+  lr: 0.001
   lr_cos: True
   schedule: # works when lr_cos is False
     - 50

@@ -55,7 +55,7 @@ def train_model(gpu, train_loader, model, criterion, optimizer, epoch, cfg):
         pivot = time.time()
         
         if gpu == 0:
-            print(f"[{epoch} epoch]({i}/{len(train_loader)} iteration) lr: {optimizer.param_groups[0]['lr']:.4f}, loss: {loss:.4f}, acc1: {acc1[0]:.4f}, acc5: {acc5[0]:.4f}, elapsed_time: {(time.time()-pivot):.4f}s")
+            print(f"[{epoch} epoch]({i}/{len(train_loader)} iteration) lr: {optimizer.param_groups[0]['lr']:.6f}, loss: {loss:.6f}, acc1: {acc1[0]:.6f}, acc5: {acc5[0]:.6f}, elapsed_time: {(time.time()-pivot):.6f}s")
             wandb.log({
                 "lr": optimizer.param_groups[0]['lr'],
                 "loss": loss,

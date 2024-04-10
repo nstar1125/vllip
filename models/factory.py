@@ -28,8 +28,8 @@ def get_model(cfg):
 
         model = SCRL(
             base_encoder                = encoder,
-            dim                         = cfg['MoCo']['dim'], #512, 1024, 2048
-            K                           = cfg['MoCo']['k'],  #32768 #16384 #65536
+            dim                         = cfg['MoCo']['dim'], #512
+            K                           = cfg['MoCo']['k'],  #65536
             m                           = cfg['MoCo']['m'], 
             T                           = cfg['MoCo']['t'], 
             mlp                         = cfg['MoCo']['mlp'], 

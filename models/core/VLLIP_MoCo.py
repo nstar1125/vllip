@@ -33,6 +33,7 @@ class VLLIP(nn.Module):
         clip_model_1, _ = clip.load('ViT-B/32', device=f'cuda:{torch.cuda.current_device()}' ,jit=False)
         base_encoder_q = clip_model_1.visual
         base_encoder_q.conv1 = torch.nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
+        
         clip_model_2, _ = clip.load('ViT-B/32', device=f'cuda:{torch.cuda.current_device()}' ,jit=False)
         base_encoder_k = clip_model_2.visual
         base_encoder_k.conv1 = torch.nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
