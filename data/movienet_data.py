@@ -143,7 +143,7 @@ if __name__ == '__main__':
         transforms.RandomApply([GaussianBlur([.1, 2.])], p=0.5),
         transforms.RandomHorizontalFlip(),
         transforms.ToTensor(),
-        # normalize
+        normalize
     ]
     augmentation_color = [
         transforms.ToPILImage(),
@@ -153,7 +153,7 @@ if __name__ == '__main__':
         transforms.RandomApply([GaussianBlur([.1, 2.])], p=0.5),
         transforms.RandomHorizontalFlip(),
         transforms.ToTensor(),
-        # normalize
+        normalize
     ]
     train_transform = TwoWayTransform(
         transforms.Compose(augmentation_base), 

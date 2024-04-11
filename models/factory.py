@@ -111,6 +111,9 @@ def get_training_stuff(cfg, gpu, ngpus_per_node):
     train_loader, train_sampler = get_train_loader(cfg) #Movienet DataLoader, Sampler
     model = get_model(cfg) #vllip
     model.cuda(gpu)
+    for k, v in model.named_parameters():
+        print(k)
+        print(v.requires_grad)
     model = torch.nn.parallel.DistributedDataParallel(model, 
         device_ids=[gpu], 
         output_device=gpu, 

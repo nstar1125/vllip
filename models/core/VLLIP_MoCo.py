@@ -32,14 +32,16 @@ class VLLIP(nn.Module):
         
         clip_model_1, _ = clip.load('ViT-B/32', device=f'cuda:{torch.cuda.current_device()}' ,jit=False)
         base_encoder_q = clip_model_1.visual
-        base_encoder_q.conv1 = torch.nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
-        
+        #base_encoder_q.conv1 = torch.nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
+        encoder_q = VLLIP_encoder(base_encoder_q)
+
         clip_model_2, _ = clip.load('ViT-B/32', device=f'cuda:{torch.cuda.current_device()}' ,jit=False)
         base_encoder_k = clip_model_2.visual
-        base_encoder_k.conv1 = torch.nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
+        #base_encoder_k.conv1 = torch.nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
+        encoder_k = VLLIP_encoder(base_encoder_k)
 
-        self.encoder_q = base_encoder_q
-        self.encoder_k = base_encoder_k
+        self.encoder_q = encoder_q
+        self.encoder_k = encoder_k
 
         for param_q, param_k in zip(self.encoder_q.parameters(), self.encoder_k.parameters()):
             param_k.data.copy_(param_q.data)  
@@ -153,7 +155,6 @@ class VLLIP(nn.Module):
     def forward_VLLIP(self, img_q, img_k):
         # compute query features
         embeddings = self.encoder_q(img_q)
-        embeddings = embeddings[:, 0, :]
         embeddings = nn.functional.normalize(embeddings, dim=1)
         
         # get q and k index
@@ -171,7 +172,6 @@ class VLLIP(nn.Module):
             #img_k, idx_unshuffle = self._batch_shuffle_ddp(img_k)
 
             k = self.encoder_k(img_k)  
-            k = k[:, 0, :]
             k = nn.functional.normalize(k, dim=1)
 
             # undo shuffle
@@ -219,3 +219,19 @@ def concat_all_gather(tensor):
 
     output = torch.cat(tensors_gather, dim=0)
     return output
+
+class VLLIP_encoder(nn.Module):
+    def __init__(self,
+                 base_encoder,
+                 batch_size = 64
+                 ):
+        super(VLLIP_encoder, self).__init__()
+        self.base_encoder = base_encoder
+        self.final_layer = nn.Conv1d(batch_size*3, batch_size, kernel_size=1, stride=1, padding=0).cuda()
+         
+    def forward(self, images):
+        images = images.reshape(images.size()[0]*3, 3, 224, 224)
+        x = self.base_encoder(images)
+        x = x[:, 0, :]
+        x = self.final_layer(x)
+        return x

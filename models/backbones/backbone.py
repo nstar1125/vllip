@@ -260,7 +260,6 @@ class clip_backbone(nn.Module):
         image, pred_masks = data.to(self.device), pred_masks.to(self.device)
 
         image = image.type(self.dtype)
-        #image = self.init_conv(image) #추가 
         image_features = self.model.encode_image(image, attn=False) # [*,2048,7,7]
         
         if before_normalize:
@@ -269,11 +268,9 @@ class clip_backbone(nn.Module):
         H, W = image_features.shape[2], image_features.shape[3] #7, 7
 
         pred_masks = torch.mean(pred_masks, dim=1, keepdim=True) #추가
-        # pred_masks = TF.resize(pred_masks, (H,W)) # [N,7,7]
         pred_masks = TF.resize(pred_masks.type(torch.float32), (H, W))  # [N,7,7] [*,1,7,7]
 
         if parallel: #True
-            #masked_feature_map = torch.mul(image_features, pred_masks[:, None, :, :])
             masked_feature_map = torch.mul(image_features, pred_masks.expand(-1, image_features.size()[1], -1, -1))
             if query_masking: #True
                 masked_features = self.model.visual.attnpool(masked_feature_map, ignore_zero=ignore_zero)
@@ -305,8 +302,6 @@ class clip_backbone(nn.Module):
 
             masked_features = torch.stack(masked_features, dim=0)
         
-        #frame_shape = (int(masked_features.size()[0]/3),int(masked_features.size()[1])*3)
-        #masked_features = masked_features.view(frame_shape)
         #masked_features = self.final_conv(masked_features)
 
         return masked_features #784, 3072
@@ -492,8 +487,6 @@ class CLIPViTFM(nn.Module):
         self.model, _ = clip.load(model_name)
 
         self.final_conv = nn.Conv1d(self.batch_size*3, self.batch_size, kernel_size=1, stride=1, padding=0).to(self.device) #추가
-        #self.model.visual.conv1 = nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
-
 
     @property
     def device(self):
