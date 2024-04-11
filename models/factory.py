@@ -5,19 +5,6 @@ from data.movienet_data import get_train_loader
 import torch, os
 from utils import to_log
 
-# Grounding DINO
-#import GroundingDINO.groundingdino.datasets.transforms as T
-#from GroundingDINO.groundingdino.models import build_model
-#from GroundingDINO.groundingdino.util.slconfig import SLConfig
-#from GroundingDINO.groundingdino.util.utils import clean_state_dict, get_phrases_from_posmap
-
-# Segment anything
-#from mobile_sam import sam_model_registry
-
-#CLIP
-#from models.backbones.backbone import CLIPViTFM
-import clip
-
 def get_model(cfg):
     model = None
     
@@ -111,9 +98,18 @@ def get_training_stuff(cfg, gpu, ngpus_per_node):
     train_loader, train_sampler = get_train_loader(cfg) #Movienet DataLoader, Sampler
     model = get_model(cfg) #vllip
     model.cuda(gpu)
-    for k, v in model.named_parameters():
-        print(k)
-        print(v.requires_grad)
+    total_params = 0
+    train_params = 0
+    print("--------------------------------------------------")
+    for name, param in model.named_parameters():
+        total_params += param.numel()
+        if param.requires_grad:
+            train_params += param.numel()
+        print(f"Layer: {name}\t\tParam: {param.numel()}\t\tTrainable: {param.requires_grad}")
+    print("--------------------------------------------------")
+    print(f"Total Parameters #:\t\t{total_params}")
+    print(f"Trainable Parameters #:\t\t{train_params}")
+    print("--------------------------------------------------")
     model = torch.nn.parallel.DistributedDataParallel(model, 
         device_ids=[gpu], 
         output_device=gpu, 
