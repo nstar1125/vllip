@@ -2,3 +2,5 @@ compressed_images/
 pretrain/
 output/
 wandb/
+inference_input/
+inference_output/
