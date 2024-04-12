@@ -9,6 +9,13 @@ from torchvision import transforms
 from torch.utils.data import DataLoader
 import clip
 from models.core.VLLIP_MoCo import VLLIP_encoder
+from models.backbones.visual.resnet import encoder_resnet50
+
+import numpy as np
+from sklearn.cluster import KMeans
+from sklearn.metrics import adjusted_rand_score
+import os
+import shutil
 
 class Cluster_Dataset(torch.utils.data.Dataset):
     def __init__(self, img_path, shot_info_path, transform,
@@ -94,7 +101,21 @@ def get_encoder(cfg, model_name='vllip', weight_path=''):
             if k.startswith('module.encoder_q.base_encoder'):
                 k = k[17:]
             pretrained_dict[k] = v
-    
+        encoder.load_state_dict(pretrained_dict, strict = False)
+        print(f'loaded from {weight_path}')
+    elif model_name == 'scrl':
+        encoder = encoder_resnet50(weight_path='',input_channel=9)
+        model_weight = torch.load(weight_path,map_location=torch.device('cpu'))['state_dict']
+        pretrained_dict = {}
+        for k, v in model_weight.items():
+            # moco loading 
+            if k.startswith('module.encoder_k'):
+                continue
+            if k == 'module.queue' or k == 'module.queue_ptr':
+                continue
+            if k.startswith('module.encoder_q') and not k.startswith('module.encoder_q.fc'):
+                k = k[17:]
+            pretrained_dict[k] = v
         encoder.load_state_dict(pretrained_dict, strict = False)
         print(f'loaded from {weight_path}')
     else:
@@ -103,7 +124,7 @@ def get_encoder(cfg, model_name='vllip', weight_path=''):
 
 
 @torch.no_grad()
-def get_save_embeddings(cfg, model, loader, shot_num, filename):
+def get_embeddings(cfg, model, loader, shot_num):
     # dict
     # key: index, value: [(embeddings, label), ...]
     embeddings = {} 
@@ -127,15 +148,9 @@ def get_save_embeddings(cfg, model, loader, shot_num, filename):
             t_emb = output[i*shot_num:(i+1)*shot_num].cpu().numpy()
             t_label =  target[i].cpu().numpy()
             embeddings[key].append((t_emb.copy() ,t_label.copy()))
-    pickle.dump(embeddings, open(filename, 'wb'))
-
+    return embeddings
 
 def extract_features(cfg):
-    time_str = time.strftime("%Y-%m-%d_%H_%M_%S", time.localtime())
-    save_dir = os.path.join(cfg.save_dir, time_str)
-    if not os.path.exists(save_dir):
-            os.makedirs(save_dir)
-    cfg.log_file = save_dir + '/extraction.log'
     encoder = get_encoder(
         cfg,
         model_name=cfg.model_name,
@@ -143,15 +158,35 @@ def extract_features(cfg):
         ).cuda()
     
     loader = get_loader(cfg)
-    filename = os.path.join(save_dir, 'result.pkl')
-    get_save_embeddings(
+    embeddings = get_embeddings(
         cfg,
         encoder, 
         loader, 
-        cfg.shot_num, 
-        filename
+        cfg.shot_num
     )
-    to_log(cfg, f'Result embeddings are saved in {filename}!\n')
+    return embeddings
+
+def evaluate(cfg, e):
+    with open(cfg.shot_info_path, 'rb') as f:
+        video_info = json.load(f)
+    gt_labels = []
+    for info in video_info["test"]:
+        imdb = info['name']
+        for shot in info['label']:
+            gt_labels.append(int(shot[1]))
+    gt_labels = np.array(gt_labels)
+
+    embeddings = [np.squeeze(np.array(row[0])) for row in e[imdb]]
+    embeddings = np.array(embeddings)
+
+    optimal_k = 5
+    kmeans = KMeans(n_clusters=optimal_k, random_state=0)
+    kmeans.fit(embeddings)
+    cluster_labels = kmeans.labels_
+
+    ari = adjusted_rand_score(gt_labels, cluster_labels)
+    print(f"Adjusted Rand Index (ARI): {ari:.4}")
+
 
 def to_log(cfg, content, echo=True):
     with open(cfg.log_file, 'a') as f:
@@ -179,7 +214,12 @@ def get_config():
 
     return cfg
 
+def main():
+    cfg = get_config() # arguments
+    embeddings = extract_features(cfg)
+    evaluate(cfg, embeddings)
+    
 
 if __name__ == '__main__':
-    cfg = get_config() # arguments
-    extract_features(cfg)
+    main()
+    

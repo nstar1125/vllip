@@ -4,3 +4,4 @@ output/
 wandb/
 inference_input/
 inference_output/
+query_encoders/
