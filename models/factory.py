@@ -20,12 +20,17 @@ def get_model(cfg):
             m                           = cfg['MoCo']['m'], 
             T                           = cfg['MoCo']['t'], 
             mlp                         = cfg['MoCo']['mlp'], 
-            encoder_pretrained_path     = cfg['model']['backbone_pretrain'],
+            encoder_pretrained_path     = cfg['model']['SCRL']['backbone_pretrain'],
             multi_positive              = cfg['MoCo']['multi_positive'],
-            positive_selection          = cfg['model']['Positive_Selection'],
-            cluster_num                 = cfg['model']['cluster_num'],
-            soft_gamma                  = cfg['model']['soft_gamma'],
+            positive_selection          = cfg['model']['SCRL']['Positive_Selection'],
+            cluster_num                 = cfg['model']['SCRL']['cluster_num'],
+            soft_gamma                  = cfg['model']['SCRL']['soft_gamma'],
         ) #SCRL 모델 불러오기
+        to_log(cfg, 'model init: SCRL', True)
+        if cfg['model']['SCRL']['SyncBatchNorm']:
+            model = torch.nn.SyncBatchNorm.convert_sync_batchnorm(model)
+        to_log(cfg, 'SyncBatchNorm: on' if cfg['model']['SCRL']['SyncBatchNorm'] else 'SyncBatchNorm: off', True)
+
     elif cfg['model']['SSL'] == 'VLLIP':
         model = VLLIP(
                 dim                         = cfg['MoCo']['dim'], 
@@ -33,19 +38,20 @@ def get_model(cfg):
                 m                           = cfg['MoCo']['m'], 
                 T                           = cfg['MoCo']['t'], 
                 multi_positive              = cfg['MoCo']['multi_positive'],
-                positive_selection          = cfg['model']['Positive_Selection'],
-                cluster_num                 = cfg['model']['cluster_num'],
-                soft_gamma                  = cfg['model']['soft_gamma'],
+                positive_selection          = cfg['model']['VLLIP']['Positive_Selection'],
+                cluster_num                 = cfg['model']['VLLIP']['cluster_num'],
+                soft_gamma                  = cfg['model']['VLLIP']['soft_gamma'],
         ) # VLLIP 모델 불러오기
         for name, param in model.named_parameters():
             if 'encoder_q' in name:
                 param.requires_grad = True
+        
+        to_log(cfg, 'model init: VLLIP', True)
+        if cfg['model']['VLLIP']['SyncBatchNorm']:
+            model = torch.nn.SyncBatchNorm.convert_sync_batchnorm(model)
+        to_log(cfg, 'SyncBatchNorm: on' if cfg['model']['VLLIP']['SyncBatchNorm'] else 'SyncBatchNorm: off', True)
     else:
         raise NotImplementedError
-    to_log(cfg, 'model init: ' + cfg['model']['SSL'], True)
-    if cfg['model']['SyncBatchNorm']: #false
-        model = torch.nn.SyncBatchNorm.convert_sync_batchnorm(model)
-    to_log(cfg, 'SyncBatchNorm: on' if cfg['model']['SyncBatchNorm'] else 'SyncBatchNorm: off', True)
     return model
 
 def get_loader(cfg):
@@ -56,7 +62,7 @@ def get_loader(cfg):
 def get_criterion(cfg):
     criterion = None
     if cfg['model']['SSL'] == 'VLLIP':
-        criterion = torch.nn.CrossEntropyLoss() #criterion = torch.nn.CosineSimilarity(dim=1)
+        criterion = torch.nn.CrossEntropyLoss()
     elif cfg['model']['SSL'] == 'SCRL':
         criterion = torch.nn.CrossEntropyLoss()
     else:
@@ -74,7 +80,7 @@ def get_optimizer(cfg, model):
         else:
             raise NotImplementedError
         
-        optimizer = torch.optim.SGD(optim_params, cfg['optim']['lr'],
+        optimizer = torch.optim.SGD(optim_params, cfg['optim']['init_lr'],
                                     momentum=cfg['optim']['momentum'],
                                     weight_decay=cfg['optim']['wd'])
     else:
@@ -117,7 +123,10 @@ def get_training_stuff(cfg, gpu, ngpus_per_node):
     criterion = get_criterion(cfg).cuda(gpu)
     optimizer = get_optimizer(cfg, model) #SGD
     cfg['optim']['start_epoch'] = 0
-    resume = cfg['model']['resume'] #resume path file
+    if cfg['model']['SSL'] == 'SCRL':
+        resume = cfg['model']['SCRL']['resume'] 
+    elif cfg['model']['SSL'] == 'VLLIP':
+        resume = cfg['model']['SCRL']['resume'] 
     if resume is not None and len(resume) > 1: #불러오기
         if os.path.isfile(resume):
             to_log(cfg, "=> loading checkpoint '{}'".format(resume), True)

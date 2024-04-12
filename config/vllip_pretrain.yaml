@@ -1,14 +1,24 @@
 model:
-  SSL: VLLIP 
-  Positive_Selection: cluster
-  cluster: True
-  cluster_num: 24
-  soft_gamma: 0.5
-  backbone: resnet50
-  backbone_pretrain: ./pretrain/resnet50-19c8e357.pth
-  fix_pred_lr: null
-  SyncBatchNorm: False
-  resume: 
+  SSL: VLLIP
+  SCRL:
+    Positive_Selection: cluster
+    cluster: True
+    cluster_num: 24
+    soft_gamma: 0.5
+    backbone: resnet50
+    backbone_pretrain: ./pretrain/resnet50-19c8e357.pth
+    fix_pred_lr: null
+    SyncBatchNorm: False
+    resume: 
+  VLLIP:
+    Positive_Selection: cluster
+    cluster: True
+    cluster_num: 24
+    soft_gamma: 0.5
+    backbone: CLIP_ViT-B/32
+    fix_pred_lr: null
+    SyncBatchNorm: False
+    resume: 
   
 
 MoCo:
@@ -40,12 +50,8 @@ optim:
   bs: 256
   momentum: 0.9
   optimizer: sgd
-  lr: 0.001
-  lr_cos: True
-  schedule: # works when lr_cos is False
-    - 50
-    - 100
-    - 150
+  init_lr: 0.001
+  min_lr: 0.000001
   wd: 0.0001
   gradient_norm: -1 # off when <= 0
 

@@ -221,6 +221,9 @@ class VLLIP_encoder(nn.Module):
         self.base_encoder = base_encoder
         self.final_layer = nn.Conv1d(batch_size*3, batch_size, kernel_size=1, stride=1, padding=0).cuda()
         self.mlp = nn.Sequential(nn.Linear(512, 512), nn.ReLU())
+        # ViT-B/32
+        self.last_layer = 11
+        self.num_heads = 12
          
     def forward(self, images):
         images = images.reshape(images.size()[0]*3, 3, 224, 224)

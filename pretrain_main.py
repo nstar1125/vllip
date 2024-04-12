@@ -19,6 +19,7 @@ from utils import to_log, set_log
 from pretrain_trainer import train_model
 
 import warnings
+from torch.optim.lr_scheduler import CosineAnnealingWarmRestarts
 
 def start_training(cfg):
     # only multiprocessing_distributed is supported
@@ -67,29 +68,33 @@ def task_worker(gpu, ngpus_per_node, cfg):
         = factory.get_training_stuff(cfg, gpu, ngpus_per_node) #vllip, movienet_loader. movienet_sampler, cos-sim, sgd
     
     # training function
-    if cfg['model']['SSL'] == 'VLLIP' or cfg['model']['SSL'] == 'SCRL':
-        train_func = train_model
-    else:
-        raise NotImplementedError
+    train_func = train_model
     
+    scheduler = CosineAnnealingWarmRestarts(optimizer, T_0=10, T_mult=1, eta_min=cfg['optim']['min_lr'])
     start_epoch = cfg['optim']['start_epoch']
     end_epoch = cfg['optim']['epochs']
 
     assert train_func is not None
     for epoch in range(start_epoch, end_epoch): #전체 반복
         train_sampler.set_epoch(epoch)
-        adjust_learning_rate(optimizer, cfg['optim']['lr'], epoch, cfg) #Learning Rate Scheduler
+        #adjust_learning_rate(optimizer, cfg['optim']['lr'], epoch, cfg) #Learning Rate Scheduler
         to_log(cfg,f"Epoch: [{epoch}/{end_epoch}]",True)
         train_func(gpu, train_loader, model, criterion, optimizer, epoch, cfg) #1 epoch
+        scheduler.step()
         if cfg['DDP']['rank'] == 0 and (epoch + 1) % 4 == 0: #체크포인트 저장
+            if cfg['model']['SSL']=='SCRL':
+                backbone_name = 'SCRL'
+            elif cfg['model']['SSL']=='VLLIP':
+                backbone_name = 'VLLIP'
+            else:
+                NotImplementedError
             save_checkpoint(cfg,{
                 'epoch': epoch + 1,
-                'arch': cfg['model']['backbone'],
+                'arch': backbone_name,
                 'state_dict': model.state_dict(),
                 'optimizer' : optimizer.state_dict(),
             }, is_best=False, filename='checkpoint_{:04d}.pth.tar'.format(epoch))
             to_log(cfg,f"=> saving checkpoint at {epoch} epoch",True)
-
 
 def adjust_learning_rate(optimizer, init_lr, epoch, cfg): #Learning Rate Scheduler
     """Decay the learning rate based on schedule"""
@@ -104,7 +109,6 @@ def adjust_learning_rate(optimizer, init_lr, epoch, cfg): #Learning Rate Schedul
             param_group['lr'] = init_lr
         else:
             param_group['lr'] = cur_lr
-
 
 
 def save_checkpoint(cfg, state, is_best, filename='checkpoint.pth.tar'):
