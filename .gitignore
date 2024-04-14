@@ -4,4 +4,7 @@ output/
 wandb/
 inference_input/
 inference_output/
-query_encoders
+query_encoders/
+output_scenes/
+preprocess/raw_videos
+preprocess/processed_videos
