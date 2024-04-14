@@ -218,17 +218,15 @@ class VLLIP_encoder(nn.Module):
                  batch_size = 64
                  ):
         super(VLLIP_encoder, self).__init__()
+        base_encoder.conv1 = nn.Conv2d(in_channels=9, out_channels=768, kernel_size=32, stride=32, bias=False)
         self.base_encoder = base_encoder
-        self.final_layer = nn.Conv1d(batch_size*3, batch_size, kernel_size=1, stride=1, padding=0).cuda()
+        #self.final_layer = nn.Conv1d(batch_size*3, batch_size, kernel_size=1, stride=1, padding=0).cuda()
         self.mlp = nn.Sequential(nn.Linear(512, 512), nn.ReLU())
-        # ViT-B/32
-        self.last_layer = 11
-        self.num_heads = 12
-         
+        
     def forward(self, images):
-        images = images.reshape(images.size()[0]*3, 3, 224, 224)
+        #images = images.reshape(images.size()[0]*3, 3, 224, 224)
         x = self.base_encoder(images)
         x = x[:, 0, :]
-        x = self.final_layer(x)
+        #x = self.final_layer(x)
         x = self.mlp(x)
         return x

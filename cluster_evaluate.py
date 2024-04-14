@@ -1,6 +1,7 @@
 import pickle
 import os
 import torch
+import torch.nn as nn
 import argparse
 import time
 import json
@@ -60,6 +61,30 @@ class Cluster_Dataset(torch.utils.data.Dataset):
     def __getitem__(self, idx):
         return self._process(idx)
 
+class VLLIP_test_encoder(nn.Module):
+    def __init__(self, encoder, 
+                 model_name='vllip'):
+        super(VLLIP_test_encoder, self).__init__()
+        self.type = model_name
+        if self.type == 'vllip':
+            self.base_encoder = encoder.base_encoder
+            self.mlp = encoder.mlp
+        elif self.type == 'scrl':
+            self.base_encoder = encoder
+        else:
+            NotImplementedError
+    def forward(self, images):
+        if self.type == 'vllip':
+            #images = images.reshape(images.size()[0]*3, 3, 224, 224)
+            x = self.base_encoder(images)
+            x = x[:, 0, :]
+            x = self.mlp(x)
+        elif self.type == 'scrl':
+            x = self.base_encoder(images)
+        else:
+            NotImplementedError
+        return x
+
 def get_loader(cfg):
     normalize = transforms.Normalize(
         mean=[0.485, 0.456, 0.406], 
@@ -87,6 +112,7 @@ def get_loader(cfg):
 
 def get_encoder(cfg, model_name='vllip', weight_path=''):
     encoder = None
+    test_encoder = None
     model_name = model_name.lower()
     if model_name == 'vllip':
         clip_model, _ = clip.load('ViT-B/32', device=f'cuda:{torch.cuda.current_device()}' ,jit=False)
@@ -102,6 +128,7 @@ def get_encoder(cfg, model_name='vllip', weight_path=''):
                 k = k[17:]
             pretrained_dict[k] = v
         encoder.load_state_dict(pretrained_dict, strict = False)
+        test_encoder = VLLIP_test_encoder(encoder, 'vllip')
         print(f'loaded from {weight_path}')
     elif model_name == 'scrl':
         encoder = encoder_resnet50(weight_path='',input_channel=9)
@@ -118,9 +145,11 @@ def get_encoder(cfg, model_name='vllip', weight_path=''):
             pretrained_dict[k] = v
         encoder.load_state_dict(pretrained_dict, strict = False)
         print(f'loaded from {weight_path}')
+        test_encoder = VLLIP_test_encoder(encoder, 'scrl')
     else:
         NotImplementedError
-    return encoder
+    assert test_encoder is not None
+    return test_encoder
 
 
 @torch.no_grad()
@@ -218,7 +247,6 @@ def main():
     cfg = get_config() # arguments
     embeddings = extract_features(cfg)
     evaluate(cfg, embeddings)
-    
 
 if __name__ == '__main__':
     main()
