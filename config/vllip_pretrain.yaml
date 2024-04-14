@@ -19,7 +19,6 @@ model:
     fix_pred_lr: null
     SyncBatchNorm: False
     resume: 
-  
 
 MoCo:
   dim: 512

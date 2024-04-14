@@ -10,6 +10,7 @@ from torchvision import transforms
 from torch.utils.data import DataLoader
 import clip
 from models.core.VLLIP_MoCo import VLLIP_encoder
+from models.core.VLLIP_inference import VLLIP_test_encoder, VLLIP_SAM_test_encoder
 from models.backbones.visual.resnet import encoder_resnet50
 
 import numpy as np
@@ -61,30 +62,6 @@ class Cluster_Dataset(torch.utils.data.Dataset):
     def __getitem__(self, idx):
         return self._process(idx)
 
-class VLLIP_test_encoder(nn.Module):
-    def __init__(self, encoder, 
-                 model_name='vllip'):
-        super(VLLIP_test_encoder, self).__init__()
-        self.type = model_name
-        if self.type == 'vllip':
-            self.base_encoder = encoder.base_encoder
-            self.mlp = encoder.mlp
-        elif self.type == 'scrl':
-            self.base_encoder = encoder
-        else:
-            NotImplementedError
-    def forward(self, images):
-        if self.type == 'vllip':
-            #images = images.reshape(images.size()[0]*3, 3, 224, 224)
-            x = self.base_encoder(images)
-            x = x[:, 0, :]
-            x = self.mlp(x)
-        elif self.type == 'scrl':
-            x = self.base_encoder(images)
-        else:
-            NotImplementedError
-        return x
-
 def get_loader(cfg):
     normalize = transforms.Normalize(
         mean=[0.485, 0.456, 0.406], 
@@ -128,7 +105,14 @@ def get_encoder(cfg, model_name='vllip', weight_path=''):
                 k = k[17:]
             pretrained_dict[k] = v
         encoder.load_state_dict(pretrained_dict, strict = False)
-        test_encoder = VLLIP_test_encoder(encoder, 'vllip')
+        test_encoder = VLLIP_test_encoder(encoder)
+        """
+        test_encoder = VLLIP_SAM_test_encoder(encoder,
+                                          dino_config_path = cfg.dino_config,
+                                          dino_pretrain_path = cfg.dino_pretrain,
+                                          sam_pretrain_path = cfg.sam_pretrain
+                                          )
+        """
         print(f'loaded from {weight_path}')
     elif model_name == 'scrl':
         encoder = encoder_resnet50(weight_path='',input_channel=9)
@@ -145,7 +129,7 @@ def get_encoder(cfg, model_name='vllip', weight_path=''):
             pretrained_dict[k] = v
         encoder.load_state_dict(pretrained_dict, strict = False)
         print(f'loaded from {weight_path}')
-        test_encoder = VLLIP_test_encoder(encoder, 'scrl')
+        test_encoder = encoder
     else:
         NotImplementedError
     assert test_encoder is not None
@@ -193,6 +177,16 @@ def extract_features(cfg):
         loader, 
         cfg.shot_num
     )
+    
+    if cfg.save:
+        time_str = time.strftime("%Y-%m-%d_%H_%M_%S", time.localtime())
+        save_dir = os.path.join(cfg.save_dir, time_str)
+        if not os.path.exists(save_dir):
+            os.makedirs(save_dir)
+        cfg.log_file = save_dir + '/extraction.log'
+        filename = os.path.join(save_dir, 'embeddings.pkl')
+        pickle.dump(embeddings, open(filename, 'wb'))
+        to_log(cfg, f'Embeddings are saved in {filename}!\n')
     return embeddings
 
 def evaluate(cfg, e):
@@ -233,8 +227,12 @@ def get_config():
     parser.add_argument('--shot_num', type=int, default=1)
     parser.add_argument('--worker_num', type=int, default=16)
     parser.add_argument('--bs', type=int, default=64)
+    parser.add_argument('--save', type=bool, default=True)
     parser.add_argument('--save_dir', type=str, default='./inference_output/')
     parser.add_argument('--gpu-id', type=str, default='0')
+    parser.add_argument('--dino_config', type=str, default='./GroundingDINO/groundingdino/config/GroundingDINO_SwinT_OGC.py')
+    parser.add_argument('--dino_pretrain', type=str, default='./pretrain/groundingdino_swint_ogc.pth')
+    parser.add_argument('--sam_pretrain', type=str, default='./pretrain/mobile_sam.pt')
     cfg = parser.parse_args()
 
     # select GPU
